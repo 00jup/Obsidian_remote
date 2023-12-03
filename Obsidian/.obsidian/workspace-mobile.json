@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "4037de3b1951d70d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b6424f9f7ba1756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f18b124bd765ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c98d5d87b83cc1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f140403efee5f72",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7bbf9ae46d86b1d0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "da33934bd5cadc45",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c674088a882e6e35",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "38081ee4f04f691f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "18ec043d8448560d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4471ad07e81806f5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5e9686992e9c353c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0ab78d9515444665",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "24f18b124bd765ed",
+  "lastOpenFiles": [
+    "Python/??.md",
+    "Python compose function.md",
+    "Python/function().md",
+    "nonlocal은 외부에도 영향을 줄 수 있는가?.md",
+    "Python/Python 리스트 찾기.md",
+    "Python/Python is_alive.md",
+    "Python **dic.md",
+    "Python/Python dictionary.md",
+    "Python/What is the pythonic code?.md",
+    "Python/Python 수정본.md",
+    "불가능한 예시들.md",
+    "Python/Python list.md",
+    "Python lamda.md",
+    "Python/Python 시험 대비.md",
+    "Python scope.md",
+    "Python function.md",
+    "Asset/Screenshot 2023-10-17 at 12.46.15.png",
+    "유효범위 문제.md",
+    "Python/Python version 변경하기.md",
+    "Python/Python tuple.md",
+    "Python/Python 과제를 하다가 알게 된 사실 map, for 내부의 i.md",
+    "Python/Python indexing.md",
+    "Python/Python DB.md",
+    "C/void main().md",
+    "C/LITTLE ENDIAN.md",
+    "C/C DB.md",
+    "C/INT_MAX.md",
+    "Asset/Screenshot 2023-09-15 at 15.51.42.png",
+    "Asset/Pasted image 20230921155558.png",
+    "Asset/Screenshot 2023-09-15 at 15.51.05.png",
+    "Asset/Screenshot 2023-10-08 at 16.21.04 1.png",
+    "Asset/Screenshot 2023-10-08 at 16.21.04.png",
+    "Asset/붙임1_푸른등대 KB Dream Wave 2030  인재양성분야 기부장학금 사업계획서.pdf",
+    "Asset/Screenshot 2023-10-07 at 16.51.08.png",
+    "Asset/Screenshot 2023-09-15 at 15.51.45.png",
+    "Asset/Screenshot 2023-09-15 at 15.50.55.png",
+    "아이디어",
+    "프로그래밍/Untitled.canvas",
+    "프로그래밍/Untitled 2.canvas",
+    "프로그래밍/Untitled 1.canvas",
+    "프로그래밍"
+  ]
+}

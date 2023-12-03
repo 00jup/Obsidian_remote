@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "516bc1aa1ad9c4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "567e9de0d77bbf7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bdfa9f5fd668d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python 리스트 찾기 slicing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff800c3f817c1a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857395676a360961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python version 변경하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a304d234b89da9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d0f3772bc446a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ebec1001effe24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e17c784ee562337b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "python version",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa7e3195b9d25083",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d11940f69e065376",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d5de0c97e80575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18970ad39ceff9be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Python version 변경하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e930761e7f98677",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Python version 변경하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1531ea35f932640",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec2700a5cf297bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Python version 변경하기.md"
+              }
+            }
+          },
+          {
+            "id": "07cc11b93e067fa1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "211b1a730d956a5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "9342e8a4052782c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Python/Python version 변경하기.md"
+              }
+            }
+          },
+          {
+            "id": "1e6d564f1f8b3361",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "857395676a360961",
+  "lastOpenFiles": [
+    "Python/Python DB.md",
+    "Python traversal.md",
+    "Python pandas.md",
+    "Python iloc vs loc.md",
+    "df.shape.md",
+    "Python/Python 리스트 찾기 slicing.md",
+    "Python/Python가 어떻게 출력이 되는가..md",
+    "Python/Python 시험 대비 1.md",
+    "Python/Python 과제를 하다가 알게 된 사실 map, for 내부의 i.md",
+    "Python/print(solve(a, b, c))여기서 a,b,c를 입력받음과 동시에 출력하는 방법.md",
+    "Python 2 second wait.md",
+    "Python에서 놀라운 사실.md",
+    "Python Set.md",
+    "App Tester.md",
+    "Python 실수 모음.md",
+    "Python에서 power.md",
+    "Python/비트연산.md",
+    "Python/Python lambda.md",
+    "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
+    "Python/Python **dic.md",
+    "Flutter/Flutter ? 정리.md",
+    "Python/Python print 변수가 너무 많을 때 출력하는 방법.md",
+    "Python/Python 값을 던지기.md",
+    "Python/Python 소름돋는 slicing.md",
+    "Python/Python list.md",
+    "try except랑 if elif elif else의 차이.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Asset/Pasted Image 20231103114652_741.jpg",
+    "Asset/Pasted image 20231019162019.png",
+    "Untitled",
+    "Asset/Screenshot 2023-10-17 at 12.46.15.png",
+    "Asset/Screenshot 2023-10-15 at 14.46.05.png",
+    "Asset/Pasted Image 20231013113557_414.png",
+    "Asset/Pasted Image 20231013113513_033.png",
+    "Asset/Screenshot 2023-10-08 at 16.21.04 1.png",
+    "C/Screenshot 2023-10-08 at 16.21.04.png",
+    "Asset/Screenshot 2023-10-07 at 16.51.08.png",
+    "공업수학",
+    "Excalidraw",
+    "Asset/Pasted image 20230921155558.png",
+    "C",
+    "itemCount",
+    "Python",
+    "Asset/붙임1_푸른등대 KB Dream Wave 2030  인재양성분야 기부장학금 사업계획서.pdf",
+    "프로그래밍/Untitled 1.canvas",
+    "프로그래밍/Untitled.canvas",
+    "4. Yearly",
+    "3. Monthly",
+    "2. Weekly",
+    "프로그래밍/Untitled 2.canvas"
+  ]
+}
