@@ -1,4 +1,4 @@
-python version check
+%% python %% version check
 ```python
 ###1
 python -V
@@ -18,5 +18,6 @@ python : select interpreter
 ![[Screenshot 2023-09-15 at 15.51.45.png]]
 settings.json 파일에 들어가서 변경
 ![[Screenshot 2023-09-15 at 15.51.42.png]]
+
 
 

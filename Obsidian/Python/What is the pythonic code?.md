@@ -1,5 +1,6 @@
 [[Python 수정본]]
 [[print(solve(a, b, c))여기서 a,b,c를 입력받음과 동시에 출력하는 방법]]
+[[numpy에서의 pythonic]]
 
 # match를 적극 사용하기
 ```python

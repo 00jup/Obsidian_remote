@@ -21,10 +21,15 @@ df.shape[1]   #number of columns
 Out[29]: 2
 ```
 
+[[DataFrame index, columns 정리]]
+[[DataFrame 만드는 법]]
+[[DataFrame type 변경하기]]
+
 
 [[Python iloc vs loc]]
 
 [[Python traversal]]
 
-
 [[df.shape]]
+
+[[Python matplotlib.pyplot]]

@@ -5,5 +5,9 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "remember-cursor-position",
+  "execute-code",
+  "obsidian-projects",
+  "obsidian-icon-folder"
 ]
