@@ -28,3 +28,4 @@ print(person)
 
 
 [[Python repr, str 표현자]]
+[[Python에서 imagine number operation]]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python class.md",
+                "file": "Python에서 imagine number operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python class.md",
+                "file": "Python에서 imagine number operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python class.md",
+                "file": "Python에서 imagine number operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python class.md"
+                "file": "Python에서 imagine number operation.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python class.md"
+                "file": "Python에서 imagine number operation.md"
               }
             }
           },
@@ -221,8 +221,9 @@
   },
   "active": "f967facd233a121c",
   "lastOpenFiles": [
-    "Python repr, str 표현자.md",
     "Python/Python class.md",
+    "Python에서 imagine number operation.md",
+    "Python repr, str 표현자.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "defaultdict 응용.md",
     "Python/Python dictionary.md",
@@ -246,7 +247,6 @@
     "Python/if student_id not in lib  vs if not student_id in lib.md",
     "Python/Python 시험 대비.md",
     "Python/Python is_alive.md",
-    "C/C switch.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
