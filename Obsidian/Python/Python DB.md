@@ -10,7 +10,7 @@
 [[Python 시험 대비]]
 
 [[Python match]]
-[[Python repr, str]]
+[[Python class]]
 
 [[Python 값을 던지기]]
 

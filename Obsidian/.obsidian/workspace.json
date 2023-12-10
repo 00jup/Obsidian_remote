@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python class.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diction",
+                "query": "class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "Python/Python class.md"
               }
             }
           },
@@ -180,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "Python/Python class.md"
               }
             }
           },
@@ -223,6 +221,8 @@
   },
   "active": "f967facd233a121c",
   "lastOpenFiles": [
+    "Python repr, str 표현자.md",
+    "Python/Python class.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "defaultdict 응용.md",
     "Python/Python dictionary.md",
@@ -247,8 +247,6 @@
     "Python/Python 시험 대비.md",
     "Python/Python is_alive.md",
     "C/C switch.md",
-    "C/Pointer 주소를 저장하는 2가지 방법.md",
-    "C/Pointer 할당 및 해제.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
