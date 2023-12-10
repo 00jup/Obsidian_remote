@@ -1,3 +1,32 @@
+# defaultdict
+```python
+# Default factory function is list
+dd_list = defaultdict(list)
+dd_list['key1'].append(1)
+print(dd_list)
+
+# Default factory function is int
+dd_int = defaultdict(int)
+dd_int['key1'] += 1
+print(dd_int)
+
+# Default factory function is set
+dd_set = defaultdict(set)
+dd_set['key1'].add(1)
+print(dd_set)
+
+# Default factory function is dict
+dd_dict = defaultdict(dict)
+dd_dict['key1']['inner_key1'] = 1
+print(dd_dict)
+
+# Default factory function is str
+dd_str = defaultdict(str)
+dd_str['key1'] += 'a'
+print(dd_str)
+
+```
+[[defaultdict 응용]]
 
 # get함수 이용
 

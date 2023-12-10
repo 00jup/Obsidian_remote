@@ -16,8 +16,8 @@ df = pd.DataFrame(
 new = df.groupby(["A", "B"]).sum()
 # 모두 다 DataFrame의 형태임
 
-# print(new["A"])
-# print(new["B"])
+print(new["A"])
+print(new["B"])
 ## 출력이 안 되는 이유는 multi index가 되기 때문이다. ##
 
 ## 이건 columns에 속하기 때문에 출력이 가능함 ##
@@ -28,6 +28,10 @@ print(new["D"])
 print(new.loc["bar"])
 print(new.loc[("bar", "one")])
 print(new.iloc[0])
+
+## 아래의 경우가 같다. ##
+print(df[[df.columns[0]]])
+print(df[['A']])
 
 ```
 

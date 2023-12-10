@@ -40,3 +40,5 @@ int main(void){
 [[Pointer로 값을 받으려면 동적할당 해야 함]]
 
 [[Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.]]
+
+[[배열을 pointer의 주소를 이용해서 표현하는 방법]]

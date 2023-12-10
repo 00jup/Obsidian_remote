@@ -24,6 +24,17 @@ dict_example = {'a': 1, 'b': 2, 'c': 3}
 print(dict_example.items())  # 결과: dict_items([('a', 1), ('b', 2), ('c', 3)])
 ```
 
+### 구조
+```python
+book_list = {1: {"맨먼스 미신": 0}, 2: {"A": 2}}
+book_list2 = {1: {"맨먼스 미신": 0, "A": 2}}
+
+print(book_list[1]["맨먼스 미신"])
+print()
+print(book_list2[1]["A"])
+```
+개인적으로 python에서 dictionary가 정말 좋다.
+
 ### 특징:
 
 1. `items()` 메소드의 반환값은 `dict_items` 객체이다. 이 객체는 반복(iterable) 가능하므로 `for` 루프에서 사용할 수 있다.

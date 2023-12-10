@@ -33,3 +33,11 @@ Out[29]: 2
 [[df.shape]]
 
 [[Python matplotlib.pyplot]]
+
+[[np.sort 정리 차원에 따른 sort임]]
+
+[[새로운 데이터로 만드는 방법]]
+[[np.floor]]
+
+
+[[groupby 잘 사용하기!]]

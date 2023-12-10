@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b40ba44daccd4d3a",
+        "id": "b9fd2a4d0f4b0a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b179265ff19bdcd",
+            "id": "2c967723a176041b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataFrame 만드는 법.md",
+                "file": "Python/Python match.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd9e56c0a970b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python iloc vs loc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f967facd233a121c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pandas",
+                "query": "diction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataFrame 만드는 법.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataFrame 만드는 법.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataFrame 만드는 법.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -155,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DataFrame 만드는 법.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -166,14 +191,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "950c56947d5c5b69",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,39 +221,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b179265ff19bdcd",
+  "active": "f967facd233a121c",
   "lastOpenFiles": [
-    "Python pandas.md",
-    "DataFrame index, columns 정리.md",
-    "DataFrame type 변경하기.md",
-    "DataFrame 만드는 법.md",
-    "Python traversal.md",
-    "Python iloc vs loc.md",
+    "Python/Python dictionary 데이터 추가하기.md",
+    "defaultdict 응용.md",
+    "Python/Python dictionary.md",
     "Python/Python DB.md",
-    "Python matplotlib.pyplot.md",
-    "Python/is_prime.md",
-    "Python/function().md",
-    "Python/print(solve(a, b, c))여기서 a,b,c를 입력받음과 동시에 출력하는 방법.md",
-    "Python/What is the pythonic code?.md",
-    "numpy에서의 pythonic.md",
-    "공업수학/푸리에 급수 직교집합과 정규집합.md",
-    "Python/Python version 변경하기.md",
-    "Python/Python 리스트 찾기 slicing.md",
-    "df.shape.md",
-    "Python/Python가 어떻게 출력이 되는가..md",
-    "Python/Python 시험 대비 1.md",
-    "Python/Python 과제를 하다가 알게 된 사실 map, for 내부의 i.md",
-    "Python 2 second wait.md",
-    "Python에서 놀라운 사실.md",
-    "Python Set.md",
-    "App Tester.md",
-    "Python 실수 모음.md",
-    "Python에서 power.md",
+    "Python/Python **dic.md",
+    "numpy에서 copy를 사용하는 이유.md",
+    "Python/Python iloc vs loc.md",
+    "Python/np.sort 정리 차원에 따른 sort임.md",
+    "Python/np.floor.md",
+    "DataFrame 만드는 법.md",
+    "Python/Python match.md",
+    "Python/Python pandas.md",
+    "DataFrame index, columns 정리.md",
+    "Python 입출력.md",
+    "Python/Python function.md",
+    "Python/Python file I&O.md",
+    "Python/Python 시험에서 틀린 것.md",
+    "Python/Python dictionary와 list의 공통점.md",
+    "Python/Python dictionary 실수.md",
+    "Python/Python dictionary indexing in if.md",
+    "Python/if student_id not in lib  vs if not student_id in lib.md",
+    "Python/Python 시험 대비.md",
+    "Python/Python is_alive.md",
+    "C/C switch.md",
+    "C/Pointer 주소를 저장하는 2가지 방법.md",
+    "C/Pointer 할당 및 해제.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
+    "공업수학/Untitled",
+    "Asset/unnamed.png",
     "Asset/Pasted Image 20231103114652_741.jpg",
     "Asset/Pasted image 20231019162019.png",
-    "Untitled",
     "Asset/Screenshot 2023-10-17 at 12.46.15.png",
     "Asset/Screenshot 2023-10-15 at 14.46.05.png",
     "Asset/Pasted Image 20231013113557_414.png",
@@ -231,7 +264,6 @@
     "Asset/Screenshot 2023-10-07 at 16.51.08.png",
     "공업수학",
     "Excalidraw",
-    "Asset/Pasted image 20230921155558.png",
     "C",
     "itemCount",
     "Python",

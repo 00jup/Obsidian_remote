@@ -12,3 +12,5 @@ print(df.iloc[:,1])
 iloc의 i는 index를 의미한다.
 
 따라서 위에서 loc과 다르게 1로 index를 표시해줘야 출력할 수 있다.
+
+[[numpy에서 copy를 사용하는 이유]]
