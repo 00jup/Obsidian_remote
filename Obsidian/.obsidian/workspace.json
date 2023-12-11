@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python에서 imagine number operation.md",
+                "file": "Python/np.floor.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class",
+                "query": "dropna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python에서 imagine number operation.md",
+                "file": "Python/np.floor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python에서 imagine number operation.md",
+                "file": "Python/np.floor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python에서 imagine number operation.md"
+                "file": "Python/np.floor.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python에서 imagine number operation.md"
+                "file": "Python/np.floor.md"
               }
             }
           },
@@ -221,8 +222,9 @@
   },
   "active": "f967facd233a121c",
   "lastOpenFiles": [
-    "Python/Python class.md",
+    "DataFrame 만드는 법.md",
     "Python에서 imagine number operation.md",
+    "Python/Python class.md",
     "Python repr, str 표현자.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "defaultdict 응용.md",
@@ -233,7 +235,6 @@
     "Python/Python iloc vs loc.md",
     "Python/np.sort 정리 차원에 따른 sort임.md",
     "Python/np.floor.md",
-    "DataFrame 만드는 법.md",
     "Python/Python match.md",
     "Python/Python pandas.md",
     "DataFrame index, columns 정리.md",
