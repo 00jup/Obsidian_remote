@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
-                "mode": "preview",
+                "file": "calloc use.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
+                "file": "calloc use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
+                "file": "calloc use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
+                "file": "calloc use.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
+                "file": "calloc use.md"
               }
             }
           },
@@ -236,6 +235,7 @@
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
     "C/Pointer 할당 및 해제.md",
+    "calloc use.md",
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
@@ -260,7 +260,6 @@
     "Python/Python match.md",
     "Python/Python pandas.md",
     "DataFrame index, columns 정리.md",
-    "Python 입출력.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
