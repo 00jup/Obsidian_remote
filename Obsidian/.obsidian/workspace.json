@@ -35,10 +35,18 @@
             "id": "f967facd233a121c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "44ca5dea704c06f7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/np.floor.md",
-                "mode": "source",
+                "file": "C/2의 보수법.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,12 +98,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/np.floor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/np.floor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/np.floor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Python/np.floor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +225,8 @@
   },
   "active": "f967facd233a121c",
   "lastOpenFiles": [
+    "C/2의 보수법.md",
+    "Python/np.floor.md",
     "DataFrame 만드는 법.md",
     "Python에서 imagine number operation.md",
     "Python/Python class.md",
@@ -234,7 +239,6 @@
     "numpy에서 copy를 사용하는 이유.md",
     "Python/Python iloc vs loc.md",
     "Python/np.sort 정리 차원에 따른 sort임.md",
-    "Python/np.floor.md",
     "Python/Python match.md",
     "Python/Python pandas.md",
     "DataFrame index, columns 정리.md",
@@ -247,7 +251,6 @@
     "Python/Python dictionary indexing in if.md",
     "Python/if student_id not in lib  vs if not student_id in lib.md",
     "Python/Python 시험 대비.md",
-    "Python/Python is_alive.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
