@@ -44,3 +44,5 @@ int main(void){
 
 
 [[calloc use]]
+
+[[Pointer에서 주소를 전달한다는 것의 의미 이제 이해함]]
