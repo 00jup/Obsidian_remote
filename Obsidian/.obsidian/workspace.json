@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/LITTLE ENDIAN.md",
+                "file": "C/Pointer 주소를 저장하는 2가지 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/LITTLE ENDIAN.md",
+                "file": "C/Pointer 주소를 저장하는 2가지 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/LITTLE ENDIAN.md",
+                "file": "C/Pointer 주소를 저장하는 2가지 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/LITTLE ENDIAN.md"
+                "file": "C/Pointer 주소를 저장하는 2가지 방법.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C/LITTLE ENDIAN.md"
+                "file": "C/Pointer 주소를 저장하는 2가지 방법.md"
               }
             }
           },
@@ -235,13 +235,14 @@
   },
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
+    "C/Pointer 주소 비교.md",
+    "C/LITTLE ENDIAN.md",
     "C/C DB.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "calloc use.md",
     "C/Pointer 할당 및 해제.md",
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
-    "C/LITTLE ENDIAN.md",
     "Python/print_array 함수 const를 쓰는 습관 가지기.md",
     "C/gcc & g++.md",
     "Python/Python iloc vs loc.md",
@@ -260,7 +261,6 @@
     "Python/np.sort 정리 차원에 따른 sort임.md",
     "Python/Python match.md",
     "Python/Python pandas.md",
-    "DataFrame index, columns 정리.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",

@@ -9,7 +9,7 @@ int pointer를 형변환했다.
 int main()
 {
   int *pointer = (int *)malloc(sizeof(int));
-  *pointer = 0x12345678;
+  *pointer = 0x12345678; //만약에 0x1234567이면 67 45 23 1이 출력됨
   printf("%x\n", *pointer);
   char *pointer2 = (char *)pointer;
   for (int i = 0; i < 4; i++)
