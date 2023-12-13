@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Pointer 할당 및 해제.md",
+                "file": "strcpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Pointer 할당 및 해제.md",
+                "file": "strcpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Pointer 할당 및 해제.md",
+                "file": "strcpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Pointer 할당 및 해제.md"
+                "file": "strcpy.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C/Pointer 할당 및 해제.md"
+                "file": "strcpy.md"
               }
             }
           },
@@ -235,9 +235,11 @@
   },
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
+    "string.h.md",
+    "strcpy.md",
+    "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
     "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-    "C/Pointer 할당 및 해제.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
     "C/Pointer 주소 비교.md",
@@ -259,8 +261,6 @@
     "Python/Python DB.md",
     "Python/Python **dic.md",
     "numpy에서 copy를 사용하는 이유.md",
-    "Python/np.sort 정리 차원에 따른 sort임.md",
-    "Python/Python match.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
