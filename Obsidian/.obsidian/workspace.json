@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/np.floor.md",
-                "mode": "preview",
+                "file": "Python/Python pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8a21411e01f017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "isin 사용법.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/np.floor.md",
+                "file": "isin 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/np.floor.md",
+                "file": "isin 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/np.floor.md"
+                "file": "isin 사용법.md"
               }
             }
           },
@@ -203,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/np.floor.md"
+                "file": "isin 사용법.md"
               }
             }
           },
@@ -245,17 +256,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5dd9e56c0a970b26",
+  "active": "0f8a21411e01f017",
   "lastOpenFiles": [
-    "DataFrame 만드는 법.md",
     "Python/Python pandas.md",
+    "isin 사용법.md",
+    "Python/Python DB.md",
+    "Python/np.floor.md",
+    "Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
+    "DataFrame 만드는 법.md",
     "Python/groupby 잘 사용하기!.md",
     "DataFrame type 변경하기.md",
     "DataFrame index, columns 정리.md",
     "Python/Python matplotlib.pyplot.md",
     "Python/Python iloc vs loc.md",
     "Python/Python traversal.md",
-    "Python/np.floor.md",
     "defaultdict 응용.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "C/Pointer 주소 비교.md",
@@ -270,9 +284,6 @@
     "strcpy.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
     "calloc use.md",
-    "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
-    "Python/print_array 함수 const를 쓰는 습관 가지기.md",
-    "C/gcc & g++.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
