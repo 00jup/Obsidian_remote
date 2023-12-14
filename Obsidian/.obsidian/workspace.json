@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "isin 사용법.md",
+                "file": "Python/Python 소름돋는 slicing.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dropna",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "isin 사용법.md",
+                "file": "Python/Python 소름돋는 slicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "isin 사용법.md",
+                "file": "Python/Python 소름돋는 slicing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "isin 사용법.md"
+                "file": "Python/Python 소름돋는 slicing.md"
               }
             }
           },
@@ -214,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "isin 사용법.md"
+                "file": "Python/Python 소름돋는 slicing.md"
               }
             }
           },
@@ -258,8 +259,14 @@
   },
   "active": "0f8a21411e01f017",
   "lastOpenFiles": [
-    "Python/Python pandas.md",
+    "Python/Python tuple.md",
+    "Python/Python traversal.md",
+    "Python/Python indexing.md",
+    "Python/Python iloc vs loc.md",
+    "Python/Python dictionary 데이터 추가하기.md",
+    "Python/Python dictionary.md",
     "isin 사용법.md",
+    "Python/Python pandas.md",
     "Python/Python DB.md",
     "Python/np.floor.md",
     "Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
@@ -268,10 +275,7 @@
     "DataFrame type 변경하기.md",
     "DataFrame index, columns 정리.md",
     "Python/Python matplotlib.pyplot.md",
-    "Python/Python iloc vs loc.md",
-    "Python/Python traversal.md",
     "defaultdict 응용.md",
-    "Python/Python dictionary 데이터 추가하기.md",
     "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
@@ -281,9 +285,6 @@
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "string.h.md",
     "tolower.md",
-    "strcpy.md",
-    "C/Pointer 주소를 저장하는 2가지 방법.md",
-    "calloc use.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
