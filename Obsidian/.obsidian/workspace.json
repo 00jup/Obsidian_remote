@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python pandas.md",
+                "file": "Python/np.floor.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pandas",
+                "query": "dropna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python pandas.md",
+                "file": "Python/np.floor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python pandas.md",
+                "file": "Python/np.floor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python pandas.md"
+                "file": "Python/np.floor.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python pandas.md"
+                "file": "Python/np.floor.md"
               }
             }
           },
@@ -247,13 +247,15 @@
   },
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
-    "Python/groupby 잘 사용하기!.md",
+    "DataFrame 만드는 법.md",
     "Python/Python pandas.md",
+    "Python/groupby 잘 사용하기!.md",
+    "DataFrame type 변경하기.md",
+    "DataFrame index, columns 정리.md",
     "Python/Python matplotlib.pyplot.md",
     "Python/Python iloc vs loc.md",
     "Python/Python traversal.md",
     "Python/np.floor.md",
-    "DataFrame index, columns 정리.md",
     "defaultdict 응용.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "C/Pointer 주소 비교.md",
@@ -271,8 +273,6 @@
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "Python/print_array 함수 const를 쓰는 습관 가지기.md",
     "C/gcc & g++.md",
-    "C/2의 보수법.md",
-    "DataFrame 만드는 법.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
