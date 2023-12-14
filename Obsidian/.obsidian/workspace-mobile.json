@@ -11,8 +11,12 @@
             "id": "24f18b124bd765ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+          }
         }
       }
     ],
@@ -125,19 +133,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "24f18b124bd765ed",
   "lastOpenFiles": [
+    "C/Pointer 할당 및 해제.md",
+    "C/C DB.md",
     "Python/??.md",
     "Python compose function.md",
     "Python/function().md",
@@ -163,8 +170,6 @@
     "Python/Python DB.md",
     "C/void main().md",
     "C/LITTLE ENDIAN.md",
-    "C/C DB.md",
-    "C/INT_MAX.md",
     "Asset/Screenshot 2023-09-15 at 15.51.42.png",
     "Asset/Pasted image 20230921155558.png",
     "Asset/Screenshot 2023-09-15 at 15.51.05.png",
