@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "419cf1a2cd4d18a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "defaultdict 응용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f967facd233a121c",
             "type": "leaf",
             "state": {
@@ -236,6 +248,7 @@
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
     "defaultdict 응용.md",
+    "Python/Python dictionary 데이터 추가하기.md",
     "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
@@ -258,7 +271,6 @@
     "Python에서 imagine number operation.md",
     "Python/Python class.md",
     "Python repr, str 표현자.md",
-    "Python/Python dictionary 데이터 추가하기.md",
     "Python/Python dictionary.md",
     "Python/Python DB.md",
     "Untitled 1.canvas",

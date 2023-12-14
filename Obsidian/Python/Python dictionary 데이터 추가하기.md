@@ -1,5 +1,6 @@
 # defaultdict
 ```python
+from collectinos import defaultdict
 # Default factory function is list
 dd_list = defaultdict(list)
 dd_list['key1'].append(1)
