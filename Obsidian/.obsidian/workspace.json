@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointer",
+                "query": "defaultdict",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Pointer 주소 비교.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C/Pointer 주소 비교.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -235,6 +235,8 @@
   },
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
+    "defaultdict 응용.md",
+    "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
     "C/LITTLE ENDIAN.md",
@@ -245,7 +247,6 @@
     "tolower.md",
     "strcpy.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
-    "C/Pointer 주소 비교.md",
     "calloc use.md",
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "Python/print_array 함수 const를 쓰는 습관 가지기.md",
@@ -258,7 +259,6 @@
     "Python/Python class.md",
     "Python repr, str 표현자.md",
     "Python/Python dictionary 데이터 추가하기.md",
-    "defaultdict 응용.md",
     "Python/Python dictionary.md",
     "Python/Python DB.md",
     "Untitled 1.canvas",
