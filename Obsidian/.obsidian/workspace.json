@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "defaultdict 응용.md",
                 "mode": "preview",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "defaultdict 응용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "defaultdict 응용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "defaultdict 응용.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "defaultdict 응용.md"
               }
             }
           },
@@ -247,8 +247,8 @@
   },
   "active": "5dd9e56c0a970b26",
   "lastOpenFiles": [
-    "defaultdict 응용.md",
     "Python/Python dictionary 데이터 추가하기.md",
+    "defaultdict 응용.md",
     "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
