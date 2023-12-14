@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python 소름돋는 slicing.md",
+                "file": "Python/Python DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f807d36d8f1e8b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d57ed0c9b3c6b4db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python **dic.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "dict",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python 소름돋는 slicing.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python 소름돋는 slicing.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python 소름돋는 slicing.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -215,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python 소름돋는 slicing.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -257,17 +281,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f8a21411e01f017",
+  "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python dictionary.md",
+    "Python/Python **dic.md",
+    "Python/Python DB.md",
+    "Python/Python 소름돋는 slicing.md",
     "Python/Python tuple.md",
     "Python/Python traversal.md",
     "Python/Python indexing.md",
     "Python/Python iloc vs loc.md",
     "Python/Python dictionary 데이터 추가하기.md",
-    "Python/Python dictionary.md",
     "isin 사용법.md",
     "Python/Python pandas.md",
-    "Python/Python DB.md",
     "Python/np.floor.md",
     "Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
     "DataFrame 만드는 법.md",
@@ -283,8 +309,6 @@
     "C/rows and cols.md",
     "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
-    "string.h.md",
-    "tolower.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
