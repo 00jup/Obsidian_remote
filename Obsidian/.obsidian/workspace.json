@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,11 +283,12 @@
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
     "Python/Python dictionary.md",
+    "Python/Python dictionary 데이터 추가하기.md",
+    "Python/Python dictionary 실수.md",
     "Python/Python dictionary indexing in if.md",
     "Python/Python dictionary와 list의 공통점.md",
     "Python/Python match.md",
     "Python/Python DB.md",
-    "Python/Python dictionary 데이터 추가하기.md",
     "Python/Python **dic.md",
     "Python/Python 소름돋는 slicing.md",
     "Python/Python tuple.md",
@@ -308,7 +308,6 @@
     "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
-    "C/LITTLE ENDIAN.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
