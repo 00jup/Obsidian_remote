@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python match.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dict",
+                "query": "match",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python match.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "Python/Python match.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "Python/Python match.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "Python/Python match.md"
               }
             }
           },
@@ -283,15 +283,15 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python DB.md",
+    "Python/Python dictionary 데이터 추가하기.md",
     "Python/Python dictionary.md",
     "Python/Python **dic.md",
-    "Python/Python DB.md",
     "Python/Python 소름돋는 slicing.md",
     "Python/Python tuple.md",
     "Python/Python traversal.md",
     "Python/Python indexing.md",
     "Python/Python iloc vs loc.md",
-    "Python/Python dictionary 데이터 추가하기.md",
     "isin 사용법.md",
     "Python/Python pandas.md",
     "Python/np.floor.md",
