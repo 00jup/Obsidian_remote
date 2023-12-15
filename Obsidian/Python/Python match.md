@@ -87,3 +87,21 @@ def echo(value):
 ```
 
 `case x:`는 어떠한 값이든 `x`에 할당하고, 해당 `case` 블록 내에서 그 값을 사용할 수 있습니다.
+
+
+### 사용 예시
+```python
+while (True):
+    control = int(input("작업을 선택하세요."))
+    match control:
+        case 1 | 2:
+            pass
+        case 3:
+            pass
+        case 4:
+            pass
+        case 5:
+            break
+        case _:
+            print("잘못 입력하셨습니다.")
+```
