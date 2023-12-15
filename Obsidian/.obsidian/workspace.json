@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python match.md",
+                "file": "Python/Python dictionary 실수.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "match",
+                "query": "diction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python match.md",
+                "file": "Python/Python dictionary 실수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python match.md",
+                "file": "Python/Python dictionary 실수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python match.md"
+                "file": "Python/Python dictionary 실수.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python match.md"
+                "file": "Python/Python dictionary 실수.md"
               }
             }
           },
@@ -283,9 +283,12 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python dictionary.md",
+    "Python/Python dictionary indexing in if.md",
+    "Python/Python dictionary와 list의 공통점.md",
+    "Python/Python match.md",
     "Python/Python DB.md",
     "Python/Python dictionary 데이터 추가하기.md",
-    "Python/Python dictionary.md",
     "Python/Python **dic.md",
     "Python/Python 소름돋는 slicing.md",
     "Python/Python tuple.md",
@@ -306,9 +309,6 @@
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
     "C/LITTLE ENDIAN.md",
-    "C/rows and cols.md",
-    "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-    "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
