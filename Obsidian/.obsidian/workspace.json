@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python dictionary 실수.md",
-                "mode": "source",
+                "file": "맥에 윈도우 설치하는 법.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diction",
+                "query": "window",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python dictionary 실수.md",
+                "file": "맥에 윈도우 설치하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python dictionary 실수.md",
+                "file": "맥에 윈도우 설치하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python dictionary 실수.md"
+                "file": "맥에 윈도우 설치하는 법.md"
               }
             }
           },
@@ -238,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python dictionary 실수.md"
+                "file": "맥에 윈도우 설치하는 법.md"
               }
             }
           },
@@ -282,9 +283,9 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python dictionary 실수.md",
     "Python/Python dictionary.md",
     "Python/Python dictionary 데이터 추가하기.md",
-    "Python/Python dictionary 실수.md",
     "Python/Python dictionary indexing in if.md",
     "Python/Python dictionary와 list의 공통점.md",
     "Python/Python match.md",
