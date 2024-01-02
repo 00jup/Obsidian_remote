@@ -11,13 +11,52 @@
             "id": "24f18b124bd765ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            },
+            "group": "212d6d323dc68316"
+          }
+        ]
+      },
+      {
+        "id": "2d3634194b1fe351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4dc4c52d0b1a1d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-                "mode": "preview",
-                "source": false
+                "file": "Flutter/Flutter 기본 정리.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.5021279619401708,
+                  "close": true
+                }
               }
-            }
+            },
+            "group": "212d6d323dc68316"
           }
         ]
       }
@@ -95,7 +134,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +150,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,9 +160,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -143,6 +178,10 @@
   },
   "active": "24f18b124bd765ed",
   "lastOpenFiles": [
+    "Flutter/Flutter 기본 정리.md",
+    "Python/Python DB.md",
+    "Flutter/부모의 상속 함수와 자식의 상속 함수.md",
+    "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
     "Python/??.md",
@@ -166,10 +205,6 @@
     "Python/Python version 변경하기.md",
     "Python/Python tuple.md",
     "Python/Python 과제를 하다가 알게 된 사실 map, for 내부의 i.md",
-    "Python/Python indexing.md",
-    "Python/Python DB.md",
-    "C/void main().md",
-    "C/LITTLE ENDIAN.md",
     "Asset/Screenshot 2023-09-15 at 15.51.42.png",
     "Asset/Pasted image 20230921155558.png",
     "Asset/Screenshot 2023-09-15 at 15.51.05.png",
