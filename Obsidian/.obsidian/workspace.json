@@ -47,12 +47,8 @@
             "id": "f807d36d8f1e8b54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "맥에 윈도우 설치하는 법.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -171,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "맥에 윈도우 설치하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "맥에 윈도우 설치하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "맥에 윈도우 설치하는 법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,9 +230,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "맥에 윈도우 설치하는 법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -283,6 +273,7 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "맥에 윈도우 설치하는 법.md",
     "Python/Python dictionary 실수.md",
     "Python/Python dictionary.md",
     "Python/Python dictionary 데이터 추가하기.md",
@@ -308,7 +299,6 @@
     "defaultdict 응용.md",
     "C/Pointer 주소 비교.md",
     "C/Pointer 할당 및 해제.md",
-    "C/C DB.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
