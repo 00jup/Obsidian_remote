@@ -47,8 +47,12 @@
             "id": "f807d36d8f1e8b54",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/What is the pythonic code?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -129,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "window",
+                "query": "match",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/What is the pythonic code?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/What is the pythonic code?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/What is the pythonic code?.md"
+              }
             }
           },
           {
@@ -230,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Python/What is the pythonic code?.md"
+              }
             }
           },
           {
@@ -273,14 +283,17 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python 시험 대비 1.md",
+    "Python/Python 시험 대비.md",
+    "Python/Python match.md",
+    "Python/Python is_alive.md",
+    "Python/Python DB.md",
     "맥에 윈도우 설치하는 법.md",
     "Python/Python dictionary 실수.md",
     "Python/Python dictionary.md",
     "Python/Python dictionary 데이터 추가하기.md",
     "Python/Python dictionary indexing in if.md",
     "Python/Python dictionary와 list의 공통점.md",
-    "Python/Python match.md",
-    "Python/Python DB.md",
     "Python/Python **dic.md",
     "Python/Python 소름돋는 slicing.md",
     "Python/Python tuple.md",
@@ -296,9 +309,6 @@
     "DataFrame type 변경하기.md",
     "DataFrame index, columns 정리.md",
     "Python/Python matplotlib.pyplot.md",
-    "defaultdict 응용.md",
-    "C/Pointer 주소 비교.md",
-    "C/Pointer 할당 및 해제.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
