@@ -47,12 +47,8 @@
             "id": "f807d36d8f1e8b54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sugang 신청 데이터 구조.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -172,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugang 신청 데이터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugang 신청 데이터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sugang 신청 데이터 구조.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Sugang 신청 데이터 구조.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,6 +274,8 @@
   },
   "active": "f807d36d8f1e8b54",
   "lastOpenFiles": [
+    "Python/Python file I&O.md",
+    "Python/Python write의 2가지 종류.md",
     "Python Web.md",
     "Sugang 신청 데이터 구조.md",
     "Python/Python DB.md",
@@ -308,8 +300,6 @@
     "Python/Python pandas.md",
     "Python/np.floor.md",
     "Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
-    "DataFrame 만드는 법.md",
-    "Python/groupby 잘 사용하기!.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
