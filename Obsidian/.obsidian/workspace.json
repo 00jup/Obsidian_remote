@@ -52,6 +52,16 @@
             }
           },
           {
+            "id": "4a5c67a5008f435c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "d57ed0c9b3c6b4db",
             "type": "leaf",
             "state": {
@@ -100,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Python match.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Python match.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Python match.md"
+              }
             }
           },
           {
@@ -222,7 +236,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -231,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Python/Python match.md"
+              }
             }
           },
           {
@@ -272,7 +290,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f807d36d8f1e8b54",
+  "active": "4a5c67a5008f435c",
   "lastOpenFiles": [
     "Python/Python file I&O.md",
     "Python/Python write의 2가지 종류.md",
