@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "C/LITTLE ENDIAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointer",
+                "query": "pointer 배열",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "C/LITTLE ENDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Pointer 주소 비교.md",
+                "file": "C/LITTLE ENDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Pointer 주소 비교.md"
+                "file": "C/LITTLE ENDIAN.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C/Pointer 주소 비교.md"
+                "file": "C/LITTLE ENDIAN.md"
               }
             }
           },
@@ -293,6 +293,9 @@
   },
   "active": "4a5c67a5008f435c",
   "lastOpenFiles": [
+    "C/(void*) 포인터 형인 것을 알려주기 위함.md",
+    "C/Pointer 주소를 저장하는 2가지 방법.md",
+    "C/Pointer 주소 비교.md",
     "Python/Python file I&O.md",
     "Python/Python write의 2가지 종류.md",
     "Python Web.md",
@@ -316,9 +319,6 @@
     "Python/Python indexing.md",
     "Python/Python iloc vs loc.md",
     "isin 사용법.md",
-    "Python/Python pandas.md",
-    "Python/np.floor.md",
-    "Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
