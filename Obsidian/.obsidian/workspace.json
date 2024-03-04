@@ -55,9 +55,11 @@
             "id": "4a5c67a5008f435c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "C/Pointer 주소 비교.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -139,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pointer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python match.md",
+                "file": "C/Pointer 주소 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python match.md",
+                "file": "C/Pointer 주소 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python match.md"
+                "file": "C/Pointer 주소 비교.md"
               }
             }
           },
@@ -248,7 +249,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python match.md"
+                "file": "C/Pointer 주소 비교.md"
               }
             }
           },
