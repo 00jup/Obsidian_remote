@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 weeks.md",
+                "file": "difference of  System.out & System.err.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 weeks.md",
+                "file": "difference of  System.out & System.err.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 weeks.md",
+                "file": "difference of  System.out & System.err.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 weeks.md"
+                "file": "difference of  System.out & System.err.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 weeks.md"
+                "file": "difference of  System.out & System.err.md"
               }
             }
           },
@@ -216,7 +217,7 @@
   "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
     "Java/Java DB.md",
-    "1 weeks.md",
+    "difference of  System.out & System.err.md",
     "공업수학/푸리에 급수 직교집합과 정규집합.md",
     "공업수학/공학에서의 편미분과 일반미분.md",
     "2023-10-13.md",
