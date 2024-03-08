@@ -1,6 +1,41 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Java",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4173354b-54e7-46a9-a959-cd46d92b7b8c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fcaa9233-9d3a-4d7b-9bae-fa3e5ac862b8",
+      "name": "Java"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
