@@ -31,6 +31,7 @@
       {
         "id": "a7d0f3772bc446a4",
         "type": "tabs",
+        "dimension": 75.10917030567686,
         "children": [
           {
             "id": "09ebec1001effe24",
@@ -62,6 +63,21 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ad12ed47bed730f",
+        "type": "tabs",
+        "dimension": 24.890829694323145,
+        "children": [
+          {
+            "id": "7757a4e62849cd86",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -199,7 +215,9 @@
   },
   "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
+    "2023-10-13.md",
     "Java/Java DB.md",
+    "Java/Untitled.canvas",
     "Java",
     "Python/Python match.md",
     "Sugang 신청 데이터 구조.md",
@@ -225,7 +243,6 @@
     "C/Pointer 주소를 저장하는 2가지 방법.md",
     "C/Pointer 주소 비교.md",
     "Python/Python file I&O.md",
-    "Python/Python write의 2가지 종류.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",

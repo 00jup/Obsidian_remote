@@ -34,6 +34,40 @@
       ],
       "id": "fcaa9233-9d3a-4d7b-9bae-fa3e5ac862b8",
       "name": "Java"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Java",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8dcf5314-78f3-4d3b-b331-bf10ab150ea7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5dee0da6-141d-4181-9a69-f08957bf0009",
+      "name": "Java"
     }
   ],
   "archives": [],
