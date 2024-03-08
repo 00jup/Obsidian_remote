@@ -46,7 +46,7 @@
   "golangArgs": "run",
   "golangFileExtension": "go",
   "goInject": "",
-  "javaPath": "java",
+  "javaPath": "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home",
   "javaArgs": "-ea",
   "javaFileExtension": "java",
   "javaInject": "",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python version 변경하기.md",
+                "file": "difference of  System.out & System.err.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python version 변경하기.md",
+                "file": "difference of  System.out & System.err.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python version 변경하기.md",
+                "file": "difference of  System.out & System.err.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python version 변경하기.md"
+                "file": "difference of  System.out & System.err.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python version 변경하기.md"
+                "file": "difference of  System.out & System.err.md"
               }
             }
           },
@@ -216,9 +215,10 @@
   },
   "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
+    "Java/Java DB.md",
+    "Python/Python version 변경하기.md",
     "Python/Python DB.md",
     "difference of  System.out & System.err.md",
-    "Java/Java DB.md",
     "공업수학/푸리에 급수 직교집합과 정규집합.md",
     "공업수학/공학에서의 편미분과 일반미분.md",
     "2023-10-13.md",
@@ -243,7 +243,6 @@
     "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "Python/numpy에서 copy를 사용하는 이유.md",
     "Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
-    "C/LITTLE ENDIAN.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
