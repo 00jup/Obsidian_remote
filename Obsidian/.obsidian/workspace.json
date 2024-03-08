@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "difference of  System.out & System.err.md",
+                "file": "Python/Python version 변경하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python version",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "difference of  System.out & System.err.md",
+                "file": "Python/Python version 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "difference of  System.out & System.err.md",
+                "file": "Python/Python version 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "difference of  System.out & System.err.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "difference of  System.out & System.err.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
-    "Java/Java DB.md",
+    "Python/Python DB.md",
     "difference of  System.out & System.err.md",
+    "Java/Java DB.md",
     "공업수학/푸리에 급수 직교집합과 정규집합.md",
     "공업수학/공학에서의 편미분과 일반미분.md",
     "2023-10-13.md",
@@ -243,7 +244,6 @@
     "Python/numpy에서 copy를 사용하는 이유.md",
     "Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
     "C/LITTLE ENDIAN.md",
-    "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
