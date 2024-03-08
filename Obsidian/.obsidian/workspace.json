@@ -64,6 +64,16 @@
             }
           },
           {
+            "id": "8e55b1a1292b7406",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "d57ed0c9b3c6b4db",
             "type": "leaf",
             "state": {
@@ -112,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -291,7 +301,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4a5c67a5008f435c",
+  "active": "8e55b1a1292b7406",
   "lastOpenFiles": [
     "Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
     "C/LITTLE ENDIAN.md",
