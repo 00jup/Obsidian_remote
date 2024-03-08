@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbLightning",
+      "IbTriangleRight",
+      "IbTarget",
       "RiPaintBrushLine",
-      "RiNumber2",
-      "RiNumber1",
-      "RiFlutterFill"
+      "RiNumber2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +28,8 @@
     "iconIdentifier": ":"
   },
   "Flutter": "RiFlutterFill",
-  "Excalidraw": "RiPaintBrushLine"
+  "Excalidraw": "RiPaintBrushLine",
+  "Java": "IbTarget",
+  "Python": "IbTriangleRight",
+  "C": "IbLightning"
 }
