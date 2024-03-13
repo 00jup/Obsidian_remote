@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "Array.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "Array.md"
               }
             }
           },
@@ -228,10 +228,12 @@
   },
   "active": "55e036f240067587",
   "lastOpenFiles": [
+    "Hello World 출력하는 방법.md",
+    "Array.md",
+    "Java/Java DB.md",
     "pipeline vs &&.md",
     "Terminal.md",
     "C/C DB.md",
-    "Java/Java DB.md",
     "java String[] args meanings.md",
     "String[] args VS String args[]의 차이점.md",
     "difference of  System.out & System.err.md",
@@ -254,8 +256,6 @@
     "Python/df.shape.md",
     "Flutter/Flutter 출력하는 법.md",
     "코딩할 때 주석 표기하기.md",
-    "새로운 데이터로 만드는 방법.md",
-    "맥에 윈도우 설치하는 법.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
