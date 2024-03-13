@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
       "basename": "pipeline vs &&",
       "path": "pipeline vs &&.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "C DB",
       "path": "C/C DB.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
     },
     {
       "basename": "java String[] args meanings",
