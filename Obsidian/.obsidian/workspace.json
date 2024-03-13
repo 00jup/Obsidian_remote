@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array.md",
+                "file": "Python/Python DB.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c17cb007d6cdcf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python version 변경하기.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array.md",
+                "file": "Python/Python version 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array.md",
+                "file": "Python/Python version 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -184,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Array.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -226,10 +239,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55e036f240067587",
+  "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
-    "Hello World 출력하는 방법.md",
+    "Python/Python DB.md",
     "Array.md",
+    "Hello World 출력하는 방법.md",
     "Java/Java DB.md",
     "pipeline vs &&.md",
     "Terminal.md",
@@ -238,7 +252,6 @@
     "String[] args VS String args[]의 차이점.md",
     "difference of  System.out & System.err.md",
     "Python/Python version 변경하기.md",
-    "Python/Python DB.md",
     "공업수학/푸리에 급수 직교집합과 정규집합.md",
     "공업수학/공학에서의 편미분과 일반미분.md",
     "2023-10-13.md",
