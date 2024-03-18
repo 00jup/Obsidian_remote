@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python version",
+                "query": "new string",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +239,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c17cb007d6cdcf39",
+  "active": "e17c784ee562337b",
   "lastOpenFiles": [
     "Array.md",
     "Java/Java DB.md",
