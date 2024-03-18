@@ -5,6 +5,10 @@
       "path": "Array에서 Hello World 출력하는 방법.md"
     },
     {
+      "basename": "Python DB",
+      "path": "Python/Python DB.md"
+    },
+    {
       "basename": "Array",
       "path": "Array.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "difference of  System.out & System.err",
       "path": "difference of  System.out & System.err.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "Python/Python DB.md"
     },
     {
       "basename": "Python version 변경하기",
