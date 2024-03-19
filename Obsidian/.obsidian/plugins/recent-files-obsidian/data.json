@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "substring 사용법",
+      "path": "substring 사용법.md"
+    },
+    {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
       "basename": "Array에서 Hello World 출력하는 방법",
       "path": "Array에서 Hello World 출력하는 방법.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Array",
       "path": "Array.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
     },
     {
       "basename": "String[] args VS String args[]의 차이점",

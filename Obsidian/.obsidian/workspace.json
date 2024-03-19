@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array에서 Hello World 출력하는 방법.md",
-                "mode": "preview",
+                "file": "substring 사용법.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new string",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array에서 Hello World 출력하는 방법.md",
+                "file": "substring 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array에서 Hello World 출력하는 방법.md",
+                "file": "substring 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array에서 Hello World 출력하는 방법.md"
+                "file": "substring 사용법.md"
               }
             }
           },
@@ -197,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Array에서 Hello World 출력하는 방법.md"
+                "file": "substring 사용법.md"
               }
             }
           },
@@ -239,13 +238,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e17c784ee562337b",
+  "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
-    "Array.md",
     "Java/Java DB.md",
+    "substring 사용법.md",
+    "Array에서 Hello World 출력하는 방법.md",
+    "Array.md",
     "String[] args VS String args[]의 차이점.md",
     "java String[] args meanings.md",
-    "Array에서 Hello World 출력하는 방법.md",
     "C/C DB.md",
     "pipeline vs &&.md",
     "Terminal.md",
@@ -268,7 +268,6 @@
     "dd.md",
     "Python/df.shape.md",
     "Flutter/Flutter 출력하는 법.md",
-    "코딩할 때 주석 표기하기.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
