@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "substring 사용법.md",
+                "file": "독특한 함수 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "substring 사용법.md",
+                "file": "독특한 함수 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "substring 사용법.md",
+                "file": "독특한 함수 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "substring 사용법.md"
+                "file": "독특한 함수 사용법.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "substring 사용법.md"
+                "file": "독특한 함수 사용법.md"
               }
             }
           },
@@ -241,6 +241,7 @@
   "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
     "Java/Java DB.md",
+    "독특한 함수 사용법.md",
     "substring 사용법.md",
     "Array에서 Hello World 출력하는 방법.md",
     "Array.md",
@@ -267,7 +268,6 @@
     "Python/defaultdict 응용.md",
     "dd.md",
     "Python/df.shape.md",
-    "Flutter/Flutter 출력하는 법.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",

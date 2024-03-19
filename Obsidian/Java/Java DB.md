@@ -2,3 +2,4 @@
 [[java String[] args meanings]]
 [[Array]]
 [[substring 사용법]]
+[[독특한 함수 사용법]]
