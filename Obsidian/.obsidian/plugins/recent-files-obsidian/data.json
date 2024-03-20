@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "What is the pythonic code?",
+      "path": "Python/What is the pythonic code?.md"
+    },
+    {
+      "basename": "Python DB",
+      "path": "Python/Python DB.md"
+    },
+    {
+      "basename": "numpy에서의 pythonic",
+      "path": "Python/numpy에서의 pythonic.md"
+    },
+    {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
     },
     {
       "basename": "Python tkinter",
       "path": "Python tkinter.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "Python/Python DB.md"
     },
     {
       "basename": "DataFrame index, columns 정리",

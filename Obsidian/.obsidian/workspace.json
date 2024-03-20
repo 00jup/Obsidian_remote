@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Python/What is the pythonic code?.md",
                 "mode": "preview",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pythonic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Python/What is the pythonic code?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Python/What is the pythonic code?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Python/What is the pythonic code?.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Python/What is the pythonic code?.md"
               }
             }
           },
@@ -240,13 +241,14 @@
   },
   "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
-    "Python tkinter.md",
     "Python/Python DB.md",
+    "Python/numpy에서의 pythonic.md",
+    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+    "Python tkinter.md",
     "Python/DataFrame index, columns 정리.md",
     "Python/??.md",
     "Java/Java DB.md",
     "this를 상속해서 사용하는 법.md",
-    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "Pointer 사용 예제.md",
     "배열을 pointer의 주소를 이용해서 표현하는 방법.md",
     "C/C DB.md",
@@ -265,7 +267,6 @@
     "java String[] args meanings.md",
     "pipeline vs &&.md",
     "Terminal.md",
-    "difference of  System.out & System.err.md",
     "Java/Untitled.canvas",
     "Java",
     "Untitled 1.canvas",
