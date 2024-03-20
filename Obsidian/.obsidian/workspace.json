@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Java/Java DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Java/Java DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Java/Java DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Java/Java DB.md"
               }
             }
           },
@@ -209,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Java/Java DB.md"
               }
             }
           },
@@ -253,8 +252,10 @@
   },
   "active": "17d6aed542a672b8",
   "lastOpenFiles": [
-    "Pointer 사용 예제.md",
+    "this를 상속해서 사용하는 법.md",
+    "Java/Java DB.md",
     "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+    "Pointer 사용 예제.md",
     "배열을 pointer의 주소를 이용해서 표현하는 방법.md",
     "C/C DB.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
@@ -265,7 +266,6 @@
     "C/LITTLE ENDIAN.md",
     "Pointer를 사용한 퀴즈.md",
     "독특한 함수 사용법.md",
-    "Java/Java DB.md",
     "substring 사용법.md",
     "Array에서 Hello World 출력하는 방법.md",
     "Array.md",
@@ -278,7 +278,6 @@
     "Python/Python version 변경하기.md",
     "공업수학/푸리에 급수 직교집합과 정규집합.md",
     "공업수학/공학에서의 편미분과 일반미분.md",
-    "2023-10-13.md",
     "Java/Untitled.canvas",
     "Java",
     "Untitled 1.canvas",

@@ -3,3 +3,5 @@
 [[Array]]
 [[substring 사용법]]
 [[독특한 함수 사용법]]
+
+[[this를 상속해서 사용하는 법, overrroading에서 가능함]]

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "this를 상속해서 사용하는 법",
+      "path": "this를 상속해서 사용하는 법.md"
+    },
+    {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "독특한 함수 사용법",
       "path": "독특한 함수 사용법.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
     },
     {
       "basename": "substring 사용법",
