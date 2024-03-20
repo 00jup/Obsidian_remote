@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "가변길이 매개변수",
+      "path": "가변길이 매개변수.md"
+    },
+    {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
       "basename": "What is the pythonic code?",
       "path": "Python/What is the pythonic code?.md"
     },
     {
       "basename": "Python DB",
       "path": "Python/Python DB.md"
+    },
+    {
+      "basename": "Python 값을 던지기",
+      "path": "Python/Python 값을 던지기.md"
     },
     {
       "basename": "numpy에서의 pythonic",
@@ -27,10 +39,6 @@
     {
       "basename": "??",
       "path": "Python/??.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
     },
     {
       "basename": "this를 상속해서 사용하는 법",

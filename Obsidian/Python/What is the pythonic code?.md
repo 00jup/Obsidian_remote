@@ -127,3 +127,6 @@ DEAD, SURVIVED = 0, 1
 size = 10  # 원하는 배열의 크기
 array = [10] * size  # 모든 요소를 10으로 초기화
 ```
+
+
+[[Python 값을 던지기]]
