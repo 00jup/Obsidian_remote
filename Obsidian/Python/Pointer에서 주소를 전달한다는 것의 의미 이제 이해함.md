@@ -1,7 +1,7 @@
 
 
 ```c
-#include <stdio.h>
+#include <iostream>
 
 void set_pointer(char **q);
 int main(void)
