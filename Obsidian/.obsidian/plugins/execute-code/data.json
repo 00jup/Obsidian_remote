@@ -65,7 +65,7 @@
   "cppInject": "",
   "cppArgs": "",
   "cppUseMain": false,
-  "clingPath": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+  "clingPath": "gcc && ./a.out",
   "clingArgs": "",
   "clingStd": "c++17",
   "rustFileExtension": "rs",
