@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Pointer를 사용한 퀴즈",
+      "path": "Pointer를 사용한 퀴즈.md"
+    },
+    {
+      "basename": "Pointer 할당 및 해제",
+      "path": "C/Pointer 할당 및 해제.md"
+    },
+    {
+      "basename": "C DB",
+      "path": "C/C DB.md"
+    },
+    {
       "basename": "독특한 함수 사용법",
       "path": "독특한 함수 사용법.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "java String[] args meanings",
       "path": "java String[] args meanings.md"
-    },
-    {
-      "basename": "C DB",
-      "path": "C/C DB.md"
     },
     {
       "basename": "pipeline vs &&",

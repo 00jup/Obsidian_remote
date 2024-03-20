@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독특한 함수 사용법.md",
+                "file": "Pointer를 사용한 퀴즈.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독특한 함수 사용법.md",
+                "file": "Pointer를 사용한 퀴즈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독특한 함수 사용법.md",
+                "file": "Pointer를 사용한 퀴즈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독특한 함수 사용법.md"
+                "file": "Pointer를 사용한 퀴즈.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "독특한 함수 사용법.md"
+                "file": "Pointer를 사용한 퀴즈.md"
               }
             }
           },
@@ -240,14 +240,16 @@
   },
   "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
-    "Java/Java DB.md",
+    "C/Pointer 할당 및 해제.md",
+    "Pointer를 사용한 퀴즈.md",
+    "C/C DB.md",
     "독특한 함수 사용법.md",
+    "Java/Java DB.md",
     "substring 사용법.md",
     "Array에서 Hello World 출력하는 방법.md",
     "Array.md",
     "String[] args VS String args[]의 차이점.md",
     "java String[] args meanings.md",
-    "C/C DB.md",
     "pipeline vs &&.md",
     "Terminal.md",
     "difference of  System.out & System.err.md",
@@ -266,8 +268,6 @@
     "C/calloc use.md",
     "Python/DataFrame 만드는 법.md",
     "Python/defaultdict 응용.md",
-    "dd.md",
-    "Python/df.shape.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
