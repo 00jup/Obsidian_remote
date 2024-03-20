@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-                "mode": "preview",
+                "file": "Pointer 사용 예제.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Pointer 사용 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+                "file": "Pointer 사용 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Pointer 사용 예제.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+                "file": "Pointer 사용 예제.md"
               }
             }
           },
@@ -253,10 +253,11 @@
   },
   "active": "17d6aed542a672b8",
   "lastOpenFiles": [
+    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+    "Pointer 사용 예제.md",
+    "배열을 pointer의 주소를 이용해서 표현하는 방법.md",
     "C/C DB.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
-    "배열을 pointer의 주소를 이용해서 표현하는 방법.md",
-    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
     "C/Pointer 할당 및 해제.md",
     "C/Pointer 주소를 저장하는 2가지 방법.md",
@@ -280,7 +281,6 @@
     "2023-10-13.md",
     "Java/Untitled.canvas",
     "Java",
-    "Python/Python match.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
