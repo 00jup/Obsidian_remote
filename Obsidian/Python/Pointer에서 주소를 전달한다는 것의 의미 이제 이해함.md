@@ -19,7 +19,7 @@ void set_pointer(char **q)
 }
 ```
 
-여기서 `char **q` 를 `char *q` 로 사용하면 복사본을 전달하는 거니까
+여기서 `void set_pointer(char **q)` 를 `char *q` 로 사용하면 복사본을 전달하는 거니까
 
 ```c
 void set_pointer(char *q)

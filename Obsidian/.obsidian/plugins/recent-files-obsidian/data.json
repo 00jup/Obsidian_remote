@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Pointer 사용 예제",
-      "path": "Pointer 사용 예제.md"
-    },
-    {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+    },
+    {
+      "basename": "Pointer 사용 예제",
+      "path": "Pointer 사용 예제.md"
     },
     {
       "basename": "배열을 pointer의 주소를 이용해서 표현하는 방법",
