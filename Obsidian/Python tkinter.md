@@ -11,3 +11,4 @@ brew install python-tk
 pip3 install tk
 ```
 
+[[import 되지 않을 때]]
