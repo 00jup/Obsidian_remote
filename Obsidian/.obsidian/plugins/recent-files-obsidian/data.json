@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Python tkinter",
+      "path": "Python tkinter.md"
+    },
+    {
       "basename": "Python version 변경하기",
       "path": "Python/Python version 변경하기.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
-    },
-    {
-      "basename": "Python tkinter",
-      "path": "Python tkinter.md"
     },
     {
       "basename": "DataFrame index, columns 정리",
