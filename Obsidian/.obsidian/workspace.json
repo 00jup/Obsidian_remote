@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "향상된 for 문.md",
-                "mode": "source",
+                "file": "Python/Python version 변경하기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pythonic",
+                "query": "python version",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "향상된 for 문.md",
+                "file": "Python/Python version 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "향상된 for 문.md",
+                "file": "Python/Python version 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "향상된 for 문.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "향상된 for 문.md"
+                "file": "Python/Python version 변경하기.md"
               }
             }
           },
@@ -240,12 +241,12 @@
   },
   "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
-    "java 스럽다.md",
+    "Python/Python DB.md",
     "향상된 for 문.md",
+    "java 스럽다.md",
     "가변길이 매개변수.md",
     "Java/Java DB.md",
     "Python/What is the pythonic code?.md",
-    "Python/Python DB.md",
     "Python/Python 값을 던지기.md",
     "Python/numpy에서의 pythonic.md",
     "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",

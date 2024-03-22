@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python version 변경하기",
+      "path": "Python/Python version 변경하기.md"
+    },
+    {
+      "basename": "Python DB",
+      "path": "Python/Python DB.md"
+    },
+    {
       "basename": "향상된 for 문",
       "path": "향상된 for 문.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "What is the pythonic code?",
       "path": "Python/What is the pythonic code?.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "Python/Python DB.md"
     },
     {
       "basename": "Python 값을 던지기",
@@ -127,10 +131,6 @@
     {
       "basename": "difference of  System.out & System.err",
       "path": "difference of  System.out & System.err.md"
-    },
-    {
-      "basename": "Python version 변경하기",
-      "path": "Python/Python version 변경하기.md"
     },
     {
       "basename": "푸리에 급수 직교집합과 정규집합",
