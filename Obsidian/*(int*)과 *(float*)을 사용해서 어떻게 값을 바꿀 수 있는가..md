@@ -13,7 +13,7 @@ int main(void){
 이거 보면서 교수님은 이런 예시를 어떻게 찾을까 하는 생각하면서 문제를 풀었다.
 
 
-
+## 틀린 답안
 ```c
 #include<stdio.h>
 
@@ -21,5 +21,31 @@ int main(void){
 	 int i;
 	 scanf("%f", &i);
 	 printf("%d %f\n",*(int*)i,*(float*)i);
+}
+```
+
+
+## 정답
+```c
+#include<stdio.h>
+
+int main(void){
+	 int i;
+	 scanf("%f", &i);
+	 printf("%f\n",(float*)&i);
+}
+```
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    int i;
+    scanf("%f", &i);
+
+    float *f = (float *)&i;
+
+    printf("%f\n", *f);
 }
 ```

@@ -30,7 +30,7 @@ int main(void){
 }
 ```
 ## Q malloc에서 `(int**)` `(int*)`을 쓰는 이유?
-ㅑ반환형을 앞에 붙인 것임. 그래서 double_pointer, pointer 반환 시에 각각 (int**) (int*)을 붙인다.
+반환형을 앞에 붙인 것임. 그래서 double_pointer, pointer 반환 시에 각각 (int**) (int*)을 붙인다.
 
 [[Pointer 주소를 저장하는 2가지 방법]]
 [[rows and cols]]
@@ -48,4 +48,7 @@ int main(void){
 [[Pointer에서 주소를 전달한다는 것의 의미 이제 이해함]]
 [[string.h]]
 [[Pointer를 사용한 퀴즈]]
+
+
+
 [[2024-1 자료구조에서 배운 포인터]]

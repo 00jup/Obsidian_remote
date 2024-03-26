@@ -16,3 +16,19 @@
 ![[Pasted image 20240326210613.png]]
 1. 포인터
 2. int [5]형
+
+
+아래의 코드를 보면 더 원활한 이해가 가능할 듯하다
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    int number[3] = {1, 2, 3};
+    int(*arrptr)[3] = &number;
+
+    printf("%d\n", arrptr[0][1]);
+}
+```
+
+아름답다..
