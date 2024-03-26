@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md",
+                "file": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md",
+                "file": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md",
+                "file": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md"
+                "file": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md"
+                "file": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
               }
             }
           },
@@ -243,7 +243,7 @@
     "2024-1 자료구조에서 배운 포인터.md",
     "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "Pointer 사용 예제.md",
-    "int (*ptr) vs int *ptr 각각의 포인터 배열의 차이.md",
+    "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
     "C/Pointer 할당 및 해제.md",
     "C/C DB.md",
     "Python/Python DB.md",
