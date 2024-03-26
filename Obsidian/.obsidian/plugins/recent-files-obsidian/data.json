@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "(void*) 포인터 형인 것을 알려주기 위함",
+      "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
+    },
+    {
+      "basename": "strcpy",
+      "path": "C/strcpy.md"
+    },
+    {
+      "basename": "srand(time(NULL))을 사용하려면?",
+      "path": "C/srand(time(NULL))을 사용하려면?.md"
+    },
+    {
+      "basename": "srand",
+      "path": "C/srand.md"
+    },
+    {
+      "basename": "Screenshot 2023-10-08 at 16.21.04",
+      "path": "C/Screenshot 2023-10-08 at 16.21.04.png"
+    },
+    {
       "basename": "calloc use",
       "path": "C/calloc use.md"
     },
@@ -83,10 +103,6 @@
     {
       "basename": "C DB",
       "path": "C/C DB.md"
-    },
-    {
-      "basename": "(void*) 포인터 형인 것을 알려주기 위함",
-      "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
     },
     {
       "basename": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",

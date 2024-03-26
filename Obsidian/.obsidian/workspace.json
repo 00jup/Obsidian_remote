@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/calloc use.md",
+                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zero",
+                "query": "pointer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/calloc use.md",
+                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/calloc use.md",
+                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/calloc use.md"
+                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C/calloc use.md"
+                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
               }
             }
           },
@@ -241,6 +241,11 @@
   },
   "active": "c17cb007d6cdcf39",
   "lastOpenFiles": [
+    "C/strcpy.md",
+    "C/srand(time(NULL))을 사용하려면?.md",
+    "C/srand.md",
+    "C/Screenshot 2023-10-08 at 16.21.04.png",
+    "C/calloc use.md",
     "C/C switch.md",
     "Python/Python match.md",
     "import 되지 않을 때.md",
@@ -263,10 +268,6 @@
     "C/C DB.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
-    "C/Pointer 할당 및 해제.md",
-    "C/Pointer 주소를 저장하는 2가지 방법.md",
-    "C/Pointer 주소 비교.md",
-    "C/LITTLE ENDIAN.md",
     "Java/Untitled.canvas",
     "Java",
     "Untitled 1.canvas",
@@ -280,7 +281,6 @@
     "Asset/Pasted Image 20231013113557_414.png",
     "Asset/Pasted Image 20231013113513_033.png",
     "Asset/Screenshot 2023-10-08 at 16.21.04 1.png",
-    "C/Screenshot 2023-10-08 at 16.21.04.png",
     "Asset/Screenshot 2023-10-07 at 16.51.08.png",
     "공업수학",
     "Excalidraw",
