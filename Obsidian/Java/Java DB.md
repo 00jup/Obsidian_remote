@@ -8,6 +8,9 @@
 
 [[' & " in java]]
 
+## java 기초
+[[public static void main(String[] args)]]
+
 
 ## java 스럽다
 
