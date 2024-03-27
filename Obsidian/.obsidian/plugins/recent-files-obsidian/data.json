@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "java String[] args meanings",
-      "path": "java String[] args meanings.md"
+      "basename": "substring 사용법",
+      "path": "substring 사용법.md"
     },
     {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "Array",
+      "path": "Array.md"
+    },
+    {
+      "basename": "Array에서 Hello World 출력하는 방법",
+      "path": "Array에서 Hello World 출력하는 방법.md"
+    },
+    {
+      "basename": "java String[] args meanings",
+      "path": "java String[] args meanings.md"
     },
     {
       "basename": "difference of  System.out & System.err",
@@ -187,18 +199,6 @@
     {
       "basename": "Pointer 주소를 저장하는 2가지 방법",
       "path": "C/Pointer 주소를 저장하는 2가지 방법.md"
-    },
-    {
-      "basename": "Pointer 주소 비교",
-      "path": "C/Pointer 주소 비교.md"
-    },
-    {
-      "basename": "LITTLE ENDIAN",
-      "path": "C/LITTLE ENDIAN.md"
-    },
-    {
-      "basename": "Pointer를 사용한 퀴즈",
-      "path": "Pointer를 사용한 퀴즈.md"
     }
   ],
   "omittedPaths": [],
