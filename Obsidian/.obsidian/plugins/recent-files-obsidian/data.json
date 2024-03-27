@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Python dictionary 데이터 추가하기",
+      "path": "Python/Python dictionary 데이터 추가하기.md"
+    },
+    {
+      "basename": "defaultdict 응용",
+      "path": "Python/defaultdict 응용.md"
+    },
+    {
+      "basename": "Python dictionary key 추가하는 문제",
+      "path": "Python/Python dictionary key 추가하는 문제.md"
+    },
+    {
+      "basename": "Python dictionary indexing in if",
+      "path": "Python/Python dictionary indexing in if.md"
+    },
+    {
+      "basename": "Python dictionary",
+      "path": "Python/Python dictionary.md"
+    },
+    {
       "basename": "Python is_alive",
       "path": "Python/Python is_alive.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "substring 사용법",
       "path": "substring 사용법.md"
-    },
-    {
-      "basename": "Array에서 Hello World 출력하는 방법",
-      "path": "Array에서 Hello World 출력하는 방법.md"
-    },
-    {
-      "basename": "Array",
-      "path": "Array.md"
-    },
-    {
-      "basename": "String[] args VS String args[]의 차이점",
-      "path": "String[] args VS String args[]의 차이점.md"
-    },
-    {
-      "basename": "java String[] args meanings",
-      "path": "java String[] args meanings.md"
-    },
-    {
-      "basename": "pipeline vs &&",
-      "path": "pipeline vs &&.md"
     }
   ],
   "omittedPaths": [],
