@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "buffer 지우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "buffer 지우기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "buffer 지우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -241,8 +241,9 @@
   },
   "active": "55e036f240067587",
   "lastOpenFiles": [
-    "public static void main(String[] args).md",
     "Java/Java DB.md",
+    "buffer 지우기.md",
+    "public static void main(String[] args).md",
     "this를 상속해서 사용하는 법, overrroading에서 가능함.md",
     "substring 사용법.md",
     "Array.md",
@@ -266,7 +267,6 @@
     "Python/DataFrame index, columns 정리.md",
     "Python/??.md",
     "' & \" in java.md",
-    "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",

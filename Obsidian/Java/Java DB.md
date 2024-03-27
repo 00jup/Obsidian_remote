@@ -10,6 +10,7 @@
 
 ## java 기초
 [[public static void main(String[] args)]]
+[[buffer 지우기]]
 
 
 ## java 스럽다
