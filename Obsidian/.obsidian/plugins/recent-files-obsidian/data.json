@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
+      "path": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
+    },
+    {
+      "basename": "2024-1 자료구조에서 배운 포인터",
+      "path": "2024-1 자료구조에서 배운 포인터.md"
+    },
+    {
+      "basename": "Pointer 할당 및 해제",
+      "path": "C/Pointer 할당 및 해제.md"
+    },
+    {
+      "basename": "LITTLE ENDIAN",
+      "path": "C/LITTLE ENDIAN.md"
+    },
+    {
+      "basename": "int array의 length 구하기",
+      "path": "C/int array의 length 구하기.md"
+    },
+    {
+      "basename": "argv (null) MallocNanoZone = 0 설명",
+      "path": "C/argv (null) MallocNanoZone = 0 설명.md"
+    },
+    {
+      "basename": "(void*) 포인터 형인 것을 알려주기 위함",
+      "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
+    },
+    {
+      "basename": "argc argv",
+      "path": "C/argc argv.md"
+    },
+    {
+      "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
+      "path": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
+    },
+    {
+      "basename": "Pointer로 값을 받으려면 동적할당 해야 함",
+      "path": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
+    },
+    {
+      "basename": "Pointer 사용 예제",
+      "path": "Pointer 사용 예제.md"
+    },
+    {
       "basename": "buffer 지우기",
       "path": "buffer 지우기.md"
     },
@@ -105,18 +149,6 @@
       "path": "' & \" in java.md"
     },
     {
-      "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
-      "path": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
-    },
-    {
-      "basename": "2024-1 자료구조에서 배운 포인터",
-      "path": "2024-1 자료구조에서 배운 포인터.md"
-    },
-    {
-      "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-      "path": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
-    },
-    {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
     },
@@ -129,20 +161,8 @@
       "path": "(void * )sum의 의미.md"
     },
     {
-      "basename": "Pointer 할당 및 해제",
-      "path": "C/Pointer 할당 및 해제.md"
-    },
-    {
       "basename": "C DB",
       "path": "C/C DB.md"
-    },
-    {
-      "basename": "(void*) 포인터 형인 것을 알려주기 위함",
-      "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
-    },
-    {
-      "basename": "Pointer 사용 예제",
-      "path": "Pointer 사용 예제.md"
     },
     {
       "basename": "strcpy",
@@ -179,26 +199,6 @@
     {
       "basename": "Python tkinter",
       "path": "Python tkinter.md"
-    },
-    {
-      "basename": "Python version 변경하기",
-      "path": "Python/Python version 변경하기.md"
-    },
-    {
-      "basename": "What is the pythonic code?",
-      "path": "Python/What is the pythonic code?.md"
-    },
-    {
-      "basename": "Python 값을 던지기",
-      "path": "Python/Python 값을 던지기.md"
-    },
-    {
-      "basename": "numpy에서의 pythonic",
-      "path": "Python/numpy에서의 pythonic.md"
-    },
-    {
-      "basename": "this를 상속해서 사용하는 법",
-      "path": "this를 상속해서 사용하는 법.md"
     }
   ],
   "omittedPaths": [],
