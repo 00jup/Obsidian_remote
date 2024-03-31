@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "만들고 실행",
-      "path": "만들고 실행.md"
+      "basename": "comment in SQL",
+      "path": "comment in SQL.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "만들고 실행",
+      "path": "만들고 실행.md"
     },
     {
       "basename": "database 살펴보기",
@@ -195,10 +199,6 @@
     {
       "basename": "C DB",
       "path": "C/C DB.md"
-    },
-    {
-      "basename": "srand(time(NULL))을 사용하려면?",
-      "path": "C/srand(time(NULL))을 사용하려면?.md"
     }
   ],
   "omittedPaths": [],

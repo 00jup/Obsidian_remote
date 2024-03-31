@@ -11,6 +11,7 @@
 [[원하는 database 변경하기]]
 [[database 살펴보기]]
 [[만들고 실행 ]]
+[[comment in SQL]]
 
 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "만들고 실행.md",
+                "file": "comment in SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "만들고 실행.md",
+                "file": "comment in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "만들고 실행.md",
+                "file": "comment in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "만들고 실행.md"
+                "file": "comment in SQL.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "만들고 실행.md"
+                "file": "comment in SQL.md"
               }
             }
           },
@@ -241,6 +241,7 @@
   "active": "55e036f240067587",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
+    "comment in SQL.md",
     "만들고 실행.md",
     "database 살펴보기.md",
     "원하는 database 변경하기.md",
@@ -267,7 +268,6 @@
     "this를 상속해서 사용하는 법, overrroading에서 가능함.md",
     "substring 사용법.md",
     "Array.md",
-    "Array에서 Hello World 출력하는 방법.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",
