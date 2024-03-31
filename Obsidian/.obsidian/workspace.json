@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comment in SQL.md",
+                "file": "만들고 실행.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comment in SQL.md",
+                "file": "만들고 실행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comment in SQL.md",
+                "file": "만들고 실행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comment in SQL.md"
+                "file": "만들고 실행.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "comment in SQL.md"
+                "file": "만들고 실행.md"
               }
             }
           },
@@ -241,10 +241,10 @@
   "active": "55e036f240067587",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
-    "comment in SQL.md",
-    "만들고 실행.md",
     "database 살펴보기.md",
     "원하는 database 변경하기.md",
+    "만들고 실행.md",
+    "comment in SQL.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mysql 실행하기.md",
     "내가 원하는 이름의 데이터 찾기.md",

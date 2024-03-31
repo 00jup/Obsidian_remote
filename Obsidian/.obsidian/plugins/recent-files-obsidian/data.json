@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "comment in SQL",
-      "path": "comment in SQL.md"
+      "basename": "만들고 실행",
+      "path": "만들고 실행.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
-    },
-    {
-      "basename": "만들고 실행",
-      "path": "만들고 실행.md"
     },
     {
       "basename": "database 살펴보기",
@@ -19,6 +15,10 @@
     {
       "basename": "원하는 database 변경하기",
       "path": "원하는 database 변경하기.md"
+    },
+    {
+      "basename": "comment in SQL",
+      "path": "comment in SQL.md"
     },
     {
       "basename": "mysql 실행하기",
