@@ -5,6 +5,10 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "원하는 database 변경하기",
+      "path": "원하는 database 변경하기.md"
+    },
+    {
       "basename": "mysql 실행하기",
       "path": "mysql 실행하기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Screenshot 2023-10-08 at 16.21.04",
       "path": "C/Screenshot 2023-10-08 at 16.21.04.png"
-    },
-    {
-      "basename": "calloc use",
-      "path": "C/calloc use.md"
     }
   ],
   "omittedPaths": [],
