@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "처음 발견한 error",
+      "path": "처음 발견한 error.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "mySQL/MySQL DB.md"
+    },
+    {
       "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
       "path": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Python match",
       "path": "Python/Python match.md"
-    },
-    {
-      "basename": "import 되지 않을 때",
-      "path": "import 되지 않을 때.md"
-    },
-    {
-      "basename": "Python tkinter",
-      "path": "Python tkinter.md"
     }
   ],
   "omittedPaths": [],
