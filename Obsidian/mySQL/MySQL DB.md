@@ -20,3 +20,7 @@ SQL(Structured query language)
 
 MySQL PostgreSQL
 not identical 하지만 그래도 비슷함.
+
+# A database is just a bunch of tables
+
+`In a relational database, at least_`
