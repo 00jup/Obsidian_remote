@@ -9,7 +9,8 @@
 # 기초
 [[mysql 실행하기]]
 [[원하는 database 변경하기]]
-[[database 살펴보]]
+[[database 살펴보기]]
+
 
 
 
