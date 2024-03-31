@@ -5,6 +5,10 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "mysql 실행하기",
+      "path": "mysql 실행하기.md"
+    },
+    {
       "basename": "내가 원하는 이름의 데이터 찾기",
       "path": "내가 원하는 이름의 데이터 찾기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "calloc use",
       "path": "C/calloc use.md"
-    },
-    {
-      "basename": "C switch",
-      "path": "C/C switch.md"
     }
   ],
   "omittedPaths": [],

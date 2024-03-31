@@ -6,6 +6,9 @@
 # 응용
 [[내가 원하는 이름의 데이터 찾기]]
 
+# 기초
+[[mysql 실행하기]]
+
 
 
 MySQL은 DB manage system이다.
