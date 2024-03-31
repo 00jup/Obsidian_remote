@@ -8,7 +8,7 @@
 
 # 기초
 [[mysql 실행하기]]
-
+[[dat]]
 
 
 MySQL은 DB manage system이다.
