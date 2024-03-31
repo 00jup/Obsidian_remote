@@ -5,6 +5,10 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "내가 원하는 이름의 데이터 찾기",
+      "path": "내가 원하는 이름의 데이터 찾기.md"
+    },
+    {
       "basename": "처음 발견한 error",
       "path": "처음 발견한 error.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C switch",
       "path": "C/C switch.md"
-    },
-    {
-      "basename": "Python match",
-      "path": "Python/Python match.md"
     }
   ],
   "omittedPaths": [],
