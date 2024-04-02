@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
-      "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
+      "basename": "account example",
+      "path": "account example.md"
+    },
+    {
+      "basename": "refactoring EX",
+      "path": "refactoring EX.md"
     },
     {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
+      "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
     },
     {
       "basename": "buffer 지우기",
@@ -191,14 +199,6 @@
     {
       "basename": "Python에서 전역변수와 지역변수",
       "path": "Python에서 전역변수와 지역변수.md"
-    },
-    {
-      "basename": "DataFrame index, columns 정리",
-      "path": "Python/DataFrame index, columns 정리.md"
-    },
-    {
-      "basename": "??",
-      "path": "Python/??.md"
     }
   ],
   "omittedPaths": [],
