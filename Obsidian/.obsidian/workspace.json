@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java DB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4f7cf2fad79dba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "overloading vs overriding.md",
-                "mode": "source",
+                "file": "buffer 지우기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "buffer 지우기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "buffer 지우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -238,11 +225,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4f7cf2fad79dba0",
+  "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
     "Java/Java DB.md",
-    "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md",
     "overloading vs overriding.md",
+    "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md",
     "static의 의미.md",
     "(void * )sum의 의미.md",
     "가변길이 매개변수.md",
