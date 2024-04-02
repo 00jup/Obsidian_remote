@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "overloading vs overriding",
+      "path": "overloading vs overriding.md"
+    },
+    {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
       "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
-    },
-    {
-      "basename": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
-      "path": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md"
     }
   ],
   "omittedPaths": [],
