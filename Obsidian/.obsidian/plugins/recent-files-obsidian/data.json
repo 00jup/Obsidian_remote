@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "buffer 지우기",
-      "path": "buffer 지우기.md"
+      "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
+      "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
     },
     {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "buffer 지우기",
+      "path": "buffer 지우기.md"
     },
     {
       "basename": "overloading vs overriding",
@@ -195,10 +199,6 @@
     {
       "basename": "??",
       "path": "Python/??.md"
-    },
-    {
-      "basename": "' & \" in java",
-      "path": "' & \" in java.md"
     }
   ],
   "omittedPaths": [],
