@@ -13,6 +13,7 @@
 
 
 ## java 기초
+[[java에서 main 함수 내에서는 함수 정의가 되지 않는다.]]
 [[public static void main(String[] args)]]
 [[buffer 지우기]]
 [[static의 의미]]

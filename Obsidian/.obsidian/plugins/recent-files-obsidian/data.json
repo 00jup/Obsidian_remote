@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "overloading vs overriding",
-      "path": "overloading vs overriding.md"
+      "basename": "java에서 main 함수 내에서는 함수 정의가 되지 않는다.",
+      "path": "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md"
     },
     {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "overloading vs overriding",
+      "path": "overloading vs overriding.md"
     },
     {
       "basename": "static의 의미",
@@ -195,10 +199,6 @@
     {
       "basename": "' & \" in java",
       "path": "' & \" in java.md"
-    },
-    {
-      "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
-      "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
     }
   ],
   "omittedPaths": [],
