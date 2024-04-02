@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(void * )sum의 의미.md",
+                "file": "static의 의미.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(void * )sum의 의미.md",
+                "file": "static의 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(void * )sum의 의미.md",
+                "file": "static의 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(void * )sum의 의미.md"
+                "file": "static의 의미.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "(void * )sum의 의미.md"
+                "file": "static의 의미.md"
               }
             }
           },
@@ -227,10 +227,12 @@
   },
   "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
+    "Java/Java DB.md",
+    "static의 의미.md",
+    "(void * )sum의 의미.md",
     "가변길이 매개변수.md",
     "java 스럽다.md",
     "향상된 for 문.md",
-    "Java/Java DB.md",
     "만들고 실행.md",
     "mySQL/MySQL DB.md",
     "database 살펴보기.md",
@@ -253,8 +255,6 @@
     "C/argc argv.md",
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "Pointer 사용 예제.md",
-    "buffer 지우기.md",
-    "public static void main(String[] args).md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",

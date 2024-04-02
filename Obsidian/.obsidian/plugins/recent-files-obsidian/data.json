@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "static의 의미",
+      "path": "static의 의미.md"
+    },
+    {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
       "basename": "(void * )sum의 의미",
       "path": "(void * )sum의 의미.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "향상된 for 문",
       "path": "향상된 for 문.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
     },
     {
       "basename": "만들고 실행",
@@ -195,10 +199,6 @@
     {
       "basename": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
       "path": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md"
-    },
-    {
-      "basename": "C DB",
-      "path": "C/C DB.md"
     }
   ],
   "omittedPaths": [],
