@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "만들고 실행.md",
-                "mode": "source",
+                "file": "향상된 for 문.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "만들고 실행.md",
+                "file": "향상된 for 문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "만들고 실행.md",
+                "file": "향상된 for 문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "만들고 실행.md"
+                "file": "향상된 for 문.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "만들고 실행.md"
+                "file": "향상된 for 문.md"
               }
             }
           },
@@ -240,10 +240,13 @@
   },
   "active": "55e036f240067587",
   "lastOpenFiles": [
+    "java 스럽다.md",
+    "가변길이 매개변수.md",
+    "Java/Java DB.md",
+    "만들고 실행.md",
     "mySQL/MySQL DB.md",
     "database 살펴보기.md",
     "원하는 database 변경하기.md",
-    "만들고 실행.md",
     "comment in SQL.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mysql 실행하기.md",
@@ -263,11 +266,8 @@
     "Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "Pointer 사용 예제.md",
     "buffer 지우기.md",
-    "Java/Java DB.md",
     "public static void main(String[] args).md",
     "this를 상속해서 사용하는 법, overrroading에서 가능함.md",
-    "substring 사용법.md",
-    "Array.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",
