@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "55e036f240067587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "향상된 for 문.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c17cb007d6cdcf39",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "향상된 for 문.md",
+                "file": "(void * )sum의 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "향상된 for 문.md",
+                "file": "(void * )sum의 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "향상된 for 문.md"
+                "file": "(void * )sum의 의미.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "향상된 for 문.md"
+                "file": "(void * )sum의 의미.md"
               }
             }
           },
@@ -238,10 +225,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55e036f240067587",
+  "active": "ff77c86846ab91f3",
   "lastOpenFiles": [
-    "java 스럽다.md",
     "가변길이 매개변수.md",
+    "java 스럽다.md",
+    "향상된 for 문.md",
     "Java/Java DB.md",
     "만들고 실행.md",
     "mySQL/MySQL DB.md",
@@ -267,7 +255,6 @@
     "Pointer 사용 예제.md",
     "buffer 지우기.md",
     "public static void main(String[] args).md",
-    "this를 상속해서 사용하는 법, overrroading에서 가능함.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",
