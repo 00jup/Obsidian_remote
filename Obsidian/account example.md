@@ -153,6 +153,7 @@ public class Account {
 ```
 
 # after refactoring
+## BankApplication.java
 
 ```java
 package ch04.sec02;
@@ -227,6 +228,35 @@ public class BankApplication {
 
 
     }
+}
+
+```
+
+## Account.java
+```java
+package ch04.sec02;
+
+public class account {
+    String account_num;
+    String name;
+    int total_money;
+    account(){}
+
+
+
+    account(String account_num, String name, int total_money){
+        this.account_num = account_num;
+        this.name = name;
+        this.total_money = total_money;
+    }
+
+    void deposit(int deposit_money){
+        this.total_money += deposit_money;
+    }
+    void draw(int draw_money){
+        this.total_money -= draw_money;
+    }
+
 }
 
 ```
