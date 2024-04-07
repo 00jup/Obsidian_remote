@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다.",
+      "path": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md"
+    },
+    {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "비트연산",
       "path": "Python/비트연산.md"
-    },
-    {
-      "basename": "Python에서 전역변수와 지역변수",
-      "path": "Python에서 전역변수와 지역변수.md"
     }
   ],
   "omittedPaths": [],
