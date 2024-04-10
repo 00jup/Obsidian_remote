@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
+                "file": "mySQL/MySQL DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "231c8d66bfe32f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database 살펴보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
+                "file": "database 살펴보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
+                "file": "database 살펴보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md"
+                "file": "database 살펴보기.md"
               }
             }
           },
@@ -244,7 +256,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md"
+                "file": "database 살펴보기.md"
               }
             }
           },
@@ -286,10 +298,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f604a165cd304ed",
+  "active": "231c8d66bfe32f96",
   "lastOpenFiles": [
-    "Java/Java DB.md",
+    "mySQL/MySQL DB.md",
+    "원하는 database 변경하기.md",
     "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
+    "Java/Java DB.md",
     "refactoring EX.md",
     "account example.md",
     "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
@@ -302,9 +316,7 @@
     "java 스럽다.md",
     "향상된 for 문.md",
     "만들고 실행.md",
-    "mySQL/MySQL DB.md",
     "database 살펴보기.md",
-    "원하는 database 변경하기.md",
     "comment in SQL.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mysql 실행하기.md",
