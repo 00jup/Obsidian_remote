@@ -36,3 +36,11 @@ class RemoteControlExample(){
 ```
 
 # 2 public Control(RemoteControl rc)
+
+```java
+public Control(RemoteControl rc){
+	rc.turnOn();
+}
+```
+
+위와 같이 사용하기 위함ㅊㅊㅊㅊㅊㅊ
