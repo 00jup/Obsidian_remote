@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "interface나 inheritance",
+      "path": "interface나 inheritance.md"
+    },
+    {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python 실수 모음",
       "path": "Python/Python 실수 모음.md"
-    },
-    {
-      "basename": "Python에서 power",
-      "path": "Python/Python에서 power.md"
     }
   ],
   "omittedPaths": [],

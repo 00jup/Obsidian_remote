@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "interface나 inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "interface나 inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "interface나 inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "interface나 inheritance.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "interface나 inheritance.md"
               }
             }
           },
@@ -301,8 +301,9 @@
   },
   "active": "231c8d66bfe32f96",
   "lastOpenFiles": [
-    "overloading vs overriding.md",
     "Java/Java DB.md",
+    "interface나 inheritance.md",
+    "overloading vs overriding.md",
     "super.method vs method in extends.md",
     "database 살펴보기.md",
     "mySQL/MySQL DB.md",
@@ -328,7 +329,6 @@
     "mySQL",
     "C/strcpy.md",
     "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
-    "2024-1 자료구조에서 배운 포인터.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",

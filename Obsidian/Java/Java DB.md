@@ -24,7 +24,8 @@
 
 [[java 스럽다]]
 [[java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!]]
-[[]]
+[[interface나 inheritance]]
+
 
 ## refactoring
 자바에서는 class 이름 대문자로 시작함.
