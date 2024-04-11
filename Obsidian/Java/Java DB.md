@@ -11,6 +11,7 @@
 [[overloading vs overriding]]
 [[java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다.]]
 [[super.method vs method in extends]]
+[[static method 쓰는 이유]]
 
 
 ## java 기초

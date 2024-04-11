@@ -25,6 +25,9 @@ class A{
 	void method1(String z){}
 }
 ```
+
+[[static method 쓰는 이유]]
+
 # overriding
 부모 class에 있는 게 자식에도 있는지 확인하고 싶을 때 사용한다.
 
