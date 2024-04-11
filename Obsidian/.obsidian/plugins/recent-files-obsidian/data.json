@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "overloading vs overriding",
-      "path": "overloading vs overriding.md"
+      "basename": "super.method vs method in extends",
+      "path": "super.method vs method in extends.md"
     },
     {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "overloading vs overriding",
+      "path": "overloading vs overriding.md"
     },
     {
       "basename": "database 살펴보기",
@@ -195,10 +199,6 @@
     {
       "basename": "Python에서 power",
       "path": "Python/Python에서 power.md"
-    },
-    {
-      "basename": "비트연산",
-      "path": "Python/비트연산.md"
     }
   ],
   "omittedPaths": [],

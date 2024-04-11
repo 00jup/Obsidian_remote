@@ -38,6 +38,9 @@ class B extends A{
 	void method1(int x){
 	
 	}
+	//void method1(String x){
+	// 이건 override 안 해도 되는지
+	//}
 }
 ```
 

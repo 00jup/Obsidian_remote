@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "super.method vs method in extends.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "super.method vs method in extends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "super.method vs method in extends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "super.method vs method in extends.md"
               }
             }
           },
@@ -256,7 +257,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "super.method vs method in extends.md"
               }
             }
           },
@@ -301,6 +302,8 @@
   "active": "231c8d66bfe32f96",
   "lastOpenFiles": [
     "Java/Java DB.md",
+    "super.method vs method in extends.md",
+    "overloading vs overriding.md",
     "database 살펴보기.md",
     "mySQL/MySQL DB.md",
     "원하는 database 변경하기.md",
@@ -309,7 +312,6 @@
     "account example.md",
     "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
     "buffer 지우기.md",
-    "overloading vs overriding.md",
     "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md",
     "static의 의미.md",
     "(void * )sum의 의미.md",
@@ -327,7 +329,6 @@
     "C/strcpy.md",
     "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
     "2024-1 자료구조에서 배운 포인터.md",
-    "C/Pointer 할당 및 해제.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",
