@@ -17,8 +17,29 @@ public class MainExample{
 }
 ```
 
+함수의 이름이 같고 parameter가 다르다.
+
+```java
+class A{
+	void method1(int x, int y){}
+	void method1(String z){}
+}
+```
 # overriding
 부모 class에 있는 게 자식에도 있는지 확인하고 싶을 때 사용한다.
+
+```java
+class A{
+	void method1(int x){}
+}
+
+class B extends A{
+	@override
+	void method1(int x){
+	
+	}
+}
+```
 
 ## Point.move
 ```java
@@ -69,3 +90,5 @@ public class Point3D extends Point{
 ```
 
 여기서 super.move(x, y)를 사용할 필요는 없다.
+
+함수의 이름과 parameter가 같다.
