@@ -68,4 +68,4 @@ public class Point3D extends Point{
 }
 ```
 
-du
+여기서 super.move(x, y)를 사용할 필요는 없다.
