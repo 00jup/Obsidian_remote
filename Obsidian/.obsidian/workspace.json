@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interface나 inheritance.md",
-                "mode": "source",
+                "file": "overloading vs overriding.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interface나 inheritance.md",
+                "file": "overloading vs overriding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interface나 inheritance.md",
+                "file": "overloading vs overriding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interface나 inheritance.md"
+                "file": "overloading vs overriding.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interface나 inheritance.md"
+                "file": "overloading vs overriding.md"
               }
             }
           },
