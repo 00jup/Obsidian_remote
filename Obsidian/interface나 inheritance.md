@@ -43,4 +43,4 @@ public Control(RemoteControl rc){
 }
 ```
 
-위와 같이 사용하기 위함ㅊㅊㅊㅊㅊㅊ
+위와 같이 사용하기 위함
