@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overloading vs overriding.md",
-                "mode": "source",
+                "file": "Python/Python 값을 던지기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "Python/Python 값을 던지기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overloading vs overriding.md",
+                "file": "Python/Python 값을 던지기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "Python/Python 값을 던지기.md"
               }
             }
           },
@@ -244,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "overloading vs overriding.md"
+                "file": "Python/Python 값을 던지기.md"
               }
             }
           },
@@ -288,10 +288,12 @@
   },
   "active": "5f604a165cd304ed",
   "lastOpenFiles": [
+    "Python/Python DB.md",
+    "Python/What is the pythonic code?.md",
+    "overloading vs overriding.md",
     "Java/Java DB.md",
     "static method 쓰는 이유.md",
     "mySQL/MySQL DB.md",
-    "overloading vs overriding.md",
     "interface나 inheritance.md",
     "super.method vs method in extends.md",
     "database 살펴보기.md",
@@ -313,9 +315,7 @@
     "mysql 실행하기.md",
     "내가 원하는 이름의 데이터 찾기.md",
     "처음 발견한 error.md",
-    "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
     "mySQL",
-    "C/strcpy.md",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",

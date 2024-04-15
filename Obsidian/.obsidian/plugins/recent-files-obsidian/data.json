@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Python 값을 던지기",
+      "path": "Python/Python 값을 던지기.md"
+    },
+    {
+      "basename": "Python DB",
+      "path": "Python/Python DB.md"
+    },
+    {
+      "basename": "What is the pythonic code?",
+      "path": "Python/What is the pythonic code?.md"
+    },
+    {
       "basename": "overloading vs overriding",
       "path": "overloading vs overriding.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Python dictionary indexing in if",
       "path": "Python/Python dictionary indexing in if.md"
-    },
-    {
-      "basename": "Python dictionary",
-      "path": "Python/Python dictionary.md"
-    },
-    {
-      "basename": "Python is_alive",
-      "path": "Python/Python is_alive.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "Python/Python DB.md"
     }
   ],
   "omittedPaths": [],
