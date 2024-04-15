@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2ffc6696f56622",
+        "id": "32e9128dca91a74e",
         "type": "tabs",
         "children": [
           {
-            "id": "ff77c86846ab91f3",
+            "id": "8dc4e9b00222fc71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java DB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6618811d324eaba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acbcf62330155d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java DB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f604a165cd304ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python 값을 던지기.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4413ba1a1b4d6a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "refactoring EX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edb03464f31ba87b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "account example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c17cb007d6cdcf39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/(void*) 포인터 형인 것을 알려주기 위함.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malloc",
+                "query": "pointer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -174,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python 값을 던지기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python 값을 던지기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Python 값을 던지기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Python/Python 값을 던지기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -286,12 +204,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f604a165cd304ed",
+  "active": "8dc4e9b00222fc71",
   "lastOpenFiles": [
+    "C/(void*) 포인터 형인 것을 알려주기 위함.md",
+    "account example.md",
+    "refactoring EX.md",
+    "Java/Java DB.md",
+    "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
+    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
+    "2024-1 자료구조에서 배운 포인터.md",
+    "C/C DB.md",
+    "Python/Python 값을 던지기.md",
     "Python/Python DB.md",
     "Python/What is the pythonic code?.md",
     "overloading vs overriding.md",
-    "Java/Java DB.md",
     "static method 쓰는 이유.md",
     "mySQL/MySQL DB.md",
     "interface나 inheritance.md",
@@ -299,9 +225,6 @@
     "database 살펴보기.md",
     "원하는 database 변경하기.md",
     "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
-    "refactoring EX.md",
-    "account example.md",
-    "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
     "buffer 지우기.md",
     "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md",
     "static의 의미.md",
@@ -309,12 +232,7 @@
     "가변길이 매개변수.md",
     "java 스럽다.md",
     "향상된 for 문.md",
-    "만들고 실행.md",
-    "comment in SQL.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
-    "mysql 실행하기.md",
-    "내가 원하는 이름의 데이터 찾기.md",
-    "처음 발견한 error.md",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",

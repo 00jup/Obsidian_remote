@@ -32,4 +32,6 @@ void set_pointer(char *q)
 
 그래서 주소를 전달해야 하는 거임.
 
+-> 그래야 p의 값을 바꿀 수 있다.
+
 [[Pointer 사용 예제]]
