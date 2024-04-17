@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Python match",
+      "path": "Python/Python match.md"
+    },
+    {
+      "basename": "Python is_alive",
+      "path": "Python/Python is_alive.md"
+    },
+    {
+      "basename": "C switch",
+      "path": "C/C switch.md"
+    },
+    {
       "basename": "(void*) 포인터 형인 것을 알려주기 위함",
       "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "java String[] args meanings",
       "path": "java String[] args meanings.md"
-    },
-    {
-      "basename": "difference of  System.out & System.err",
-      "path": "difference of  System.out & System.err.md"
-    },
-    {
-      "basename": "Python dictionary 데이터 추가하기",
-      "path": "Python/Python dictionary 데이터 추가하기.md"
-    },
-    {
-      "basename": "defaultdict 응용",
-      "path": "Python/defaultdict 응용.md"
     }
   ],
   "omittedPaths": [],
