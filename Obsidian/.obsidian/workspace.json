@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "패러렐즈 Capslock으로 한영 변환.md",
+                "file": "맥에 윈도우 설치하는 법.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "윈도우",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패러렐즈 Capslock으로 한영 변환.md",
+                "file": "맥에 윈도우 설치하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패러렐즈 Capslock으로 한영 변환.md",
+                "file": "맥에 윈도우 설치하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "패러렐즈 Capslock으로 한영 변환.md"
+                "file": "맥에 윈도우 설치하는 법.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "패러렐즈 Capslock으로 한영 변환.md"
+                "file": "맥에 윈도우 설치하는 법.md"
               }
             }
           },
@@ -228,8 +229,9 @@
   },
   "active": "3c26f69fbe16448e",
   "lastOpenFiles": [
-    "java String[] args meanings.md",
+    "Flutter/Flutter image_picker.md",
     "패러렐즈 Capslock으로 한영 변환.md",
+    "java String[] args meanings.md",
     "C/argv (null) MallocNanoZone = 0 설명.md",
     "account example.md",
     "Python/Python match.md",
@@ -253,7 +255,6 @@
     "database 살펴보기.md",
     "원하는 database 변경하기.md",
     "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md",
-    "buffer 지우기.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
