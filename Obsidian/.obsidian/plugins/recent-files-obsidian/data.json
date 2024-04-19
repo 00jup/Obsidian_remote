@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "패러렐즈 Capslock으로 한영 변환",
+      "path": "패러렐즈 Capslock으로 한영 변환.md"
+    },
+    {
       "basename": "java String[] args meanings",
       "path": "java String[] args meanings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Array",
       "path": "Array.md"
-    },
-    {
-      "basename": "Array에서 Hello World 출력하는 방법",
-      "path": "Array에서 Hello World 출력하는 방법.md"
     }
   ],
   "omittedPaths": [],
