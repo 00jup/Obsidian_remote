@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "import 되지 않을 때",
+      "path": "import 되지 않을 때.md"
+    },
+    {
       "basename": "맥에 윈도우 설치하는 법",
       "path": "맥에 윈도우 설치하는 법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "public static void main(String[] args)",
       "path": "public static void main(String[] args).md"
-    },
-    {
-      "basename": "this를 상속해서 사용하는 법, overrroading에서 가능함",
-      "path": "this를 상속해서 사용하는 법, overrroading에서 가능함.md"
     }
   ],
   "omittedPaths": [],
