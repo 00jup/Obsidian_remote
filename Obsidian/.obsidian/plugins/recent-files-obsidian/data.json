@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Java DB",
+      "path": "Java/Java DB.md"
+    },
+    {
+      "basename": "overloading vs overriding",
+      "path": "overloading vs overriding.md"
+    },
+    {
+      "basename": "아니 이걸 틀린다고?? 이걸?!?!",
+      "path": "아니 이걸 틀린다고?? 이걸?!?!.md"
+    },
+    {
       "basename": "import 되지 않을 때",
       "path": "import 되지 않을 때.md"
     },
@@ -49,10 +61,6 @@
       "path": "refactoring EX.md"
     },
     {
-      "basename": "Java DB",
-      "path": "Java/Java DB.md"
-    },
-    {
       "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
       "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "What is the pythonic code?",
       "path": "Python/What is the pythonic code?.md"
-    },
-    {
-      "basename": "overloading vs overriding",
-      "path": "overloading vs overriding.md"
     },
     {
       "basename": "static method 쓰는 이유",
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer 사용 예제",
       "path": "Pointer 사용 예제.md"
-    },
-    {
-      "basename": "public static void main(String[] args)",
-      "path": "public static void main(String[] args).md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
 [[super.method vs method in extends]]
 [[static method 쓰는 이유]]
 
-
+[[아니 이걸 틀린다고?? 이걸?!?!]]
 ## java 기초
 [[java에서 main 함수 내에서는 함수 정의가 되지 않는다.]]
 [[public static void main(String[] args)]]
