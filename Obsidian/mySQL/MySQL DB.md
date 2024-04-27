@@ -1,4 +1,16 @@
 
+# CRUD
+
+데이터를 관리하는 방법
+
+create
+
+read
+
+update
+
+delete
+
 # ERROR
 [[처음 발견한 error]]
 
@@ -12,6 +24,9 @@
 [[database 살펴보기]]
 [[만들고 실행 ]]
 [[comment in SQL]]
+
+## 데이터 삽입
+[[INSERT]]
 
 
 

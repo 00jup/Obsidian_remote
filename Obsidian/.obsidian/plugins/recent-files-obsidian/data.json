@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "INSERT",
+      "path": "INSERT.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "원하는 database 변경하기",
+      "path": "원하는 database 변경하기.md"
+    },
+    {
+      "basename": "database 살펴보기",
+      "path": "database 살펴보기.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "mysql 실행하기.md"
+    },
+    {
       "basename": "Java DB",
       "path": "Java/Java DB.md"
     },
@@ -93,24 +113,12 @@
       "path": "static method 쓰는 이유.md"
     },
     {
-      "basename": "MySQL DB",
-      "path": "mySQL/MySQL DB.md"
-    },
-    {
       "basename": "interface나 inheritance",
       "path": "interface나 inheritance.md"
     },
     {
       "basename": "super.method vs method in extends",
       "path": "super.method vs method in extends.md"
-    },
-    {
-      "basename": "database 살펴보기",
-      "path": "database 살펴보기.md"
-    },
-    {
-      "basename": "원하는 database 변경하기",
-      "path": "원하는 database 변경하기.md"
     },
     {
       "basename": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다.",
@@ -153,10 +161,6 @@
       "path": "comment in SQL.md"
     },
     {
-      "basename": "mysql 실행하기",
-      "path": "mysql 실행하기.md"
-    },
-    {
       "basename": "내가 원하는 이름의 데이터 찾기",
       "path": "내가 원하는 이름의 데이터 찾기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer로 값을 받으려면 동적할당 해야 함",
       "path": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
-    },
-    {
-      "basename": "Pointer 사용 예제",
-      "path": "Pointer 사용 예제.md"
     }
   ],
   "omittedPaths": [],

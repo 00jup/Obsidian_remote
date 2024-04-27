@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "INSERT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "INSERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java DB.md",
+                "file": "INSERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "INSERT.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Java DB.md"
+                "file": "INSERT.md"
               }
             }
           },
@@ -240,8 +241,13 @@
   },
   "active": "3c26f69fbe16448e",
   "lastOpenFiles": [
-    "overloading vs overriding.md",
+    "mySQL/MySQL DB.md",
+    "INSERT.md",
+    "원하는 database 변경하기.md",
+    "database 살펴보기.md",
+    "mysql 실행하기.md",
     "Java/Java DB.md",
+    "overloading vs overriding.md",
     "아니 이걸 틀린다고?? 이걸?!?!.md",
     "import 되지 않을 때.md",
     "맥에 윈도우 설치하는 법.md",
@@ -261,11 +267,6 @@
     "C/C DB.md",
     "Python/Python 값을 던지기.md",
     "Python/Python DB.md",
-    "Python/What is the pythonic code?.md",
-    "static method 쓰는 이유.md",
-    "mySQL/MySQL DB.md",
-    "interface나 inheritance.md",
-    "super.method vs method in extends.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
