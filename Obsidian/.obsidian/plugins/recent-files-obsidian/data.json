@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "SELECT",
-      "path": "SELECT.md"
+      "basename": "UPDATE",
+      "path": "UPDATE.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "SELECT",
+      "path": "SELECT.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
@@ -195,10 +199,6 @@
     {
       "basename": "LITTLE ENDIAN",
       "path": "C/LITTLE ENDIAN.md"
-    },
-    {
-      "basename": "int array의 length 구하기",
-      "path": "C/int array의 length 구하기.md"
     }
   ],
   "omittedPaths": [],

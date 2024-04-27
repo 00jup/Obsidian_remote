@@ -9,6 +9,7 @@ read
 [[SELECT]]
 
 update
+[[UPDATE]]
 
 delete
 

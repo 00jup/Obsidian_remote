@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SELECT.md",
+                "file": "mySQL/MySQL DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27db931981c46511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPDATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELECT.md",
+                "file": "UPDATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SELECT.md",
+                "file": "UPDATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SELECT.md"
+                "file": "UPDATE.md"
               }
             }
           },
@@ -184,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SELECT.md"
+                "file": "UPDATE.md"
               }
             }
           },
@@ -226,11 +239,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74a31fcfa973db90",
+  "active": "27db931981c46511",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
-    "INSERT(CRUD에서 create 부분).md",
+    "UPDATE.md",
     "SELECT.md",
+    "INSERT(CRUD에서 create 부분).md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "mysql 실행하기.md",
     "comment in SQL.md",
@@ -253,7 +267,6 @@
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "refactoring EX.md",
     "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
-    "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
