@@ -13,21 +13,21 @@ VALUES('taco', 14)
 
 -- Create the new cats table: 
 
-1. CREATE TABLE cats (
-2.     cat_id INT AUTO_INCREMENT,
-3.     name VARCHAR(100),
-4.     breed VARCHAR(100),
-5.     age INT,
-6.     PRIMARY KEY (cat_id)
-7. ); 
+CREATE TABLE cats (
+	cat_id INT AUTO_INCREMENT,
+	name VARCHAR(100),
+	breed VARCHAR(100),
+	age INT,
+	PRIMARY KEY (cat_id)
+); 
 
 -- Insert some cats:
 
-1. INSERT INTO cats(name, breed, age) 
-2. VALUES ('Ringo', 'Tabby', 4),
-3.        ('Cindy', 'Maine Coon', 10),
-4.        ('Dumbledore', 'Maine Coon', 11),
-5.        ('Egg', 'Persian', 4),
-6.        ('Misty', 'Tabby', 13),
-7.        ('George Michael', 'Ragdoll', 9),
-8.        ('Jackson', 'Sphynx', 7);
+INSERT INTO cats(name, breed, age) 
+VALUES ('Ringo', 'Tabby', 4),
+('Cindy', 'Maine Coon', 10),
+('Dumbledore', 'Maine Coon', 11),
+('Egg', 'Persian', 4),
+('Misty', 'Tabby', 13),
+('George Michael', 'Ragdoll', 9),
+('Jackson', 'Sphynx', 7);

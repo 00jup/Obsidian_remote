@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mySQL/MySQL DB.md",
-                "mode": "preview",
+                "file": "INSERT(CRUD에서 create 부분).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "INSERT(CRUD에서 create 부분).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "INSERT(CRUD에서 create 부분).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "INSERT(CRUD에서 create 부분).md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "INSERT(CRUD에서 create 부분).md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "74a31fcfa973db90",
   "lastOpenFiles": [
-    "SELECT.md",
     "mySQL/MySQL DB.md",
+    "SELECT.md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "mysql 실행하기.md",
     "INSERT(CRUD에서 create 부분).md",

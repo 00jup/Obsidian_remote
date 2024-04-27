@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "INSERT(CRUD에서 create 부분).md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "mysql 실행하기",
       "path": "mysql 실행하기.md"
-    },
-    {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "INSERT(CRUD에서 create 부분).md"
     },
     {
       "basename": "comment in SQL",
