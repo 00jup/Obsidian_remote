@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "INSERT(CRUD에서 create 부분).md"
+      "basename": "SELECT",
+      "path": "SELECT.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
     {
-      "basename": "SELECT",
-      "path": "SELECT.md"
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "INSERT(CRUD에서 create 부분).md"
     },
     {
       "basename": "실행하고 목록 표시 SHOW DATABASES;",
