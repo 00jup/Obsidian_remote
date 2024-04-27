@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "INSERT",
-      "path": "INSERT.md"
-    },
-    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
     {
-      "basename": "원하는 database 변경하기",
-      "path": "원하는 database 변경하기.md"
+      "basename": "SELECT",
+      "path": "SELECT.md"
+    },
+    {
+      "basename": "실행하고 목록 표시 SHOW DATABASES;",
+      "path": "실행하고 목록 표시 SHOW DATABASES;.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "mysql 실행하기.md"
+    },
+    {
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "comment in SQL",
+      "path": "comment in SQL.md"
+    },
+    {
+      "basename": "만들고 실행",
+      "path": "만들고 실행.md"
     },
     {
       "basename": "database 살펴보기",
       "path": "database 살펴보기.md"
     },
     {
-      "basename": "mysql 실행하기",
-      "path": "mysql 실행하기.md"
+      "basename": "아니 이걸 틀린다고?? 이걸?!?!",
+      "path": "아니 이걸 틀린다고?? 이걸?!?!.md"
+    },
+    {
+      "basename": "java String[] args meanings",
+      "path": "java String[] args meanings.md"
+    },
+    {
+      "basename": "원하는 database 변경하기",
+      "path": "원하는 database 변경하기.md"
     },
     {
       "basename": "Java DB",
@@ -27,10 +51,6 @@
     {
       "basename": "overloading vs overriding",
       "path": "overloading vs overriding.md"
-    },
-    {
-      "basename": "아니 이걸 틀린다고?? 이걸?!?!",
-      "path": "아니 이걸 틀린다고?? 이걸?!?!.md"
     },
     {
       "basename": "import 되지 않을 때",
@@ -47,10 +67,6 @@
     {
       "basename": "패러렐즈 Capslock으로 한영 변환",
       "path": "패러렐즈 Capslock으로 한영 변환.md"
-    },
-    {
-      "basename": "java String[] args meanings",
-      "path": "java String[] args meanings.md"
     },
     {
       "basename": "argv (null) MallocNanoZone = 0 설명",
@@ -153,14 +169,6 @@
       "path": "향상된 for 문.md"
     },
     {
-      "basename": "만들고 실행",
-      "path": "만들고 실행.md"
-    },
-    {
-      "basename": "comment in SQL",
-      "path": "comment in SQL.md"
-    },
-    {
       "basename": "내가 원하는 이름의 데이터 찾기",
       "path": "내가 원하는 이름의 데이터 찾기.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "int array의 length 구하기",
       "path": "C/int array의 length 구하기.md"
-    },
-    {
-      "basename": "argc argv",
-      "path": "C/argc argv.md"
-    },
-    {
-      "basename": "Pointer로 값을 받으려면 동적할당 해야 함",
-      "path": "Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
     }
   ],
   "omittedPaths": [],

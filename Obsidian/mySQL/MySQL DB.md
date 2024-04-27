@@ -6,6 +6,7 @@
 create
 
 read
+[[SELECT]]
 
 update
 
@@ -20,13 +21,14 @@ delete
 
 # 기초
 [[mysql 실행하기]]
+[[실행하고 목록 표시 SHOW DATABASES;]]
 [[원하는 database 변경하기]]
 [[database 살펴보기]]
 [[만들고 실행 ]]
 [[comment in SQL]]
 
 ## 데이터 삽입
-[[INSERT]]
+[[INSERT(CRUD에서 create 부분)]]
 
 
 

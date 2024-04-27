@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "32e9128dca91a74e",
+        "id": "9244fcc81fad45a0",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc4e9b00222fc71",
+            "id": "74a31fcfa973db90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java String[] args meanings.md",
-                "mode": "source",
+                "file": "mySQL/MySQL DB.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3c26f69fbe16448e",
+            "id": "164c83a7d2e33f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSERT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38fbf5f4b3074ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아니 이걸 틀린다고?? 이걸?!?!.md",
+                "file": "실행하고 목록 표시 SHOW DATABASES;.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSERT.md",
+                "file": "mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSERT.md",
+                "file": "mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSERT.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -197,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSERT.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -239,21 +226,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c26f69fbe16448e",
+  "active": "74a31fcfa973db90",
   "lastOpenFiles": [
+    "SELECT.md",
     "mySQL/MySQL DB.md",
-    "INSERT.md",
-    "원하는 database 변경하기.md",
-    "database 살펴보기.md",
+    "실행하고 목록 표시 SHOW DATABASES;.md",
     "mysql 실행하기.md",
+    "INSERT(CRUD에서 create 부분).md",
+    "comment in SQL.md",
+    "만들고 실행.md",
+    "database 살펴보기.md",
+    "아니 이걸 틀린다고?? 이걸?!?!.md",
+    "java String[] args meanings.md",
+    "원하는 database 변경하기.md",
     "Java/Java DB.md",
     "overloading vs overriding.md",
-    "아니 이걸 틀린다고?? 이걸?!?!.md",
     "import 되지 않을 때.md",
     "맥에 윈도우 설치하는 법.md",
     "Flutter/Flutter image_picker.md",
     "패러렐즈 Capslock으로 한영 변환.md",
-    "java String[] args meanings.md",
     "C/argv (null) MallocNanoZone = 0 설명.md",
     "account example.md",
     "Python/Python match.md",
@@ -263,10 +254,6 @@
     "refactoring EX.md",
     "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
     "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-    "2024-1 자료구조에서 배운 포인터.md",
-    "C/C DB.md",
-    "Python/Python 값을 던지기.md",
-    "Python/Python DB.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
