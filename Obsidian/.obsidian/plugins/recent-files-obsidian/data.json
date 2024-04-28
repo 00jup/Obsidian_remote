@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "UPDATE",
-      "path": "UPDATE.md"
-    },
-    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "UPDATE",
+      "path": "UPDATE.md"
     },
     {
       "basename": "SELECT",
