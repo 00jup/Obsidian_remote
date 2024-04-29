@@ -5,6 +5,10 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "STRUCTURE",
+      "path": "STRUCTURE.md"
+    },
+    {
       "basename": "INSERT(CRUD에서 create 부분)",
       "path": "INSERT(CRUD에서 create 부분).md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "만들고 실행",
       "path": "만들고 실행.md"
-    },
-    {
-      "basename": "STRUCTURE",
-      "path": "STRUCTURE.md"
     },
     {
       "basename": "EELETE",
