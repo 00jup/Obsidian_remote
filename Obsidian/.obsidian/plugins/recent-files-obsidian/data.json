@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "INSERT(CRUD에서 create 부분).md"
-    },
-    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "INSERT(CRUD에서 create 부분).md"
     },
     {
       "basename": "원하는 database 변경하기",
