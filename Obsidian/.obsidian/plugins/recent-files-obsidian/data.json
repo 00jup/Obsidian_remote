@@ -5,6 +5,18 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "원하는 database 변경하기",
+      "path": "원하는 database 변경하기.md"
+    },
+    {
+      "basename": "database 살펴보기",
+      "path": "database 살펴보기.md"
+    },
+    {
+      "basename": "만들고 실행",
+      "path": "만들고 실행.md"
+    },
+    {
       "basename": "STRUCTURE",
       "path": "STRUCTURE.md"
     },
@@ -37,24 +49,12 @@
       "path": "comment in SQL.md"
     },
     {
-      "basename": "만들고 실행",
-      "path": "만들고 실행.md"
-    },
-    {
-      "basename": "database 살펴보기",
-      "path": "database 살펴보기.md"
-    },
-    {
       "basename": "아니 이걸 틀린다고?? 이걸?!?!",
       "path": "아니 이걸 틀린다고?? 이걸?!?!.md"
     },
     {
       "basename": "java String[] args meanings",
       "path": "java String[] args meanings.md"
-    },
-    {
-      "basename": "원하는 database 변경하기",
-      "path": "원하는 database 변경하기.md"
     },
     {
       "basename": "Java DB",

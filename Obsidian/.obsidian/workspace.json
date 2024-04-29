@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "mySQL/MySQL DB.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -240,8 +240,11 @@
   },
   "active": "74a31fcfa973db90",
   "lastOpenFiles": [
-    "STRUCTURE.md",
+    "원하는 database 변경하기.md",
     "mySQL/MySQL DB.md",
+    "database 살펴보기.md",
+    "만들고 실행.md",
+    "STRUCTURE.md",
     "EELETE.md",
     "UPDATE.md",
     "SELECT.md",
@@ -249,11 +252,8 @@
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "mysql 실행하기.md",
     "comment in SQL.md",
-    "만들고 실행.md",
-    "database 살펴보기.md",
     "아니 이걸 틀린다고?? 이걸?!?!.md",
     "java String[] args meanings.md",
-    "원하는 database 변경하기.md",
     "Java/Java DB.md",
     "overloading vs overriding.md",
     "import 되지 않을 때.md",
