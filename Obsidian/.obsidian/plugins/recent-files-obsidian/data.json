@@ -5,6 +5,14 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "STRUCTURE",
+      "path": "STRUCTURE.md"
+    },
+    {
+      "basename": "EELETE",
+      "path": "EELETE.md"
+    },
+    {
       "basename": "UPDATE",
       "path": "UPDATE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
       "path": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
-    },
-    {
-      "basename": "Pointer 할당 및 해제",
-      "path": "C/Pointer 할당 및 해제.md"
-    },
-    {
-      "basename": "LITTLE ENDIAN",
-      "path": "C/LITTLE ENDIAN.md"
     }
   ],
   "omittedPaths": [],

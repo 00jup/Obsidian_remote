@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d05071508fe320b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STRUCTURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "164c83a7d2e33f39",
             "type": "leaf",
             "state": {
@@ -228,8 +240,10 @@
   },
   "active": "74a31fcfa973db90",
   "lastOpenFiles": [
-    "UPDATE.md",
+    "STRUCTURE.md",
     "mySQL/MySQL DB.md",
+    "EELETE.md",
+    "UPDATE.md",
     "SELECT.md",
     "INSERT(CRUD에서 create 부분).md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
@@ -252,8 +266,6 @@
     "Python/Python is_alive.md",
     "C/C switch.md",
     "C/(void*) 포인터 형인 것을 알려주기 위함.md",
-    "refactoring EX.md",
-    "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
