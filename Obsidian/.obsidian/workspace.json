@@ -14,7 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "mySQL/MySQL DB.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc797e9c8acbd3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "String.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "String.md"
               }
             }
           },
@@ -238,10 +251,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74a31fcfa973db90",
+  "active": "dbc797e9c8acbd3c",
   "lastOpenFiles": [
-    "STRUCTURE.md",
     "mySQL/MySQL DB.md",
+    "String.md",
+    "C/string.h.md",
+    "STRUCTURE.md",
     "INSERT(CRUD에서 create 부분).md",
     "원하는 database 변경하기.md",
     "database 살펴보기.md",
@@ -264,8 +279,6 @@
     "account example.md",
     "Python/Python match.md",
     "Python/Python is_alive.md",
-    "C/C switch.md",
-    "C/(void*) 포인터 형인 것을 알려주기 위함.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

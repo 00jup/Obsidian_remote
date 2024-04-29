@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "String",
+      "path": "String.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "string.h",
+      "path": "C/string.h.md"
     },
     {
       "basename": "STRUCTURE",
@@ -191,14 +199,6 @@
     {
       "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
       "path": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
-    },
-    {
-      "basename": "strcpy",
-      "path": "C/strcpy.md"
-    },
-    {
-      "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-      "path": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
     }
   ],
   "omittedPaths": [],

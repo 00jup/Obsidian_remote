@@ -14,7 +14,7 @@ update
 delete
 [[EELETE]]
 # STRUCTURE
-[[STRUCTURE]]
+[[String]]
 # ERROR
 [[처음 발견한 error]]
 
