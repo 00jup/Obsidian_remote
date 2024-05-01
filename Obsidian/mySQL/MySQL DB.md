@@ -13,7 +13,7 @@ update
 [[UPDATE]]
 
 delete
-[[EELETE]]
+[[DELETE]]
 # STRUCTURE
 [[String]]
 

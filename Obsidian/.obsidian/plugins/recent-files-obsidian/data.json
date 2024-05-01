@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "LIKE",
-      "path": "LIKE.md"
+      "basename": "DELETE",
+      "path": "DELETE.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "LIKE",
+      "path": "LIKE.md"
     },
     {
       "basename": "LIMIT",
@@ -47,10 +51,6 @@
     {
       "basename": "만들고 실행",
       "path": "만들고 실행.md"
-    },
-    {
-      "basename": "EELETE",
-      "path": "EELETE.md"
     },
     {
       "basename": "UPDATE",
