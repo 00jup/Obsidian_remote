@@ -57,3 +57,14 @@ mysql> SELECT * FROM books WHERE author_fname LIKE '%a%';
 +---------+-----------------------------------------------------+--------------+----------------+---------------+----------------+-------+
 13 rows in set (0.00 sec)
 ```
+
+## escape
+```sql
+-- To select books with '%' in their title:
+SELECT * FROM books
+WHERE title LIKE '%\%%';
+ 
+-- To select books with an underscore '_' in title:
+SELECT * FROM books
+WHERE title LIKE '%\_%';
+```
