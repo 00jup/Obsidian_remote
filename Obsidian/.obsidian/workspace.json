@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distinct.md",
+                "file": "mySQL/MySQL DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba5c51c5f2b345c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Order by.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distinct.md",
+                "file": "Order by.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distinct.md",
+                "file": "Order by.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distinct.md"
+                "file": "Order by.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Distinct.md"
+                "file": "Order by.md"
               }
             }
           },
@@ -238,9 +251,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74a31fcfa973db90",
+  "active": "ba5c51c5f2b345c3",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
+    "Order by.md",
     "Distinct.md",
     "String.md",
     "C/string.h.md",
@@ -265,7 +279,6 @@
     "패러렐즈 Capslock으로 한영 변환.md",
     "C/argv (null) MallocNanoZone = 0 설명.md",
     "account example.md",
-    "Python/Python match.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

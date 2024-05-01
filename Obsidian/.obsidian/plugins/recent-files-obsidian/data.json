@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Distinct",
-      "path": "Distinct.md"
+      "basename": "Order by",
+      "path": "Order by.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "Distinct",
+      "path": "Distinct.md"
     },
     {
       "basename": "String",
@@ -195,10 +199,6 @@
     {
       "basename": "내가 원하는 이름의 데이터 찾기",
       "path": "내가 원하는 이름의 데이터 찾기.md"
-    },
-    {
-      "basename": "처음 발견한 error",
-      "path": "처음 발견한 error.md"
     }
   ],
   "omittedPaths": [],
