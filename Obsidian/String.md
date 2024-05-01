@@ -312,3 +312,21 @@ mysql> SELECT TRIM(BOTH'.' FROM '....san antonio..');
 1 row in set (0.01 sec)
 
 ```
+
+# formatting을 하는 이유
+
+```sql
+SELECT 
+    CONCAT(SUBSTR(title, 1, 10), '...') AS short_title,
+    CONCAT(author_lname, ',', author_fname) AS author,
+    CONCAT(stock_quantity, ' in stock') AS quantity
+FROM
+    books;
+```
+
+이게 아래보다 보기 편함
+
+```sql
+SELECT INSERT(title, 11,100, '...') AS 'short title', CONCAT(author_lname, ',', author_fname) AS
+author, CONCAT(stock_quantity ,'in stock')AS 'quantity' FROM books;
+```
