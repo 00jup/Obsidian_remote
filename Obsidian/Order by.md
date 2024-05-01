@@ -92,3 +92,10 @@ mysql> SELECT author_lname, released_year, title FROM books ORDER BY 1,2;
 ```
 
 굿굿 이렇게 사용하는 것도 가능함
+
+
+```sql
+mysql> SELECT CONCAT(author_fname, ' ',  author_lname) AS author FROM books ORDER BY 1;
+```
+
+이렇게 사용하는 것도 가능함!
