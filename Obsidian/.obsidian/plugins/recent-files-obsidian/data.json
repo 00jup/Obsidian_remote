@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "DELETE",
-      "path": "DELETE.md"
-    },
-    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
     {
-      "basename": "LIKE",
-      "path": "LIKE.md"
+      "basename": "특정 문자열 찾고 싶을 때 방법",
+      "path": "특정 문자열 찾고 싶을 때 방법.md"
+    },
+    {
+      "basename": "실행하고 목록 표시 SHOW DATABASES;",
+      "path": "실행하고 목록 표시 SHOW DATABASES;.md"
+    },
+    {
+      "basename": "STRUCTURE",
+      "path": "STRUCTURE.md"
     },
     {
       "basename": "LIMIT",
       "path": "LIMIT.md"
+    },
+    {
+      "basename": "DELETE",
+      "path": "DELETE.md"
+    },
+    {
+      "basename": "LIKE",
+      "path": "LIKE.md"
     },
     {
       "basename": "Order by",
@@ -31,10 +43,6 @@
     {
       "basename": "string.h",
       "path": "C/string.h.md"
-    },
-    {
-      "basename": "STRUCTURE",
-      "path": "STRUCTURE.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
@@ -59,10 +67,6 @@
     {
       "basename": "SELECT",
       "path": "SELECT.md"
-    },
-    {
-      "basename": "실행하고 목록 표시 SHOW DATABASES;",
-      "path": "실행하고 목록 표시 SHOW DATABASES;.md"
     },
     {
       "basename": "mysql 실행하기",
@@ -195,10 +199,6 @@
     {
       "basename": "가변길이 매개변수",
       "path": "가변길이 매개변수.md"
-    },
-    {
-      "basename": "java 스럽다",
-      "path": "java 스럽다.md"
     }
   ],
   "omittedPaths": [],

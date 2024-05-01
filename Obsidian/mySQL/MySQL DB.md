@@ -22,7 +22,8 @@ delete
 [[Order by]]
 [[LIMIT]]
 [[LIKE]]
-
+# SEARCH
+[[특정 문자열 찾고 싶을 때 방법]]
 
 # ERROR
 [[처음 발견한 error]]
