@@ -86,3 +86,74 @@ mysql> SELECT REVERSE(NULL);
 +---------------+
 1 row in set (0.00 sec)
 ```
+
+# LENGTH
+```sql
+mysql> SELECT CHAR_LENGTH('Hello World');
++----------------------------+
+| CHAR_LENGTH('Hello World') |
++----------------------------+
+|                         11 |
++----------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT LENGTH('Hey!');
++----------------+
+| LENGTH('Hey!') |
++----------------+
+|              4 |
++----------------+
+1 row in set (0.00 sec)
+```
+
+LENGTH는 byte의 크기로 return해서 한자 같은 거 넣으면 다르게 나온다.
+```sql
+mysql> SELECT CONCAT(author_lname, ' is ', CHAR_LENGTH(author_lname)) AS len FROM books;
++----------------------+
+| len                  |
++----------------------+
+| Lahiri is 6          |
+| Gaiman is 6          |
+| Gaiman is 6          |
+| Lahiri is 6          |
+| Eggers is 6          |
+| Eggers is 6          |
+| Chabon is 6          |
+| Smith is 5           |
+| Eggers is 6          |
+| Gaiman is 6          |
+| Carver is 6          |
+| Carver is 6          |
+| DeLillo is 7         |
+| Steinbeck is 9       |
+| Foster Wallace is 14 |
+| Foster Wallace is 14 |
++----------------------+
+16 rows in set (0.00 sec)
+
+mysql> SELECT author_lanme, CHAR_LENGTH(author_lname) AS 'Len' FROM books;
+ERROR 1054 (42S22): Unknown column 'author_lanme' in 'field list'
+mysql> SELECT author_lname, CHAR_LENGTH(author_lname) AS 'Len' FROM books;
++----------------+------+
+| author_lname   | Len  |
++----------------+------+
+| Lahiri         |    6 |
+| Gaiman         |    6 |
+| Gaiman         |    6 |
+| Lahiri         |    6 |
+| Eggers         |    6 |
+| Eggers         |    6 |
+| Chabon         |    6 |
+| Smith          |    5 |
+| Eggers         |    6 |
+| Gaiman         |    6 |
+| Carver         |    6 |
+| Carver         |    6 |
+| DeLillo        |    7 |
+| Steinbeck      |    9 |
+| Foster Wallace |   14 |
+| Foster Wallace |   14 |
++----------------+------+
+16 rows in set (0.01 sec)
+```
+
