@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8830a75702e254b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIKE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e5975ab8bfbc6bc",
             "type": "leaf",
             "state": {
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIMIT.md",
+                "file": "LIKE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIMIT.md",
+                "file": "LIKE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIMIT.md"
+                "file": "LIKE.md"
               }
             }
           },
@@ -209,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIMIT.md"
+                "file": "LIKE.md"
               }
             }
           },
@@ -251,9 +263,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0e5975ab8bfbc6bc",
+  "active": "8830a75702e254b2",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
+    "LIKE.md",
     "LIMIT.md",
     "Order by.md",
     "Distinct.md",
@@ -278,7 +291,6 @@
     "맥에 윈도우 설치하는 법.md",
     "Flutter/Flutter image_picker.md",
     "패러렐즈 Capslock으로 한영 변환.md",
-    "C/argv (null) MallocNanoZone = 0 설명.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

@@ -1,5 +1,5 @@
 저장소로 이동해서 MySQL 실행하고 source name.sql 실행하면 바로 실행할 수 있음
-
+SQL에서는 index 0부터 안 함. 1부터! -> 아님 0부터 임!!
 # CRUD
 
 데이터를 관리하는 방법
@@ -21,7 +21,7 @@ delete
 [[Distinct]]
 [[Order by]]
 [[LIMIT]]
-
+[[LIKE]]
 
 
 # ERROR
