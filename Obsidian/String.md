@@ -66,3 +66,23 @@ mysql> SELECT REPLACE(title, ' ', '-') FROM books;
 +-----------------------------------------------------+
 16 rows in set (0.00 sec)
 ```
+
+
+# REVERSE
+```sql
+mysql> SELECT REVERSE("chicken nuggest");
++----------------------------+
+| REVERSE("chicken nuggest") |
++----------------------------+
+| tseggun nekcihc            |
++----------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT REVERSE(NULL);
++---------------+
+| REVERSE(NULL) |
++---------------+
+| NULL          |
++---------------+
+1 row in set (0.00 sec)
+```
