@@ -157,3 +157,4 @@ mysql> SELECT author_lname, CHAR_LENGTH(author_lname) AS 'Len' FROM books;
 16 rows in set (0.01 sec)
 ```
 
+# INSERT, TRIM
