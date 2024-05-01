@@ -157,4 +157,158 @@ mysql> SELECT author_lname, CHAR_LENGTH(author_lname) AS 'Len' FROM books;
 16 rows in set (0.01 sec)
 ```
 
-# INSERT, TRIM
+# INSERT, RIGTH, REFT, REPEAT, TRIM
+
+```sql
+SELECT INSERT('Hello Bobby', 6, 0, 'There'); 
+ 
+SELECT LEFT('omghahalol!', 3);
+ 
+SELECT RIGHT('omghahalol!', 4);
+ 
+SELECT REPEAT('ha', 4);
+ 
+SELECT TRIM('  pickle  ');
+```
+
+```sql
+mysql> SELECT INSERT('Hello Bobby', 6, 0, 'There');
++--------------------------------------+
+| INSERT('Hello Bobby', 6, 0, 'There') |
++--------------------------------------+
+| HelloThere Bobby                     |
++--------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT INSERT('Hello Bobby', 6, 4, 'There');
++--------------------------------------+
+| INSERT('Hello Bobby', 6, 4, 'There') |
++--------------------------------------+
+| HelloThereby                         |
++--------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT INSERT('Hello Bobby', 6, 4, 'There');
++--------------------------------------+
+| INSERT('Hello Bobby', 6, 4, 'There') |
++--------------------------------------+
+| HelloThereby                         |
++--------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT INSERT('Hello Bobby', 6, 6, 'There');
++--------------------------------------+
+| INSERT('Hello Bobby', 6, 6, 'There') |
++--------------------------------------+
+| HelloThere                           |
++--------------------------------------+
+1 row in set (0.00 sec)
+
+mysql>
+mysql>
+mysql> SELECT LEFT('omghahahlol!', 3);
++-------------------------+
+| LEFT('omghahahlol!', 3) |
++-------------------------+
+| omg                     |
++-------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT RIGNT('omghahalol!', 4);
+ERROR 1305 (42000): FUNCTION book_shop.RIGNT does not exist
+mysql> SELECT RIGHT('omghahalol!', 4);
++-------------------------+
+| RIGHT('omghahalol!', 4) |
++-------------------------+
+| lol!                    |
++-------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT LEFT(author_lname, 1) FROM books;
++-----------------------+
+| LEFT(author_lname, 1) |
++-----------------------+
+| L                     |
+| G                     |
+| G                     |
+| L                     |
+| E                     |
+| E                     |
+| C                     |
+| S                     |
+| E                     |
+| G                     |
+| C                     |
+| C                     |
+| D                     |
+| S                     |
+| F                     |
+| F                     |
++-----------------------+
+16 rows in set (0.00 sec)
+
+mysql> SELECT REPEAT('ha', 4);
++-----------------+
+| REPEAT('ha', 4) |
++-----------------+
+| hahahaha        |
++-----------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM('           boston     ');
++--------------------------------+
+| TRIM('           boston     ') |
++--------------------------------+
+| boston                         |
++--------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM('           boston    d   ');
++-----------------------------------+
+| TRIM('           boston    d   ') |
++-----------------------------------+
+| boston    d                       |
++-----------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM('....san antonio..');
++---------------------------+
+| TRIM('....san antonio..') |
++---------------------------+
+| ....san antonio..         |
++---------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM(LEADING '.' FROM '....san antonio..');
++--------------------------------------------+
+| TRIM(LEADING '.' FROM '....san antonio..') |
++--------------------------------------------+
+| san antonio..                              |
++--------------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM(TRAILING  FROM '....san antonio..');
++------------------------------------------+
+| TRIM(TRAILING  FROM '....san antonio..') |
++------------------------------------------+
+| ....san antonio..                        |
++------------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM(TRAILING '.' FROM '....san antonio..');
++---------------------------------------------+
+| TRIM(TRAILING '.' FROM '....san antonio..') |
++---------------------------------------------+
+| ....san antonio                             |
++---------------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT TRIM(BOTH'.' FROM '....san antonio..');
++----------------------------------------+
+| TRIM(BOTH'.' FROM '....san antonio..') |
++----------------------------------------+
+| san antonio                            |
++----------------------------------------+
+1 row in set (0.01 sec)
+
+```
