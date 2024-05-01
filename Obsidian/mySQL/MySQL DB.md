@@ -1,3 +1,4 @@
+저장소로 이동해서 MySQL 실행하고 source name.sql 실행하면 바로 실행할 수 있음
 
 # CRUD
 
@@ -15,6 +16,11 @@ delete
 [[EELETE]]
 # STRUCTURE
 [[String]]
+
+# Refining Selections
+
+
+
 # ERROR
 [[처음 발견한 error]]
 

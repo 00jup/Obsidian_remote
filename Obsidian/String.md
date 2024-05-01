@@ -327,6 +327,5 @@ FROM
 이게 아래보다 보기 편함
 
 ```sql
-SELECT INSERT(title, 11,100, '...') AS 'short title', CONCAT(author_lname, ',', author_fname) AS
-author, CONCAT(stock_quantity ,'in stock')AS 'quantity' FROM books;
+SELECT INSERT(title, 11,100, '...') AS 'short title', CONCAT(author_lname, ',', author_fname) AS author, CONCAT(stock_quantity ,'in stock')AS 'quantity' FROM books;
 ```
