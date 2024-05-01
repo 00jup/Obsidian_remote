@@ -33,3 +33,36 @@ FROM
     books;
 ```
 
+# REPLACE
+```sql
+mysql> SELECT REPLACE('I am Park', 'Park', 10);
++----------------------------------+
+| REPLACE('I am Park', 'Park', 10) |
++----------------------------------+
+| I am 10                          |
++----------------------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT REPLACE(title, ' ', '-') FROM books;
++-----------------------------------------------------+
+| REPLACE(title, ' ', '-')                            |
++-----------------------------------------------------+
+| The-Namesake                                        |
+| Norse-Mythology                                     |
+| American-Gods                                       |
+| Interpreter-of-Maladies                             |
+| A-Hologram-for-the-King:-A-Novel                    |
+| The-Circle                                          |
+| The-Amazing-Adventures-of-Kavalier-&-Clay           |
+| Just-Kids                                           |
+| A-Heartbreaking-Work-of-Staggering-Genius           |
+| Coraline                                            |
+| What-We-Talk-About-When-We-Talk-About-Love:-Stories |
+| Where-I'm-Calling-From:-Selected-Stories            |
+| White-Noise                                         |
+| Cannery-Row                                         |
+| Oblivion:-Stories                                   |
+| Consider-the-Lobster                                |
++-----------------------------------------------------+
+16 rows in set (0.00 sec)
+```
