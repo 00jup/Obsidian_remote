@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "885d980f475e7f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
+                "file": "mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
+                "file": "mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -185,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -227,10 +214,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "885d980f475e7f8d",
+  "active": "489d686d115636cc",
   "lastOpenFiles": [
-    "mySQL/MySQL DB.md",
     "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
+    "mySQL/MySQL DB.md",
     "특정 문자열 찾고 싶을 때 방법.md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "STRUCTURE.md",

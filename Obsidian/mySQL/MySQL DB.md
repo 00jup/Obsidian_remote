@@ -28,6 +28,9 @@ delete
 # ERROR
 [[처음 발견한 error]]
 
+# AGGREGATION
+multiful data를 다룰 때 유용함.
+
 
 # 응용
 [[내가 원하는 이름의 데이터 찾기]]
