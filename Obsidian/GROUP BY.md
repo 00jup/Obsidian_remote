@@ -71,3 +71,26 @@ mysql> SELECT * FROM books GROUP BY author_lname;
 group은 하나의 column으로 하는 거임.
 
 
+```sql
+mysql> SELECT CONCAT(author_fname, ' ', author_lname) AS author, COUNT(*) FROM books GROUP BY author;
++----------------------+----------+
+| author               | COUNT(*) |
++----------------------+----------+
+| Jhumpa Lahiri        |        2 |
+| Neil Gaiman          |        3 |
+| Dave Eggers          |        3 |
+| Michael Chabon       |        1 |
+| Patti Smith          |        1 |
+| Raymond Carver       |        2 |
+| Don DeLillo          |        1 |
+| John Steinbeck       |        1 |
+| David Foster Wallace |        2 |
+| Dan Harris           |        1 |
+| Freida Harris        |        1 |
+| George Saunders      |        1 |
+| NULL                 |        3 |
++----------------------+----------+
+13 rows in set (0.00 sec)
+```
+
+위와 같이 column의 name을 설정하고 group by를 진행하는 것도 가능함

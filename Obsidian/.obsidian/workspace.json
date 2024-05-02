@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d279515054bc98a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GROUP BY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "52eaea7cb49ea5b6",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAX로 정렬하기.md",
+                "file": "GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAX로 정렬하기.md",
+                "file": "GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAX로 정렬하기.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -186,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MAX로 정렬하기.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -228,7 +240,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52eaea7cb49ea5b6",
+  "active": "d279515054bc98a7",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
     "MAX로 정렬하기.md",
