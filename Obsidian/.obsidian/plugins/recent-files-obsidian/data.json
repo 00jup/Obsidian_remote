@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "GROUP BY",
-      "path": "GROUP BY.md"
-    },
-    {
-      "basename": "groupby 잘 사용하기!",
-      "path": "Python/groupby 잘 사용하기!.md"
+      "basename": "MAX로 정렬하기",
+      "path": "MAX로 정렬하기.md"
     },
     {
       "basename": "MySQL DB",
@@ -15,6 +11,14 @@
     {
       "basename": "COUNT",
       "path": "COUNT.md"
+    },
+    {
+      "basename": "groupby 잘 사용하기!",
+      "path": "Python/groupby 잘 사용하기!.md"
+    },
+    {
+      "basename": "GROUP BY",
+      "path": "GROUP BY.md"
     },
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
@@ -195,10 +199,6 @@
     {
       "basename": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다.",
       "path": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md"
-    },
-    {
-      "basename": "buffer 지우기",
-      "path": "buffer 지우기.md"
     }
   ],
   "omittedPaths": [],

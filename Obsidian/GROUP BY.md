@@ -69,3 +69,5 @@ mysql> SELECT * FROM books GROUP BY author_lname;
 
 이건 안 됨. all column을 선택하는 거니까
 group은 하나의 column으로 하는 거임.
+
+
