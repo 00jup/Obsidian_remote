@@ -30,8 +30,9 @@ delete
 
 # AGGREGATION
 multiful data를 다룰 때 유용함.
-
-
+analyze에서 많이 사용된다.
+[[COUNT]]
+[[GROUP BY]]
 # 응용
 [[내가 원하는 이름의 데이터 찾기]]
 

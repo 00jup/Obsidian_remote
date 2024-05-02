@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ca7e214baabf5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GROUP BY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27573495c8844f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COUNT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -172,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -214,10 +239,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "489d686d115636cc",
+  "active": "6ca7e214baabf5c7",
   "lastOpenFiles": [
-    "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "mySQL/MySQL DB.md",
+    "GROUP BY.md",
+    "COUNT.md",
+    "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "특정 문자열 찾고 싶을 때 방법.md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "STRUCTURE.md",
@@ -240,8 +267,6 @@
     "java String[] args meanings.md",
     "Java/Java DB.md",
     "overloading vs overriding.md",
-    "import 되지 않을 때.md",
-    "맥에 윈도우 설치하는 법.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

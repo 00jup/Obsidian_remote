@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "GROUP BY",
+      "path": "GROUP BY.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "COUNT",
+      "path": "COUNT.md"
     },
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
@@ -191,14 +199,6 @@
     {
       "basename": "java에서 main 함수 내에서는 함수 정의가 되지 않는다.",
       "path": "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md"
-    },
-    {
-      "basename": "static의 의미",
-      "path": "static의 의미.md"
-    },
-    {
-      "basename": "(void * )sum의 의미",
-      "path": "(void * )sum의 의미.md"
     }
   ],
   "omittedPaths": [],
