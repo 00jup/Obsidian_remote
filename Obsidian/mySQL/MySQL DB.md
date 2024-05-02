@@ -24,7 +24,7 @@ delete
 [[LIKE]]
 # SEARCH
 [[특정 문자열 찾고 싶을 때 방법]]
-
+[[한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기]]
 # ERROR
 [[처음 발견한 error]]
 

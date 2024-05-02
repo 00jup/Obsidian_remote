@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
+      "path": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "(void * )sum의 의미",
       "path": "(void * )sum의 의미.md"
-    },
-    {
-      "basename": "가변길이 매개변수",
-      "path": "가변길이 매개변수.md"
     }
   ],
   "omittedPaths": [],
