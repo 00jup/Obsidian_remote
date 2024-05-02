@@ -1,4 +1,7 @@
 
+# subquery 라는 거임
+
+subquery run first and run another query
 
 ```sql
 mysql> SELECT title, pages FROM books WHERE pages = (SELECT MAX(pages) FROM books)
