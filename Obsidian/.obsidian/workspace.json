@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ca80ded485411e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/groupby 잘 사용하기!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "27573495c8844f25",
             "type": "leaf",
             "state": {
@@ -241,8 +253,9 @@
   },
   "active": "6ca7e214baabf5c7",
   "lastOpenFiles": [
-    "mySQL/MySQL DB.md",
+    "Python/groupby 잘 사용하기!.md",
     "GROUP BY.md",
+    "mySQL/MySQL DB.md",
     "COUNT.md",
     "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "특정 문자열 찾고 싶을 때 방법.md",
@@ -266,7 +279,6 @@
     "아니 이걸 틀린다고?? 이걸?!?!.md",
     "java String[] args meanings.md",
     "Java/Java DB.md",
-    "overloading vs overriding.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

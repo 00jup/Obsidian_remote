@@ -5,6 +5,10 @@
       "path": "GROUP BY.md"
     },
     {
+      "basename": "groupby 잘 사용하기!",
+      "path": "Python/groupby 잘 사용하기!.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "buffer 지우기",
       "path": "buffer 지우기.md"
-    },
-    {
-      "basename": "java에서 main 함수 내에서는 함수 정의가 되지 않는다.",
-      "path": "java에서 main 함수 내에서는 함수 정의가 되지 않는다..md"
     }
   ],
   "omittedPaths": [],
