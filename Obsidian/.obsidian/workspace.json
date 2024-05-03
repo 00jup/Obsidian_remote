@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COUNT.md",
-                "mode": "source",
+                "file": "처음 발견한 error.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COUNT.md",
+                "file": "처음 발견한 error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COUNT.md",
+                "file": "처음 발견한 error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COUNT.md"
+                "file": "처음 발견한 error.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "COUNT.md"
+                "file": "처음 발견한 error.md"
               }
             }
           },
@@ -242,9 +242,11 @@
   "active": "b2b1caeb1b39c6e6",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
-    "GROUP BY.md",
+    "처음 발견한 error.md",
+    "내가 원하는 이름의 데이터 찾기.md",
     "MAX로 정렬하기.md",
     "COUNT.md",
+    "GROUP BY.md",
     "Python/groupby 잘 사용하기!.md",
     "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "특정 문자열 찾고 싶을 때 방법.md",
@@ -265,8 +267,6 @@
     "SELECT.md",
     "mysql 실행하기.md",
     "comment in SQL.md",
-    "아니 이걸 틀린다고?? 이걸?!?!.md",
-    "java String[] args meanings.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",

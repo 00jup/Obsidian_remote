@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "COUNT",
-      "path": "COUNT.md"
+      "basename": "처음 발견한 error",
+      "path": "처음 발견한 error.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
     {
-      "basename": "GROUP BY",
-      "path": "GROUP BY.md"
+      "basename": "내가 원하는 이름의 데이터 찾기",
+      "path": "내가 원하는 이름의 데이터 찾기.md"
     },
     {
       "basename": "MAX로 정렬하기",
       "path": "MAX로 정렬하기.md"
+    },
+    {
+      "basename": "COUNT",
+      "path": "COUNT.md"
+    },
+    {
+      "basename": "GROUP BY",
+      "path": "GROUP BY.md"
     },
     {
       "basename": "groupby 잘 사용하기!",
@@ -191,14 +199,6 @@
     {
       "basename": "interface나 inheritance",
       "path": "interface나 inheritance.md"
-    },
-    {
-      "basename": "super.method vs method in extends",
-      "path": "super.method vs method in extends.md"
-    },
-    {
-      "basename": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다.",
-      "path": "java에서 자동으로 0, 0.0으로 초기화되는 경우는 따로 있다..md"
     }
   ],
   "omittedPaths": [],
