@@ -25,3 +25,9 @@ Query OK, 5 rows affected (0.00 sec)
 mysql> SELECT * FROM cats;
 Empty set (0.01 sec)
 ```
+
+```sql
+DELETE FROM books WHERE author_lname IS NULL;
+```
+
+NULL을 지울 때는 위와 같은 방법을 사용해야 한다.

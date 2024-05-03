@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GROUP BY",
-      "path": "GROUP BY.md"
+      "basename": "DELETE",
+      "path": "DELETE.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "GROUP BY",
+      "path": "GROUP BY.md"
     },
     {
       "basename": "MAX로 정렬하기",
@@ -47,10 +51,6 @@
     {
       "basename": "LIMIT",
       "path": "LIMIT.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "DELETE.md"
     },
     {
       "basename": "LIKE",
