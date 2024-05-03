@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "COUNT.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GROUP BY.md",
+                "file": "COUNT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GROUP BY.md",
+                "file": "COUNT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GROUP BY.md"
+                "file": "COUNT.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GROUP BY.md"
+                "file": "COUNT.md"
               }
             }
           },
@@ -240,13 +239,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d279515054bc98a7",
+  "active": "b2b1caeb1b39c6e6",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
+    "GROUP BY.md",
     "MAX로 정렬하기.md",
     "COUNT.md",
     "Python/groupby 잘 사용하기!.md",
-    "GROUP BY.md",
     "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "특정 문자열 찾고 싶을 때 방법.md",
     "실행하고 목록 표시 SHOW DATABASES;.md",
