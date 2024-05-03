@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -240,7 +239,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52eaea7cb49ea5b6",
+  "active": "e17c784ee562337b",
   "lastOpenFiles": [
     "처음 발견한 error.md",
     "mySQL/MySQL DB.md",
