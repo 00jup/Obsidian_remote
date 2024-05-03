@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a780a8194aab76d6",
+        "id": "1ea4d83166aa2e05",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b1caeb1b39c6e6",
+            "id": "73c0d96c3b401acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "처음 발견한 error.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d279515054bc98a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GROUP BY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52eaea7cb49ea5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAX로 정렬하기.md",
+                "file": "mySQL/MySQL DB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ll",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -111,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -127,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAX로 정렬하기.md",
+                "file": "mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAX로 정렬하기.md",
+                "file": "mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAX로 정렬하기.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -197,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MAX로 정렬하기.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -239,14 +214,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e17c784ee562337b",
+  "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
     "처음 발견한 error.md",
+    "GROUP BY.md",
+    "MAX로 정렬하기.md",
     "mySQL/MySQL DB.md",
     "내가 원하는 이름의 데이터 찾기.md",
-    "MAX로 정렬하기.md",
     "COUNT.md",
-    "GROUP BY.md",
     "Python/groupby 잘 사용하기!.md",
     "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "특정 문자열 찾고 싶을 때 방법.md",

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "MAX로 정렬하기",
-      "path": "MAX로 정렬하기.md"
+      "basename": "MySQL DB",
+      "path": "mySQL/MySQL DB.md"
     },
     {
       "basename": "처음 발견한 error",
       "path": "처음 발견한 error.md"
     },
     {
-      "basename": "MySQL DB",
-      "path": "mySQL/MySQL DB.md"
+      "basename": "GROUP BY",
+      "path": "GROUP BY.md"
+    },
+    {
+      "basename": "MAX로 정렬하기",
+      "path": "MAX로 정렬하기.md"
     },
     {
       "basename": "내가 원하는 이름의 데이터 찾기",
@@ -19,10 +23,6 @@
     {
       "basename": "COUNT",
       "path": "COUNT.md"
-    },
-    {
-      "basename": "GROUP BY",
-      "path": "GROUP BY.md"
     },
     {
       "basename": "groupby 잘 사용하기!",
