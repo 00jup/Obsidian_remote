@@ -24,3 +24,6 @@ int의 유형 별로 byte가 달라짐.
 
 float이랑은 뭐가 다를까?
 ![[Screenshot 2024-05-04 at 15.27.32.png]]
+
+# DATETIME
+date와 time을 동시에 사용하고 싶을 때 사용함.
