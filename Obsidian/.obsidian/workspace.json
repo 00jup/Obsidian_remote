@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "data type.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "data type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "data type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md"
+                "file": "data type.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md"
+                "file": "data type.md"
               }
             }
           },
@@ -227,7 +226,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a23d711d2cc3871f",
+  "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
     "1000000 미만만 들어가게 하기 decimal 사용.md",
