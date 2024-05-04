@@ -95,6 +95,12 @@ mysql> CREATE TABLE captions (
 
 이렇게 작성하는 게 가능함
 
+```sql
+CREATE TABLE captions2 (
+    text VARCHAR(150),
+    created_at TIMESTAMP default CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP ON UPDATE CURRENT_TIMESTAMP);
+```
 
 ```sql
 CREATE TABLE captions2 (
@@ -102,3 +108,21 @@ CREATE TABLE captions2 (
     created_at TIMESTAMP default CURRENT_TIMESTAMP,
     updated_at TIMESTAMP ON UPDATE CURRENT_TIMESTAMP);
 ```
+
+위와 같이 작성하면 update 한 시간이 저장된다.
+
+```sql
+mysql> UPDATE captions2 SET text = 'i love live!!!';
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM captions2
+    -> ;
++----------------+---------------------+---------------------+
+| text           | created_at          | updated_at          |
++----------------+---------------------+---------------------+
+| i love live!!! | 2024-05-04 17:58:09 | 2024-05-04 17:58:49 |
++----------------+---------------------+---------------------+
+1 row in set (0.01 sec)
+```
+
