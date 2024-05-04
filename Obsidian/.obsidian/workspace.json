@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DELETE.md",
+                "file": "mySQL/MySQL DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DELETE.md",
+                "file": "mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DELETE.md",
+                "file": "mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DELETE.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DELETE.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
+    "DELETE.md",
     "mySQL/MySQL DB.md",
     "GROUP BY.md",
     "MAX로 정렬하기.md",
@@ -228,7 +229,6 @@
     "실행하고 목록 표시 SHOW DATABASES;.md",
     "STRUCTURE.md",
     "LIMIT.md",
-    "DELETE.md",
     "LIKE.md",
     "Order by.md",
     "Distinct.md",

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "DELETE",
-      "path": "DELETE.md"
-    },
-    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "DELETE",
+      "path": "DELETE.md"
     },
     {
       "basename": "GROUP BY",

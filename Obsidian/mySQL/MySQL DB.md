@@ -35,6 +35,7 @@ analyze에서 많이 사용된다.
 [[GROUP BY]]
 [[MAX로 정렬하기]]
 
+# REVISITING Data types
 
 # 응용
 [[내가 원하는 이름의 데이터 찾기]]
