@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "data type",
-      "path": "data type.md"
+      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
+      "path": "1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "data type",
+      "path": "data type.md"
     },
     {
       "basename": "warninig",
@@ -195,10 +199,6 @@
     {
       "basename": "Python 값을 던지기",
       "path": "Python/Python 값을 던지기.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "Python/Python DB.md"
     }
   ],
   "omittedPaths": [],
