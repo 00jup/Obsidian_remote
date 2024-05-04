@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "time data type.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "time data type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mySQL/MySQL DB.md",
+                "file": "time data type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "time data type.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mySQL/MySQL DB.md"
+                "file": "time data type.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
-    "DELETE.md",
     "mySQL/MySQL DB.md",
+    "time data type.md",
+    "DELETE.md",
     "GROUP BY.md",
     "MAX로 정렬하기.md",
     "처음 발견한 error.md",
@@ -241,7 +242,6 @@
     "UPDATE.md",
     "SELECT.md",
     "mysql 실행하기.md",
-    "comment in SQL.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
