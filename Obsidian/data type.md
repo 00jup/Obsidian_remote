@@ -15,3 +15,10 @@ Otherwise, USE VARCHAR!!!
 
 # INT
 int의 유형 별로 byte가 달라짐.
+
+양수만 입력하고 싶으면 table을 만들 때, UNSIGNED를 붙이면 된다.
+
+# DECIMAL
+![[Screenshot 2024-05-04 at 15.22.12.png]]
+소수를 저장하고 싶을 때 사용한다.
+
