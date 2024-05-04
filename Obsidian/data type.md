@@ -40,3 +40,18 @@ INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Juan', CURDATE(
 ```
 
 ## NOW(), CURRENT_TIME()도 사용 가능하다!
+
+## DATE_FORMAT()
+
+```sql
+mysql> SELECT birthdate, DATE_FORMAT(birthdate, '%a %b') FROM people;
++------------+---------------------------------+
+| birthdate  | DATE_FORMAT(birthdate, '%a %b') |
++------------+---------------------------------+
+| 2000-12-25 | Mon Dec                         |
+| 1985-04-11 | Thu Apr                         |
+| 2020-08-15 | Sat Aug                         |
+| 2024-05-04 | Sat May                         |
+| 2024-05-04 | Sat May                         |
++------------+---------------------------------+
+```
