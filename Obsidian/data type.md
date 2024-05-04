@@ -82,3 +82,8 @@ mysql> SELECT name, birthdate, YEAR(birthdate + INTERVAL 21 YEAR) FROM people;
 ```
 
 ### INTERVAL을 사용해서 더 한다
+
+# TIMESTAMP
+DATETIME이랑 range가 다르다.
+또 auto updating이 가능함
+
