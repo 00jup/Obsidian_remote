@@ -33,3 +33,10 @@ mysql> INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Lulu', '
 
 mysql> INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Juan', '2020-08-15', '23:59:00', '2020-08-15 23:59:00');
 ```
+
+## CURDATE, CURTIME 도 사용가능함
+```sql
+INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Juan', CURDATE(), CURTIME(), '2020-08-15 23:59:00');
+```
+
+## NOW(), CURRENT_TIME()도 사용 가능하다!
