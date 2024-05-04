@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "GROUP BY.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md"
+                "file": "GROUP BY.md"
               }
             }
           },
@@ -229,8 +229,8 @@
   "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
     "mySQL/MySQL DB.md",
-    "data type.md",
     "1000000 미만만 들어가게 하기 decimal 사용.md",
+    "data type.md",
     "Asset/Screenshot 2024-05-04 at 15.27.32.png",
     "warninig.md",
     "Asset/Screenshot 2024-05-04 at 15.22.12.png",
