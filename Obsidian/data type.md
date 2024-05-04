@@ -27,3 +27,9 @@ float이랑은 뭐가 다를까?
 
 # DATETIME
 date와 time을 동시에 사용하고 싶을 때 사용함.
+```sql
+mysql> INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Lulu', '1985-04-11', '9:45:10',
+'1985-04-11 9:45:10');
+
+mysql> INSERT INTO people (name, birthdate, birthtime, birthdt) VALUES('Juan', '2020-08-15', '23:59:00', '2020-08-15 23:59:00');
+```
