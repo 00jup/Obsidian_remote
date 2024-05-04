@@ -77,3 +77,8 @@ TIME_FORMAT도 있음
 근데 DATE_FORMAT support all of it.
 
 # DATE 연산
+```sql
+mysql> SELECT name, birthdate, YEAR(birthdate + INTERVAL 21 YEAR) FROM people;
+```
+
+### INTERVAL을 사용해서 더 한다
