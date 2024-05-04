@@ -86,6 +86,7 @@ mysql> SELECT name, birthdate, YEAR(birthdate + INTERVAL 21 YEAR) FROM people;
 # TIMESTAMP
 DATETIME이랑 range가 다르다.
 또 auto updating이 가능함
+메모리 소모가 적다.
 
 ```sql
 mysql> CREATE TABLE captions (
