@@ -87,3 +87,18 @@ mysql> SELECT name, birthdate, YEAR(birthdate + INTERVAL 21 YEAR) FROM people;
 DATETIME이랑 range가 다르다.
 또 auto updating이 가능함
 
+```sql
+mysql> CREATE TABLE captions (
+    -> text VARCHAR(150),
+    -> created_at TIMESTAMP default CURRENT_TIMESTAMP);
+```
+
+이렇게 작성하는 게 가능함
+
+
+```sql
+CREATE TABLE captions2 (
+    text VARCHAR(150),
+    created_at TIMESTAMP default CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP ON UPDATE CURRENT_TIMESTAMP);
+```
