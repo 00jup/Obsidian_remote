@@ -38,7 +38,8 @@ analyze에서 많이 사용된다.
 # REVISITING Data types
 [[data type]]
 
-
+## WARNING 보는 법
+[[warninig]]
 
 # 응용
 [[내가 원하는 이름의 데이터 찾기]]

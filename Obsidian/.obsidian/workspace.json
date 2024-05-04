@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c263c235f5bf3f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "warninig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -216,11 +228,13 @@
   },
   "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
+    "Asset/Screenshot 2024-05-04 at 15.27.32.png",
+    "mySQL/MySQL DB.md",
+    "warninig.md",
+    "data type.md",
     "Asset/Screenshot 2024-05-04 at 15.22.12.png",
     "Asset/Screenshot 2024-05-04 at 15.10.22.png",
     "Asset/Screenshot 2024-05-04 at 15.08.30.png",
-    "mySQL/MySQL DB.md",
-    "data type.md",
     "time data type.md",
     "DELETE.md",
     "GROUP BY.md",
@@ -243,7 +257,6 @@
     "원하는 database 변경하기.md",
     "database 살펴보기.md",
     "만들고 실행.md",
-    "UPDATE.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
@@ -257,7 +270,6 @@
     "공업수학/Untitled",
     "Asset/unnamed.png",
     "Asset/Pasted Image 20231103114652_741.jpg",
-    "Asset/Pasted image 20231019162019.png",
     "공업수학",
     "Excalidraw",
     "C",

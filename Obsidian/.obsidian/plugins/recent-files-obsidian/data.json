@@ -9,6 +9,10 @@
       "path": "mySQL/MySQL DB.md"
     },
     {
+      "basename": "warninig",
+      "path": "warninig.md"
+    },
+    {
       "basename": "time data type",
       "path": "time data type.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python DB",
       "path": "Python/Python DB.md"
-    },
-    {
-      "basename": "What is the pythonic code?",
-      "path": "Python/What is the pythonic code?.md"
     }
   ],
   "omittedPaths": [],
