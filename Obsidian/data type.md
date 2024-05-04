@@ -75,3 +75,5 @@ mysql> SELECT DATE_FORMAT('2006-06-00', '%d');
 
 TIME_FORMAT도 있음
 근데 DATE_FORMAT support all of it.
+
+# DATE 연산
