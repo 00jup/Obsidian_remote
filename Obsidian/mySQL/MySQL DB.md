@@ -36,7 +36,8 @@ analyze에서 많이 사용된다.
 [[MAX로 정렬하기]]
 
 # REVISITING Data types
-[[time data type]]
+[[data type]]
+
 
 
 # 응용

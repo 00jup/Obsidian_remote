@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "time data type",
-      "path": "time data type.md"
+      "basename": "data type",
+      "path": "data type.md"
     },
     {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "time data type",
+      "path": "time data type.md"
     },
     {
       "basename": "DELETE",
@@ -195,10 +199,6 @@
     {
       "basename": "What is the pythonic code?",
       "path": "Python/What is the pythonic code?.md"
-    },
-    {
-      "basename": "static method 쓰는 이유",
-      "path": "static method 쓰는 이유.md"
     }
   ],
   "omittedPaths": [],
