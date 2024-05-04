@@ -12,3 +12,6 @@ char2일 때 'X'를 INSERT하면 white space가 자동으로 생김.
 
 CHAR -> 이럴 때 유용함.
 Otherwise, USE VARCHAR!!!
+
+# INT
+int의 유형 별로 byte가 달라짐.
