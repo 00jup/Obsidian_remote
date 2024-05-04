@@ -55,3 +55,23 @@ mysql> SELECT birthdate, DATE_FORMAT(birthdate, '%a %b') FROM people;
 | 2024-05-04 | Sat May                         |
 +------------+---------------------------------+
 ```
+
+```sql
+mysql> SELECT DATE_FORMAT('2009-10-04 22:23:00', '%W %M %Y');
+        -> 'Sunday October 2009'
+mysql> SELECT DATE_FORMAT('2007-10-04 22:23:00', '%H:%i:%s');
+        -> '22:23:00'
+mysql> SELECT DATE_FORMAT('1900-10-04 22:23:00',
+    ->                 '%D %y %a %d %m %b %j');
+        -> '4th 00 Thu 04 10 Oct 277'
+mysql> SELECT DATE_FORMAT('1997-10-04 22:23:00',
+    ->                 '%H %k %I %r %T %S %w');
+        -> '22 22 10 10:23:00 PM 22:23:00 00 6'
+mysql> SELECT DATE_FORMAT('1999-01-01', '%X %V');
+        -> '1998 52'
+mysql> SELECT DATE_FORMAT('2006-06-00', '%d');
+        -> '00'
+```
+
+TIME_FORMAT도 있음
+근데 DATE_FORMAT support all of it.
