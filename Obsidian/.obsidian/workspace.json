@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GROUP BY.md",
+                "file": "mySQL/MySQL DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GROUP BY.md",
+                "file": "mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GROUP BY.md",
+                "file": "mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GROUP BY.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GROUP BY.md"
+                "file": "mySQL/MySQL DB.md"
               }
             }
           },
@@ -228,6 +228,7 @@
   },
   "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
+    "GROUP BY.md",
     "mySQL/MySQL DB.md",
     "1000000 미만만 들어가게 하기 decimal 사용.md",
     "data type.md",
@@ -238,7 +239,6 @@
     "Asset/Screenshot 2024-05-04 at 15.08.30.png",
     "time data type.md",
     "DELETE.md",
-    "GROUP BY.md",
     "MAX로 정렬하기.md",
     "처음 발견한 error.md",
     "내가 원하는 이름의 데이터 찾기.md",
