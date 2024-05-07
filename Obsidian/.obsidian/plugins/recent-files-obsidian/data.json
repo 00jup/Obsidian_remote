@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python heapSort 만들다가 안 사실",
+      "path": "Python heapSort 만들다가 안 사실.md"
+    },
+    {
+      "basename": "Python DB",
+      "path": "Python/Python DB.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "mySQL/MySQL DB.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-1 자료구조에서 배운 포인터",
       "path": "2024-1 자료구조에서 배운 포인터.md"
-    },
-    {
-      "basename": "C DB",
-      "path": "C/C DB.md"
-    },
-    {
-      "basename": "Python 값을 던지기",
-      "path": "Python/Python 값을 던지기.md"
     }
   ],
   "omittedPaths": [],

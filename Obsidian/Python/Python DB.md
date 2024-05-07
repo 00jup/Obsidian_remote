@@ -33,7 +33,7 @@
 [[Python에서 놀라운 사실]]
 [[Python 2 second wait]]
 
-
+[[Python heapSort 만들다가 안 사실]]
 
 
 
