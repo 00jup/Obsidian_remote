@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "새로운 데이터로 만드는 방법",
+      "path": "CODING/Python/새로운 데이터로 만드는 방법.md"
+    },
+    {
+      "basename": "코딩할 때 주석 표기하기",
+      "path": "CODING/just 지식/코딩할 때 주석 표기하기.md"
+    },
+    {
+      "basename": "불가능한 예시들",
+      "path": "CODING/불가능한 예시들.md"
+    },
+    {
+      "basename": "유효범위 문제",
+      "path": "CODING/Python/유효범위 문제.md"
+    },
+    {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
       "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "패러렐즈 Capslock으로 한영 변환",
       "path": "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md"
-    },
-    {
-      "basename": "코딩할 때 주석 표기하기",
-      "path": "코딩할 때 주석 표기하기.md"
     },
     {
       "basename": "특정 문자열 찾고 싶을 때 방법",
@@ -29,20 +41,8 @@
       "path": "CODING/mySQL/원하는 database 변경하기.md"
     },
     {
-      "basename": "유효범위 문제",
-      "path": "유효범위 문제.md"
-    },
-    {
       "basename": "실행하고 목록 표시 SHOW DATABASES;",
       "path": "CODING/mySQL/실행하고 목록 표시 SHOW DATABASES;.md"
-    },
-    {
-      "basename": "새로운 데이터로 만드는 방법",
-      "path": "새로운 데이터로 만드는 방법.md"
-    },
-    {
-      "basename": "불가능한 예시들",
-      "path": "불가능한 예시들.md"
     },
     {
       "basename": "배열을 pointer의 주소를 이용해서 표현하는 방법",
