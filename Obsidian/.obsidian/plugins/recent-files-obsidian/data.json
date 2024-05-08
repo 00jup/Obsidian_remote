@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Python 시험에서 틀린 것",
-      "path": "Python/Python 시험에서 틀린 것.md"
+      "basename": "Python dictionary 데이터 추가하기",
+      "path": "Python/Python dictionary 데이터 추가하기.md"
+    },
+    {
+      "basename": "defaultdict 응용",
+      "path": "Python/defaultdict 응용.md"
     },
     {
       "basename": "Python dictionary",
       "path": "Python/Python dictionary.md"
+    },
+    {
+      "basename": "Python dictionary 실수",
+      "path": "Python/Python dictionary 실수.md"
+    },
+    {
+      "basename": "Python 시험에서 틀린 것",
+      "path": "Python/Python 시험에서 틀린 것.md"
     },
     {
       "basename": "Python DB",
@@ -187,18 +199,6 @@
     {
       "basename": "C switch",
       "path": "C/C switch.md"
-    },
-    {
-      "basename": "(void*) 포인터 형인 것을 알려주기 위함",
-      "path": "C/(void*) 포인터 형인 것을 알려주기 위함.md"
-    },
-    {
-      "basename": "refactoring EX",
-      "path": "refactoring EX.md"
-    },
-    {
-      "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
-      "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
     }
   ],
   "omittedPaths": [],

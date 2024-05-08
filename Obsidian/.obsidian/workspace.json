@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python 시험에서 틀린 것.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dictionary",
+                "query": "defaultdic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python 시험에서 틀린 것.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python 시험에서 틀린 것.md",
+                "file": "Python/Python dictionary 데이터 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python 시험에서 틀린 것.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python 시험에서 틀린 것.md"
+                "file": "Python/Python dictionary 데이터 추가하기.md"
               }
             }
           },
@@ -241,7 +241,10 @@
   },
   "active": "75d0698cd611319e",
   "lastOpenFiles": [
+    "Python/defaultdict 응용.md",
     "Python/Python dictionary.md",
+    "Python/Python dictionary 실수.md",
+    "Python/Python 시험에서 틀린 것.md",
     "Python/Python DB.md",
     "Python heapSort 만들다가 안 사실.md",
     "mySQL/MySQL DB.md",
@@ -268,9 +271,6 @@
     "LIKE.md",
     "Order by.md",
     "Distinct.md",
-    "String.md",
-    "C/string.h.md",
-    "INSERT(CRUD에서 create 부분).md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "mySQL",
     "Asset/Pasted image 20240326212321.png",
