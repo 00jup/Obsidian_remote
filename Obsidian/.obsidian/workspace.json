@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buffer 지우기.md",
+                "file": "CODING/mySQL/database 살펴보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cfe5a6effd45112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/mySQL/DELETE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c7f1edbfea2d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buffer 지우기.md",
+                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buffer 지우기.md",
+                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buffer 지우기.md"
+                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
               }
             }
           },
@@ -183,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "buffer 지우기.md"
+                "file": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
               }
             }
           },
@@ -225,41 +250,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73c0d96c3b401acf",
+  "active": "09ebec1001effe24",
   "lastOpenFiles": [
-    "CODING/Java/Array.md",
-    "CODING/Flutter/App Tester.md",
-    "CODING/Java/Array에서 Hello World 출력하는 방법.md",
-    "CODING/Java/account example.md",
-    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
-    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
-    "CODING/Python/Python DB.md",
-    "2023-10-20.md",
-    "2023-11-05.md",
-    "2023-10-13.md",
-    "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md",
-    "CODING/C/pointer/(void * )sum의 의미.md",
+    "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
+    "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md",
+    "코딩할 때 주석 표기하기.md",
+    "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
+    "CODING/mySQL/처음 발견한 error.md",
+    "CODING/mySQL/원하는 database 변경하기.md",
+    "유효범위 문제.md",
+    "CODING/mySQL/실행하고 목록 표시 SHOW DATABASES;.md",
+    "새로운 데이터로 만드는 방법.md",
+    "불가능한 예시들.md",
+    "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md",
+    "그냥 지식/미세유체개론 단위.md",
+    "그냥 지식",
+    "CODING/just 지식/맥에 윈도우 설치하는 법.md",
+    "CODING/mySQL/warninig.md",
+    "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md",
+    "CODING/mySQL/만들고 실행.md",
+    "dd.md",
+    "CODING/Java/독특한 함수 사용법.md",
+    "CODING/Java/가변길이 매개변수.md",
+    "CODING/C/tolower.md",
+    "CODING/mySQL/UPDATE.md",
+    "CODING/mySQL/time data type.md",
+    "CODING/Java/향상된 for 문.md",
+    "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+    "CODING/Java/refactoring EX.md",
+    "CODING/Java/this를 상속해서 사용하는 법, overrroading에서 가능함.md",
+    "CODING/just 지식",
+    "CODING/Java/틀린 거..",
     "CODING/C/pointer",
-    "CODING/Java/' & \" in java.md",
     "CODING",
-    "CODING/Python/Python dictionary 데이터 추가하기.md",
     "CODING/Python/Untitled",
-    "CODING/Python/defaultdict 응용.md",
-    "CODING/Python/Python dictionary.md",
-    "CODING/Python/Python dictionary 실수.md",
-    "CODING/Python/Python 시험에서 틀린 것.md",
-    "Python heapSort 만들다가 안 사실.md",
-    "CODING/mySQL/MySQL DB.md",
-    "GROUP BY.md",
-    "data type.md",
     "Asset/Screenshot 2024-05-04 at 15.27.32.png",
-    "warninig.md",
     "Asset/Screenshot 2024-05-04 at 15.22.12.png",
     "Asset/Screenshot 2024-05-04 at 15.10.22.png",
     "Asset/Screenshot 2024-05-04 at 15.08.30.png",
-    "time data type.md",
-    "DELETE.md",
-    "MAX로 정렬하기.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "CODING/mySQL",
     "Asset/Pasted image 20240326212321.png",
@@ -273,9 +301,6 @@
     "공업수학/Untitled",
     "Asset/unnamed.png",
     "공업수학",
-    "Excalidraw",
-    "CODING/C",
-    "itemCount",
     "프로그래밍/Untitled 1.canvas",
     "프로그래밍/Untitled.canvas",
     "프로그래밍/Untitled 2.canvas"
