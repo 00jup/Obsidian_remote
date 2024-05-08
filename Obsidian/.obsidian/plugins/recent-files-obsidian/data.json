@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Python heapSort 만들다가 안 사실",
-      "path": "Python heapSort 만들다가 안 사실.md"
+      "basename": "Python 시험에서 틀린 것",
+      "path": "Python/Python 시험에서 틀린 것.md"
+    },
+    {
+      "basename": "Python dictionary",
+      "path": "Python/Python dictionary.md"
     },
     {
       "basename": "Python DB",
       "path": "Python/Python DB.md"
+    },
+    {
+      "basename": "Python heapSort 만들다가 안 사실",
+      "path": "Python heapSort 만들다가 안 사실.md"
     },
     {
       "basename": "MySQL DB",
@@ -191,14 +199,6 @@
     {
       "basename": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
       "path": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!.md"
-    },
-    {
-      "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
-      "path": "Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
-    },
-    {
-      "basename": "2024-1 자료구조에서 배운 포인터",
-      "path": "2024-1 자료구조에서 배운 포인터.md"
     }
   ],
   "omittedPaths": [],
