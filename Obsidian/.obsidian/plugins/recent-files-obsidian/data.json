@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Python dictionary 데이터 추가하기",
-      "path": "Python/Python dictionary 데이터 추가하기.md"
+      "basename": "buffer 지우기",
+      "path": "buffer 지우기.md"
     },
     {
-      "basename": "defaultdict 응용",
-      "path": "Python/defaultdict 응용.md"
+      "basename": "Array",
+      "path": "CODING/Java/Array.md"
     },
     {
-      "basename": "Python dictionary",
-      "path": "Python/Python dictionary.md"
+      "basename": "App Tester",
+      "path": "CODING/Flutter/App Tester.md"
     },
     {
-      "basename": "Python dictionary 실수",
-      "path": "Python/Python dictionary 실수.md"
+      "basename": "Array에서 Hello World 출력하는 방법",
+      "path": "CODING/Java/Array에서 Hello World 출력하는 방법.md"
     },
     {
-      "basename": "Python 시험에서 틀린 것",
-      "path": "Python/Python 시험에서 틀린 것.md"
+      "basename": "account example",
+      "path": "CODING/Java/account example.md"
+    },
+    {
+      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
+      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
+    },
+    {
+      "basename": "2024-1 자료구조에서 배운 포인터",
+      "path": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
     },
     {
       "basename": "Python DB",
-      "path": "Python/Python DB.md"
+      "path": "CODING/Python/Python DB.md"
+    },
+    {
+      "basename": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
+      "path": "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md"
+    },
+    {
+      "basename": "(void * )sum의 의미",
+      "path": "CODING/C/pointer/(void * )sum의 의미.md"
+    },
+    {
+      "basename": "' & \" in java",
+      "path": "CODING/Java/' & \" in java.md"
+    },
+    {
+      "basename": "Python dictionary 데이터 추가하기",
+      "path": "CODING/Python/Python dictionary 데이터 추가하기.md"
+    },
+    {
+      "basename": "defaultdict 응용",
+      "path": "CODING/Python/defaultdict 응용.md"
+    },
+    {
+      "basename": "Python dictionary",
+      "path": "CODING/Python/Python dictionary.md"
+    },
+    {
+      "basename": "Python dictionary 실수",
+      "path": "CODING/Python/Python dictionary 실수.md"
+    },
+    {
+      "basename": "Python 시험에서 틀린 것",
+      "path": "CODING/Python/Python 시험에서 틀린 것.md"
     },
     {
       "basename": "Python heapSort 만들다가 안 사실",
@@ -30,15 +70,11 @@
     },
     {
       "basename": "MySQL DB",
-      "path": "mySQL/MySQL DB.md"
+      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "GROUP BY",
       "path": "GROUP BY.md"
-    },
-    {
-      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
-      "path": "1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
       "basename": "data type",
@@ -74,7 +110,7 @@
     },
     {
       "basename": "groupby 잘 사용하기!",
-      "path": "Python/groupby 잘 사용하기!.md"
+      "path": "CODING/Python/groupby 잘 사용하기!.md"
     },
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
@@ -114,7 +150,7 @@
     },
     {
       "basename": "string.h",
-      "path": "C/string.h.md"
+      "path": "CODING/C/string.h.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
@@ -158,47 +194,11 @@
     },
     {
       "basename": "Java DB",
-      "path": "Java/Java DB.md"
+      "path": "CODING/Java/Java DB.md"
     },
     {
       "basename": "overloading vs overriding",
       "path": "overloading vs overriding.md"
-    },
-    {
-      "basename": "import 되지 않을 때",
-      "path": "import 되지 않을 때.md"
-    },
-    {
-      "basename": "맥에 윈도우 설치하는 법",
-      "path": "맥에 윈도우 설치하는 법.md"
-    },
-    {
-      "basename": "Flutter image_picker",
-      "path": "Flutter/Flutter image_picker.md"
-    },
-    {
-      "basename": "패러렐즈 Capslock으로 한영 변환",
-      "path": "패러렐즈 Capslock으로 한영 변환.md"
-    },
-    {
-      "basename": "argv (null) MallocNanoZone = 0 설명",
-      "path": "C/argv (null) MallocNanoZone = 0 설명.md"
-    },
-    {
-      "basename": "account example",
-      "path": "account example.md"
-    },
-    {
-      "basename": "Python match",
-      "path": "Python/Python match.md"
-    },
-    {
-      "basename": "Python is_alive",
-      "path": "Python/Python is_alive.md"
-    },
-    {
-      "basename": "C switch",
-      "path": "C/C switch.md"
     }
   ],
   "omittedPaths": [],

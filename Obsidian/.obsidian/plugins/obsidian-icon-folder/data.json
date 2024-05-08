@@ -27,9 +27,9 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Flutter": "RiFlutterFill",
   "Excalidraw": "RiPaintBrushLine",
-  "Java": "IbTarget",
-  "Python": "IbTriangleRight",
-  "C": "IbLightning"
+  "CODING/C": "IbLightning",
+  "CODING/Flutter": "RiFlutterFill",
+  "CODING/Java": "IbTarget",
+  "CODING/Python": "IbTriangleRight"
 }

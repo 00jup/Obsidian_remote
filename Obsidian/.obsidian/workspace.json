@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python DB.md",
+                "file": "buffer 지우기.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d0698cd611319e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "buffer 지우기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md",
+                "file": "buffer 지우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -197,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python dictionary 데이터 추가하기.md"
+                "file": "buffer 지우기.md"
               }
             }
           },
@@ -239,17 +225,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75d0698cd611319e",
+  "active": "73c0d96c3b401acf",
   "lastOpenFiles": [
-    "Python/defaultdict 응용.md",
-    "Python/Python dictionary.md",
-    "Python/Python dictionary 실수.md",
-    "Python/Python 시험에서 틀린 것.md",
-    "Python/Python DB.md",
+    "CODING/Java/Array.md",
+    "CODING/Flutter/App Tester.md",
+    "CODING/Java/Array에서 Hello World 출력하는 방법.md",
+    "CODING/Java/account example.md",
+    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
+    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+    "CODING/Python/Python DB.md",
+    "2023-10-20.md",
+    "2023-11-05.md",
+    "2023-10-13.md",
+    "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md",
+    "CODING/C/pointer/(void * )sum의 의미.md",
+    "CODING/C/pointer",
+    "CODING/Java/' & \" in java.md",
+    "CODING",
+    "CODING/Python/Python dictionary 데이터 추가하기.md",
+    "CODING/Python/Untitled",
+    "CODING/Python/defaultdict 응용.md",
+    "CODING/Python/Python dictionary.md",
+    "CODING/Python/Python dictionary 실수.md",
+    "CODING/Python/Python 시험에서 틀린 것.md",
     "Python heapSort 만들다가 안 사실.md",
-    "mySQL/MySQL DB.md",
+    "CODING/mySQL/MySQL DB.md",
     "GROUP BY.md",
-    "1000000 미만만 들어가게 하기 decimal 사용.md",
     "data type.md",
     "Asset/Screenshot 2024-05-04 at 15.27.32.png",
     "warninig.md",
@@ -259,39 +260,24 @@
     "time data type.md",
     "DELETE.md",
     "MAX로 정렬하기.md",
-    "처음 발견한 error.md",
-    "내가 원하는 이름의 데이터 찾기.md",
-    "COUNT.md",
-    "Python/groupby 잘 사용하기!.md",
-    "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
-    "특정 문자열 찾고 싶을 때 방법.md",
-    "실행하고 목록 표시 SHOW DATABASES;.md",
-    "STRUCTURE.md",
-    "LIMIT.md",
-    "LIKE.md",
-    "Order by.md",
-    "Distinct.md",
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
-    "mySQL",
+    "CODING/mySQL",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
     "Asset/Pasted image 20240326210613.png",
-    "C/Screenshot 2023-10-08 at 16.21.04.png",
+    "CODING/C/Screenshot 2023-10-08 at 16.21.04.png",
     "Java/Untitled.canvas",
-    "Java",
+    "CODING/Java",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "공업수학/Untitled",
     "Asset/unnamed.png",
     "공업수학",
     "Excalidraw",
-    "C",
+    "CODING/C",
     "itemCount",
-    "Python",
-    "Asset/붙임1_푸른등대 KB Dream Wave 2030  인재양성분야 기부장학금 사업계획서.pdf",
     "프로그래밍/Untitled 1.canvas",
     "프로그래밍/Untitled.canvas",
-    "4. Yearly",
     "프로그래밍/Untitled 2.canvas"
   ]
 }
