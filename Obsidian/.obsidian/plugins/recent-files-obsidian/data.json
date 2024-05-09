@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Final Value",
+      "path": "CODING/Java/틀린 거../Final Value.md"
+    },
+    {
       "basename": "새로운 데이터로 만드는 방법",
       "path": "CODING/Python/새로운 데이터로 만드는 방법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
       "path": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
-    },
-    {
-      "basename": "Java DB",
-      "path": "CODING/Java/Java DB.md"
     }
   ],
   "omittedPaths": [],

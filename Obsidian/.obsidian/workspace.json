@@ -35,8 +35,12 @@
             "id": "2c7f1edbfea2d0c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CODING/Java/틀린 거../Final Value.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -134,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CODING/Java/틀린 거../Final Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CODING/Java/틀린 거../Final Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CODING/Java/틀린 거../Final Value.md"
+              }
             }
           },
           {
@@ -199,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "CODING/Java/틀린 거../Final Value.md"
+              }
             }
           },
           {
@@ -242,6 +252,7 @@
   },
   "active": "2c7f1edbfea2d0c2",
   "lastOpenFiles": [
+    "CODING/Java/틀린 거../Final Value.md",
     "CODING/Python/새로운 데이터로 만드는 방법.md",
     "CODING/Java/신기한 거",
     "CODING/just 지식/코딩할 때 주석 표기하기.md",
