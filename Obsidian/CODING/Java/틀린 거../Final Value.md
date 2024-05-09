@@ -60,3 +60,12 @@ public class Counter {
 ```
 
 
+```java
+new CalcElement.Operator() {
+                        @Override
+                        public int operate() {
+                            return count + step;
+                        }
+```
+
+여기서 operate를 주입한다.
