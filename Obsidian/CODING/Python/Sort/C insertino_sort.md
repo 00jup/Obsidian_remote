@@ -9,7 +9,7 @@ void insertion_sort(int list[], int n)
         for(j = i-1; j >= 0 && list[j] > key; j--)
             list[j+1] = list[j];
         list[j+1] = key; 
-        //위의 for 조건이 만족되지 않았을 때 탈출하니
+        //위의 for 조건이 만족되지 않았을 때 탈출하니까 j+1을 해주는 거다.
     }
 }
 ```
