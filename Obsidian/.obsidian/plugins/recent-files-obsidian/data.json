@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "CODING/Python/Sort/Untitled.md"
+    },
+    {
+      "basename": "Pointer에서 주소를 전달한다는 것의 의미 이제 이해함",
+      "path": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md"
+    },
+    {
+      "basename": "2024-1 자료구조에서 배운 포인터",
+      "path": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
+    },
+    {
+      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
+      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+    },
+    {
       "basename": "Final Value",
       "path": "CODING/Java/틀린 거../Final Value.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "LIMIT",
       "path": "CODING/mySQL/LIMIT.md"
-    },
-    {
-      "basename": "interface나 inheritance",
-      "path": "CODING/Java/interface나 inheritance.md"
-    },
-    {
-      "basename": "java String[] args meanings",
-      "path": "CODING/Java/java String[] args meanings.md"
-    },
-    {
-      "basename": "java 스럽다",
-      "path": "CODING/Java/java 스럽다.md"
-    },
-    {
-      "basename": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-      "path": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
     }
   ],
   "omittedPaths": [],
