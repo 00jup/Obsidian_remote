@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
                 "mode": "preview",
                 "source": false
               }
@@ -275,10 +275,10 @@
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
     "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
+    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+    "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/C/pointer/Untitled.canvas",
-    "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
-    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
     "CODING/Python/Sort/C insertino_sort.md",
     "CODING/Java/틀린 거../Final Value.md",
     "CODING/Python/새로운 데이터로 만드는 방법.md",
