@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d3adf5fb74a6e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bfd6ac6c0e75e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -139,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
               }
             }
           },
@@ -209,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+                "file": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
               }
             }
           },
@@ -251,12 +274,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c7f1edbfea2d0c2",
+  "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
-    "CODING/Python/Sort/C insertino_sort.md",
-    "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
-    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
+    "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
+    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+    "CODING/Python/Sort/C insertino_sort.md",
     "CODING/Java/틀린 거../Final Value.md",
     "CODING/Python/새로운 데이터로 만드는 방법.md",
     "CODING/Java/신기한 거",
