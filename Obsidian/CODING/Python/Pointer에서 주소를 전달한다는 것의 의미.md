@@ -37,6 +37,7 @@ void set_pointer(char *q)
 
 -> 그래야 p의 값을 바꿀 수 있다.
 
+아래처럼 쓰면 안 됨.
 ```c
 void set_pointer(char **q)
 {
