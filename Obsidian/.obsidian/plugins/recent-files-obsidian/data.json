@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
+      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+    },
+    {
       "basename": "C insertino_sort",
       "path": "CODING/Python/Sort/C insertino_sort.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "2024-1 자료구조에서 배운 포인터",
       "path": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-    },
-    {
-      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
-      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
     },
     {
       "basename": "Final Value",

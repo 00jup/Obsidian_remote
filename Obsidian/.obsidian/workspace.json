@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Python/Sort/C insertino_sort.md",
+                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Python/Sort/C insertino_sort.md",
+                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Python/Sort/C insertino_sort.md",
+                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Python/Sort/C insertino_sort.md"
+                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
               }
             }
           },
@@ -208,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Python/Sort/C insertino_sort.md"
+                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
               }
             }
           },
@@ -252,8 +253,8 @@
   },
   "active": "2c7f1edbfea2d0c2",
   "lastOpenFiles": [
-    "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "CODING/Python/Sort/C insertino_sort.md",
+    "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미 이제 이해함.md",
     "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "CODING/Java/틀린 거../Final Value.md",
