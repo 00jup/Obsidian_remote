@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
+      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+    },
+    {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미",
       "path": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
     },
     {
-      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
-      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+      "basename": "Drawing 2024-05-13 11.31.18.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
     },
     {
       "basename": "2024-1 자료구조에서 배운 포인터",
@@ -191,14 +195,6 @@
     {
       "basename": "MAX로 정렬하기",
       "path": "CODING/mySQL/MAX로 정렬하기.md"
-    },
-    {
-      "basename": "LIKE",
-      "path": "CODING/mySQL/LIKE.md"
-    },
-    {
-      "basename": "LIMIT",
-      "path": "CODING/mySQL/LIMIT.md"
     }
   ],
   "omittedPaths": [],
