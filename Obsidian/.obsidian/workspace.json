@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/C/pointer/이중포인터.md",
+                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/C/pointer/이중포인터.md",
+                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/C/pointer/이중포인터.md",
+                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/C/pointer/이중포인터.md"
+                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
               }
             }
           },
@@ -230,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/C/pointer/이중포인터.md"
+                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
               }
             }
           },
@@ -274,10 +275,11 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
+    "CODING/C/pointer/이중포인터.md",
+    "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
     "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
-    "CODING/C/pointer/이중포인터.md",
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/C/pointer/Untitled.canvas",
     "CODING/Python/Sort/C insertino_sort.md",
@@ -302,7 +304,6 @@
     "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md",
     "CODING/mySQL/만들고 실행.md",
     "dd.md",
-    "CODING/Java/독특한 함수 사용법.md",
     "CODING/just 지식",
     "CODING/Java/틀린 거..",
     "CODING/C/pointer",
