@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Functional Interface Application",
+      "path": "Functional Interface Application.md"
+    },
+    {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "overloading vs overriding",
       "path": "CODING/Java/틀린 거../overloading vs overriding.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     }
   ],
   "omittedPaths": [],

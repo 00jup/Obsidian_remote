@@ -103,10 +103,36 @@ public static void main(String[] args) {
 
 ```java
 public static void main(String[] args) {
-		double englishAvg = avg(); // 메소드 참조로 수정
-		System.out.println("English average: " + englishAvg);
+		double englishAvg = avg(new Function<Student>() {  
+                      @Override  
+                      public double apply(Student student) {  
+                         return student.getEnglishScore();  
+                      }  
+                   });  
+System.out.println("English average: " + englishAvg);
 		
-		double mathAvg = avg(); // 메소드 참조로 수정
-		System.out.println("Math average: " + mathAvg);
+		double englishAvg = avg(new Function<Student>() {  
+                      @Override  
+                      public double apply(Student student) {  
+                         return student.getMathScore();  
+                      }  
+                   });  
+System.out.println("English average: " + mathAvg);
 	}
+```
+
+`이걸 보면 이제 납득이 된다...!`
+
+[[Functional Interface Application]]
+
+### 혼자 공부하다가 나온 오류
+```java
+double englishAvg = avg(
+				()->{
+					@Override
+							public double apply(Student){
+						return student.getEnglishScore();
+					}
+				}
+				); // 메소드 참조로 수정
 ```
