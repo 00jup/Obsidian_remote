@@ -91,10 +91,10 @@ public static void main(String[] args) {
 
 ```java
 public static void main(String[] args) {
-		double englishAvg = avg(s -> s.getEnglishScore); // 메소드 참조로 수정
+		double englishAvg = avg(s -> s.getEnglishScore()); // 메소드 참조로 수정
 		System.out.println("English average: " + englishAvg);
 		
-		double mathAvg = avg(s -> s.getMathScore); // 메소드 참조로 수정
+		double mathAvg = avg(s -> s.getMathScore()); // 메소드 참조로 수정
 		System.out.println("Math average: " + mathAvg);
 	}
 ```
@@ -136,16 +136,26 @@ public static void main(String[] args) {
 		System.out.println("English average: " + englishAvg);}
 ```
 
+### 익명구현객체에 람다식을 활용하는 거임
 ```java
 public static void main(String[] args) {
-		double englishAvg = avg(()-> {
-									@Override
-									public double apply(Student student) {
+		double englishAvg = avg((Student student) ->
 										return student.getEnglishScore();
-									}
-								});
+								);
 		System.out.println("English average: " + englishAvg);}
 ```
+
+그래서 여기서 가능하게 된다.
+생략할 거 다 생략하면
+```java
+public static void main(String[] args) {
+		double englishAvg = avg(st ->
+										st.getEnglishScore();
+								);
+		System.out.println("English average: " + englishAvg);}
+```
+
+
 
 # 함수형 인터페이스 응용
 [[Functional Interface Application]]
