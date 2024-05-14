@@ -61,7 +61,7 @@ public class Student {
 }
 ```
 
-## Example.java에서
+# Example.java에서
 ```java
 public static double avg(Function<Student> function){
 		int sum = 0;
@@ -122,8 +122,15 @@ System.out.println("English average: " + mathAvg);
 ```
 
 `이걸 보면 이제 납득이 된다...!`
-
+# 함수형 인터페이스 응용
 [[Functional Interface Application]]
+
+# 여기서 사용된 개념
+[[generic in java]]
+위 글을 보면 generic으로 만들 때 `Function function = new Function<Student>()` 라는 거 알 수 있음
+`Box<Integer> box = new Box<Integer>();`
+
+> ()가 포함되어야 한다!!
 
 ### 혼자 공부하다가 나온 오류
 ```java

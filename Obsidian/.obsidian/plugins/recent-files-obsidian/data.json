@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Functional Interface Application",
-      "path": "Functional Interface Application.md"
-    },
-    {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "generic in java",
+      "path": "generic in java.md"
+    },
+    {
+      "basename": "Functional Interface Application",
+      "path": "Functional Interface Application.md"
     },
     {
       "basename": "이중포인터",
@@ -195,10 +199,6 @@
     {
       "basename": "Order by",
       "path": "CODING/mySQL/Order by.md"
-    },
-    {
-      "basename": "overloading vs overriding",
-      "path": "CODING/Java/틀린 거../overloading vs overriding.md"
     }
   ],
   "omittedPaths": [],
