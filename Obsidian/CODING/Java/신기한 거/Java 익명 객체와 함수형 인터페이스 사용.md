@@ -122,6 +122,31 @@ System.out.println("English average: " + mathAvg);
 ```
 
 `이걸 보면 이제 납득이 된다...!`
+
+## 다시 원래대로 돌리기
+
+```java
+public static void main(String[] args) {
+		double englishAvg = avg(()-> {
+									@Override
+									public double apply(Student student) {
+										return student.getEnglishScore();
+									}
+								});
+		System.out.println("English average: " + englishAvg);}
+```
+
+```java
+public static void main(String[] args) {
+		double englishAvg = avg(()-> {
+									@Override
+									public double apply(Student student) {
+										return student.getEnglishScore();
+									}
+								});
+		System.out.println("English average: " + englishAvg);}
+```
+
 # 함수형 인터페이스 응용
 [[Functional Interface Application]]
 
