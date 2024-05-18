@@ -11,8 +11,12 @@
             "id": "24f18b124bd765ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +133,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md"
+          }
         }
       }
     ],
@@ -135,19 +143,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6f140403efee5f72",
+  "active": "24f18b124bd765ed",
   "lastOpenFiles": [
     "Java/Java DB.md",
     "dd.md",
