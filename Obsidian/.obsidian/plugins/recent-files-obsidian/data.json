@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "객체와 문자열 비교 시 주의사항",
+      "path": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "CODING/Python/Untitled.md"
+    },
+    {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "public static void main(String[] args)",
       "path": "CODING/Java/public static void main(String[] args).md"
-    },
-    {
-      "basename": "pipeline vs &&",
-      "path": "CODING/just 지식/pipeline vs &&.md"
-    },
-    {
-      "basename": "Order by",
-      "path": "CODING/mySQL/Order by.md"
     }
   ],
   "omittedPaths": [],

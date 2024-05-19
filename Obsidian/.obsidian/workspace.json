@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
+                "file": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md"
               }
             }
           },
@@ -255,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
+                "file": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md"
               }
             }
           },
@@ -299,8 +298,11 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
-    "generic in java.md",
+    "CODING/Python/Untitled.md",
+    "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md",
+    "CODING/Python/주의사항",
     "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
+    "generic in java.md",
     "Functional Interface Application.md",
     "CODING/C/pointer/이중포인터.md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
@@ -326,8 +328,6 @@
     "그냥 지식/미세유체개론 단위.md",
     "그냥 지식",
     "CODING/just 지식/맥에 윈도우 설치하는 법.md",
-    "CODING/mySQL/warninig.md",
-    "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md",
     "CODING/just 지식",
     "CODING/Java/틀린 거..",
     "CODING/C/pointer",
@@ -347,7 +347,6 @@
     "CODING/Java",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "공업수학/Untitled",
     "Asset/unnamed.png",
     "프로그래밍/Untitled 1.canvas",
     "프로그래밍/Untitled.canvas",
