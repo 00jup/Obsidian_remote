@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "import 되지 않을 때",
+      "path": "CODING/Python/import 되지 않을 때.md"
+    },
+    {
+      "basename": "Python tkinter",
+      "path": "CODING/Python/Python tkinter.md"
+    },
+    {
+      "basename": "pipeline vs &&",
+      "path": "CODING/just 지식/pipeline vs &&.md"
+    },
+    {
       "basename": "객체와 문자열 비교 시 주의사항",
       "path": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "SELECT",
       "path": "CODING/mySQL/SELECT.md"
-    },
-    {
-      "basename": "Python heapSort 만들다가 안 사실",
-      "path": "CODING/Python/Python heapSort 만들다가 안 사실.md"
-    },
-    {
-      "basename": "Pointer 사용 예제",
-      "path": "CODING/C/Pointer 사용 예제.md"
-    },
-    {
-      "basename": "public static void main(String[] args)",
-      "path": "CODING/Java/public static void main(String[] args).md"
     }
   ],
   "omittedPaths": [],
