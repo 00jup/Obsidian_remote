@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Insertion sort를 쓰면 좋을 때",
+      "path": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md"
+    },
+    {
       "basename": "import 되지 않을 때",
       "path": "CODING/Python/import 되지 않을 때.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "static method 쓰는 이유",
       "path": "CODING/Java/static method 쓰는 이유.md"
-    },
-    {
-      "basename": "SELECT",
-      "path": "CODING/mySQL/SELECT.md"
     }
   ],
   "omittedPaths": [],
