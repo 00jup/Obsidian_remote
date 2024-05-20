@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md",
+                "file": "CODING/just 지식/자료구조/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md",
+                "file": "CODING/just 지식/자료구조/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md",
+                "file": "CODING/just 지식/자료구조/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md"
+                "file": "CODING/just 지식/자료구조/Untitled.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md"
+                "file": "CODING/just 지식/자료구조/Untitled.md"
               }
             }
           },
@@ -298,8 +298,9 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
-    "CODING/Python/import 되지 않을 때.md",
     "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md",
+    "CODING/just 지식/자료구조/Untitled.md",
+    "CODING/Python/import 되지 않을 때.md",
     "CODING/just 지식/자료구조",
     "CODING/Python/Python tkinter.md",
     "CODING/just 지식/pipeline vs &&.md",
@@ -327,7 +328,6 @@
     "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md",
     "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
     "CODING/mySQL/처음 발견한 error.md",
-    "CODING/mySQL/원하는 database 변경하기.md",
     "그냥 지식",
     "CODING/just 지식",
     "CODING/Java/틀린 거..",

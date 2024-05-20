@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "퀵 정렬 recursive 하지 않아도 가능함",
+      "path": "CODING/just 지식/자료구조/퀵 정렬 recursive 하지 않아도 가능함.md"
+    },
+    {
       "basename": "Insertion sort를 쓰면 좋을 때",
       "path": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "String",
       "path": "CODING/Java/String.md"
-    },
-    {
-      "basename": "static method 쓰는 이유",
-      "path": "CODING/Java/static method 쓰는 이유.md"
     }
   ],
   "omittedPaths": [],
