@@ -1,4 +1,5 @@
 
+Java는 함수형 언어가 원래 아니라서 이렇게 사용함.
 # Function.java
 ```java
 package ch09.lambdaPractice;  
