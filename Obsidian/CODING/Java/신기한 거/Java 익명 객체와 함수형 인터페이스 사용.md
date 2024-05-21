@@ -39,7 +39,7 @@ public class Example {
 
 }
 ```
-
+[[인스턴스 메소드 참조]]
 # Student.java
 ```java
 package ch09.lambdaPractice;

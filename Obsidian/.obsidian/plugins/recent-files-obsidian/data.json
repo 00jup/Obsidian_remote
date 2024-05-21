@@ -5,6 +5,10 @@
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
     {
+      "basename": "인스턴스 메소드 참조",
+      "path": "인스턴스 메소드 참조.md"
+    },
+    {
       "basename": "generic in java",
       "path": "generic in java.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "String[] args VS String args[]의 차이점",
       "path": "CODING/Java/String[] args VS String args[]의 차이점.md"
-    },
-    {
-      "basename": "String",
-      "path": "CODING/Java/String.md"
     }
   ],
   "omittedPaths": [],
