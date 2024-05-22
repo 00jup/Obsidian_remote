@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "제너릭",
+      "path": "CODING/Java/신기한 거/제너릭.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Java에는 Int와 Integer가 둘다 있다",
       "path": "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md"
-    },
-    {
-      "basename": "제너릭",
-      "path": "CODING/Java/신기한 거/제너릭.md"
     },
     {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",

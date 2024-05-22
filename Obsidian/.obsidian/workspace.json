@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "mode": "preview",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md"
+                "file": "CODING/Java/신기한 거/제너릭.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md"
+                "file": "CODING/Java/신기한 거/제너릭.md"
               }
             }
           },
@@ -298,8 +298,8 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
-    "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
     "CODING/mySQL/MySQL DB.md",
+    "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
     "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "CODING/mySQL/mysql 실행하기.md",
     "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
