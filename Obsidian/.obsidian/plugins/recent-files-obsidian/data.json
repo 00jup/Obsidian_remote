@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "특정 문자열 찾고 싶을 때 방법",
+      "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
+    },
+    {
+      "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
+      "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
+    },
+    {
       "basename": "mysql 실행하기",
       "path": "CODING/mySQL/mysql 실행하기.md"
     },
@@ -101,20 +113,12 @@
       "path": "CODING/Python/유효범위 문제.md"
     },
     {
-      "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
-      "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
-    },
-    {
       "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
       "path": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
     },
     {
       "basename": "패러렐즈 Capslock으로 한영 변환",
       "path": "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md"
-    },
-    {
-      "basename": "특정 문자열 찾고 싶을 때 방법",
-      "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
     },
     {
       "basename": "처음 발견한 error",
@@ -195,10 +199,6 @@
     {
       "basename": "this를 상속해서 사용하는 법",
       "path": "CODING/Java/this를 상속해서 사용하는 법.md"
-    },
-    {
-      "basename": "Terminal",
-      "path": "CODING/just 지식/Terminal.md"
     }
   ],
   "omittedPaths": [],

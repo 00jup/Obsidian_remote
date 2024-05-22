@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
-                "mode": "source",
+                "file": "CODING/mySQL/MySQL DB.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "CODING/mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "CODING/mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "CODING/mySQL/MySQL DB.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "CODING/mySQL/MySQL DB.md"
               }
             }
           },
@@ -298,6 +298,10 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
+    "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
+    "CODING/mySQL/MySQL DB.md",
+    "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
+    "CODING/mySQL/mysql 실행하기.md",
     "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
     "CODING/Java/신기한 거/제너릭.md",
     "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
@@ -326,10 +330,6 @@
     "CODING/Python/새로운 데이터로 만드는 방법.md",
     "CODING/Java/신기한 거",
     "CODING/just 지식/코딩할 때 주석 표기하기.md",
-    "CODING/불가능한 예시들.md",
-    "CODING/Python/유효범위 문제.md",
-    "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
-    "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
     "그냥 지식",
     "CODING/just 지식",
     "CODING/Java/틀린 거..",
