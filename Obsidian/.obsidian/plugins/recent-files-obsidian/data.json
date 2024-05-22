@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
       "basename": "Java에는 Int와 Integer가 둘다 있다",
       "path": "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Terminal",
       "path": "CODING/just 지식/Terminal.md"
-    },
-    {
-      "basename": "super.method vs method in extends",
-      "path": "CODING/Java/super.method vs method in extends.md"
     }
   ],
   "omittedPaths": [],
