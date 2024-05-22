@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java에는 Int와 Integer가 둘다 있다",
+      "path": "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md"
+    },
+    {
       "basename": "제너릭",
       "path": "CODING/Java/신기한 거/제너릭.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "super.method vs method in extends",
       "path": "CODING/Java/super.method vs method in extends.md"
-    },
-    {
-      "basename": "substring 사용법",
-      "path": "CODING/Java/substring 사용법.md"
     }
   ],
   "omittedPaths": [],
