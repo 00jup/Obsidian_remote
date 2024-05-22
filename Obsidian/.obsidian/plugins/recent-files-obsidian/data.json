@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Daemon Thread",
+      "path": "CODING/Java/신기한 거/Daemon Thread.md"
+    },
+    {
       "basename": "제너릭",
       "path": "CODING/Java/신기한 거/제너릭.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "this를 상속해서 사용하는 법, overrroading에서 가능함",
       "path": "CODING/Java/this를 상속해서 사용하는 법, overrroading에서 가능함.md"
-    },
-    {
-      "basename": "this를 상속해서 사용하는 법",
-      "path": "CODING/Java/this를 상속해서 사용하는 법.md"
     }
   ],
   "omittedPaths": [],
