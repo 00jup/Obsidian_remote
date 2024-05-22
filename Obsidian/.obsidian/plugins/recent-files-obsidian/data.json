@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "제너릭",
+      "path": "CODING/Java/신기한 거/제너릭.md"
+    },
+    {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "substring 사용법",
       "path": "CODING/Java/substring 사용법.md"
-    },
-    {
-      "basename": "String[] args VS String args[]의 차이점",
-      "path": "CODING/Java/String[] args VS String args[]의 차이점.md"
     }
   ],
   "omittedPaths": [],
