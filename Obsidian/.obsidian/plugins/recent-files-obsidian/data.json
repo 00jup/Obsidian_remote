@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Singletone case",
+      "path": "CODING/just 지식/Singletone case.md"
+    },
+    {
+      "basename": "singleton",
+      "path": "CODING/Java/신기한 거/singleton.md"
+    },
+    {
       "basename": "Daemon Thread",
       "path": "CODING/Java/신기한 거/Daemon Thread.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "아니 이걸 틀린다고?? 이걸?!?!",
       "path": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md"
-    },
-    {
-      "basename": "refactoring EX",
-      "path": "CODING/Java/refactoring EX.md"
-    },
-    {
-      "basename": "this를 상속해서 사용하는 법, overrroading에서 가능함",
-      "path": "CODING/Java/this를 상속해서 사용하는 법, overrroading에서 가능함.md"
     }
   ],
   "omittedPaths": [],

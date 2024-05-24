@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/Daemon Thread.md",
+                "file": "CODING/just 지식/Singletone case.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/Daemon Thread.md",
+                "file": "CODING/just 지식/Singletone case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/Daemon Thread.md",
+                "file": "CODING/just 지식/Singletone case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/Daemon Thread.md"
+                "file": "CODING/just 지식/Singletone case.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/Daemon Thread.md"
+                "file": "CODING/just 지식/Singletone case.md"
               }
             }
           },
@@ -298,9 +298,11 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/singleton.md",
+    "CODING/just 지식/Singletone case.md",
+    "CODING/Java/신기한 거/Daemon Thread.md",
     "Asset/Screenshot 2024-05-23 at 00.40.24.png",
     "CODING/Java/신기한 거/제너릭.md",
-    "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
     "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
@@ -328,7 +330,6 @@
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/C/pointer/Untitled.canvas",
     "CODING/Python/Sort/C insertino_sort.md",
-    "CODING/Java/틀린 거../Final Value.md",
     "CODING/Java/신기한 거",
     "그냥 지식",
     "CODING/just 지식",
@@ -344,7 +345,6 @@
     "CODING/mySQL",
     "Asset/Pasted image 20240326212321.png",
     "Asset/Pasted image 20240326210631.png",
-    "Asset/Pasted image 20240326210613.png",
     "Java/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
