@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
     },
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
     {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
+      "basename": "DELETE",
+      "path": "CODING/mySQL/DELETE.md"
+    },
+    {
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "database 살펴보기",
       "path": "CODING/mySQL/database 살펴보기.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "CODING/mySQL/DELETE.md"
     },
     {
       "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
