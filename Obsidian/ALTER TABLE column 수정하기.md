@@ -150,4 +150,4 @@ Query OK, 1 row affected (0.00 sec)
 잘 쓰면 powerful 함.
 ![[Screenshot 2024-05-26 at 23.49.14.png]]
 
-공식 문서에서 
+공식 문서에서 `[]` 이렇게 되어 있는 거는 optional임.
