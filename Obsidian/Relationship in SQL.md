@@ -26,13 +26,12 @@ CREATE TABLE customers(
 CREATE TABLE orders(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	order_date DATE,
-	amout DECIMAL(8,2),
+	amount DECIMAL(8,2),
 	customer_id INT
 );
 ```
 
 이렇게 해도 작동에는 이상없음.
-
 
 ```sql
 CREATE TABLE customers(
@@ -45,10 +44,14 @@ CREATE TABLE customers(
 CREATE TABLE orders(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	order_date DATE,
-	amout DECIMAL(8,2),
+	amount DECIMAL(8,2),
 	customer_id INT,
 	FOREIGN KEY (customer_id) REFERENCES customers(id)
 );
 ```
+
+분리된 table이 어떻게 함께 작동하게 할까?
+
+join을 사용
 
 
