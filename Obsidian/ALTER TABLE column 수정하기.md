@@ -86,3 +86,34 @@ MODIFY biz_name VARCHAR(100);
 ```
 
 
+```sql
+mysql> ALTER TABLE suppliers MODIFY company_name VARCHAR(100) DEFAULT 'unknown';
+Query OK, 1 row affected (0.03 sec)
+Records: 1  Duplicates: 0  Warnings: 0
+
+mysql> DESC suppliers;
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| company_name | varchar(100) | YES  | MUL | unknown |       |
+| address      | varchar(255) | NO   |     | NULL    |       |
+| city         | varchar(25)  | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+
+3 rows in set (0.01 sec)
+```
+
+근데 이거 하면 key가 MUL로 바뀜
+
+
+```sql
+ALTER TABLE suppliers
+MODIFY biz_name name VARCHAR(100);
+```
+
+이렇게 하면 이름도 바꿀 수 있음
+
+# ALTER TABLE에서 constraint 사용하기
+
+```sql
+ALTER TABLE houses ADD CONSTRAINT 'positive_pprice' CHECK (purchase_price >= 0)
+```
