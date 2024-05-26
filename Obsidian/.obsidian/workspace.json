@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea4d83166aa2e05",
+        "id": "bffdb779642768e5",
         "type": "tabs",
         "children": [
           {
-            "id": "73c0d96c3b401acf",
+            "id": "99bbee79dcd17069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/database 살펴보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfe5a6effd45112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/mySQL/DELETE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7f1edbfea2d0c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d3adf5fb74a6e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALTER TABLE column 수정하기.md",
+                "file": "Relationship in SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pip",
+                "query": "\bdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALTER TABLE column 수정하기.md",
+                "file": "Relationship in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALTER TABLE column 수정하기.md",
+                "file": "Relationship in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALTER TABLE column 수정하기.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -209,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ALTER TABLE column 수정하기.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -251,19 +214,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d3adf5fb74a6e08",
+  "active": "99bbee79dcd17069",
   "lastOpenFiles": [
-    "Asset/Screenshot 2024-05-26 at 23.49.14.png",
     "CODING/mySQL/MySQL DB.md",
+    "Relationship in SQL.md",
+    "CODING/mySQL/database 살펴보기.md",
+    "CODING/mySQL/DELETE.md",
+    "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
+    "ALTER TABLE column 수정하기.md",
+    "Asset/Screenshot 2024-05-26 at 23.49.14.png",
     "CODING/mySQL/MAX로 정렬하기.md",
     "CODING/mySQL/mysql 실행하기.md",
-    "ALTER TABLE column 수정하기.md",
     "generic in java.md",
     "Functional Interface Application.md",
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
-    "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "insertion CONSTRAINT.md",
     "insertion CHECK.md",
     "insertion Unique.md",
@@ -279,8 +245,6 @@
     "CODING/Java/신기한 거/Daemon Thread.md",
     "Asset/Screenshot 2024-05-23 at 00.40.24.png",
     "CODING/Java/신기한 거/제너릭.md",
-    "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
-    "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "Asset/Pasted image 20240521101728.png",
     "Asset/Pasted image 20240521101649.png",
     "CODING/just 지식/자료구조",
@@ -300,7 +264,6 @@
     "Asset/Screenshot 2024-03-31 at 17.02.05.png",
     "CODING/mySQL",
     "Asset/Pasted image 20240326212321.png",
-    "Asset/Pasted image 20240326210631.png",
     "Java/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

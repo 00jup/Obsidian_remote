@@ -60,6 +60,8 @@ analyze에서 많이 사용된다.
 
 [[1000000 미만만 들어가게 하기 decimal 사용]]
 
+[[Relationship in SQL]]
+
 
 MySQL은 DB manage system이다.
 근데 사람들은 DB라고 앎.

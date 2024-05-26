@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
     },
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "database 살펴보기",
+      "path": "CODING/mySQL/database 살펴보기.md"
+    },
+    {
+      "basename": "DELETE",
+      "path": "CODING/mySQL/DELETE.md"
+    },
+    {
+      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
+      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
+    },
+    {
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "MAX로 정렬하기",
@@ -35,10 +51,6 @@
     {
       "basename": "INSERT(CRUD에서 create 부분)",
       "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-    },
-    {
-      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
-      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
     },
     {
       "basename": "insertion CONSTRAINT",
@@ -187,18 +199,6 @@
     {
       "basename": "실행하고 목록 표시 SHOW DATABASES;",
       "path": "CODING/mySQL/실행하고 목록 표시 SHOW DATABASES;.md"
-    },
-    {
-      "basename": "배열을 pointer의 주소를 이용해서 표현하는 방법",
-      "path": "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md"
-    },
-    {
-      "basename": "미세유체개론 단위",
-      "path": "그냥 지식/미세유체개론 단위.md"
-    },
-    {
-      "basename": "warninig",
-      "path": "CODING/mySQL/warninig.md"
     }
   ],
   "omittedPaths": [],
