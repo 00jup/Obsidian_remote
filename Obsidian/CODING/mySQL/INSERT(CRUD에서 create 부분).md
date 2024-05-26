@@ -33,3 +33,4 @@ VALUES ('Ringo', 'Tabby', 4),
 ('Jackson', 'Sphynx', 7);
 
 [[insertion Unique]]
+[[insertion CHECK]]

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "insertion Unique",
-      "path": "insertion Unique.md"
+      "basename": "insertion CHECK",
+      "path": "insertion CHECK.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
       "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "insertion Unique",
+      "path": "insertion Unique.md"
     },
     {
       "basename": "MySQL DB",
@@ -195,10 +199,6 @@
     {
       "basename": "가변길이 매개변수",
       "path": "CODING/Java/가변길이 매개변수.md"
-    },
-    {
-      "basename": "tolower",
-      "path": "CODING/C/tolower.md"
     }
   ],
   "omittedPaths": [],
