@@ -5,6 +5,18 @@
       "path": "ALTER TABLE column 수정하기.md"
     },
     {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "MAX로 정렬하기",
+      "path": "CODING/mySQL/MAX로 정렬하기.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
       "basename": "generic in java",
       "path": "generic in java.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "1000000 미만만 들어가게 하기 decimal 사용",
       "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
@@ -43,10 +51,6 @@
     {
       "basename": "insertion Unique",
       "path": "insertion Unique.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "맥에 윈도우 설치하는 법",
@@ -195,10 +199,6 @@
     {
       "basename": "warninig",
       "path": "CODING/mySQL/warninig.md"
-    },
-    {
-      "basename": "내가 원하는 이름의 데이터 찾기",
-      "path": "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md"
     }
   ],
   "omittedPaths": [],
