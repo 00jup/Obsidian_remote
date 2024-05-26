@@ -53,6 +53,9 @@ analyze에서 많이 사용된다.
 [[comment in SQL]]
 
 ## 데이터 삽입
+[[ALTER TABLE]]
+
+
 [[INSERT(CRUD에서 create 부분)]]
 
 [[1000000 미만만 들어가게 하기 decimal 사용]]

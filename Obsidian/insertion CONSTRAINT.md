@@ -7,6 +7,7 @@ CREATE TABLE companies(
 )
 ```
 
+
 unique이지 check를 쓰는 건 아니다
 
 
@@ -18,5 +19,13 @@ CREATE TABLE companies(
 )
 ```
 
+
+
 ```sql
+CREATE TABLE houses(
+	purchase_price INT NOT NULL,
+	sale_price INT NOT NULL,
+	CONSTRAINT sprice_gt_pprice CHECK(sale_price >= purchase_price)
+)
 ```
+
