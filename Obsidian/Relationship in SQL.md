@@ -22,11 +22,25 @@ CREATE TABLE customers(
 	last_name VARCHAR(50),
 	email VARCHAR(50)
 );
-```
 
-```sql
 CREATE TABLE orders(
 	id INT PRIMARY KEY AUTO_INCREMENT,
-	amout DECIMAL()
-)
+	order_date DATE,
+	amout DECIMAL(8,2),
+	customer_id INT
+);
 ```
+
+이렇게 해도 작동에는 이상없음.
+
+1. INSERT INTO customers (first_name, last_name, email)
+2. VALUES ('Boy', 'George', 'george@gmail.com'),
+3. ('George', 'Michael', 'gm@gmail.com'),
+4. ('David', 'Bowie', 'david@gmail.com'),
+5. ('Blue', 'Steele', 'blue@gmail.com'),
+6. ('Bette', 'Davis', 'bette@aol.com');
+
+INSERT INTO orders (order_date, amount, customer_id)
+VALUES ('2016-02-10', 99.99, 1),
+('2017-11-11', 35.50, 1),
+('2014-12-12', 800.67, 2),('2015-01-03', 12.50, 2),('1999-04-11', 450.25, 5);

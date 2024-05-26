@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
     },
     {
       "basename": "database 살펴보기",
@@ -19,10 +23,6 @@
     {
       "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
       "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
-    },
-    {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "MAX로 정렬하기",
