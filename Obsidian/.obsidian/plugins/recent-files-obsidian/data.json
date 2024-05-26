@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-05-26 17.09.04.excalidraw",
-      "path": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md"
+      "basename": "insertion Unique",
+      "path": "insertion Unique.md"
     },
     {
-      "basename": "Untitled",
-      "path": "CODING/Untitled.canvas"
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
+      "basename": "맥에 윈도우 설치하는 법",
+      "path": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
+    },
+    {
+      "basename": "Terminal",
+      "path": "CODING/just 지식/Terminal.md"
+    },
+    {
+      "basename": "pipeline vs &&",
+      "path": "CODING/just 지식/pipeline vs &&.md"
+    },
+    {
+      "basename": "Singletone case",
+      "path": "CODING/just 지식/Singletone case.md"
     },
     {
       "basename": "dd",
@@ -15,10 +39,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Singletone case",
-      "path": "CODING/just 지식/Singletone case.md"
     },
     {
       "basename": "singleton",
@@ -33,20 +53,12 @@
       "path": "CODING/Java/신기한 거/제너릭.md"
     },
     {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
-    },
-    {
       "basename": "특정 문자열 찾고 싶을 때 방법",
       "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
     },
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
       "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "Java에는 Int와 Integer가 둘다 있다",
@@ -83,10 +95,6 @@
     {
       "basename": "Python tkinter",
       "path": "CODING/Python/Python tkinter.md"
-    },
-    {
-      "basename": "pipeline vs &&",
-      "path": "CODING/just 지식/pipeline vs &&.md"
     },
     {
       "basename": "객체와 문자열 비교 시 주의사항",
@@ -169,10 +177,6 @@
       "path": "그냥 지식/미세유체개론 단위.md"
     },
     {
-      "basename": "맥에 윈도우 설치하는 법",
-      "path": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
-    },
-    {
       "basename": "warninig",
       "path": "CODING/mySQL/warninig.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tolower",
       "path": "CODING/C/tolower.md"
-    },
-    {
-      "basename": "UPDATE",
-      "path": "CODING/mySQL/UPDATE.md"
     }
   ],
   "omittedPaths": [],
