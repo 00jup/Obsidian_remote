@@ -34,3 +34,4 @@ VALUES ('Ringo', 'Tabby', 4),
 
 [[insertion Unique]]
 [[insertion CHECK]]
+[[insertion CONSTRAINT]]

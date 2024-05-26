@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "insertion CHECK",
-      "path": "insertion CHECK.md"
+      "basename": "insertion CONSTRAINT",
+      "path": "insertion CONSTRAINT.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
       "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "insertion CHECK",
+      "path": "insertion CHECK.md"
     },
     {
       "basename": "insertion Unique",
@@ -195,10 +199,6 @@
     {
       "basename": "독특한 함수 사용법",
       "path": "CODING/Java/독특한 함수 사용법.md"
-    },
-    {
-      "basename": "가변길이 매개변수",
-      "path": "CODING/Java/가변길이 매개변수.md"
     }
   ],
   "omittedPaths": [],

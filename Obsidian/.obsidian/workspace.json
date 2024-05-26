@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insertion CHECK.md",
+                "file": "insertion CONSTRAINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "insertion CHECK.md",
+                "file": "insertion CONSTRAINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "insertion CHECK.md",
+                "file": "insertion CONSTRAINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "insertion CHECK.md"
+                "file": "insertion CONSTRAINT.md"
               }
             }
           },
@@ -255,7 +255,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "insertion CHECK.md"
+                "file": "insertion CONSTRAINT.md"
               }
             }
           },
@@ -300,6 +300,7 @@
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
+    "insertion CONSTRAINT.md",
     "insertion CHECK.md",
     "insertion Unique.md",
     "CODING/mySQL/MySQL DB.md",
@@ -329,7 +330,6 @@
     "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md",
     "CODING/Python/import 되지 않을 때.md",
     "CODING/just 지식/자료구조",
-    "CODING/Python/Python tkinter.md",
     "CODING/Python/주의사항",
     "CODING/C/pointer/Untitled.canvas",
     "CODING/Java/신기한 거",

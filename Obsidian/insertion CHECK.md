@@ -9,9 +9,8 @@ CREATE TABLE partiers (
 
 ```sql
 CREATE TABLE palindromes (
-	name VARCHAR(50),
-	age INT,
-	age p CHECK (REVERSE(word) = word)
+	word VARCHAR(100),
+	CONSTRAINT parlindromes_chk_1 INT CHECK (REVERSE(word) = word)
 );
 ```
 
