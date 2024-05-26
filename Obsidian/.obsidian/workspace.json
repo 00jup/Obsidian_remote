@@ -49,53 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALTER TABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e43929c363aa38b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "generic in java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc9b7700562b8bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Interface Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da5a5d6a69ef5009",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a23d711d2cc3871f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
+                "file": "ALTER TABLE column 수정하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALTER TABLE.md",
+                "file": "ALTER TABLE column 수정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALTER TABLE.md",
+                "file": "ALTER TABLE column 수정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALTER TABLE.md"
+                "file": "ALTER TABLE column 수정하기.md"
               }
             }
           },
@@ -255,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ALTER TABLE.md"
+                "file": "ALTER TABLE column 수정하기.md"
               }
             }
           },
@@ -299,8 +253,12 @@
   },
   "active": "3d3adf5fb74a6e08",
   "lastOpenFiles": [
+    "generic in java.md",
+    "Functional Interface Application.md",
+    "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
+    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
+    "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/MySQL DB.md",
-    "ALTER TABLE.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "insertion CONSTRAINT.md",
@@ -323,12 +281,8 @@
     "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
     "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
     "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
-    "인스턴스 메소드 참조.md",
     "Asset/Pasted image 20240521101728.png",
     "Asset/Pasted image 20240521101649.png",
-    "generic in java.md",
-    "Functional Interface Application.md",
-    "CODING/just 지식/자료구조/퀵 정렬 recursive 하지 않아도 가능함.md",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",
     "CODING/C/pointer/Untitled.canvas",

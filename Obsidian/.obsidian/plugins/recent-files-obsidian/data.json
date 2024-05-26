@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "ALTER TABLE",
-      "path": "ALTER TABLE.md"
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
+    },
+    {
+      "basename": "generic in java",
+      "path": "generic in java.md"
+    },
+    {
+      "basename": "Functional Interface Application",
+      "path": "Functional Interface Application.md"
+    },
+    {
+      "basename": "Drawing 2024-05-13 11.31.18.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
+    },
+    {
+      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
+      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
       "basename": "MySQL DB",
@@ -89,14 +105,6 @@
       "path": "인스턴스 메소드 참조.md"
     },
     {
-      "basename": "generic in java",
-      "path": "generic in java.md"
-    },
-    {
-      "basename": "Functional Interface Application",
-      "path": "Functional Interface Application.md"
-    },
-    {
       "basename": "퀵 정렬 recursive 하지 않아도 가능함",
       "path": "CODING/just 지식/자료구조/퀵 정렬 recursive 하지 않아도 가능함.md"
     },
@@ -131,10 +139,6 @@
     {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미",
       "path": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
-    },
-    {
-      "basename": "Drawing 2024-05-13 11.31.18.excalidraw",
-      "path": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
     },
     {
       "basename": "C insertino_sort",
@@ -195,10 +199,6 @@
     {
       "basename": "내가 원하는 이름의 데이터 찾기",
       "path": "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md"
-    },
-    {
-      "basename": "만들고 실행",
-      "path": "CODING/mySQL/만들고 실행.md"
     }
   ],
   "omittedPaths": [],
