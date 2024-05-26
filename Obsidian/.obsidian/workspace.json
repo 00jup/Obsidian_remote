@@ -56,6 +56,31 @@
             }
           },
           {
+            "id": "4db80c862e68da39",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CODING/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e7bc8caaf660f6a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "1e43929c363aa38b",
             "type": "leaf",
             "state": {
@@ -102,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/just 지식/Singletone case.md",
+                "file": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/just 지식/Singletone case.md",
+                "file": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/just 지식/Singletone case.md"
+                "file": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md"
               }
             }
           },
@@ -254,7 +279,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/just 지식/Singletone case.md"
+                "file": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md"
               }
             }
           },
@@ -296,10 +321,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d3adf5fb74a6e08",
+  "active": "e7bc8caaf660f6a6",
   "lastOpenFiles": [
-    "CODING/Java/신기한 거/singleton.md",
+    "CODING/Untitled.canvas",
+    "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md",
+    "dd.md",
+    "Untitled.md",
     "CODING/just 지식/Singletone case.md",
+    "CODING/Java/신기한 거/singleton.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "Asset/Screenshot 2024-05-23 at 00.40.24.png",
     "CODING/Java/신기한 거/제너릭.md",
@@ -325,11 +354,7 @@
     "CODING/Python/주의사항",
     "CODING/C/pointer/이중포인터.md",
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
-    "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
-    "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md",
-    "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/C/pointer/Untitled.canvas",
-    "CODING/Python/Sort/C insertino_sort.md",
     "CODING/Java/신기한 거",
     "그냥 지식",
     "CODING/just 지식",

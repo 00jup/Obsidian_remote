@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-05-26 17.09.04.excalidraw",
+      "path": "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "CODING/Untitled.canvas"
+    },
+    {
+      "basename": "dd",
+      "path": "dd.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Singletone case",
       "path": "CODING/just 지식/Singletone case.md"
     },
@@ -169,10 +185,6 @@
       "path": "CODING/mySQL/만들고 실행.md"
     },
     {
-      "basename": "dd",
-      "path": "dd.md"
-    },
-    {
       "basename": "독특한 함수 사용법",
       "path": "CODING/Java/독특한 함수 사용법.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "UPDATE",
       "path": "CODING/mySQL/UPDATE.md"
-    },
-    {
-      "basename": "time data type",
-      "path": "CODING/mySQL/time data type.md"
-    },
-    {
-      "basename": "향상된 for 문",
-      "path": "CODING/Java/향상된 for 문.md"
-    },
-    {
-      "basename": "아니 이걸 틀린다고?? 이걸?!?!",
-      "path": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md"
     }
   ],
   "omittedPaths": [],
