@@ -115,5 +115,39 @@ MODIFY biz_name name VARCHAR(100);
 # ALTER TABLE에서 constraint 사용하기
 
 ```sql
-ALTER TABLE houses ADD CONSTRAINT 'positive_pprice' CHECK (purchase_price >= 0)
+ALTER TABLE houses ADD CONSTRAINT positive_pprice CHECK (purchase_price >= 0)
 ```
+
+```sql
+mysql> ALTER TABLE houses ADD CONSTRAINT positive_pprice CHECK (purchase_price >= 0);
+Query OK, 1 row affected (0.03 sec)
+Records: 1  Duplicates: 0  Warnings: 0
+
+mysql> DESC houses;
++----------------+------+------+-----+---------+-------+
+| Field          | Type | Null | Key | Default | Extra |
++----------------+------+------+-----+---------+-------+
+| purchase_price | int  | NO   |     | NULL    |       |
+| sale_price     | int  | NO   |     | NULL    |       |
++----------------+------+------+-----+---------+-------+
+2 rows in set (0.00 sec)
+
+mysql> INSERT INTO houses(purchase_price, sale_price) VALUES (-1, 4);
+ERROR 3819 (HY000): Check constraint 'positive_pprice' is violated.
+```
+
+```sql
+mysql> ALTER TABLE houses DROP CONSTRAINT positive_pprice;
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> INSERT INTO houses(purchase_price, sale_price) VALUES (-1, 4);
+Query OK, 1 row affected (0.00 sec)
+```
+
+이렇게 된다. DROP 하면
+
+잘 쓰면 powerful 함.
+![[Screenshot 2024-05-26 at 23.49.14.png]]
+
+공식 문서에서 
