@@ -15,3 +15,18 @@
 
 order는 customer를 하나만 가지고 customer는 여러개 order를 가질 수 있다.
 
+```sql
+CREATE TABLE customers(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	email VARCHAR(50)
+);
+```
+
+```sql
+CREATE TABLE orders(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	amout DECIMAL()
+)
+```
