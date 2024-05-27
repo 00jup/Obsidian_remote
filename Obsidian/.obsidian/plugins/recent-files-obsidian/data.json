@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BST에서 마지막 null을 가리키게 사용하기",
+      "path": "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md"
+    },
+    {
       "basename": "Relationship in SQL",
       "path": "Relationship in SQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "원하는 database 변경하기",
       "path": "CODING/mySQL/원하는 database 변경하기.md"
-    },
-    {
-      "basename": "실행하고 목록 표시 SHOW DATABASES;",
-      "path": "CODING/mySQL/실행하고 목록 표시 SHOW DATABASES;.md"
     }
   ],
   "omittedPaths": [],
