@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relationship in SQL.md",
-                "mode": "source",
+                "file": "CODING/mySQL/MySQL DB.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/mySQL/MySQL DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/mySQL/MySQL DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/mySQL/MySQL DB.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/mySQL/MySQL DB.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
-    "CODING/mySQL/MySQL DB.md",
     "Relationship in SQL.md",
+    "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md",
     "Asset/Pasted image 20240527120803.png",

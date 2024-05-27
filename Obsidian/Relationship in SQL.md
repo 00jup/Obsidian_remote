@@ -132,3 +132,15 @@ mysql> SELECT first_name, last_name, order_date, amount FROM orders JOIN custome
 ```
 
 
+아래가 된다는 게 신기하다
+1. -- Our first inner join!
+2. SELECT * FROM customers
+3. JOIN orders ON orders.customer_id = customers.id;
+
+5. SELECT first_name, last_name, order_date, amount FROM customers
+6. JOIN orders ON orders.customer_id = customers.id;
+
+8. -- The order doesn't matter here:
+9. SELECT * FROM orders
+10. JOIN customers ON customers.id = orders.customer_id;
+
