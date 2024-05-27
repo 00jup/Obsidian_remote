@@ -63,7 +63,13 @@ mysql> SELECT * FROM orders WHERE customer_id = (SELECT id FROM customers WHERE 
 |  2 | 2017-11-11 |  35.50 |           1 |
 +----+------------+--------+-------------+
 2 rows in set (0.00 sec)
+```
+이렇게 사용하다.
 
+
+## Cross JOIN
+아래와 같이 하면 다 합쳐서 나오는데 이걸 해결하는 걸 배울 거임
+```sql
 mysql> SELECT * FROM customers, orders;
 +----+------------+-----------+------------------+----+------------+--------+-------------+
 | id | first_name | last_name | email            | id | order_date | amount | customer_id |
@@ -96,6 +102,7 @@ mysql> SELECT * FROM customers, orders;
 +----+------------+-----------+------------------+----+------------+--------+-------------+
 ```
 
-이렇게 사용이 가능하다
+
+## INNER JOIN
 
 
