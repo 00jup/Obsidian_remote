@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Relationship in SQL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -217,11 +217,11 @@
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
     "CODING/mySQL/MySQL DB.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
-    "Relationship in SQL.md",
     "CODING/mySQL/DELETE.md",
     "ALTER TABLE column 수정하기.md",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
