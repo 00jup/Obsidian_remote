@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -86,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/Java/신기한 거/제너릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/Java/신기한 거/제너릭.md"
               }
             }
           },
@@ -173,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/Java/신기한 거/제너릭.md"
               }
             }
           },
@@ -217,11 +215,15 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
+    "CODING/Java/신기한 거/제너릭.md",
+    "CODING/Java/신기한 거/singleton.md",
+    "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "insertion Unique.md",
-    "Relationship in SQL.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md",
     "Asset/Pasted image 20240527120803.png",
@@ -250,10 +252,6 @@
     "CODING/just 지식/pipeline vs &&.md",
     "CODING/just 지식/Singletone case.md",
     "CODING/Untitled.canvas",
-    "CODING/Drawing 2024-05-26 17.09.04.excalidraw.md",
-    "dd.md",
-    "Untitled.md",
-    "CODING/Java/신기한 거/singleton.md",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",
     "CODING/C/pointer/Untitled.canvas",

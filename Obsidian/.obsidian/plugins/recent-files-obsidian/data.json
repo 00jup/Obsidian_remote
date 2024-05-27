@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "제너릭",
+      "path": "CODING/Java/신기한 거/제너릭.md"
+    },
+    {
+      "basename": "Java 익명 객체와 함수형 인터페이스 사용",
+      "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "singleton",
+      "path": "CODING/Java/신기한 거/singleton.md"
+    },
+    {
+      "basename": "Java에는 Int와 Integer가 둘다 있다",
+      "path": "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md"
+    },
+    {
       "basename": "Relationship in SQL",
       "path": "Relationship in SQL.md"
     },
@@ -97,16 +113,8 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "singleton",
-      "path": "CODING/Java/신기한 거/singleton.md"
-    },
-    {
       "basename": "Daemon Thread",
       "path": "CODING/Java/신기한 거/Daemon Thread.md"
-    },
-    {
-      "basename": "제너릭",
-      "path": "CODING/Java/신기한 거/제너릭.md"
     },
     {
       "basename": "특정 문자열 찾고 싶을 때 방법",
@@ -115,14 +123,6 @@
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
       "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
-    },
-    {
-      "basename": "Java에는 Int와 Integer가 둘다 있다",
-      "path": "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md"
-    },
-    {
-      "basename": "Java 익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
     {
       "basename": "인스턴스 메소드 참조",
