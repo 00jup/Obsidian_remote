@@ -173,3 +173,4 @@ LEFT JOIN orders ON orders.customer_id = customers.id;
 ```
 
 모든 customers가 나타나게 된다.
+
