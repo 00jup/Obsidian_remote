@@ -144,3 +144,23 @@ mysql> SELECT first_name, last_name, order_date, amount FROM orders JOIN custome
 9. SELECT * FROM orders
 10. JOIN customers ON customers.id = orders.customer_id;
 
+## GROUP BY
+```sql
+mysql> SELECT first_name, last_name, SUM(amount) FROM customers JOIN orders ON orders.customer_id = customers.id GROUP BY first_name, last_name;
++------------+-----------+-------------+
+| first_name | last_name | SUM(amount) |
++------------+-----------+-------------+
+| Boy        | George    |      135.49 |
+| George     | Michael   |      813.17 |
+| Bette      | Davis     |      450.25 |
++------------+-----------+-------------+
+```
+
+orders에 first_name 없어서 customer.first_name으로 사용 안해도 됨.
+
+```sql
+SELECT first_name, last_name, SUM(amount) as total FROM customers
+JOIN orders ON orders.customer_id = customers.id
+GROUP BY first_name, last_name
+ORDER BY total;
+```

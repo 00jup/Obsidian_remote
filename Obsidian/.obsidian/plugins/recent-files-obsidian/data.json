@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
     {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
+    },
+    {
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "insertion Unique",
+      "path": "insertion Unique.md"
     },
     {
       "basename": "MySQL vs OracleSQL",
@@ -19,10 +31,6 @@
     {
       "basename": "DELETE",
       "path": "CODING/mySQL/DELETE.md"
-    },
-    {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "database 살펴보기",
@@ -57,20 +65,12 @@
       "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-    },
-    {
       "basename": "insertion CONSTRAINT",
       "path": "insertion CONSTRAINT.md"
     },
     {
       "basename": "insertion CHECK",
       "path": "insertion CHECK.md"
-    },
-    {
-      "basename": "insertion Unique",
-      "path": "insertion Unique.md"
     },
     {
       "basename": "맥에 윈도우 설치하는 법",

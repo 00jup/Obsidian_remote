@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
-                "mode": "preview",
+                "file": "Relationship in SQL.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\bdb",
+                "query": "삽입",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "Relationship in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "Relationship in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -216,14 +217,16 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
-    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
+    "ALTER TABLE column 수정하기.md",
+    "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
+    "insertion Unique.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "CODING/mySQL/DELETE.md",
-    "ALTER TABLE column 수정하기.md",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
     "Asset/Screenshot 2024-05-27 at 00.24.17 1.png",
     "Asset/Screenshot 2024-05-27 at 00.24.14 1.png",
@@ -240,10 +243,8 @@
     "Functional Interface Application.md",
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
-    "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "insertion CONSTRAINT.md",
     "insertion CHECK.md",
-    "insertion Unique.md",
     "CODING/just 지식/맥에 윈도우 설치하는 법.md",
     "CODING/just 지식/Terminal.md",
     "CODING/just 지식/pipeline vs &&.md",
