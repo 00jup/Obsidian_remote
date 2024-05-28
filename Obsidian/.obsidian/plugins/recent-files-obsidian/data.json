@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "thread 병렬 확인하기",
+      "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
+    },
+    {
       "basename": "generic type 사용법",
       "path": "CODING/Java/신기한 거/generic type 사용법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "코딩할 때 주석 표기하기",
       "path": "CODING/just 지식/코딩할 때 주석 표기하기.md"
-    },
-    {
-      "basename": "불가능한 예시들",
-      "path": "CODING/불가능한 예시들.md"
     }
   ],
   "omittedPaths": [],
