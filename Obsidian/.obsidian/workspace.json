@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/local variable to local class.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/local variable to local class.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/local variable to local class.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/local variable to local class.md"
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/local variable to local class.md"
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
               }
             }
           },
@@ -215,12 +215,16 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
+    "CODING/Java/신기한 거/generic type 사용법.md",
+    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
-    "CODING/Java/신기한 거/local variable to local class.md",
-    "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
-    "CODING/Java/신기한 거/제너릭.md",
-    "CODING/Java/신기한 거/singleton.md",
-    "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
+    "CODING/Java/신기한 거/singleton의 의미.md",
+    "CODING/Java/신기한 거/local variable to local class는 final.md",
+    "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
+    "CODING/Java/신기한 거/Daemon Thread.md",
+    "CODING/Java/틀린 거../Final Value.md",
+    "CODING/Java/틀린 거../overloading vs overriding.md",
     "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
@@ -247,10 +251,6 @@
     "Functional Interface Application.md",
     "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
-    "insertion CONSTRAINT.md",
-    "insertion CHECK.md",
-    "CODING/just 지식/맥에 윈도우 설치하는 법.md",
-    "CODING/just 지식/Terminal.md",
     "CODING/Untitled.canvas",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",
