@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Thread",
+      "path": "CODING/Java/신기한 거/Thread.md"
+    },
+    {
       "basename": "Java 익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "패러렐즈 Capslock으로 한영 변환",
       "path": "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md"
-    },
-    {
-      "basename": "처음 발견한 error",
-      "path": "CODING/mySQL/처음 발견한 error.md"
     }
   ],
   "omittedPaths": [],
