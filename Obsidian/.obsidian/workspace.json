@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
+                "file": "CODING/Java/신기한 거/local variable to local class.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
+                "file": "CODING/Java/신기한 거/local variable to local class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
+                "file": "CODING/Java/신기한 거/local variable to local class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md"
+                "file": "CODING/Java/신기한 거/local variable to local class.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md"
+                "file": "CODING/Java/신기한 거/local variable to local class.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
-    "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
+    "CODING/Java/신기한 거/local variable to local class.md",
+    "CODING/Java/신기한 거/Java 익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/제너릭.md",
     "CODING/Java/신기한 거/singleton.md",
     "CODING/Java/신기한 거/Java에는 Int와 Integer가 둘다 있다.md",
@@ -250,7 +251,6 @@
     "insertion CHECK.md",
     "CODING/just 지식/맥에 윈도우 설치하는 법.md",
     "CODING/just 지식/Terminal.md",
-    "CODING/just 지식/pipeline vs &&.md",
     "CODING/Untitled.canvas",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",

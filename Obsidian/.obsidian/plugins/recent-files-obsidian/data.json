@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "local variable to local class",
+      "path": "CODING/Java/신기한 거/local variable to local class.md"
+    },
+    {
       "basename": "Thread run method 만들 때 차이",
       "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
       "path": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
-    },
-    {
-      "basename": "패러렐즈 Capslock으로 한영 변환",
-      "path": "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md"
     }
   ],
   "omittedPaths": [],
