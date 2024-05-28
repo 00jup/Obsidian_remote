@@ -3,32 +3,23 @@
 public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Choose integers ");
-        int[] integers = new int[10];
-        for(int i = 0; i<10; i++)
-            integers[i] = scan.nextInt();
-
+		int sum_result = 0;
         Thread thread_sum = new Thread(){
-            int sum_result = 0;
-            // 밖에서 선언하면 final임
+	        sum_result += 1;
         }
 ```
+sum_result를 이렇게 사용하면 error가 나오는데, local variable을 local class에서 사용했기 때문이다.
 
 
-```java
+
 ```java
 public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Choose integers ");
-        int[] integers = new int[10];
-        for(int i = 0; i<10; i++)
-            integers[i] = scan.nextInt();
-
-		int sum 
         Thread thread_sum = new Thread(){
             int sum_result = 0;
             // 밖에서 선언하면 final임
         }
 ```
-```
+
+
