@@ -361,7 +361,7 @@ FROM reviewers r LEFT JOIN reviews rs ON r.id = rs.reviewer_id GROUP BY first_na
 
  [[IFNULL로 NULL을 0으로 바꿔주자]]
 
-# 3개를 서로 이어서 만들어주는 법
+# 3개를 서로 이어서 만들어주는 법 INNER JOIN
 ```sql
 SELECT
 	title,
