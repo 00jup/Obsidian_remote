@@ -252,6 +252,8 @@ SELECT s.first_name,
 GROUP BY s.first_name, p.grade;
 ```
 
+
+### GROUP BY 주의해야 하는 이유
 ```sql
 SELECT s.first_name, 
 	CASE 
@@ -260,6 +262,22 @@ SELECT s.first_name,
 			ELSE AVG(p.grade)
 		END AS average
 	FROM students s LEFT JOIN papers p ON p.student_id = s.id
-GROUP BY s.first_name, p.grade
-ORDER BY 2;
+GROUP BY s.first_name
+ORDER BY 2 DESC;
+```
+
+
+```sql
+SELECT s.first_name, 
+	CASE 
+		WHEN AVG(p.grade) is NULL THEN 0
+		ELSE AVG(p.grade)
+	END AS average,
+	CASE 
+		WHEN average>70 THEN "PASSING"
+		ELSE "FAILING"
+	END AS passing_status
+	FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name
+ORDER BY 2 DESC;
 ```
