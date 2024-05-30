@@ -218,5 +218,20 @@ CREATE TABLE PAPERS(
 ```
 
 ```sql
-SELECT first_name, AVG(grade) as average FROM students LEFT JOIN papers ON papers.student_id = students.id;
+SELECT s.first_name, AVG(p.grade) as average FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name, p.grade;
 ```
+
+여기서
+> GROUP BY s.first_name, p.grade;
+
+가 왜 필요한 걸까?
+
+s.first_name만 해도 나옴
+
+```sql
+SELECT s.first_name, IFFULL(AVG(p.grade), 0) as average FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name, p.grade;
+```
+
+[[GROUP BY]]

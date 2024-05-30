@@ -5,6 +5,10 @@
       "path": "Relationship in SQL.md"
     },
     {
+      "basename": "GROUP BY",
+      "path": "CODING/mySQL/GROUP BY.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "특정 문자열 찾고 싶을 때 방법",
       "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
-    },
-    {
-      "basename": "GROUP BY",
-      "path": "CODING/mySQL/GROUP BY.md"
     },
     {
       "basename": "DELETE",

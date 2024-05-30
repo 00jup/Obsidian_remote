@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "49b4410b77090616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/mySQL/GROUP BY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fba51c8a272d109e",
             "type": "leaf",
             "state": {
@@ -228,12 +240,12 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/mySQL/GROUP BY.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
-    "Relationship in SQL.md",
-    "CODING/mySQL/GROUP BY.md",
     "CODING/mySQL/DELETE.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/comment in SQL.md",
