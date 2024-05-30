@@ -10,7 +10,7 @@
 3.  many to many!
 ![[Screenshot 2024-05-27 at 00.24.17 1.png]]
 
-## One to many Example
+# One to many Example
 ![[Screenshot 2024-05-27 at 00.27.12.png]]
 
 order는 customer를 하나만 가지고 customer는 여러개 order를 가질 수 있다.
@@ -288,3 +288,7 @@ ORDER BY 2 DESC;
 ```
 
 LEFT JOIN이랑 GROUP BY 사이에 , 가 있으면 안 됨
+
+# Many to Many
+![[Screenshot 2024-05-30 at 19.13.09.png]]
+
