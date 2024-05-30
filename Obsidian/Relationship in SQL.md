@@ -268,16 +268,21 @@ ORDER BY 2 DESC;
 
 
 ```sql
-SELECT s.first_name, 
-	CASE 
-		WHEN AVG(p.grade) is NULL THEN 0
-		ELSE AVG(p.grade)
-	END AS average,
+SELECT
+	first_name, average,
 	CASE 
 		WHEN average>70 THEN "PASSING"
 		ELSE "FAILING"
 	END AS passing_status
-	FROM students s LEFT JOIN papers p ON p.student_id = s.id
-GROUP BY s.first_name
+FROM (SELECT 
+		s.first_name, 
+		CASE 
+			WHEN AVG(p.grade) is NULL THEN 0
+			ELSE AVG(p.grade)
+		END AS average
+	FROM students s
+	LEFT JOIN papers p ON p.student_id = s.id, GROUP BY s.first_name) AS subquery
 ORDER BY 2 DESC;
 ```
+
+LEFT JOIN이랑 GR
