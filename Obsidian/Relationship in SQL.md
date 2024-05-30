@@ -347,18 +347,17 @@ SELECT * FROM reviewers r JOIN reviews ON r.id = reviews.reviewer_id GROUP BY fi
 이렇게 먼저 데이터를 살펴보고 쿼리를 짜면 알 수 있음
 
 ```sql
-SELECT r.first_name, r.last_name, COUNT, MIN, MAX, AVG, STATUS
-FROM( SELECT 
+SELECT first_name, last_name, 
 	COUNT(rating) AS COUNT,
-	MIN(rating) AS MIN,
-	MAX(rating) AS MAX,
-	AVG(rating) AS AVG,
+	IFNULL(MIN(rating), 0) AS MIN,
+	IFNULL(MAX(rating), 0) AS MAX,
+	IFNULL(AVG(rating), 0) AS AVG,
 	CASE
-		WHEN AVG(rating) = 0 THEN "INACTIVE"
+		WHEN COUNT(rating) = 0 THEN "INACTIVE"
 		ELSE "ACTIVE"
 	END AS STATUS
 FROM reviewers r LEFT JOIN reviews rs ON r.id = rs.reviewer_id GROUP BY first_name, last_name;
 ```
 
-
+ [[IFNULL로 NULL을 0으로 바꿔주자]]
 

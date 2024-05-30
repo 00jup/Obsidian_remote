@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IFNULL로 NULL을 0으로 바꿔주자",
+      "path": "IFNULL로 NULL을 0으로 바꿔주자.md"
+    },
+    {
       "basename": "Relationship in SQL",
       "path": "Relationship in SQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-1 자료구조에서 배운 포인터",
       "path": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-    },
-    {
-      "basename": "Pointer에서 주소를 전달한다는 것의 의미",
-      "path": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
     }
   ],
   "omittedPaths": [],
