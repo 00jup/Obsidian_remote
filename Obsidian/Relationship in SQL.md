@@ -322,3 +322,7 @@ CREATE TABLE reviews (
 ```sql
 SELECT title, ROUND(AVG(rating), 2) as avg_rating FROM series JOIN reviews ON reviews.series_id = series.id GROUP BY 1 ORDER BY 2;
 ```
+
+```sql
+SELECT first_name, last_name, rating FROM reviewers rs JOIN reviews r ON rs.id = r.reviewer_id 
+```
