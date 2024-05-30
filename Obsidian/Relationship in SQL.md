@@ -319,3 +319,6 @@ CREATE TABLE reviews (
 
 ```
 
+```sql
+SELECT title, AVG(rating) as avg_rating FROM series JOIN reviews ON reviews.series_id = series.id;
+```
