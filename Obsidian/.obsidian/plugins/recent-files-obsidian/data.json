@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GROUP BY",
+      "path": "CODING/mySQL/GROUP BY.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
       "basename": "DELETE",
       "path": "CODING/mySQL/DELETE.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Relationship in SQL",
       "path": "Relationship in SQL.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "1000000 미만만 들어가게 하기 decimal 사용",
@@ -195,10 +199,6 @@
     {
       "basename": "C insertino_sort",
       "path": "CODING/Python/Sort/C insertino_sort.md"
-    },
-    {
-      "basename": "새로운 데이터로 만드는 방법",
-      "path": "CODING/Python/새로운 데이터로 만드는 방법.md"
     }
   ],
   "omittedPaths": [],

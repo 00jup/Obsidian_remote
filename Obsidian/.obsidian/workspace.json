@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/DELETE.md",
+                "file": "CODING/mySQL/GROUP BY.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delete",
+                "query": "group by",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/DELETE.md",
+                "file": "CODING/mySQL/GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/DELETE.md",
+                "file": "CODING/mySQL/GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/DELETE.md"
+                "file": "CODING/mySQL/GROUP BY.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/DELETE.md"
+                "file": "CODING/mySQL/GROUP BY.md"
               }
             }
           },
@@ -228,9 +227,11 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/mySQL/MySQL DB.md",
+    "CODING/mySQL/GROUP BY.md",
+    "CODING/mySQL/DELETE.md",
     "ALTER TABLE column 수정하기.md",
     "Relationship in SQL.md",
-    "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/comment in SQL.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
@@ -251,7 +252,6 @@
     "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
-    "CODING/mySQL/DELETE.md",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
     "Asset/Screenshot 2024-05-27 at 00.24.17 1.png",
     "Asset/Screenshot 2024-05-27 at 00.24.14 1.png",
@@ -263,7 +263,6 @@
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "Asset/Screenshot 2024-05-26 at 23.49.14.png",
     "CODING/mySQL/MAX로 정렬하기.md",
-    "generic in java.md",
     "CODING/Untitled.canvas",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",
