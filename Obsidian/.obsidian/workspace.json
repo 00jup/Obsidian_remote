@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fba51c8a272d109e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALTER TABLE column 수정하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "삽입",
+                "query": "alter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ad12ed47bed730f",
@@ -216,6 +229,8 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "ALTER TABLE column 수정하기.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/comment in SQL.md",
@@ -231,8 +246,6 @@
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/틀린 거../Final Value.md",
     "CODING/Java/틀린 거../overloading vs overriding.md",
-    "Relationship in SQL.md",
-    "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "insertion Unique.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",

@@ -206,6 +206,14 @@ CREATE TABLE orders(
 ```sql
 CREATE TABLE STUDENTS(
 	id INT PRIMARY KEY AUTO_INCREMENT,
-	first_name VARCHAR(100),
-)
+	first_name VARCHAR(100)
+);
+
+CREATE TABLE PAPERS(
+	title VARCHAR(100),
+	grade INT,
+	student_id INT,
+	FOREIGN KEY (student_id) REFERENCES STUDENTS(id) ON DELETE CASCADE
+);
 ```
+

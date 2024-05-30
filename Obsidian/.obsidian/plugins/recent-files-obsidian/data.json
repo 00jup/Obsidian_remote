@@ -5,6 +5,10 @@
       "path": "Relationship in SQL.md"
     },
     {
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "overloading vs overriding",
       "path": "CODING/Java/틀린 거../overloading vs overriding.md"
-    },
-    {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
     },
     {
       "basename": "INSERT(CRUD에서 create 부분)",
