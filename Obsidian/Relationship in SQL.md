@@ -230,8 +230,36 @@ GROUP BY s.first_name, p.grade;
 s.first_name만 해도 나옴
 
 ```sql
-SELECT s.first_name, IFFULL(AVG(p.grade), 0) as average FROM students s LEFT JOIN papers p ON p.student_id = s.id
+SELECT s.first_name, IFNULL(AVG(p.grade), 0) as average FROM students s LEFT JOIN papers p ON p.student_id = s.id
 GROUP BY s.first_name, p.grade;
 ```
 
 [[GROUP BY]]
+
+```sql
+SELECT s.first_name, CASE WHEN AVG(p.grade) is NULL THEN 0 END AS average FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name, p.grade;
+```
+
+```sql
+SELECT s.first_name, 
+	CASE 
+		WHEN
+			AVG(p.grade) is NULL THEN 0
+			ELSE AVG(p.grade)
+		END AS average
+	FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name, p.grade;
+```
+
+```sql
+SELECT s.first_name, 
+	CASE 
+		WHEN
+			AVG(p.grade) is NULL THEN 0
+			ELSE AVG(p.grade)
+		END AS average
+	FROM students s LEFT JOIN papers p ON p.student_id = s.id
+GROUP BY s.first_name, p.grade
+ORDER BY 2;
+```
