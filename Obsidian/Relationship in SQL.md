@@ -341,9 +341,15 @@ WHERE rating IS NULL;
 
 NULL은 is를 써야 함
 
+```sql
+SELECT * FROM reviewers r JOIN reviews ON r.id = reviews.reviewer_id GROUP BY first_name, last_name;
+```
+이렇게 먼저 데이터를 살펴보고 쿼리를 짜면 알 수 있음
 
-
-
+```sql
+SELECT first_name, last_name, 
+		COUNT(first_name), MIN(rating), MAX(rating), AVG(rating) FROM reviewers r JOIN reviews rs ON r.id = rs.reviewer_id GROUP BY first_name, last_name;
+```
 
 
 
