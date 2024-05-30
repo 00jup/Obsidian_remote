@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
+      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
+    },
+    {
+      "basename": "comment in SQL",
+      "path": "CODING/mySQL/comment in SQL.md"
     },
     {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "generic type 사용법",
@@ -47,14 +63,6 @@
     {
       "basename": "overloading vs overriding",
       "path": "CODING/Java/틀린 거../overloading vs overriding.md"
-    },
-    {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "ALTER TABLE column 수정하기",
@@ -103,10 +111,6 @@
     {
       "basename": "Drawing 2024-05-13 11.31.18.excalidraw",
       "path": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
-    },
-    {
-      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
-      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
       "basename": "insertion CONSTRAINT",
@@ -195,10 +199,6 @@
     {
       "basename": "새로운 데이터로 만드는 방법",
       "path": "CODING/Python/새로운 데이터로 만드는 방법.md"
-    },
-    {
-      "basename": "코딩할 때 주석 표기하기",
-      "path": "CODING/just 지식/코딩할 때 주석 표기하기.md"
     }
   ],
   "omittedPaths": [],

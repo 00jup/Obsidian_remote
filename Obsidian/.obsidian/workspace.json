@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "Relationship in SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "Relationship in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "Relationship in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -215,7 +215,11 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/mySQL/MySQL DB.md",
+    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
+    "CODING/mySQL/comment in SQL.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
+    "CODING/mySQL/mysql 실행하기.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
@@ -227,7 +231,6 @@
     "CODING/Java/틀린 거../Final Value.md",
     "CODING/Java/틀린 거../overloading vs overriding.md",
     "Relationship in SQL.md",
-    "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "insertion Unique.md",
@@ -247,10 +250,7 @@
     "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
     "Asset/Screenshot 2024-05-26 at 23.49.14.png",
     "CODING/mySQL/MAX로 정렬하기.md",
-    "CODING/mySQL/mysql 실행하기.md",
     "generic in java.md",
-    "Functional Interface Application.md",
-    "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md",
     "CODING/Untitled.canvas",
     "CODING/just 지식/자료구조",
     "CODING/Python/주의사항",
