@@ -294,3 +294,14 @@ LEFT JOIN이랑 GROUP BY 사이에 , 가 있으면 안 됨
 
 ![[Screenshot 2024-05-30 at 19.20.09.png]]
 
+```sql
+CREATE TABLE reviewers (
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	first_name VARCHAR(50) NOT NULL,
+	last_name VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE series(
+	id INT PRIMARY KEY AUTO_
+)
+```

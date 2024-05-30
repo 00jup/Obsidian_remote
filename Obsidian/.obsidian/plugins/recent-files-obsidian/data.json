@@ -5,6 +5,10 @@
       "path": "Relationship in SQL.md"
     },
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "GROUP BY",
       "path": "CODING/mySQL/GROUP BY.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pointer에서 주소를 전달한다는 것의 의미",
       "path": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
-    },
-    {
-      "basename": "C insertino_sort",
-      "path": "CODING/Python/Sort/C insertino_sort.md"
     }
   ],
   "omittedPaths": [],
