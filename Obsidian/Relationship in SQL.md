@@ -267,6 +267,7 @@ ORDER BY 2 DESC;
 ```
 
 
+## subquery 쓰는 법
 ```sql
 SELECT
 	first_name, average,
@@ -281,8 +282,9 @@ FROM (SELECT
 			ELSE AVG(p.grade)
 		END AS average
 	FROM students s
-	LEFT JOIN papers p ON p.student_id = s.id, GROUP BY s.first_name) AS subquery
+	LEFT JOIN papers p ON p.student_id = s.id
+	GROUP BY s.first_name) AS subquery
 ORDER BY 2 DESC;
 ```
 
-LEFT JOIN이랑 GR
+LEFT JOIN이랑 GROUP BY 사이에 , 가 있으면 안 됨
