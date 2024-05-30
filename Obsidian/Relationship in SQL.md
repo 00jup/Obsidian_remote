@@ -217,3 +217,6 @@ CREATE TABLE PAPERS(
 );
 ```
 
+```sql
+SELECT first_name, AVG(grade) as average FROM students LEFT JOIN papers ON papers.student_id = students.id;
+```
