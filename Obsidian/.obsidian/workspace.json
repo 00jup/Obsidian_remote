@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/mySQL/DELETE.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alter",
+                "query": "delete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/mySQL/DELETE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "CODING/mySQL/DELETE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/mySQL/DELETE.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "CODING/mySQL/DELETE.md"
               }
             }
           },

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
+      "basename": "DELETE",
+      "path": "CODING/mySQL/DELETE.md"
     },
     {
       "basename": "ALTER TABLE column 수정하기",
       "path": "ALTER TABLE column 수정하기.md"
+    },
+    {
+      "basename": "Relationship in SQL",
+      "path": "Relationship in SQL.md"
     },
     {
       "basename": "MySQL DB",
@@ -83,10 +87,6 @@
     {
       "basename": "BST에서 마지막 null을 가리키게 사용하기",
       "path": "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "CODING/mySQL/DELETE.md"
     },
     {
       "basename": "database 살펴보기",
