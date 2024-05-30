@@ -292,3 +292,5 @@ LEFT JOIN이랑 GROUP BY 사이에 , 가 있으면 안 됨
 # Many to Many
 ![[Screenshot 2024-05-30 at 19.13.09.png]]
 
+![[Screenshot 2024-05-30 at 19.20.09.png]]
+
