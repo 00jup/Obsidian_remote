@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md",
+                "file": "Relationship in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md",
+                "file": "Relationship in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -209,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -251,10 +250,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "699b6b1a431e4acd",
+  "active": "646fa68794d9eaef",
   "lastOpenFiles": [
-    "Relationship in SQL.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
+    "Relationship in SQL.md",
     "Untitled 1.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
