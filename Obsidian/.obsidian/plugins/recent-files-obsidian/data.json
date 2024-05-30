@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "MAX로 정렬하기",
       "path": "CODING/mySQL/MAX로 정렬하기.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "generic in java",
