@@ -202,3 +202,10 @@ CREATE TABLE orders(
 );
 ```
 
+## 예제
+```sql
+CREATE TABLE STUDENTS(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	first_name VARCHAR(100),
+)
+```
