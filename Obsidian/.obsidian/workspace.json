@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/틀린 거../Final Value.md",
+                "file": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/틀린 거../Final Value.md",
+                "file": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/틀린 거../Final Value.md",
+                "file": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/틀린 거../Final Value.md"
+                "file": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/틀린 거../Final Value.md"
+                "file": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
               }
             }
           },
@@ -274,7 +274,7 @@
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/comment in SQL.md",
     "CODING/mySQL/mysql 실행하기.md",
-    "CODING/Java/틀린 거../Final Value.md",
+    "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
     "CODING/Java/틀린 거../overloading vs overriding.md",
     "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
     "insertion Unique.md",
