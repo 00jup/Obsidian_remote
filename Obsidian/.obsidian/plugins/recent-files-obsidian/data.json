@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wait Notify를 사용하는 법",
+      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
+    },
+    {
       "basename": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
       "path": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "이중포인터",
       "path": "CODING/C/pointer/이중포인터.md"
-    },
-    {
-      "basename": "2024-1 자료구조에서 배운 포인터",
-      "path": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
     }
   ],
   "omittedPaths": [],
