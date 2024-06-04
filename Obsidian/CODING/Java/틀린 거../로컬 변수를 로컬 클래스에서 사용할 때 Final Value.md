@@ -69,3 +69,46 @@ new CalcElement.Operator() {
 ```
 
 여기서 operate를 주입한다.
+
+```java
+public class MulCal {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        System.out.print("Choose integers ");
+        int[] integers = new int[10];
+        //final int[] integers = new int[10];
+        //교수님은 이거 final로 함. const를 포인터에 붙이냐 star 옆이냐 뒤에냐에 따라서 달라지는 것처럼
+        for (int i = 0; i < 10; i++)
+            integers[i] = scan.nextInt();
+
+        Thread thread_sum = new Thread() {
+            //int sum_result = 0;
+
+            // 밖에서 선언하면 final임
+            @Override
+            public void run() {
+                try {
+                    int sum_result = 0;
+                    for (int j = 0; j < 10; j++) {
+                        sum_result = sum_result + integers[j];
+                        Thread.sleep(700);
+                        System.out.println("current sum: " + sum_result);
+                        if (Math.abs(sum_result) > 1000) {
+                            throw new Exception("The addition result is too large");
+                        }
+                    }
+                } catch (Exception e) {
+                    System.out.println(e.getMessage());
+                    e.printStackTrace();
+                }
+            }
+
+        };
+    }
+}
+```
+
+>//int sum_result = 0;
+>// 밖에서 선언하면 final임
+
