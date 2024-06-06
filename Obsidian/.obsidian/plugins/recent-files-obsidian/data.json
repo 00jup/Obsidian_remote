@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "single quote vs double quote",
+      "path": "CODING/mySQL/single quote vs double quote.md"
+    },
+    {
       "basename": "java에서 thread가 runnable하다는 것",
       "path": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "객체와 문자열 비교 시 주의사항",
       "path": "CODING/Python/주의사항/객체와 문자열 비교 시 주의사항.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "CODING/Python/Untitled.md"
     }
   ],
   "omittedPaths": [],
