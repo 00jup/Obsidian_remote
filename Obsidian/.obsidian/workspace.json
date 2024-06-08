@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/single quote vs double quote.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private method",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/single quote vs double quote.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/single quote vs double quote.md",
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/single quote vs double quote.md"
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
               }
             }
           },
@@ -208,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/single quote vs double quote.md"
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
               }
             }
           },
@@ -250,10 +249,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e17c784ee562337b",
+  "active": "646fa68794d9eaef",
   "lastOpenFiles": [
-    "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
     "CODING/mySQL/single quote vs double quote.md",
+    "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
     "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",

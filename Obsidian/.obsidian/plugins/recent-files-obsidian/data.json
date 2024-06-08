@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "generic type 사용법",
+      "path": "CODING/Java/신기한 거/generic type 사용법.md"
+    },
+    {
       "basename": "single quote vs double quote",
       "path": "CODING/mySQL/single quote vs double quote.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Daemon Thread",
       "path": "CODING/Java/신기한 거/Daemon Thread.md"
-    },
-    {
-      "basename": "generic type 사용법",
-      "path": "CODING/Java/신기한 거/generic type 사용법.md"
     },
     {
       "basename": "Relationship in SQL",
