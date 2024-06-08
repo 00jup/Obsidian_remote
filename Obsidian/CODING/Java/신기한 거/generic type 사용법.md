@@ -24,3 +24,41 @@ public static `<P extends Pair<K,V>`, `K` , `V`> `V` getValue(`P` p, 
     }
 
 return type으로 V가 사용되고 parameter로 P와 K가 사용되는 것을 알 수 있다.
+
+```java
+public class Pair<K, V> {
+    private K key;
+    private V value;
+
+    public Pair(K key, V value) {
+        this.key = key;
+        this.value = value;
+    }
+
+    public K getKey() {
+        return key;
+    }
+
+    public V getValue() {
+        return value;
+    }
+}
+
+public class Main {
+    public static <P extends Pair<K, V>, K, V> V getValue(P p, K k) {
+        if (p.getKey().equals(k)) {  // 수정: 객체 비교는 equals 메서드를 사용
+            return p.getValue();
+        } else {
+            return null;
+        }
+    }
+
+    public static void main(String[] args) {
+        Pair<String, Integer> pair = new Pair<>("key", 100);
+        Integer value = getValue(pair, "key");
+        System.out.println(value);  // 출력: 100
+    }
+}
+```
+
+전체 코드

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "generic type 사용법",
+      "path": "CODING/Java/신기한 거/generic type 사용법.md"
+    },
+    {
+      "basename": "Daemon Thread",
+      "path": "CODING/Java/신기한 거/Daemon Thread.md"
+    },
+    {
       "basename": "제너릭 타입 제약 조건 예시들",
       "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
@@ -29,10 +37,6 @@
       "path": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
     },
     {
-      "basename": "generic type 사용법",
-      "path": "CODING/Java/신기한 거/generic type 사용법.md"
-    },
-    {
       "basename": "single quote vs double quote",
       "path": "CODING/mySQL/single quote vs double quote.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "singleton의 의미",
       "path": "CODING/Java/신기한 거/singleton의 의미.md"
-    },
-    {
-      "basename": "Daemon Thread",
-      "path": "CODING/Java/신기한 거/Daemon Thread.md"
     },
     {
       "basename": "Relationship in SQL",
