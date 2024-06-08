@@ -1,26 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "generic type 사용법",
-      "path": "CODING/Java/신기한 거/generic type 사용법.md"
-    },
-    {
-      "basename": "single quote vs double quote",
-      "path": "CODING/mySQL/single quote vs double quote.md"
-    },
-    {
-      "basename": "java에서 thread가 runnable하다는 것",
-      "path": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
-    },
-    {
-      "basename": "Wait Notify를 사용하는 법",
-      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
-    },
-    {
-      "basename": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
-      "path": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
-    },
-    {
       "basename": "제너릭 타입 제약 조건 예시들",
       "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
@@ -37,16 +17,36 @@
       "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md"
     },
     {
-      "basename": "singleton의 의미",
-      "path": "CODING/Java/신기한 거/singleton의 의미.md"
-    },
-    {
       "basename": "local variable to local class는 final",
       "path": "CODING/Java/신기한 거/local variable to local class는 final.md"
     },
     {
+      "basename": "java에서 thread가 runnable하다는 것",
+      "path": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
+    },
+    {
       "basename": "Int와 Integer가 둘다 있다",
       "path": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
+    },
+    {
+      "basename": "generic type 사용법",
+      "path": "CODING/Java/신기한 거/generic type 사용법.md"
+    },
+    {
+      "basename": "single quote vs double quote",
+      "path": "CODING/mySQL/single quote vs double quote.md"
+    },
+    {
+      "basename": "Wait Notify를 사용하는 법",
+      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
+    },
+    {
+      "basename": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
+      "path": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
+    },
+    {
+      "basename": "singleton의 의미",
+      "path": "CODING/Java/신기한 거/singleton의 의미.md"
     },
     {
       "basename": "Daemon Thread",
