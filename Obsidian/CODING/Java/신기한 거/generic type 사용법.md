@@ -9,6 +9,7 @@ public static <P extends Pair<K,V>, K , V> V getValue(P p, K k) {
     }
 ```
 
+## 제너릭 타입
 여기서 `<P extends Pair<K,V>, K, V >`의 의미는 무엇일까?
 
 제너릭 타입을 의미하는데 P는 Pair<K,V>을 통해서, K, V 이렇게 3가지가 될 수 있다는 의미이다.
@@ -22,8 +23,10 @@ public static `<P extends Pair<K,V>`, `K` , `V`> `V` getValue(`P` p, 
         return null;
 	    }
     }
-
+## 리턴 타입
 return type으로 V가 사용되고 parameter로 P와 K가 사용되는 것을 알 수 있다.
+
+## 전체 코드
 
 ```java
 public class Pair<K, V> {
@@ -60,5 +63,3 @@ public class Main {
     }
 }
 ```
-
-전체 코드

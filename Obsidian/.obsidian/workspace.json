@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
-                "mode": "preview",
+                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
+                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
+                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md"
+                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md"
+                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
               }
             }
           },
@@ -251,6 +251,7 @@
   },
   "active": "646fa68794d9eaef",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
@@ -259,7 +260,6 @@
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
-    "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/mySQL/single quote vs double quote.md",
     "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",

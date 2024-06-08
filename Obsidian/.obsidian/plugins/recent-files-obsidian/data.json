@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Int와 Integer가 둘다 있다",
+      "path": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
+    },
+    {
       "basename": "generic type 사용법",
       "path": "CODING/Java/신기한 거/generic type 사용법.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "java에서 thread가 runnable하다는 것",
       "path": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
-    },
-    {
-      "basename": "Int와 Integer가 둘다 있다",
-      "path": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
     },
     {
       "basename": "single quote vs double quote",
