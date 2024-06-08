@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "익명 객체와 함수형 인터페이스 사용",
+      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "Functional Interface Application",
+      "path": "Functional Interface Application.md"
+    },
+    {
+      "basename": "local variable to local class는 final",
+      "path": "CODING/Java/신기한 거/local variable to local class는 final.md"
+    },
+    {
       "basename": "wait notify Example",
       "path": "CODING/Java/신기한 거/wait notify Example.md"
     },
@@ -25,20 +37,12 @@
       "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
     {
-      "basename": "익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
-    },
-    {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
     },
     {
       "basename": "Thread run method 만들 때 차이",
       "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이.md"
-    },
-    {
-      "basename": "local variable to local class는 final",
-      "path": "CODING/Java/신기한 거/local variable to local class는 final.md"
     },
     {
       "basename": "java에서 thread가 runnable하다는 것",
@@ -139,10 +143,6 @@
     {
       "basename": "generic in java",
       "path": "generic in java.md"
-    },
-    {
-      "basename": "Functional Interface Application",
-      "path": "Functional Interface Application.md"
     },
     {
       "basename": "Drawing 2024-05-13 11.31.18.excalidraw",

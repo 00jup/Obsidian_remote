@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/wait notify Example.md",
+                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/wait notify Example.md",
+                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/wait notify Example.md",
+                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/wait notify Example.md"
+                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/wait notify Example.md"
+                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
               }
             }
           },
@@ -264,15 +264,16 @@
   },
   "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
-    "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
+    "Functional Interface Application.md",
+    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+    "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/wait notify Example.md",
+    "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
-    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이.md",
-    "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/mySQL/single quote vs double quote.md",
@@ -291,7 +292,6 @@
     "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
     "CODING/mySQL/DELETE.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
-    "CODING/mySQL/comment in SQL.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",

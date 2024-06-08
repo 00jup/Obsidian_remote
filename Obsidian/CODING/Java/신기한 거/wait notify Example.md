@@ -28,3 +28,5 @@ public class WorkObject {
 ```
 
 wait랑 notify 순서만 바꿨는데 왜 다르게 나올까.
+
+wait()를 실행하면 thread가 대기 상태로 들어가서 그렇다!
