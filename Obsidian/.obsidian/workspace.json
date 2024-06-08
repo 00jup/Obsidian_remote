@@ -23,9 +23,11 @@
             "id": "b54f871bf2858a8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "CODING/Java/신기한 거/wait notify Example.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
+                "file": "CODING/Java/신기한 거/wait notify Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
+                "file": "CODING/Java/신기한 거/wait notify Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
+                "file": "CODING/Java/신기한 거/wait notify Example.md"
               }
             }
           },
@@ -218,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
+                "file": "CODING/Java/신기한 거/wait notify Example.md"
               }
             }
           },
@@ -262,6 +264,8 @@
   },
   "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
+    "CODING/Java/신기한 거/wait notify Example.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
@@ -288,8 +292,6 @@
     "CODING/mySQL/DELETE.md",
     "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "CODING/mySQL/comment in SQL.md",
-    "CODING/mySQL/mysql 실행하기.md",
-    "CODING/Java/틀린 거../overloading vs overriding.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
