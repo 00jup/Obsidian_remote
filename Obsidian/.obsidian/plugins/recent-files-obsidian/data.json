@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "람다식",
+      "path": "CODING/Java/신기한 거/람다식.md"
+    },
+    {
       "basename": "람다식에서는 new를 생략하는 거임",
       "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "인스턴스 메소드 참조",
       "path": "인스턴스 메소드 참조.md"
-    },
-    {
-      "basename": "퀵 정렬 recursive 하지 않아도 가능함",
-      "path": "CODING/just 지식/자료구조/퀵 정렬 recursive 하지 않아도 가능함.md"
     }
   ],
   "omittedPaths": [],
