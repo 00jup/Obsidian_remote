@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b54f871bf2858a8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
             "id": "699b6b1a431e4acd",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +260,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "646fa68794d9eaef",
+  "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
