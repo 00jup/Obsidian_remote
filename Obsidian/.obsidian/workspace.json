@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
               }
             }
           },
@@ -264,8 +264,11 @@
   },
   "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
-    "Functional Interface Application.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+    "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
+    "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
+    "CODING/Java/향상된 for 문.md",
+    "Functional Interface Application.md",
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/wait notify Example.md",
     "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
@@ -277,7 +280,6 @@
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/mySQL/single quote vs double quote.md",
-    "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
     "CODING/Java/신기한 거/singleton의 의미.md",
     "Relationship in SQL.md",
@@ -290,8 +292,6 @@
     "CODING/mySQL/MySQL vs OracleSQL.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md",
-    "CODING/mySQL/DELETE.md",
-    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",

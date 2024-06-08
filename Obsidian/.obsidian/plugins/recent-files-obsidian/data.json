@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "람다식에서는 new를 생략하는 거임",
+      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+    },
+    {
       "basename": "익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "Wait Notify를 사용하는 법",
+      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
+    },
+    {
+      "basename": "향상된 for 문",
+      "path": "CODING/Java/향상된 for 문.md"
     },
     {
       "basename": "Functional Interface Application",
@@ -51,10 +63,6 @@
     {
       "basename": "single quote vs double quote",
       "path": "CODING/mySQL/single quote vs double quote.md"
-    },
-    {
-      "basename": "Wait Notify를 사용하는 법",
-      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
     },
     {
       "basename": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
@@ -191,14 +199,6 @@
     {
       "basename": "퀵 정렬 recursive 하지 않아도 가능함",
       "path": "CODING/just 지식/자료구조/퀵 정렬 recursive 하지 않아도 가능함.md"
-    },
-    {
-      "basename": "Insertion sort를 쓰면 좋을 때",
-      "path": "CODING/just 지식/자료구조/Insertion sort를 쓰면 좋을 때.md"
-    },
-    {
-      "basename": "import 되지 않을 때",
-      "path": "CODING/Python/import 되지 않을 때.md"
     }
   ],
   "omittedPaths": [],
