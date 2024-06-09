@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
+                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
               }
             }
           },

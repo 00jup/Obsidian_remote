@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
-      "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
+      "basename": "람다식에서는 new를 생략하는 거임",
+      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
     },
     {
       "basename": "람다식",
       "path": "CODING/Java/신기한 거/람다식.md"
     },
     {
-      "basename": "람다식에서는 new를 생략하는 거임",
-      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+      "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
+      "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
     },
     {
       "basename": "Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기",
