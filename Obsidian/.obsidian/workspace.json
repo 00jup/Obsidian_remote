@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
               }
             }
           },
@@ -264,13 +264,15 @@
   },
   "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
+    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
+    "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
+    "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
     "CODING/Java/신기한 거/람다식.md",
     "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
-    "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
-    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/향상된 for 문.md",
     "Functional Interface Application.md",
@@ -278,7 +280,6 @@
     "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
-    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/mySQL/single quote vs double quote.md",
@@ -291,7 +292,6 @@
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "CODING/mySQL/GROUP BY.md",
     "CODING/mySQL/MySQL DB.md",
-    "CODING/mySQL/MySQL vs OracleSQL.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
