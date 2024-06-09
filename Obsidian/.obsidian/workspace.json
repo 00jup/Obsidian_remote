@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식.md",
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식.md"
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/람다식.md"
+                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
               }
             }
           },
@@ -264,8 +264,9 @@
   },
   "active": "b54f871bf2858a8a",
   "lastOpenFiles": [
-    "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/람다식.md",
+    "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
+    "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
@@ -291,7 +292,6 @@
     "CODING/mySQL/GROUP BY.md",
     "CODING/mySQL/MySQL DB.md",
     "CODING/mySQL/MySQL vs OracleSQL.md",
-    "ALTER TABLE column 수정하기.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",

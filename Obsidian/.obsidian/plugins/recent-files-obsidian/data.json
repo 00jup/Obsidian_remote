@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
+      "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
+    },
+    {
       "basename": "람다식",
       "path": "CODING/Java/신기한 거/람다식.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
       "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
-    },
-    {
-      "basename": "인스턴스 메소드 참조",
-      "path": "인스턴스 메소드 참조.md"
     }
   ],
   "omittedPaths": [],
