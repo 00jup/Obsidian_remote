@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "646fa68794d9eaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b54f871bf2858a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699b6b1a431e4acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49b4410b77090616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/mySQL/GROUP BY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba51c8a272d109e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALTER TABLE column 수정하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d11940f69e065376",
@@ -150,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-              }
+              "state": {}
             }
           },
           {
@@ -262,14 +204,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b54f871bf2858a8a",
+  "active": "49b4410b77090616",
   "lastOpenFiles": [
+    "ALTER TABLE column 수정하기.md",
+    "CODING/mySQL/GROUP BY.md",
+    "IFNULL로 NULL을 0으로 바꿔주자.md",
+    "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
+    "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
     "CODING/Java/신기한 거/람다식.md",
-    "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
@@ -281,17 +227,13 @@
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
-    "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/mySQL/single quote vs double quote.md",
     "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
     "CODING/Java/신기한 거/singleton의 의미.md",
     "Relationship in SQL.md",
-    "IFNULL로 NULL을 0으로 바꿔주자.md",
     "Untitled 1.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
-    "CODING/mySQL/GROUP BY.md",
-    "CODING/mySQL/MySQL DB.md",
     "Asset/Pasted image 20240527120803.png",
     "Asset/Pasted image 20240527120750.png",
     "Asset/Screenshot 2024-05-27 at 00.27.12.png",
