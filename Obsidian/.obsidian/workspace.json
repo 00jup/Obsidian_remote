@@ -11,8 +11,12 @@
             "id": "49b4410b77090616",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
+              }
             }
           },
           {
@@ -163,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "CODING/Java/신기한 거/generic type 사용법.md"
+              }
             }
           },
           {
@@ -206,12 +215,12 @@
   },
   "active": "49b4410b77090616",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/GROUP BY.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
-    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
     "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",

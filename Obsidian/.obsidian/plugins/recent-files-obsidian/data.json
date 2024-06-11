@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "generic type 사용법",
+      "path": "CODING/Java/신기한 거/generic type 사용법.md"
+    },
+    {
+      "basename": "제너릭 타입 제약 조건 예시들",
+      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
+    },
+    {
       "basename": "ALTER TABLE column 수정하기",
       "path": "ALTER TABLE column 수정하기.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
       "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-    },
-    {
-      "basename": "제너릭 타입 제약 조건 예시들",
-      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
     {
       "basename": "익명 객체와 함수형 인터페이스 사용",
@@ -71,10 +75,6 @@
     {
       "basename": "thread 이름을 설정하는 법",
       "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
-    },
-    {
-      "basename": "generic type 사용법",
-      "path": "CODING/Java/신기한 거/generic type 사용법.md"
     },
     {
       "basename": "Daemon Thread",
