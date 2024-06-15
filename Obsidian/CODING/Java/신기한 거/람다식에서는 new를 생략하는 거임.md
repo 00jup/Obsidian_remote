@@ -23,7 +23,7 @@ MyFunctionalInterface inf = new MyFunctionalInterface() {
 ### 람다식 사용 예제
 
 ```java
-MyFunctionalInterface inf = () -> System.out.println("abstractMethod");o
+MyFunctionalInterface inf = () -> System.out.println("abstractMethod");
 ```
 
 람다식은 익명 클래스의 구문을 생략하고, 함수형 인터페이스의 단일 추상 메서드 구현만을 간결하게 표현합니다.

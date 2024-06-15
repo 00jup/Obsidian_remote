@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "익명 객체와 함수형 인터페이스 사용",
+      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "제너릭 타입 제약 조건 예시들",
+      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
+    },
+    {
       "basename": "람다식에서는 new를 생략하는 거임",
       "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "람다식",
       "path": "CODING/Java/신기한 거/람다식.md"
-    },
-    {
-      "basename": "제너릭 타입 제약 조건 예시들",
-      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
-    },
-    {
-      "basename": "익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
     },
     {
       "basename": "toString으로 사용자 친화적",
