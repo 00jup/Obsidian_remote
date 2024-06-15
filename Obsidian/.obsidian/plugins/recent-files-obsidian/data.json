@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+      "basename": "thread 이름을 설정하는 법",
+      "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
     },
     {
-      "basename": "람다식에서는 new를 생략하는 거임",
-      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+      "basename": "wait notify Example",
+      "path": "CODING/Java/신기한 거/wait notify Example.md"
+    },
+    {
+      "basename": "Wait Notify를 사용하는 법",
+      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
     },
     {
       "basename": "람다식에서 중괄호가 없으면 return 없어야 함!",
@@ -17,16 +21,16 @@
       "path": "CODING/Java/신기한 거/람다식.md"
     },
     {
-      "basename": "Wait Notify를 사용하는 법",
-      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
+      "basename": "람다식에서는 new를 생략하는 거임",
+      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
     },
     {
-      "basename": "wait notify Example",
-      "path": "CODING/Java/신기한 거/wait notify Example.md"
+      "basename": "제너릭 타입 제약 조건 예시들",
+      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
     {
-      "basename": "thread 이름을 설정하는 법",
-      "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
+      "basename": "익명 객체와 함수형 인터페이스 사용",
+      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
     },
     {
       "basename": "thread 병렬 확인하기",
@@ -63,10 +67,6 @@
     {
       "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
       "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-    },
-    {
-      "basename": "제너릭 타입 제약 조건 예시들",
-      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
     },
     {
       "basename": "ALTER TABLE column 수정하기",
