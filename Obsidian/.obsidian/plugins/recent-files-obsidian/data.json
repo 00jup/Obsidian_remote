@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기",
+      "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md"
+    },
+    {
       "basename": "thread 이름을 설정하는 법",
       "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
-    },
-    {
-      "basename": "Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기",
-      "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md"
     },
     {
       "basename": "singleton의 의미",

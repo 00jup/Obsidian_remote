@@ -28,4 +28,4 @@ public class ThreadB extends Thread {
 }
 ```
 
-전체 코드는 위와 같다.ㅒ
+전체 코드는 위와 같다.
