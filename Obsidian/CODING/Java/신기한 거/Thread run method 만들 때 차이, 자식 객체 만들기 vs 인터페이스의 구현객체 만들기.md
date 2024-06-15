@@ -19,7 +19,21 @@ public class Main{
 ```
 
 B에서 @Override 해서 run method를 만드는 것의 차이
-Thread의 자식객체를 만드는 거고
+Thread의 익명자식객체를 만드는 거고
+
+## 익명 자식 객체 예시
+```java
+class Example{
+	Tire tire1 = new Tire(){
+		@Override
+		public void run(){
+			System.out.println("익명 자식 객체 타이어가 굴러갑니다.");
+		}
+	}
+}
+```
+
+이거 자체로 익명 자식 객체가 되는 거다.
 
 
 
