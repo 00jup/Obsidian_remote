@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Wait Notify를 사용하는 법",
+      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
+    },
+    {
+      "basename": "wait notify Example",
+      "path": "CODING/Java/신기한 거/wait notify Example.md"
+    },
+    {
+      "basename": "toString으로 사용자 친화적",
+      "path": "CODING/Java/신기한 거/toString으로 사용자 친화적.md"
+    },
+    {
       "basename": "익명 객체와 함수형 인터페이스 사용",
       "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
     },
@@ -21,10 +33,6 @@
       "path": "CODING/Java/신기한 거/람다식.md"
     },
     {
-      "basename": "toString으로 사용자 친화적",
-      "path": "CODING/Java/신기한 거/toString으로 사용자 친화적.md"
-    },
-    {
       "basename": "Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기",
       "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "thread 이름을 설정하는 법",
       "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
-    },
-    {
-      "basename": "Wait Notify를 사용하는 법",
-      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
-    },
-    {
-      "basename": "wait notify Example",
-      "path": "CODING/Java/신기한 거/wait notify Example.md"
     },
     {
       "basename": "singleton의 의미",
