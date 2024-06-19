@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "제너릭 타입 제약 조건 예시들",
+      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
+    },
+    {
+      "basename": "람다식에서 중괄호가 없으면 return 없어야 함!",
+      "path": "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md"
+    },
+    {
+      "basename": "익명 객체와 함수형 인터페이스 사용",
+      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+    },
+    {
+      "basename": "람다식에서는 new를 생략하는 거임",
+      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
+    },
+    {
+      "basename": "Python dictionary와 list의 공통점",
+      "path": "CODING/Python/Python dictionary와 list의 공통점.md"
+    },
+    {
       "basename": "Wait Notify를 사용하는 법",
       "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
     },
@@ -11,22 +31,6 @@
     {
       "basename": "toString으로 사용자 친화적",
       "path": "CODING/Java/신기한 거/toString으로 사용자 친화적.md"
-    },
-    {
-      "basename": "익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
-    },
-    {
-      "basename": "제너릭 타입 제약 조건 예시들",
-      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
-    },
-    {
-      "basename": "람다식에서는 new를 생략하는 거임",
-      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
-    },
-    {
-      "basename": "람다식에서 중괄호가 없으면 return 없어야 함!",
-      "path": "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md"
     },
     {
       "basename": "람다식",
@@ -195,10 +199,6 @@
     {
       "basename": "Singletone case",
       "path": "CODING/just 지식/Singletone case.md"
-    },
-    {
-      "basename": "dd",
-      "path": "dd.md"
     }
   ],
   "omittedPaths": [],
