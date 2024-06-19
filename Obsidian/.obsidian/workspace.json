@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81d07811cec05abd",
+        "id": "be46b179202e107e",
         "type": "tabs",
         "children": [
           {
-            "id": "49b4410b77090616",
+            "id": "3892547d95e0ecb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "CODING/Java/신기한 거/generic type 사용법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,8 +203,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49b4410b77090616",
+  "active": "3892547d95e0ecb7",
   "lastOpenFiles": [
+    "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
     "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md",
@@ -233,7 +224,6 @@
     "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
     "CODING/Java/신기한 거/thread 병렬 확인하기.md",
     "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
-    "CODING/Java/신기한 거/generic type 사용법.md",
     "ALTER TABLE column 수정하기.md",
     "CODING/mySQL/GROUP BY.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
