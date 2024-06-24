@@ -77,4 +77,4 @@ SELECT
 FROM employees;
 ```
 
-원래 GROUP BY 해야 하는데 OVER를 사용하면 바로 사용이 가능하다
+원래 GROUP BY 해야 하는데 OVER를 사용하면 바로 사용이 가능하다.
