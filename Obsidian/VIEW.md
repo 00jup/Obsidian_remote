@@ -151,6 +151,13 @@ mysql> SELECT emp_no, department, salary, RANK() OVER(PARTITION BY department OR
 ```
 
 ```mysql
-mysql> SELECT emp_no, department, salary, ROW_NUMBER() OVER(PARTITION BY department ORDER BY salary DESC) as dept_salary_rank, RANK() OVER(PARTITION BY department ORDER BY salary DESC) as dept_salary_rank, RANK() OVER(ORDER BY salary DESC) AS overall_salary_rank  FROM employees;
+SELECT 
+	emp_no,
+	department,
+	salary,
+	ROW_NUMBER() OVER(PARTITION BY department ORDER BY salary DESC) as row_number,
+	RANK() OVER(PARTITION BY department ORDER BY salary DESC) as dept_salary_rank,
+	DENSE_RANK() OVER(ORDER BY salary DESC) AS overall_dense_rank
+FROM employees;
 
 ```
