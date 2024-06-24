@@ -91,8 +91,32 @@ FROM employees;
 더하는 과정을 볼 수 있음.
 
 ```mysql
-SELECT emp_no, department, salary, MIN(salary) OVER(PARTITION BY department ORDER BY salary DESC) AS rolling_dept_salary, SUM(salary) OVER()
-FROM employees;
-
+mysql> SELECT emp_no, department, salary, MIN(salary) OVER(PARTITION BY department ORDER BY salary DESC) AS rolling_dept_salary, SUM(salary) OVER() FROM employees;
++--------+------------------+--------+---------------------+--------------------+
+| emp_no | department       | salary | rolling_dept_salary | SUM(salary) OVER() |
++--------+------------------+--------+---------------------+--------------------+
+|     17 | customer service |  61000 |               61000 |            1437000 |
+|     20 | customer service |  56000 |               56000 |            1437000 |
+|     21 | customer service |  55000 |               55000 |            1437000 |
+|     16 | customer service |  45000 |               45000 |            1437000 |
+|     18 | customer service |  40000 |               40000 |            1437000 |
+|     15 | customer service |  38000 |               38000 |            1437000 |
+|     19 | customer service |  31000 |               31000 |            1437000 |
+|      4 | engineering      | 103000 |              103000 |            1437000 |
+|      7 | engineering      |  91000 |               91000 |            1437000 |
+|      6 | engineering      |  89000 |               89000 |            1437000 |
+|      1 | engineering      |  80000 |               80000 |            1437000 |
+|      3 | engineering      |  70000 |               70000 |            1437000 |
+|      2 | engineering      |  69000 |               69000 |            1437000 |
+|      5 | engineering      |  67000 |               67000 |            1437000 |
+|     10 | sales            | 159000 |              159000 |            1437000 |
+|     11 | sales            |  72000 |               72000 |            1437000 |
+|      9 | sales            |  70000 |               70000 |            1437000 |
+|     13 | sales            |  61000 |               61000 |            1437000 |
+|     14 | sales            |  61000 |               61000 |            1437000 |
+|     12 | sales            |  60000 |               60000 |            1437000 |
+|      8 | sales            |  59000 |               59000 |            1437000 |
++--------+------------------+--------+---------------------+--------------------+
+21 rows in set (0.00 sec)
 ```
 
