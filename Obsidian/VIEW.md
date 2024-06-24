@@ -83,3 +83,16 @@ FROM employees;
 SELECT emp_no, department, salary, SUM(salary) OVER(PARTITION BY department), SUM(salary) OVER()
 FROM employees;
 ```
+
+```mysql
+SELECT emp_no, department, salary, SUM(salary) OVER(PARTITION BY department ORDER BY salary) AS rolling_dept_salary, SUM(salary) OVER()
+FROM employees;
+```
+더하는 과정을 볼 수 있음.
+
+```mysql
+SELECT emp_no, department, salary, MIN(salary) OVER(PARTITION BY department ORDER BY salary DESC) AS rolling_dept_salary, SUM(salary) OVER()
+FROM employees;
+
+```
+
