@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/신기한 거/thread 병렬 확인하기.md",
+                "file": "CODING/mySQL/mysql 실행하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Java/신기한 거/thread 병렬 확인하기.md",
+                "file": "CODING/mySQL/mysql 실행하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Java/신기한 거/thread 병렬 확인하기.md",
+                "file": "CODING/mySQL/mysql 실행하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
+                "file": "CODING/mySQL/mysql 실행하기.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
+                "file": "CODING/mySQL/mysql 실행하기.md"
               }
             }
           },
@@ -215,6 +215,15 @@
   },
   "active": "3892547d95e0ecb7",
   "lastOpenFiles": [
+    "CODING/mySQL/MySQL DB.md",
+    "CODING/mySQL/warninig.md",
+    "CODING/mySQL/time data type.md",
+    "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
+    "CODING/mySQL/MySQL vs OracleSQL.md",
+    "CODING/mySQL/MAX로 정렬하기.md",
+    "CODING/mySQL/comment in SQL.md",
+    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
+    "CODING/Java/신기한 거/thread 병렬 확인하기.md",
     "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
     "CODING/Java/신기한 거/singleton의 의미.md",
     "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
@@ -232,15 +241,6 @@
     "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
     "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
     "CODING/Python/Python dictionary와 list의 공통점.md",
-    "CODING/Java/신기한 거/wait notify Example.md",
-    "CODING/Java/신기한 거/thread 병렬 확인하기.md",
-    "ALTER TABLE column 수정하기.md",
-    "CODING/mySQL/GROUP BY.md",
-    "IFNULL로 NULL을 0으로 바꿔주자.md",
-    "CODING/Java/향상된 for 문.md",
-    "Functional Interface Application.md",
-    "CODING/mySQL/single quote vs double quote.md",
-    "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "Asset/Pasted image 20240527120803.png",

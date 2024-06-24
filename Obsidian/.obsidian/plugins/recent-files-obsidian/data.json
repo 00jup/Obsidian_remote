@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "warninig",
+      "path": "CODING/mySQL/warninig.md"
+    },
+    {
+      "basename": "time data type",
+      "path": "CODING/mySQL/time data type.md"
+    },
+    {
+      "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
+      "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
+    },
+    {
+      "basename": "MySQL vs OracleSQL",
+      "path": "CODING/mySQL/MySQL vs OracleSQL.md"
+    },
+    {
+      "basename": "MAX로 정렬하기",
+      "path": "CODING/mySQL/MAX로 정렬하기.md"
+    },
+    {
+      "basename": "comment in SQL",
+      "path": "CODING/mySQL/comment in SQL.md"
+    },
+    {
+      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
+      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
+    },
+    {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
     },
@@ -113,32 +149,12 @@
       "path": "Untitled 1.md"
     },
     {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
-    },
-    {
-      "basename": "MySQL vs OracleSQL",
-      "path": "CODING/mySQL/MySQL vs OracleSQL.md"
-    },
-    {
       "basename": "특정 문자열 찾고 싶을 때 방법",
       "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
     },
     {
       "basename": "DELETE",
       "path": "CODING/mySQL/DELETE.md"
-    },
-    {
-      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
-      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
-    },
-    {
-      "basename": "comment in SQL",
-      "path": "CODING/mySQL/comment in SQL.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "overloading vs overriding",
@@ -165,10 +181,6 @@
       "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
     },
     {
-      "basename": "MAX로 정렬하기",
-      "path": "CODING/mySQL/MAX로 정렬하기.md"
-    },
-    {
       "basename": "generic in java",
       "path": "generic in java.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "맥에 윈도우 설치하는 법",
       "path": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
-    },
-    {
-      "basename": "Terminal",
-      "path": "CODING/just 지식/Terminal.md"
-    },
-    {
-      "basename": "pipeline vs &&",
-      "path": "CODING/just 지식/pipeline vs &&.md"
-    },
-    {
-      "basename": "Singletone case",
-      "path": "CODING/just 지식/Singletone case.md"
     }
   ],
   "omittedPaths": [],
