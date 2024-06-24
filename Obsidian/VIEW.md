@@ -24,7 +24,30 @@ FROM full_reviews
 GROUP BY title HAVING COUNT(rating) > 1;
 ```
 
-GROUP BY를 사용하면 HAVING을 사용하도록!
+GROUP BY를 사용 후에 HAVING으로 정리가 가능하다.
+
+## ROLLUP
+```mysql
+mysql> SELECT title, AVG(rating) FROM full_reviews GROUP BY title WITH ROLLUP;
++----------------------+-------------+
+| title                | AVG(rating) |
++----------------------+-------------+
+| Archer               |     8.12000 |
+| Arrested Development |     8.08000 |
+| Bob's Burgers        |     7.52000 |
+| Bojack Horseman      |     7.94000 |
+| Breaking Bad         |     9.36000 |
+| Curb Your Enthusiasm |     8.12000 |
+| Fargo                |     9.40000 |
+| Freaks and Geeks     |     8.60000 |
+| General Hospital     |     5.38000 |
+| Halt and Catch Fire  |     9.90000 |
+| Seinfeld             |     7.60000 |
+| Stranger Things      |     8.76667 |
+| NULL                 |     8.02553 |
++----------------------+-------------+
+13 rows in set (0.00 sec)
+```
 
 
 
