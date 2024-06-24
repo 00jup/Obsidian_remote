@@ -78,3 +78,8 @@ FROM employees;
 ```
 
 원래 GROUP BY 해야 하는데 OVER를 사용하면 바로 사용이 가능하다.
+
+```mysql
+SELECT emp_no, department, salary, SUM(salary) OVER(PARTITION BY department), SUM(salary) OVER()
+FROM employees;
+```
