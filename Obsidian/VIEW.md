@@ -15,3 +15,16 @@ ALTER VIEW ordered_series AS
 SELECT * FROM series ORDER BY released_year DESC
 ```
 
+## HAVING
+```mysql
+SELECT
+	title,
+	AVG(rating)
+FROM full_reviews
+GROUP BY title HAVING COUNT(rating) > 1;
+```
+
+GROUP BY를 사용하면 HAVING을 사용하도록!
+
+
+
