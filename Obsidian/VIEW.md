@@ -55,3 +55,14 @@ SELECT released_year, AVG(rating) FROM full_reviews GROUP BY released_year, genr
 ```
 
 
+## SET MODE
+```mysql
+-- To View Modes:
+SELECT @@GLOBAL.sql_mode;
+SELECT @@SESSION.sql_mode;
+ 
+-- To Set Them:
+SET GLOBAL sql_mode = 'modes';
+SET SESSION sql_mode = 'modes';
+```
+
