@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "CODING/mySQL/MySQL DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f794b7fce1e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIEW.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "VIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "VIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "VIEW.md"
               }
             }
           },
@@ -171,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md"
+                "file": "VIEW.md"
               }
             }
           },
@@ -213,9 +226,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3892547d95e0ecb7",
+  "active": "f2f794b7fce1e4ad",
   "lastOpenFiles": [
     "CODING/mySQL/MySQL DB.md",
+    "VIEW.md",
+    "CODING/mySQL/mysql 실행하기.md",
     "CODING/mySQL/warninig.md",
     "CODING/mySQL/time data type.md",
     "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
@@ -239,8 +254,6 @@
     "CODING/Java/신기한 거/local variable to local class는 final.md",
     "CODING/Java/신기한 거/람다식.md",
     "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md",
-    "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
-    "CODING/Python/Python dictionary와 list의 공통점.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "Asset/Pasted image 20240527120803.png",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
+      "basename": "VIEW",
+      "path": "VIEW.md"
     },
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
     },
     {
       "basename": "warninig",
@@ -195,10 +199,6 @@
     {
       "basename": "insertion CHECK",
       "path": "insertion CHECK.md"
-    },
-    {
-      "basename": "맥에 윈도우 설치하는 법",
-      "path": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
     }
   ],
   "omittedPaths": [],
