@@ -50,4 +50,8 @@ mysql> SELECT title, AVG(rating) FROM full_reviews GROUP BY title WITH ROLLUP;
 ```
 
 
+```mysql
+SELECT released_year, AVG(rating) FROM full_reviews GROUP BY released_year, genre WITH ROLLUP;
+```
+
 
