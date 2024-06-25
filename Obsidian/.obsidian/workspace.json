@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "VIEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OVER.md",
+                "file": "VIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OVER.md",
+                "file": "VIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OVER.md"
+                "file": "VIEW.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "OVER.md"
+                "file": "VIEW.md"
               }
             }
           },
@@ -227,7 +226,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "630b5ed9959d06f3",
+  "active": "3892547d95e0ecb7",
   "lastOpenFiles": [
     "CODING/mySQL/MySQL DB.md",
     "OVER.md",
