@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "VIEW",
-      "path": "VIEW.md"
+      "basename": "OVER",
+      "path": "OVER.md"
     },
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
+      "basename": "VIEW",
+      "path": "VIEW.md"
     },
     {
       "basename": "mysql 실행하기",
@@ -195,10 +199,6 @@
     {
       "basename": "insertion CONSTRAINT",
       "path": "insertion CONSTRAINT.md"
-    },
-    {
-      "basename": "insertion CHECK",
-      "path": "insertion CHECK.md"
     }
   ],
   "omittedPaths": [],
