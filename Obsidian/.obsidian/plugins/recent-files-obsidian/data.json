@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SUBQUERY로 빠르게 계산하기",
+      "path": "SUBQUERY로 빠르게 계산하기.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
       "basename": "left join에서 특정 table 제외하고 출력하기",
       "path": "left join에서 특정 table 제외하고 출력하기.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "OVER",
       "path": "OVER.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "ALTER TABLE column 수정하기",
@@ -195,10 +199,6 @@
     {
       "basename": "generic in java",
       "path": "generic in java.md"
-    },
-    {
-      "basename": "Drawing 2024-05-13 11.31.18.excalidraw",
-      "path": "Excalidraw/Drawing 2024-05-13 11.31.18.excalidraw.md"
     }
   ],
   "omittedPaths": [],

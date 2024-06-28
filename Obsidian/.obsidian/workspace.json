@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "left join에서 특정 table 제외하고 출력하기.md",
+                "file": "CODING/mySQL/MySQL DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6098e81bdc153aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUBQUERY로 빠르게 계산하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ad12ed47bed730f",
@@ -111,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d11940f69e065376",
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "left join에서 특정 table 제외하고 출력하기.md",
+                "file": "SUBQUERY로 빠르게 계산하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "left join에서 특정 table 제외하고 출력하기.md",
+                "file": "SUBQUERY로 빠르게 계산하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "left join에서 특정 table 제외하고 출력하기.md"
+                "file": "SUBQUERY로 빠르게 계산하기.md"
               }
             }
           },
@@ -198,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "left join에서 특정 table 제외하고 출력하기.md"
+                "file": "SUBQUERY로 빠르게 계산하기.md"
               }
             }
           },
@@ -240,13 +250,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "057f3f7d65d7d96e",
+  "active": "6098e81bdc153aa7",
   "lastOpenFiles": [
-    "Relationship in SQL.md",
+    "CODING/mySQL/MySQL DB.md",
+    "SUBQUERY로 빠르게 계산하기.md",
     "left join에서 특정 table 제외하고 출력하기.md",
+    "Relationship in SQL.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
     "OVER.md",
-    "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
     "VIEW.md",
     "CODING/mySQL/mysql 실행하기.md",
@@ -267,7 +278,6 @@
     "CODING/Java/신기한 거/toString으로 사용자 친화적.md",
     "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
-    "CODING/Java/신기한 거/Daemon Thread.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "Asset/Pasted image 20240527120803.png",

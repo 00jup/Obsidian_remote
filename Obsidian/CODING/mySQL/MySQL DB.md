@@ -45,6 +45,7 @@ analyze에서 많이 사용된다.
 [[내가 원하는 이름의 데이터 찾기]]
 [[VIEW]]
 [[OVER]]
+[[SUBQUERY로 빠르게 계산하기]]
 # 기초
 [[mysql 실행하기]]
 [[실행하고 목록 표시 SHOW DATABASES;]]
