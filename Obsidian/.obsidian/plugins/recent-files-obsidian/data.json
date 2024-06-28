@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VIEW",
+      "path": "VIEW.md"
+    },
+    {
       "basename": "SUBQUERY로 빠르게 계산하기",
       "path": "SUBQUERY로 빠르게 계산하기.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "ALTER TABLE column 수정하기",
       "path": "ALTER TABLE column 수정하기.md"
-    },
-    {
-      "basename": "VIEW",
-      "path": "VIEW.md"
     },
     {
       "basename": "mysql 실행하기",
