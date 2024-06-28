@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OVER.md",
+                "file": "IFNULL로 NULL을 0으로 바꿔주자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21243827561bb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relationship in SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "join",
+                "query": "left join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OVER.md",
+                "file": "Relationship in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OVER.md",
+                "file": "Relationship in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OVER.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "OVER.md"
+                "file": "Relationship in SQL.md"
               }
             }
           },
@@ -215,14 +228,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "630b5ed9959d06f3",
+  "active": "e21243827561bb40",
   "lastOpenFiles": [
-    "Relationship in SQL.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
+    "OVER.md",
+    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
     "VIEW.md",
-    "OVER.md",
     "CODING/mySQL/mysql 실행하기.md",
     "CODING/mySQL/warninig.md",
     "CODING/mySQL/time data type.md",

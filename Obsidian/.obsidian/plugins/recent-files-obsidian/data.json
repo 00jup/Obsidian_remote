@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "OVER",
-      "path": "OVER.md"
-    },
-    {
       "basename": "Relationship in SQL",
       "path": "Relationship in SQL.md"
     },
     {
       "basename": "IFNULL로 NULL을 0으로 바꿔주자",
       "path": "IFNULL로 NULL을 0으로 바꿔주자.md"
+    },
+    {
+      "basename": "OVER",
+      "path": "OVER.md"
     },
     {
       "basename": "MySQL DB",
