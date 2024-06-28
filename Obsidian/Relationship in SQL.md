@@ -174,6 +174,8 @@ LEFT JOIN orders ON orders.customer_id = customers.id;
 
 모든 customers가 나타나게 된다.
 
+[[left join에서 특정 table 제외하고 출력하기]]
+
 ## RIGHT JOIN
 ```sql
 SELECT 

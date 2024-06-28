@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "057f3f7d65d7d96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "left join에서 특정 table 제외하고 출력하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "left join에서 특정 table 제외하고 출력하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "left join에서 특정 table 제외하고 출력하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "left join에서 특정 table 제외하고 출력하기.md"
               }
             }
           },
@@ -186,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Relationship in SQL.md"
+                "file": "left join에서 특정 table 제외하고 출력하기.md"
               }
             }
           },
@@ -228,11 +240,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e21243827561bb40",
+  "active": "057f3f7d65d7d96e",
   "lastOpenFiles": [
+    "Relationship in SQL.md",
+    "left join에서 특정 table 제외하고 출력하기.md",
     "IFNULL로 NULL을 0으로 바꿔주자.md",
     "OVER.md",
-    "Relationship in SQL.md",
     "CODING/mySQL/MySQL DB.md",
     "ALTER TABLE column 수정하기.md",
     "VIEW.md",
@@ -255,7 +268,6 @@
     "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md",
     "CODING/Java/신기한 거/generic type 사용법.md",
     "CODING/Java/신기한 거/Daemon Thread.md",
-    "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "Asset/Pasted image 20240527120803.png",
