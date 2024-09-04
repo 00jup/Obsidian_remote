@@ -66,31 +66,19 @@
             }
           },
           {
-            "id": "0d99e6f1262b28d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 통신, 데이터 통신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c291079facee93b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wireshark Terminal 실행 명령어.md",
+                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wireshark Terminal 실행 명령어.md",
+                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wireshark Terminal 실행 명령어.md",
+                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wireshark Terminal 실행 명령어.md"
+                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
               }
             }
           },
@@ -242,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "wireshark Terminal 실행 명령어.md"
+                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
               }
             }
           },
@@ -262,13 +250,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,8 +272,9 @@
   },
   "active": "c291079facee93b5",
   "lastOpenFiles": [
-    "컴퓨터 통신, 데이터 통신.md",
-    "wireshark Terminal 실행 명령어.md",
+    "컴퓨터 통신/컴퓨터 통신, 데이터 통신.md",
+    "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
+    "컴퓨터 통신",
     "SUBQUERY로 빠르게 계산하기.md",
     "CODING/mySQL/MySQL DB.md",
     "left join에서 특정 table 제외하고 출력하기.md",
@@ -311,7 +298,6 @@
     "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
     "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
     "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
-    "CODING/Java/신기한 거/toString으로 사용자 친화적.md",
     "Asset/Screenshot 2024-05-30 at 19.20.09.png",
     "Asset/Screenshot 2024-05-30 at 19.13.09.png",
     "Asset/Pasted image 20240527120803.png",
@@ -333,7 +319,6 @@
     "CODING/C/pointer",
     "CODING",
     "CODING/Python/Sort",
-    "CODING/mySQL",
     "Java/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
