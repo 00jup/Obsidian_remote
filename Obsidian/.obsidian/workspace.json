@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1591c8161e3d43b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6098e81bdc153aa7",
+  "active": "1591c8161e3d43b8",
   "lastOpenFiles": [
     "SUBQUERY로 빠르게 계산하기.md",
     "CODING/mySQL/MySQL DB.md",
