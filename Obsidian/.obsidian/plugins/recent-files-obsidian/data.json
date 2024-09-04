@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "컴퓨터 통신, 데이터 통신",
+      "path": "컴퓨터 통신, 데이터 통신.md"
+    },
+    {
       "basename": "VIEW",
       "path": "VIEW.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "database 살펴보기",
       "path": "CODING/mySQL/database 살펴보기.md"
-    },
-    {
-      "basename": "연결리스트에서 이중포인터를 사용해야 하는 이유",
-      "path": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md"
-    },
-    {
-      "basename": "generic in java",
-      "path": "generic in java.md"
     }
   ],
   "omittedPaths": [],
