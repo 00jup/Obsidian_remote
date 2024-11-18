@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AutoWired",
+      "path": "CODING/Spring/AutoWired.md"
+    },
+    {
+      "basename": "원하는 database 변경하기",
+      "path": "CODING/mySQL/원하는 database 변경하기.md"
+    },
+    {
       "basename": "ALTER TABLE column 수정하기",
       "path": "ALTER TABLE column 수정하기.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "wireshark Terminal 실행 명령어",
       "path": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
-    },
-    {
-      "basename": "원하는 database 변경하기",
-      "path": "CODING/mySQL/원하는 database 변경하기.md"
     },
     {
       "basename": "MySQL DB",
