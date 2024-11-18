@@ -1,20 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "ALTER TABLE column 수정하기",
+      "path": "ALTER TABLE column 수정하기.md"
+    },
+    {
+      "basename": "mysql 실행하기",
+      "path": "CODING/mySQL/mysql 실행하기.md"
+    },
+    {
+      "basename": "import 되지 않을 때",
+      "path": "CODING/Python/import 되지 않을 때.md"
+    },
+    {
+      "basename": "Terminal",
+      "path": "CODING/just 지식/Terminal.md"
+    },
+    {
+      "basename": "Python tkinter",
+      "path": "CODING/Python/Python tkinter.md"
+    },
+    {
+      "basename": "pipeline vs &&",
+      "path": "CODING/just 지식/pipeline vs &&.md"
+    },
+    {
+      "basename": "np.floor",
+      "path": "CODING/Python/np.floor.md"
+    },
+    {
+      "basename": "isin 사용법",
+      "path": "CODING/Python/isin 사용법.md"
+    },
+    {
+      "basename": "DataFrame index, columns 정리",
+      "path": "CODING/Python/DataFrame index, columns 정리.md"
+    },
+    {
+      "basename": "Python traversal",
+      "path": "CODING/Python/Python traversal.md"
+    },
+    {
+      "basename": "Python pandas",
+      "path": "CODING/Python/Python pandas.md"
+    },
+    {
+      "basename": "Python iloc vs loc",
+      "path": "CODING/Python/Python iloc vs loc.md"
+    },
+    {
+      "basename": "Python DB",
+      "path": "CODING/Python/Python DB.md"
+    },
+    {
       "basename": "wireshark Terminal 실행 명령어",
       "path": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
+    },
+    {
+      "basename": "원하는 database 변경하기",
+      "path": "CODING/mySQL/원하는 database 변경하기.md"
+    },
+    {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "VIEW",
       "path": "VIEW.md"
     },
     {
-      "basename": "SUBQUERY로 빠르게 계산하기",
-      "path": "SUBQUERY로 빠르게 계산하기.md"
+      "basename": "MAX로 정렬하기",
+      "path": "CODING/mySQL/MAX로 정렬하기.md"
     },
     {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
+      "basename": "LIKE",
+      "path": "CODING/mySQL/LIKE.md"
+    },
+    {
+      "basename": "INSERT(CRUD에서 create 부분)",
+      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+    },
+    {
+      "basename": "GROUP BY",
+      "path": "CODING/mySQL/GROUP BY.md"
+    },
+    {
+      "basename": "Distinct",
+      "path": "CODING/mySQL/Distinct.md"
+    },
+    {
+      "basename": "DELETE",
+      "path": "CODING/mySQL/DELETE.md"
+    },
+    {
+      "basename": "database 살펴보기",
+      "path": "CODING/mySQL/database 살펴보기.md"
+    },
+    {
+      "basename": "data type",
+      "path": "CODING/mySQL/data type.md"
+    },
+    {
+      "basename": "COUNT",
+      "path": "CODING/mySQL/COUNT.md"
+    },
+    {
+      "basename": "comment in SQL",
+      "path": "CODING/mySQL/comment in SQL.md"
+    },
+    {
+      "basename": "만들고 실행",
+      "path": "CODING/mySQL/만들고 실행.md"
+    },
+    {
+      "basename": "SUBQUERY로 빠르게 계산하기",
+      "path": "SUBQUERY로 빠르게 계산하기.md"
     },
     {
       "basename": "left join에서 특정 table 제외하고 출력하기",
@@ -33,14 +133,6 @@
       "path": "OVER.md"
     },
     {
-      "basename": "ALTER TABLE column 수정하기",
-      "path": "ALTER TABLE column 수정하기.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
-    },
-    {
       "basename": "warninig",
       "path": "CODING/mySQL/warninig.md"
     },
@@ -57,144 +149,12 @@
       "path": "CODING/mySQL/MySQL vs OracleSQL.md"
     },
     {
-      "basename": "MAX로 정렬하기",
-      "path": "CODING/mySQL/MAX로 정렬하기.md"
-    },
-    {
-      "basename": "comment in SQL",
-      "path": "CODING/mySQL/comment in SQL.md"
-    },
-    {
       "basename": "1000000 미만만 들어가게 하기 decimal 사용",
       "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
     },
     {
       "basename": "thread 병렬 확인하기",
       "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
-    },
-    {
-      "basename": "Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기",
-      "path": "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md"
-    },
-    {
-      "basename": "singleton의 의미",
-      "path": "CODING/Java/신기한 거/singleton의 의미.md"
-    },
-    {
-      "basename": "thread 이름을 설정하는 법",
-      "path": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
-    },
-    {
-      "basename": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
-      "path": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-    },
-    {
-      "basename": "제너릭 타입 제약 조건 예시들",
-      "path": "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md"
-    },
-    {
-      "basename": "익명 객체와 함수형 인터페이스 사용",
-      "path": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
-    },
-    {
-      "basename": "toString으로 사용자 친화적",
-      "path": "CODING/Java/신기한 거/toString으로 사용자 친화적.md"
-    },
-    {
-      "basename": "Wait Notify를 사용하는 법",
-      "path": "CODING/Java/신기한 거/Wait Notify를 사용하는 법.md"
-    },
-    {
-      "basename": "generic type 사용법",
-      "path": "CODING/Java/신기한 거/generic type 사용법.md"
-    },
-    {
-      "basename": "Daemon Thread",
-      "path": "CODING/Java/신기한 거/Daemon Thread.md"
-    },
-    {
-      "basename": "Int와 Integer가 둘다 있다",
-      "path": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md"
-    },
-    {
-      "basename": "java에서 thread가 runnable하다는 것",
-      "path": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
-    },
-    {
-      "basename": "local variable to local class는 final",
-      "path": "CODING/Java/신기한 거/local variable to local class는 final.md"
-    },
-    {
-      "basename": "람다식",
-      "path": "CODING/Java/신기한 거/람다식.md"
-    },
-    {
-      "basename": "람다식에서는 new를 생략하는 거임",
-      "path": "CODING/Java/신기한 거/람다식에서는 new를 생략하는 거임.md"
-    },
-    {
-      "basename": "람다식에서 중괄호가 없으면 return 없어야 함!",
-      "path": "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md"
-    },
-    {
-      "basename": "Python dictionary와 list의 공통점",
-      "path": "CODING/Python/Python dictionary와 list의 공통점.md"
-    },
-    {
-      "basename": "wait notify Example",
-      "path": "CODING/Java/신기한 거/wait notify Example.md"
-    },
-    {
-      "basename": "GROUP BY",
-      "path": "CODING/mySQL/GROUP BY.md"
-    },
-    {
-      "basename": "향상된 for 문",
-      "path": "CODING/Java/향상된 for 문.md"
-    },
-    {
-      "basename": "Functional Interface Application",
-      "path": "Functional Interface Application.md"
-    },
-    {
-      "basename": "single quote vs double quote",
-      "path": "CODING/mySQL/single quote vs double quote.md"
-    },
-    {
-      "basename": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
-      "path": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "특정 문자열 찾고 싶을 때 방법",
-      "path": "CODING/mySQL/특정 문자열 찾고 싶을 때 방법.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "CODING/mySQL/DELETE.md"
-    },
-    {
-      "basename": "overloading vs overriding",
-      "path": "CODING/Java/틀린 거../overloading vs overriding.md"
-    },
-    {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-    },
-    {
-      "basename": "insertion Unique",
-      "path": "insertion Unique.md"
-    },
-    {
-      "basename": "BST에서 마지막 null을 가리키게 사용하기",
-      "path": "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md"
-    },
-    {
-      "basename": "database 살펴보기",
-      "path": "CODING/mySQL/database 살펴보기.md"
     }
   ],
   "omittedPaths": [],

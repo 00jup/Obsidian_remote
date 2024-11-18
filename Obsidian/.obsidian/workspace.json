@@ -1,166 +1,152 @@
 {
   "main": {
-    "id": "516bc1aa1ad9c4c4",
+    "id": "dcae15c5efb331c4",
     "type": "split",
     "children": [
       {
-        "id": "be46b179202e107e",
+        "id": "624a79c151367c03",
         "type": "tabs",
         "children": [
           {
-            "id": "630b5ed9959d06f3",
+            "id": "8cbbd4522d2380cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IFNULL로 NULL을 0으로 바꿔주자.md",
-                "mode": "source",
+                "file": "CODING/mySQL/원하는 database 변경하기.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "원하는 database 변경하기"
             }
           },
           {
-            "id": "e21243827561bb40",
+            "id": "658908f418195b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relationship in SQL.md",
+                "file": "Android Studio & Intellj console font problem.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Android Studio & Intellj console font problem"
             }
           },
           {
-            "id": "057f3f7d65d7d96e",
+            "id": "cdf9eb71014b4cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/MySQL DB.md",
+                "file": "CODING/Kotlin/equals ignoreCase option.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "equals ignoreCase option"
             }
           },
           {
-            "id": "6098e81bdc153aa7",
+            "id": "ebe3360a0310845e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "VIEW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1591c8161e3d43b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "c291079facee93b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": ".DS_Store",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (.DS_Store)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a304d234b89da9ce",
+    "id": "9d65cc28d4dadf57",
     "type": "split",
     "children": [
       {
-        "id": "a7d0f3772bc446a4",
+        "id": "57d3ada6dbcf2769",
         "type": "tabs",
-        "dimension": 75.10917030567686,
         "children": [
           {
-            "id": "09ebec1001effe24",
+            "id": "dadbea09a0dc7b23",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "e17c784ee562337b",
+            "id": "ca5f3c81663d08ab",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "having",
+                "query": "mysql 실행",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "fa7e3195b9d25083",
+            "id": "9cf1b7f3c04039ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "4ad12ed47bed730f",
-        "type": "tabs",
-        "dimension": 24.89082969432315,
-        "children": [
+          },
           {
-            "id": "7757a4e62849cd86",
+            "id": "48c23d0a9b61d8e9",
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "d11940f69e065376",
+    "id": "bb850739262b4383",
     "type": "split",
     "children": [
       {
-        "id": "c3d5de0c97e80575",
+        "id": "c3fc4900904db331",
         "type": "tabs",
         "children": [
           {
-            "id": "18970ad39ceff9be",
+            "id": "dc77a08dba600825",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
+                "file": "CODING/Kotlin/equals ignoreCase option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,52 +154,72 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for equals ignoreCase option"
             }
           },
           {
-            "id": "1e930761e7f98677",
+            "id": "4f74708e46e8d939",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
+                "file": "CODING/Kotlin/equals ignoreCase option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from equals ignoreCase option"
             }
           },
           {
-            "id": "e1531ea35f932640",
+            "id": "c9f8d9afd30ce923",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "ec2700a5cf297bd9",
+            "id": "72a36345ec1a27e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
-              }
+                "file": "CODING/Kotlin/equals ignoreCase option.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of equals ignoreCase option"
             }
           },
           {
-            "id": "07cc11b93e067fa1",
+            "id": "ad7d29b638afef48",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "211b1a730d956a5a",
+            "id": "d4b0678a607bdfb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a3fb2b1acd8c5573",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -221,36 +227,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "9342e8a4052782c3",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
-              }
-            }
-          },
-          {
-            "id": "1e6d564f1f8b3361",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "950c56947d5c5b69",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -258,72 +241,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "c291079facee93b5",
+  "active": "48c23d0a9b61d8e9",
   "lastOpenFiles": [
-    "컴퓨터 통신/컴퓨터 통신, 데이터 통신.md",
-    "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
-    "컴퓨터 통신",
-    "SUBQUERY로 빠르게 계산하기.md",
-    "CODING/mySQL/MySQL DB.md",
-    "left join에서 특정 table 제외하고 출력하기.md",
-    "Relationship in SQL.md",
-    "IFNULL로 NULL을 0으로 바꿔주자.md",
-    "OVER.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "CODING/Spring/AutoWired.md",
     "ALTER TABLE column 수정하기.md",
-    "VIEW.md",
+    "CODING/Spring",
+    "CODING/Kotlin/coroutine으로 비동기 실행.md",
     "CODING/mySQL/mysql 실행하기.md",
-    "CODING/mySQL/warninig.md",
-    "CODING/mySQL/time data type.md",
-    "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md",
-    "CODING/mySQL/MySQL vs OracleSQL.md",
-    "CODING/mySQL/MAX로 정렬하기.md",
-    "CODING/mySQL/comment in SQL.md",
-    "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
-    "CODING/Java/신기한 거/thread 병렬 확인하기.md",
-    "CODING/Java/신기한 거/Thread run method 만들 때 차이, 자식 객체 만들기 vs 인터페이스의 구현객체 만들기.md",
-    "CODING/Java/신기한 거/singleton의 의미.md",
-    "CODING/Java/신기한 거/thread 이름을 설정하는 법.md",
-    "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
-    "CODING/Java/신기한 거/제너릭 타입 제약 조건 예시들.md",
-    "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md",
-    "Asset/Screenshot 2024-05-30 at 19.20.09.png",
-    "Asset/Screenshot 2024-05-30 at 19.13.09.png",
-    "Asset/Pasted image 20240527120803.png",
-    "Asset/Pasted image 20240527120750.png",
-    "Asset/Screenshot 2024-05-27 at 00.27.12.png",
-    "Asset/Screenshot 2024-05-27 at 00.24.17 1.png",
-    "Asset/Screenshot 2024-05-27 at 00.24.14 1.png",
-    "Asset/Screenshot 2024-05-27 at 00.24.09 1.png",
-    "Asset/Screenshot 2024-05-27 at 00.24.09.png",
-    "Asset/Screenshot 2024-05-27 at 00.24.14.png",
-    "CODING/Untitled.canvas",
-    "CODING/just 지식/자료구조",
-    "CODING/Python/주의사항",
-    "CODING/C/pointer/Untitled.canvas",
-    "CODING/Java/신기한 거",
-    "그냥 지식",
-    "CODING/just 지식",
-    "CODING/Java/틀린 거..",
-    "CODING/C/pointer",
-    "CODING",
-    "CODING/Python/Sort",
-    "Java/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "프로그래밍/Untitled 1.canvas",
-    "프로그래밍/Untitled.canvas",
-    "프로그래밍/Untitled 2.canvas"
+    "REACT/React 실행.md",
+    "CODING/Kotlin/navigate할 때 주의점.md",
+    "REACT",
+    "Untitled 3.md",
+    "CODING/Python/import 되지 않을 때.md",
+    "CODING/just 지식/Terminal.md",
+    "CODING/Python/Python tkinter.md",
+    "CODING/just 지식/pipeline vs &&.md",
+    "CODING/Python/np.floor.md",
+    "CODING/Python/isin 사용법.md",
+    "CODING/Python/DataFrame index, columns 정리.md",
+    "CODING/Python/Python traversal.md",
+    "CODING/Python/Python pandas.md",
+    "CODING/Python/Python iloc vs loc.md",
+    "CODING/Python/Python DB.md",
+    "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
+    "CODING/Kotlin/수업 때 사용한 정규 표현식.md",
+    "CODING/Kotlin/equals ignoreCase option.md",
+    "CODING/Java/import static.md",
+    "Pasted image 20241029162406.png",
+    "CODING/mySQL/원하는 database 변경하기.md",
+    "Android Studio & Intellj console font problem.md"
   ]
 }
