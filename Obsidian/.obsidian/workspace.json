@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f51be9b58113adb",
+        "id": "89d17dc86f6b8bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c0af49d1865c6a",
+            "id": "7ff05d619f68090d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 통신/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -190,10 +186,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2c0af49d1865c6a",
+  "active": "7ff05d619f68090d",
   "lastOpenFiles": [
+    "컴퓨터 통신/wireshark dns 검색.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
-    "컴퓨터 통신/Untitled.md",
     "CODING/Spring/AutoWired.md",
     "CODING/mySQL/원하는 database 변경하기.md",
     "Android Studio & Intellj console font problem.md",
