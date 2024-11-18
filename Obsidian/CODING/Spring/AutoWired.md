@@ -41,3 +41,5 @@ public class UserController {
 ```
 
 @Bean 어노테이션으로 각각의 생성자에 이름을 붙여서 구분할 수 있다.
+
+git commit 되려나
