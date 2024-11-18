@@ -11,10 +11,14 @@
             "id": "7ff05d619f68090d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터 통신/terminal network 명령어.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "terminal network 명령어"
             }
           }
         ]
@@ -79,12 +83,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb850739262b4383",
@@ -171,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +192,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48c23d0a9b61d8e9",
+  "active": "7ff05d619f68090d",
   "lastOpenFiles": [
     "컴퓨터 통신/wireshark dns 검색.md",
+    "컴퓨터 통신/terminal network 명령어.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
     "CODING/Spring/AutoWired.md",
     "CODING/mySQL/원하는 database 변경하기.md",
@@ -217,7 +223,6 @@
     "CODING/Python/np.floor.md",
     "CODING/Python/isin 사용법.md",
     "CODING/Python/DataFrame index, columns 정리.md",
-    "CODING/Python/Python traversal.md",
-    "CODING/Python/Python pandas.md"
+    "CODING/Python/Python traversal.md"
   ]
 }
