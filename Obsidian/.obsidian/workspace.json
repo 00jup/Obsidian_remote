@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "624a79c151367c03",
+        "id": "4f51be9b58113adb",
         "type": "tabs",
         "children": [
           {
-            "id": "8cbbd4522d2380cb",
+            "id": "c2c0af49d1865c6a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".DS_Store",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (.DS_Store)"
-            }
-          },
-          {
-            "id": "658908f418195b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android Studio & Intellj console font problem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Android Studio & Intellj console font problem"
-            }
-          },
-          {
-            "id": "cdf9eb71014b4cf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/Kotlin/equals ignoreCase option.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "equals ignoreCase option"
-            }
-          },
-          {
-            "id": "ebe3360a0310845e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".DS_Store",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (.DS_Store)"
+              "title": "New tab"
             }
           }
         ]
@@ -143,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CODING/Kotlin/equals ignoreCase option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for equals ignoreCase option"
             }
           },
           {
@@ -187,31 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CODING/Kotlin/equals ignoreCase option.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of equals ignoreCase option"
-            }
-          },
-          {
-            "id": "ad7d29b638afef48",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "d4b0678a607bdfb1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           },
           {
@@ -229,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,7 +184,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4b0678a607bdfb1",
+  "active": "dadbea09a0dc7b23",
   "lastOpenFiles": [
     "CODING/Spring/AutoWired.md",
     "CODING/mySQL/원하는 database 변경하기.md",
