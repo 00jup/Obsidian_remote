@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "terminal ping option",
-      "path": "terminal ping option.md"
+      "basename": "terminal tracert 명령어 arp -a",
+      "path": "컴퓨터 통신/terminal tracert 명령어 arp -a.md"
     },
     {
       "basename": "terminal ping 명령어",
       "path": "컴퓨터 통신/terminal ping 명령어.md"
+    },
+    {
+      "basename": "terminal ping option",
+      "path": "terminal ping option.md"
     },
     {
       "basename": "wireshark Terminal 실행 명령어",
@@ -15,10 +19,6 @@
     {
       "basename": "wireshark dns 검색",
       "path": "컴퓨터 통신/wireshark dns 검색.md"
-    },
-    {
-      "basename": "terminal tracert 명령어 arp -a",
-      "path": "컴퓨터 통신/terminal tracert 명령어 arp -a.md"
     },
     {
       "basename": "Pasted image 20241029162406",
