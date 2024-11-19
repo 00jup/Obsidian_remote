@@ -1,0 +1,6 @@
+
+
+```
+networksetup -listallhardwareports
+```
+
