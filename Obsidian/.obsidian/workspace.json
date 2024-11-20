@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/mysql 실행하기.md",
+                "file": "CODING/just 지식/Coroutine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mysql 실행하기"
+              "title": "Coroutine"
             }
           },
           {
@@ -126,8 +126,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,6 +236,9 @@
   },
   "active": "3985591271537e80",
   "lastOpenFiles": [
+    "Asset/Pasted image 20241120114154.png",
+    "CODING/mySQL/mysql 실행하기.md",
+    "CODING/just 지식/Coroutine.md",
     "CODING/mySQL/MySQL DB.md",
     "terminal ping option.md",
     "컴퓨터 통신/terminal ping 명령어.md",
@@ -259,13 +261,10 @@
     "Untitled.md",
     "Untitled 1.md",
     "ALTER TABLE column 수정하기.md",
-    "CODING/mySQL/mysql 실행하기.md",
     "REACT/React 실행.md",
     "REACT",
     "Untitled 3.md",
     "CODING/Python/import 되지 않을 때.md",
-    "CODING/just 지식/Terminal.md",
-    "CODING/Python/Python tkinter.md",
-    "CODING/just 지식/pipeline vs &&.md"
+    "CODING/just 지식/Terminal.md"
   ]
 }
