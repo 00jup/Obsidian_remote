@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+                "file": "terminal ping option.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "terminal ping option"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -81,7 +91,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       },
       {
@@ -89,7 +101,9 @@
         "type": "leaf",
         "state": {
           "type": "recent-files",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -105,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+            "file": "terminal ping option.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +127,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -122,10 +138,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+            "file": "terminal ping option.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -134,8 +152,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md"
-          }
+            "file": "terminal ping option.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -153,6 +173,8 @@
   },
   "active": "24f18b124bd765ed",
   "lastOpenFiles": [
+    "컴퓨터 통신/terminal ping 명령어.md",
+    "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
     "Java/Java DB.md",
     "dd.md",
     "C/%를 입력하기.md",
@@ -177,9 +199,7 @@
     "Python lamda.md",
     "Python/Python 시험 대비.md",
     "Python scope.md",
-    "Python function.md",
     "Asset/Screenshot 2023-10-17 at 12.46.15.png",
-    "유효범위 문제.md",
     "Asset/Screenshot 2023-09-15 at 15.51.42.png",
     "Asset/Pasted image 20230921155558.png",
     "Asset/Screenshot 2023-09-15 at 15.51.05.png",
