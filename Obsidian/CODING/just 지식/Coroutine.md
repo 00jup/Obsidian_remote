@@ -35,3 +35,5 @@ async def get_user_info():
 1. 비동기 작업을 위아래로 읽기 쉽게 작성
 2. with/try-except 등 일반 구문 사용 가능  
 3. 각 단계가 명확히 구분됨
+
+[[Coroutin Example]]
