@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL DB",
+      "path": "CODING/mySQL/MySQL DB.md"
+    },
+    {
       "basename": "terminal ping 명령어",
       "path": "컴퓨터 통신/terminal ping 명령어.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "mysql 실행하기",
       "path": "CODING/mySQL/mysql 실행하기.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     },
     {
       "basename": "Pasted image 20241029162406",
