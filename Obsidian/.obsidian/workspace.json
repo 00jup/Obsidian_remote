@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "060432bc47711e3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "4914c9d1c6afc031",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,7 +261,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "311b1f3d8f1b94a8",
+  "active": "48c23d0a9b61d8e9",
   "lastOpenFiles": [
     "컴퓨터 통신/terminal ping 명령어.md",
     "terminal ping option.md",
