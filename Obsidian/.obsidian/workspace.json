@@ -131,29 +131,9 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "9cf1b7f3c04039ae",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "48c23d0a9b61d8e9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,7 +241,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48c23d0a9b61d8e9",
+  "active": "ca5f3c81663d08ab",
   "lastOpenFiles": [
     "컴퓨터 통신/terminal ping 명령어.md",
     "terminal ping option.md",
