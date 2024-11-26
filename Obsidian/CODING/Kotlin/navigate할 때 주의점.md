@@ -17,7 +17,8 @@ TextButton(
 
 이렇게 값을 입력 가능하다
 
-email = it -> value -> email = value 임
+> email = it 는 아래와 같이 변환 가능하다.
+> value -> email = value 임
 
 
 ```kotlin
