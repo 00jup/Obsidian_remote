@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2af78b31839b2c27",
+        "id": "73406b5e53988a13",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8665aff8bd537e",
+            "id": "5fa31675fbae88ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/Kotlin/파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda"
+              "title": "New tab"
             }
           }
         ]
@@ -61,6 +57,26 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "ff0e899b3feb0f3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d4483b8277a6b672",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -171,14 +187,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b8665aff8bd537e",
+  "active": "dadbea09a0dc7b23",
   "lastOpenFiles": [
-    "CODING/Kotlin/수업 때 사용한 정규 표현식.md",
     "CODING/Kotlin/navigate할 때 주의점.md",
+    "CODING/Kotlin/수업 때 사용한 정규 표현식.md",
+    "CODING/Kotlin/파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda.md",
+    "CODING/Kotlin/collectAsState.md",
+    "CODING/Kotlin/coroutine으로 비동기 실행.md",
     "CODING/Kotlin/equals ignoreCase option.md",
     "CODING/Kotlin/Kotlin 특징.md",
-    "CODING/Kotlin/coroutine으로 비동기 실행.md",
-    "CODING/Kotlin/collectAsState.md",
     "CODING/Kotlin/@Composable 함수.md",
     "컴퓨터 통신/terminal tracert 명령어 arp -a.md",
     "terminal ping option.md",
@@ -186,7 +203,6 @@
     "CODING/just 지식/Coroutine.md",
     "컴퓨터 통신/terminal ping 명령어.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
-    "CODING/Kotlin/파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda.md",
     "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md",
     "컴퓨터 통신/wireshark 검색.md",
     "인스턴스 메소드 참조.md",
