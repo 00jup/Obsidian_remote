@@ -11,10 +11,14 @@
             "id": "5fa31675fbae88ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Old New in INSERT DELETE UPDATE"
             }
           }
         ]
@@ -187,8 +191,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dadbea09a0dc7b23",
+  "active": "5fa31675fbae88ac",
   "lastOpenFiles": [
+    "CODING/mySQL/Trigger 실행순서.md",
+    "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
+    "Asset/Pasted image 20241129223253.png",
+    "CODING/mySQL/DBSolution.md",
     "CODING/Kotlin/navigate할 때 주의점.md",
     "CODING/Kotlin/수업 때 사용한 정규 표현식.md",
     "CODING/Kotlin/파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda.md",
@@ -216,9 +224,6 @@
     "CODING/Java/import static.md",
     "CODING/Spring",
     "CODING/Kotlin",
-    "Untitled.md",
-    "Untitled 1.md",
-    "ALTER TABLE column 수정하기.md",
     "REACT"
   ]
 }

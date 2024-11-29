@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Old New in INSERT DELETE UPDATE",
+      "path": "CODING/mySQL/Old New in INSERT DELETE UPDATE.md"
+    },
+    {
+      "basename": "Trigger 실행순서",
+      "path": "CODING/mySQL/Trigger 실행순서.md"
+    },
+    {
+      "basename": "DBSolution",
+      "path": "CODING/mySQL/DBSolution.md"
+    },
+    {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
       "path": "CODING/mySQL/한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기.md"
-    },
-    {
-      "basename": "MySQL vs OracleSQL",
-      "path": "CODING/mySQL/MySQL vs OracleSQL.md"
-    },
-    {
-      "basename": "1000000 미만만 들어가게 하기 decimal 사용",
-      "path": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md"
-    },
-    {
-      "basename": "thread 병렬 확인하기",
-      "path": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
     }
   ],
   "omittedPaths": [],
