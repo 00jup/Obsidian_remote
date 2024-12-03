@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5fa31675fbae88ac",
+  "active": "d4483b8277a6b672",
   "lastOpenFiles": [
     "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
     "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
