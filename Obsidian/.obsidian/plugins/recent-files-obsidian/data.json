@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Index leading & trailing",
-      "path": "CODING/mySQL/지식/Index leading & trailing.md"
+      "basename": "Index 사용하는 이유 (Primary Idx, Secondary Idx)",
+      "path": "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md"
     },
     {
       "basename": "Index Sparse vs Dense",
       "path": "CODING/mySQL/지식/Index Sparse vs Dense.md"
     },
     {
-      "basename": "Index 사용하는 이유 (Primary Idx, Secondary Idx)",
-      "path": "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md"
+      "basename": "Index leading & trailing",
+      "path": "CODING/mySQL/지식/Index leading & trailing.md"
     },
     {
       "basename": "불가능한 예시들",

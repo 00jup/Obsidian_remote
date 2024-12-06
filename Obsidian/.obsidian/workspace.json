@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/지식/Index leading & trailing.md",
+                "file": "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index leading & trailing"
+              "title": "Index 사용하는 이유 (Primary Idx, Secondary Idx)"
             }
           }
         ]
@@ -194,8 +194,8 @@
   "active": "5fa31675fbae88ac",
   "lastOpenFiles": [
     "CODING/mySQL/지식/Index Sparse vs Dense.md",
-    "CODING/mySQL/지식/Index leading & trailing.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
+    "CODING/mySQL/지식/Index leading & trailing.md",
     "CODING/불가능한 예시들.md",
     "CODING/mySQL/지식",
     "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
