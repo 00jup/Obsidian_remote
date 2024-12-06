@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/불가능한 예시들.md",
+                "file": "CODING/mySQL/지식/Index leading & trailing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "불가능한 예시들"
+              "title": "Index leading & trailing"
             }
           }
         ]
@@ -193,6 +193,11 @@
   },
   "active": "5fa31675fbae88ac",
   "lastOpenFiles": [
+    "CODING/mySQL/지식/Index Sparse vs Dense.md",
+    "CODING/mySQL/지식/Index leading & trailing.md",
+    "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
+    "CODING/불가능한 예시들.md",
+    "CODING/mySQL/지식",
     "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
     "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
     "CODING/mySQL/Trigger 실행순서.md",
@@ -217,11 +222,7 @@
     "인스턴스 메소드 참조.md",
     "Coroutin Example.md",
     "Asset/Pasted image 20241120114154.png",
-    "CODING/mySQL/mysql 실행하기.md",
     "Pasted image 20241029162406.png",
-    "CODING/Spring/AutoWired.md",
-    "CODING/mySQL/원하는 database 변경하기.md",
-    "Android Studio & Intellj console font problem.md",
     "CODING/Spring",
     "CODING/Kotlin",
     "REACT"
