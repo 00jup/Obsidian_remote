@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "불가능한 예시들",
+      "path": "CODING/불가능한 예시들.md"
+    },
+    {
       "basename": "AFTER vs BEFORE TRIGGER",
       "path": "CODING/mySQL/AFTER vs BEFORE TRIGGER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "warninig",
       "path": "CODING/mySQL/warninig.md"
-    },
-    {
-      "basename": "time data type",
-      "path": "CODING/mySQL/time data type.md"
     }
   ],
   "omittedPaths": [],

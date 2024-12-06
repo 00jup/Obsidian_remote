@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
+                "file": "CODING/불가능한 예시들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AFTER vs BEFORE TRIGGER"
+              "title": "불가능한 예시들"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,10 +191,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4483b8277a6b672",
+  "active": "5fa31675fbae88ac",
   "lastOpenFiles": [
-    "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
     "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
+    "CODING/mySQL/Old New in INSERT DELETE UPDATE.md",
     "CODING/mySQL/Trigger 실행순서.md",
     "Asset/Pasted image 20241129223253.png",
     "CODING/mySQL/DBSolution.md",
