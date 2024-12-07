@@ -11,14 +11,12 @@
             "id": "24f18b124bd765ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "terminal ping option.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241029162406.png"
               },
-              "icon": "lucide-file",
-              "title": "terminal ping option"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241029162406"
             }
           }
         ]
@@ -173,6 +171,7 @@
   },
   "active": "24f18b124bd765ed",
   "lastOpenFiles": [
+    "terminal ping option.md",
     "컴퓨터 통신/terminal ping 명령어.md",
     "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
     "Java/Java DB.md",
@@ -198,7 +197,6 @@
     "Python/Python list.md",
     "Python lamda.md",
     "Python/Python 시험 대비.md",
-    "Python scope.md",
     "Asset/Screenshot 2023-10-17 at 12.46.15.png",
     "Asset/Screenshot 2023-09-15 at 15.51.42.png",
     "Asset/Pasted image 20230921155558.png",
