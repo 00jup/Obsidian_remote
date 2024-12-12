@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
+                "file": "CODING/Python/주의사항/python에서 shallow copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index 사용하는 이유 (Primary Idx, Secondary Idx)"
+              "title": "python에서 shallow copy"
             }
           }
         ]
@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,10 +192,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5fa31675fbae88ac",
+  "active": "d4483b8277a6b672",
   "lastOpenFiles": [
-    "CODING/mySQL/지식/Index Sparse vs Dense.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
+    "CODING/Python/주의사항/python에서 shallow copy.md",
+    "CODING/mySQL/지식/Index Sparse vs Dense.md",
     "CODING/mySQL/지식/Index leading & trailing.md",
     "CODING/불가능한 예시들.md",
     "CODING/mySQL/지식",
@@ -220,7 +222,6 @@
     "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md",
     "컴퓨터 통신/wireshark 검색.md",
     "인스턴스 메소드 참조.md",
-    "Coroutin Example.md",
     "Asset/Pasted image 20241120114154.png",
     "Pasted image 20241029162406.png",
     "CODING/Spring",

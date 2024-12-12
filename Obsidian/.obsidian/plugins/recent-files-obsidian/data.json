@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python에서 shallow copy",
+      "path": "CODING/Python/주의사항/python에서 shallow copy.md"
+    },
+    {
       "basename": "Index 사용하는 이유 (Primary Idx, Secondary Idx)",
       "path": "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "left join에서 특정 table 제외하고 출력하기",
       "path": "left join에서 특정 table 제외하고 출력하기.md"
-    },
-    {
-      "basename": "Relationship in SQL",
-      "path": "Relationship in SQL.md"
     }
   ],
   "omittedPaths": [],
