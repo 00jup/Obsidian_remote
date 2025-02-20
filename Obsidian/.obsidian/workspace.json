@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "python에서 shallow copy"
             }
+          },
+          {
+            "id": "d25a4627565be46c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5fa31675fbae88ac",
+  "active": "d25a4627565be46c",
   "lastOpenFiles": [
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
     "CODING/Python/주의사항/python에서 shallow copy.md",
