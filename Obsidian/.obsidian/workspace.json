@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "73406b5e53988a13",
+        "id": "215207ad2c43ba4c",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa31675fbae88ac",
+            "id": "60a1851452326cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/Python/주의사항/python에서 shallow copy.md",
+                "file": "Android Studio & Intellj console font problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python에서 shallow copy"
-            }
-          },
-          {
-            "id": "d25a4627565be46c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Android Studio & Intellj console font problem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -65,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql 실행",
+                "query": "font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,12 +80,22 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c09e60ab9549986b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,22 +191,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "d25a4627565be46c",
+  "active": "c09e60ab9549986b",
   "lastOpenFiles": [
-    "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
     "CODING/Python/주의사항/python에서 shallow copy.md",
+    "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
     "CODING/mySQL/지식/Index Sparse vs Dense.md",
     "CODING/mySQL/지식/Index leading & trailing.md",
     "CODING/불가능한 예시들.md",
