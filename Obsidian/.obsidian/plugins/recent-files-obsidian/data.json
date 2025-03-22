@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Android Studio & Intellj console font problem",
+      "path": "Android Studio & Intellj console font problem.md"
+    },
+    {
+      "basename": "Flutter 시작",
+      "path": "CODING/Flutter/Flutter 시작.md"
+    },
+    {
       "basename": "python에서 shallow copy",
       "path": "CODING/Python/주의사항/python에서 shallow copy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "만들고 실행",
       "path": "CODING/mySQL/만들고 실행.md"
-    },
-    {
-      "basename": "SUBQUERY로 빠르게 계산하기",
-      "path": "SUBQUERY로 빠르게 계산하기.md"
-    },
-    {
-      "basename": "left join에서 특정 table 제외하고 출력하기",
-      "path": "left join에서 특정 table 제외하고 출력하기.md"
     }
   ],
   "omittedPaths": [],

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "215207ad2c43ba4c",
+        "id": "f23b46d2e3dcb6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "60a1851452326cfb",
+            "id": "2f075200637bf6ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android Studio & Intellj console font problem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Android Studio & Intellj console font problem"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "폰트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +76,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -95,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,14 +193,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c09e60ab9549986b",
+  "active": "2f075200637bf6ee",
   "lastOpenFiles": [
+    "Android Studio & Intellj console font problem.md",
+    "CODING/Flutter/Flutter 시작.md",
     "CODING/Python/주의사항/python에서 shallow copy.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
     "CODING/mySQL/지식/Index Sparse vs Dense.md",
@@ -231,8 +229,6 @@
     "컴퓨터 통신/terminal ping 명령어.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
     "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md",
-    "컴퓨터 통신/wireshark 검색.md",
-    "인스턴스 메소드 참조.md",
     "Asset/Pasted image 20241120114154.png",
     "Pasted image 20241029162406.png",
     "CODING/Spring",
