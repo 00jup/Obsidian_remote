@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Studio & Intellj console font problem.md",
+                "file": "Swift/Swift DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Android Studio & Intellj console font problem"
+              "title": "Swift DB"
+            }
+          },
+          {
+            "id": "b48ed9a1532de3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVVM in swift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVVM in swift"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,12 +123,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb850739262b4383",
@@ -218,9 +232,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4483b8277a6b672",
+  "active": "b48ed9a1532de3c4",
   "lastOpenFiles": [
+    "Swift/Swift DB.md",
+    "CODING/Python/import 되지 않을 때.md",
+    "MVVM in swift.md",
     "Android Studio & Intellj console font problem.md",
+    "Swift",
     "CODING/Flutter/Flutter 시작.md",
     "CODING/Python/주의사항/python에서 shallow copy.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
@@ -245,9 +263,6 @@
     "terminal ping option.md",
     "CODING/mySQL/MySQL DB.md",
     "CODING/just 지식/Coroutine.md",
-    "컴퓨터 통신/terminal ping 명령어.md",
-    "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
-    "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md",
     "Asset/Pasted image 20241120114154.png",
     "Pasted image 20241029162406.png",
     "CODING/Spring",
