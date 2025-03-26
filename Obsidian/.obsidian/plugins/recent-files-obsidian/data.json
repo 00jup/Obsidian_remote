@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "brew",
+      "path": "CODING/brew.md"
+    },
+    {
       "basename": "MVVM in swift",
       "path": "MVVM in swift.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "data type",
       "path": "CODING/mySQL/data type.md"
-    },
-    {
-      "basename": "COUNT",
-      "path": "CODING/mySQL/COUNT.md"
     }
   ],
   "omittedPaths": [],
