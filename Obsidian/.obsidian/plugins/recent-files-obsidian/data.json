@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift ? ?? diff",
-      "path": "Swift ? ?? diff.md"
+      "basename": "Swift switch",
+      "path": "Swift switch.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Swift nil",
+      "path": "Swift nil.md"
+    },
+    {
+      "basename": "Swift ? ?? diff",
+      "path": "Swift ? ?? diff.md"
     },
     {
       "basename": "Swift Dictionary",
@@ -191,14 +199,6 @@
     {
       "basename": "GROUP BY",
       "path": "CODING/mySQL/GROUP BY.md"
-    },
-    {
-      "basename": "Distinct",
-      "path": "CODING/mySQL/Distinct.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "CODING/mySQL/DELETE.md"
     }
   ],
   "omittedPaths": [],
