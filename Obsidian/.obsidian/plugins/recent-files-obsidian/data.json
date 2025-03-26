@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Swift Dictionary",
+      "path": "Swift Dictionary.md"
+    },
+    {
+      "basename": "Swift DB",
+      "path": "Swift/Swift DB.md"
+    },
+    {
       "basename": "brew",
       "path": "CODING/brew.md"
     },
     {
       "basename": "MVVM in swift",
       "path": "MVVM in swift.md"
-    },
-    {
-      "basename": "Swift DB",
-      "path": "Swift/Swift DB.md"
     },
     {
       "basename": "import 되지 않을 때",
@@ -195,10 +199,6 @@
     {
       "basename": "database 살펴보기",
       "path": "CODING/mySQL/database 살펴보기.md"
-    },
-    {
-      "basename": "data type",
-      "path": "CODING/mySQL/data type.md"
     }
   ],
   "omittedPaths": [],
