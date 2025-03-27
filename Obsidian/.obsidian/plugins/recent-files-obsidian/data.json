@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift closure scope",
-      "path": "Swift closure scope.md"
+      "basename": "no argument label",
+      "path": "no argument label.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Swift closure scope",
+      "path": "Swift closure scope.md"
     },
     {
       "basename": "Swift for",
@@ -195,10 +199,6 @@
     {
       "basename": "MAX로 정렬하기",
       "path": "CODING/mySQL/MAX로 정렬하기.md"
-    },
-    {
-      "basename": "LIKE",
-      "path": "CODING/mySQL/LIKE.md"
     }
   ],
   "omittedPaths": [],
