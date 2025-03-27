@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift for",
-      "path": "Swift for.md"
+      "basename": "Swift closure scope",
+      "path": "Swift closure scope.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Swift for",
+      "path": "Swift for.md"
     },
     {
       "basename": "Swift switch",
@@ -195,10 +199,6 @@
     {
       "basename": "LIKE",
       "path": "CODING/mySQL/LIKE.md"
-    },
-    {
-      "basename": "INSERT(CRUD에서 create 부분)",
-      "path": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
     }
   ],
   "omittedPaths": [],
