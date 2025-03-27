@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "lambda in Swift.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING/Kotlin/equals ignoreCase option.md",
+                "file": "lambda in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for equals ignoreCase option"
+              "title": "Backlinks for lambda in Swift"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING/Kotlin/equals ignoreCase option.md",
+                "file": "lambda in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from equals ignoreCase option"
+              "title": "Outgoing links from lambda in Swift"
             }
           },
           {
@@ -262,7 +262,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -274,10 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING/Spring/AutoWired.md"
+                "file": "lambda in Swift.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AutoWired"
+              "title": "Outline of lambda in Swift"
             }
           },
           {
@@ -295,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
