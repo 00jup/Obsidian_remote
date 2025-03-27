@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "no argument label",
-      "path": "no argument label.md"
+      "basename": "lambda in Swift",
+      "path": "lambda in Swift.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "no argument label",
+      "path": "no argument label.md"
     },
     {
       "basename": "Swift closure scope",
@@ -195,10 +199,6 @@
     {
       "basename": "VIEW",
       "path": "VIEW.md"
-    },
-    {
-      "basename": "MAX로 정렬하기",
-      "path": "CODING/mySQL/MAX로 정렬하기.md"
     }
   ],
   "omittedPaths": [],
