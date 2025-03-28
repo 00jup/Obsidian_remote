@@ -1,64 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "deinit in swift",
-      "path": "deinit in swift.md"
+      "basename": "python의 repr special function 같은 것들",
+      "path": "python의 repr special function 같은 것들.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
     {
-      "basename": "Value Types vs Reference Types in swift",
-      "path": "Value Types vs Reference Types in swift.md"
-    },
-    {
-      "basename": "omit in Swift",
-      "path": "omit in Swift.md"
-    },
-    {
-      "basename": "lambda in Swift",
-      "path": "lambda in Swift.md"
-    },
-    {
-      "basename": "no argument label",
-      "path": "no argument label.md"
-    },
-    {
-      "basename": "Swift closure scope",
-      "path": "Swift closure scope.md"
-    },
-    {
-      "basename": "Swift for",
-      "path": "Swift for.md"
-    },
-    {
-      "basename": "Swift switch",
-      "path": "Swift switch.md"
-    },
-    {
-      "basename": "Swift nil",
-      "path": "Swift nil.md"
+      "basename": "brew",
+      "path": "CODING/brew.md"
     },
     {
       "basename": "Swift ? ?? diff",
       "path": "Swift ? ?? diff.md"
     },
     {
-      "basename": "Swift Dictionary",
-      "path": "Swift Dictionary.md"
+      "basename": "Swift nil",
+      "path": "Swift nil.md"
     },
     {
-      "basename": "brew",
-      "path": "CODING/brew.md"
+      "basename": "Swift for",
+      "path": "Swift for.md"
     },
     {
-      "basename": "MVVM in swift",
-      "path": "MVVM in swift.md"
+      "basename": "no argument label",
+      "path": "no argument label.md"
+    },
+    {
+      "basename": "lambda in Swift",
+      "path": "lambda in Swift.md"
+    },
+    {
+      "basename": "omit in Swift",
+      "path": "omit in Swift.md"
+    },
+    {
+      "basename": "Value Types vs Reference Types in swift",
+      "path": "Value Types vs Reference Types in swift.md"
     },
     {
       "basename": "import 되지 않을 때",
       "path": "CODING/Python/import 되지 않을 때.md"
+    },
+    {
+      "basename": "deinit in swift",
+      "path": "deinit in swift.md"
+    },
+    {
+      "basename": "Swift closure scope",
+      "path": "Swift closure scope.md"
+    },
+    {
+      "basename": "Swift switch",
+      "path": "Swift switch.md"
+    },
+    {
+      "basename": "Swift Dictionary",
+      "path": "Swift Dictionary.md"
+    },
+    {
+      "basename": "MVVM in swift",
+      "path": "MVVM in swift.md"
     },
     {
       "basename": "Android Studio & Intellj console font problem",
@@ -195,10 +199,6 @@
     {
       "basename": "Python traversal",
       "path": "CODING/Python/Python traversal.md"
-    },
-    {
-      "basename": "Python pandas",
-      "path": "CODING/Python/Python pandas.md"
     }
   ],
   "omittedPaths": [],
