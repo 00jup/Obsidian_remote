@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "debug in swift",
+      "path": "debug in swift.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DataFrame index, columns 정리",
       "path": "CODING/Python/DataFrame index, columns 정리.md"
-    },
-    {
-      "basename": "Python traversal",
-      "path": "CODING/Python/Python traversal.md"
     }
   ],
   "omittedPaths": [],
