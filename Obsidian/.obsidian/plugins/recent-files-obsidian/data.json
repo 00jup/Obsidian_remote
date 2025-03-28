@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Value Types vs Reference Types in swift",
-      "path": "Value Types vs Reference Types in swift.md"
+      "basename": "deinit in swift",
+      "path": "deinit in swift.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Value Types vs Reference Types in swift",
+      "path": "Value Types vs Reference Types in swift.md"
     },
     {
       "basename": "omit in Swift",
@@ -195,10 +199,6 @@
     {
       "basename": "Python pandas",
       "path": "CODING/Python/Python pandas.md"
-    },
-    {
-      "basename": "Python iloc vs loc",
-      "path": "CODING/Python/Python iloc vs loc.md"
     }
   ],
   "omittedPaths": [],
