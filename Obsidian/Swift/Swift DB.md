@@ -8,6 +8,6 @@
 [[Swift closure scope]]
 [[no argument label]]
 [[lambda in Swift]]
-
+[[omit in Swift]]
 
 [[MVVM in swift]]

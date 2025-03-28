@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "lambda in Swift",
-      "path": "lambda in Swift.md"
+      "basename": "omit in Swift",
+      "path": "omit in Swift.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "lambda in Swift",
+      "path": "lambda in Swift.md"
     },
     {
       "basename": "no argument label",
@@ -195,10 +199,6 @@
     {
       "basename": "Python DB",
       "path": "CODING/Python/Python DB.md"
-    },
-    {
-      "basename": "VIEW",
-      "path": "VIEW.md"
     }
   ],
   "omittedPaths": [],
