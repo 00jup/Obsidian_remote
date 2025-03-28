@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "debug in swift.md",
-                "mode": "source",
+                "file": "lambda in Swift.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "debug in swift"
+              "title": "lambda in Swift"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "debug in swift.md",
+                "file": "lambda in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for debug in swift"
+              "title": "Backlinks for lambda in Swift"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "debug in swift.md",
+                "file": "lambda in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from debug in swift"
+              "title": "Outgoing links from lambda in Swift"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "debug in swift.md",
+                "file": "lambda in Swift.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of debug in swift"
+              "title": "Outline of lambda in Swift"
             }
           },
           {
@@ -265,8 +265,8 @@
   },
   "active": "809f1f93768998b3",
   "lastOpenFiles": [
-    "debug in swift.md",
     "Swift/Swift DB.md",
+    "debug in swift.md",
     "python의 repr special function 같은 것들.md",
     "CODING/brew.md",
     "Swift ? ?? diff.md",
