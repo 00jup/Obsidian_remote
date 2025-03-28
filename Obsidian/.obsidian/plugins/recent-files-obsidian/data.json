@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "omit in Swift",
-      "path": "omit in Swift.md"
+      "basename": "Value Types vs Reference Types in swift",
+      "path": "Value Types vs Reference Types in swift.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "omit in Swift",
+      "path": "omit in Swift.md"
     },
     {
       "basename": "lambda in Swift",
@@ -195,10 +199,6 @@
     {
       "basename": "Python iloc vs loc",
       "path": "CODING/Python/Python iloc vs loc.md"
-    },
-    {
-      "basename": "Python DB",
-      "path": "CODING/Python/Python DB.md"
     }
   ],
   "omittedPaths": [],
