@@ -77,7 +77,8 @@
               "title": "python의 repr special function 같은 것들"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swift/Swift DB.md",
+                "file": "python의 repr special function 같은 것들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Swift DB"
+              "title": "Backlinks for python의 repr special function 같은 것들"
             }
           },
           {
@@ -189,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swift/Swift DB.md",
+                "file": "python의 repr special function 같은 것들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Swift DB"
+              "title": "Outgoing links from python의 repr special function 같은 것들"
             }
           },
           {
@@ -218,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift/Swift DB.md",
+                "file": "python의 repr special function 같은 것들.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swift DB"
+              "title": "Outline of python의 repr special function 같은 것들"
             }
           },
           {
@@ -262,10 +263,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b48ed9a1532de3c4",
+  "active": "e7ce332c207c26e4",
   "lastOpenFiles": [
-    "lambda in Swift.md",
     "Swift/Swift DB.md",
+    "lambda in Swift.md",
     "debug in swift.md",
     "python의 repr special function 같은 것들.md",
     "CODING/brew.md",
