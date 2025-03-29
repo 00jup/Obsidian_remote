@@ -119,8 +119,7 @@
               "title": "python의 repr special function 같은 것들"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "focused state.md",
+                "file": "Swift/Swift DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for focused state"
+              "title": "Backlinks for Swift DB"
             }
           },
           {
@@ -233,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "focused state.md",
+                "file": "Swift/Swift DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from focused state"
+              "title": "Outgoing links from Swift DB"
             }
           },
           {
@@ -262,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "focused state.md",
+                "file": "Swift/Swift DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of focused state"
+              "title": "Outline of Swift DB"
             }
           },
           {
@@ -307,7 +306,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "520609ea3a6a3a09",
+  "active": "b48ed9a1532de3c4",
   "lastOpenFiles": [
     "focused state.md",
     "Swift/Swift DB.md",

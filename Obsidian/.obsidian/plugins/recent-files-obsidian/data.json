@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "focused state",
-      "path": "focused state.md"
-    },
-    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "focused state",
+      "path": "focused state.md"
     },
     {
       "basename": "Diff of @State, @Binding",
