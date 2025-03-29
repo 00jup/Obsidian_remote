@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Diff of @State, @Binding",
-      "path": "Diff of @State, @Binding.md"
+      "basename": "focused state",
+      "path": "focused state.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Diff of @State, @Binding",
+      "path": "Diff of @State, @Binding.md"
     },
     {
       "basename": "LazyStack vs Stack in Swift",
@@ -195,10 +199,6 @@
     {
       "basename": "pipeline vs &&",
       "path": "CODING/just 지식/pipeline vs &&.md"
-    },
-    {
-      "basename": "np.floor",
-      "path": "CODING/Python/np.floor.md"
     }
   ],
   "omittedPaths": [],

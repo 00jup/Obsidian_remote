@@ -17,6 +17,7 @@
 ## Swift UI
 [[LazyStack vs Stack in Swift]]
 [[Diff of @State, @Binding]]
+[[focused state]]
 
 
 [[MVVM in swift]]
