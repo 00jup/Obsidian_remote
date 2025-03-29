@@ -4,119 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f23b46d2e3dcb6b3",
+        "id": "ef276da8cb927557",
         "type": "tabs",
         "children": [
           {
-            "id": "b48ed9a1532de3c4",
+            "id": "2e5a814a9c317ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/Swift DB.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Swift DB"
-            }
-          },
-          {
-            "id": "520609ea3a6a3a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "focused state.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "focused state"
-            }
-          },
-          {
-            "id": "cd0bf6a03abe92cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diff of @State, @Binding.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diff of @State, @Binding"
-            }
-          },
-          {
-            "id": "c17aeb94b0de67d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LazyStack vs Stack in Swift.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LazyStack vs Stack in Swift"
-            }
-          },
-          {
-            "id": "809f1f93768998b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lambda in Swift.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lambda in Swift"
-            }
-          },
-          {
-            "id": "35358573a37d403f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python의 repr special function 같은 것들.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python의 repr special function 같은 것들"
-            }
-          },
-          {
-            "id": "2179ae5baaa3f94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python의 repr special function 같은 것들.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python의 repr special function 같은 것들"
-            }
-          },
-          {
-            "id": "e7ce332c207c26e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python의 repr special function 같은 것들.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python의 repr special function 같은 것들"
+              "title": "New tab"
             }
           }
         ]
@@ -213,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swift/Swift DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Swift DB"
+              "title": "Backlinks"
             }
           },
           {
@@ -232,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swift/Swift DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Swift DB"
+              "title": "Outgoing links"
             }
           },
           {
@@ -261,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift/Swift DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swift DB"
+              "title": "Outline"
             }
           },
           {
@@ -306,14 +201,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b48ed9a1532de3c4",
+  "active": "2e5a814a9c317ba0",
   "lastOpenFiles": [
-    "focused state.md",
-    "Swift/Swift DB.md",
-    "Diff of @State, @Binding.md",
-    "LazyStack vs Stack in Swift.md",
     "python의 repr special function 같은 것들.md",
     "lambda in Swift.md",
+    "LazyStack vs Stack in Swift.md",
+    "Diff of @State, @Binding.md",
+    "focused state.md",
+    "Swift/Swift DB.md",
+    "SwiftUI에서 포커스와 키보드 관리하기.md",
     "debug in swift.md",
     "CODING/brew.md",
     "Swift ? ?? diff.md",
@@ -334,7 +230,6 @@
     "CODING/Python/주의사항/python에서 shallow copy.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
     "CODING/mySQL/지식/Index Sparse vs Dense.md",
-    "CODING/mySQL/지식/Index leading & trailing.md",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",
     "Asset/Pasted image 20241120114154.png",

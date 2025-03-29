@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift DB",
-      "path": "Swift/Swift DB.md"
-    },
-    {
-      "basename": "focused state",
-      "path": "focused state.md"
-    },
-    {
-      "basename": "Diff of @State, @Binding",
-      "path": "Diff of @State, @Binding.md"
-    },
-    {
-      "basename": "LazyStack vs Stack in Swift",
-      "path": "LazyStack vs Stack in Swift.md"
-    },
-    {
       "basename": "python의 repr special function 같은 것들",
       "path": "python의 repr special function 같은 것들.md"
     },
     {
       "basename": "lambda in Swift",
       "path": "lambda in Swift.md"
+    },
+    {
+      "basename": "LazyStack vs Stack in Swift",
+      "path": "LazyStack vs Stack in Swift.md"
+    },
+    {
+      "basename": "Diff of @State, @Binding",
+      "path": "Diff of @State, @Binding.md"
+    },
+    {
+      "basename": "focused state",
+      "path": "focused state.md"
+    },
+    {
+      "basename": "Swift DB",
+      "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "SwiftUI에서 포커스와 키보드 관리하기",
+      "path": "SwiftUI에서 포커스와 키보드 관리하기.md"
     },
     {
       "basename": "debug in swift",
@@ -195,10 +199,6 @@
     {
       "basename": "Python tkinter",
       "path": "CODING/Python/Python tkinter.md"
-    },
-    {
-      "basename": "pipeline vs &&",
-      "path": "CODING/just 지식/pipeline vs &&.md"
     }
   ],
   "omittedPaths": [],
