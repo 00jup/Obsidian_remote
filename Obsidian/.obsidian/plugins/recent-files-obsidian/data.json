@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diff of @State, @Binding",
+      "path": "Diff of @State, @Binding.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "np.floor",
       "path": "CODING/Python/np.floor.md"
-    },
-    {
-      "basename": "isin 사용법",
-      "path": "CODING/Python/isin 사용법.md"
     }
   ],
   "omittedPaths": [],

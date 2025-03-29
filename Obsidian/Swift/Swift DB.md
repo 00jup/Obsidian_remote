@@ -16,7 +16,7 @@
 
 ## Swift UI
 [[LazyStack vs Stack in Swift]]
-[[@State, @Binding]]
+[[Diff of @State, @Binding]]
 
 
 [[MVVM in swift]]
