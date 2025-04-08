@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef276da8cb927557",
+        "id": "a677dbd5d6045ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "2e5a814a9c317ba0",
+            "id": "0f08a8fed94497cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
