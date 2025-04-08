@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/just 지식/Coroutine.md",
+                "file": "CODING/Kotlin/coroutine으로 비동기 실행.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coroutine"
+              "title": "coroutine으로 비동기 실행"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비동기",
+                "query": "async",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,8 @@
   },
   "active": "49550fe0e9df78c9",
   "lastOpenFiles": [
-    "Coroutin Example.md",
     "CODING/just 지식/Coroutine.md",
+    "Coroutin Example.md",
     "omit in Swift.md",
     "Swift/Swift DB.md",
     "lambda in Swift.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "coroutine으로 비동기 실행",
+      "path": "CODING/Kotlin/coroutine으로 비동기 실행.md"
+    },
+    {
       "basename": "Coroutine",
       "path": "CODING/just 지식/Coroutine.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ALTER TABLE column 수정하기",
       "path": "ALTER TABLE column 수정하기.md"
-    },
-    {
-      "basename": "Terminal",
-      "path": "CODING/just 지식/Terminal.md"
     }
   ],
   "omittedPaths": [],
