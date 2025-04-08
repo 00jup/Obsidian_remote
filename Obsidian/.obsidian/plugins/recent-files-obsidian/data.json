@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Swift DB",
+      "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "MVVM in swift",
+      "path": "MVVM in swift.md"
+    },
+    {
+      "basename": "lambda in Swift",
+      "path": "lambda in Swift.md"
+    },
+    {
+      "basename": "debug in swift",
+      "path": "debug in swift.md"
+    },
+    {
+      "basename": "python의 repr special function 같은 것들",
+      "path": "python의 repr special function 같은 것들.md"
+    },
+    {
+      "basename": "Value Types vs Reference Types in swift",
+      "path": "Value Types vs Reference Types in swift.md"
+    },
+    {
+      "basename": "omit in Swift",
+      "path": "omit in Swift.md"
+    },
+    {
       "basename": "coroutine으로 비동기 실행",
       "path": "CODING/Kotlin/coroutine으로 비동기 실행.md"
     },
@@ -11,18 +39,6 @@
     {
       "basename": "Coroutin Example",
       "path": "Coroutin Example.md"
-    },
-    {
-      "basename": "omit in Swift",
-      "path": "omit in Swift.md"
-    },
-    {
-      "basename": "Swift DB",
-      "path": "Swift/Swift DB.md"
-    },
-    {
-      "basename": "lambda in Swift",
-      "path": "lambda in Swift.md"
     },
     {
       "basename": "no argument label",
@@ -57,10 +73,6 @@
       "path": "CODING/Python/import 되지 않을 때.md"
     },
     {
-      "basename": "python의 repr special function 같은 것들",
-      "path": "python의 repr special function 같은 것들.md"
-    },
-    {
       "basename": "LazyStack vs Stack in Swift",
       "path": "LazyStack vs Stack in Swift.md"
     },
@@ -77,16 +89,8 @@
       "path": "SwiftUI에서 포커스와 키보드 관리하기.md"
     },
     {
-      "basename": "debug in swift",
-      "path": "debug in swift.md"
-    },
-    {
       "basename": "brew",
       "path": "CODING/brew.md"
-    },
-    {
-      "basename": "Value Types vs Reference Types in swift",
-      "path": "Value Types vs Reference Types in swift.md"
     },
     {
       "basename": "deinit in swift",
@@ -95,10 +99,6 @@
     {
       "basename": "Swift closure scope",
       "path": "Swift closure scope.md"
-    },
-    {
-      "basename": "MVVM in swift",
-      "path": "MVVM in swift.md"
     },
     {
       "basename": "Android Studio & Intellj console font problem",
