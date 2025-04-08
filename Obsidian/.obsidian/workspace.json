@@ -11,10 +11,14 @@
             "id": "0f08a8fed94497cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lambda in Swift.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lambda in Swift"
             }
           }
         ]
@@ -200,8 +204,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dadbea09a0dc7b23",
+  "active": "0f08a8fed94497cc",
   "lastOpenFiles": [
+    "Swift/Swift DB.md",
+    "no argument label.md",
+    "Swift for.md",
+    "Swift switch.md",
+    "Swift nil.md",
+    "Swift ? ?? diff.md",
+    "Swift Dictionary.md",
     "CODING/Python/Python DB.md",
     "CODING/Python/import 되지 않을 때.md",
     "python의 repr special function 같은 것들.md",
@@ -209,20 +220,13 @@
     "LazyStack vs Stack in Swift.md",
     "Diff of @State, @Binding.md",
     "focused state.md",
-    "Swift/Swift DB.md",
     "SwiftUI에서 포커스와 키보드 관리하기.md",
     "debug in swift.md",
     "CODING/brew.md",
-    "Swift ? ?? diff.md",
-    "Swift nil.md",
-    "Swift for.md",
-    "no argument label.md",
     "omit in Swift.md",
     "Value Types vs Reference Types in swift.md",
     "deinit in swift.md",
     "Swift closure scope.md",
-    "Swift switch.md",
-    "Swift Dictionary.md",
     "MVVM in swift.md",
     "Android Studio & Intellj console font problem.md",
     "Swift",

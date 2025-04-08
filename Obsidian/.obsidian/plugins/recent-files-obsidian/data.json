@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "lambda in Swift",
+      "path": "lambda in Swift.md"
+    },
+    {
+      "basename": "Swift DB",
+      "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "no argument label",
+      "path": "no argument label.md"
+    },
+    {
+      "basename": "Swift for",
+      "path": "Swift for.md"
+    },
+    {
+      "basename": "Swift switch",
+      "path": "Swift switch.md"
+    },
+    {
+      "basename": "Swift nil",
+      "path": "Swift nil.md"
+    },
+    {
+      "basename": "Swift ? ?? diff",
+      "path": "Swift ? ?? diff.md"
+    },
+    {
+      "basename": "Swift Dictionary",
+      "path": "Swift Dictionary.md"
+    },
+    {
       "basename": "Python DB",
       "path": "CODING/Python/Python DB.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "python의 repr special function 같은 것들",
       "path": "python의 repr special function 같은 것들.md"
-    },
-    {
-      "basename": "lambda in Swift",
-      "path": "lambda in Swift.md"
     },
     {
       "basename": "LazyStack vs Stack in Swift",
@@ -29,10 +57,6 @@
       "path": "focused state.md"
     },
     {
-      "basename": "Swift DB",
-      "path": "Swift/Swift DB.md"
-    },
-    {
       "basename": "SwiftUI에서 포커스와 키보드 관리하기",
       "path": "SwiftUI에서 포커스와 키보드 관리하기.md"
     },
@@ -43,22 +67,6 @@
     {
       "basename": "brew",
       "path": "CODING/brew.md"
-    },
-    {
-      "basename": "Swift ? ?? diff",
-      "path": "Swift ? ?? diff.md"
-    },
-    {
-      "basename": "Swift nil",
-      "path": "Swift nil.md"
-    },
-    {
-      "basename": "Swift for",
-      "path": "Swift for.md"
-    },
-    {
-      "basename": "no argument label",
-      "path": "no argument label.md"
     },
     {
       "basename": "omit in Swift",
@@ -75,14 +83,6 @@
     {
       "basename": "Swift closure scope",
       "path": "Swift closure scope.md"
-    },
-    {
-      "basename": "Swift switch",
-      "path": "Swift switch.md"
-    },
-    {
-      "basename": "Swift Dictionary",
-      "path": "Swift Dictionary.md"
     },
     {
       "basename": "MVVM in swift",
