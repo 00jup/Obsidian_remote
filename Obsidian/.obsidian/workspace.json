@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"excalidraw-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,13 +90,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb850739262b4383",
@@ -202,8 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4483b8277a6b672",
+  "active": "dadbea09a0dc7b23",
   "lastOpenFiles": [
+    "CODING/Python/Python DB.md",
+    "CODING/Python/import 되지 않을 때.md",
     "python의 repr special function 같은 것들.md",
     "lambda in Swift.md",
     "LazyStack vs Stack in Swift.md",
@@ -219,7 +219,6 @@
     "no argument label.md",
     "omit in Swift.md",
     "Value Types vs Reference Types in swift.md",
-    "CODING/Python/import 되지 않을 때.md",
     "deinit in swift.md",
     "Swift closure scope.md",
     "Swift switch.md",
@@ -230,7 +229,6 @@
     "CODING/Flutter/Flutter 시작.md",
     "CODING/Python/주의사항/python에서 shallow copy.md",
     "CODING/mySQL/지식/Index 사용하는 이유 (Primary Idx, Secondary Idx).md",
-    "CODING/mySQL/지식/Index Sparse vs Dense.md",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",
     "Asset/Pasted image 20241120114154.png",

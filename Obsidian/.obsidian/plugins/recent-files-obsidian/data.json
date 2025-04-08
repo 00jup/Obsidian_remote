@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python DB",
+      "path": "CODING/Python/Python DB.md"
+    },
+    {
+      "basename": "import 되지 않을 때",
+      "path": "CODING/Python/import 되지 않을 때.md"
+    },
+    {
       "basename": "python의 repr special function 같은 것들",
       "path": "python의 repr special function 같은 것들.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Value Types vs Reference Types in swift",
       "path": "Value Types vs Reference Types in swift.md"
-    },
-    {
-      "basename": "import 되지 않을 때",
-      "path": "CODING/Python/import 되지 않을 때.md"
     },
     {
       "basename": "deinit in swift",
@@ -195,10 +199,6 @@
     {
       "basename": "Terminal",
       "path": "CODING/just 지식/Terminal.md"
-    },
-    {
-      "basename": "Python tkinter",
-      "path": "CODING/Python/Python tkinter.md"
     }
   ],
   "omittedPaths": [],
