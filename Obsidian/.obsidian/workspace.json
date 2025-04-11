@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,7 +219,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f08a8fed94497cc",
+  "active": "d4483b8277a6b672",
   "lastOpenFiles": [
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
     "Swift/Swift DB.md",
