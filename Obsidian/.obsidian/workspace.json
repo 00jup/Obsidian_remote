@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Previewable 사용하는 이유.md",
+                "file": "@Previewable을 사용하는 이유.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Previewable 사용하는 이유"
+              "title": "@Previewable을 사용하는 이유"
             }
           },
           {
@@ -277,8 +277,8 @@
   },
   "active": "6dd87c9d05b4ad1c",
   "lastOpenFiles": [
-    "@Previewable 사용하는 이유.md",
     "Swift/Swift DB.md",
+    "@Previewable을 사용하는 이유.md",
     "UUID.md",
     "컴퓨터 통신/wireshark 검색.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",

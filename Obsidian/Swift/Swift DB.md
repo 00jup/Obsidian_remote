@@ -24,4 +24,4 @@
 
 [[MVVM in swift]]
 [[UUID]]
-[[@Previewable 사용하는 이유]]
+[[@Previewable을 사용하는 이유]]
