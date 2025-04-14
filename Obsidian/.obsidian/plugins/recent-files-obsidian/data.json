@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "@Previewable을 사용하는 이유",
-      "path": "@Previewable을 사용하는 이유.md"
+      "basename": "VStack",
+      "path": "VStack.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "SwiftUI에서 protocol",
+      "path": "SwiftUI에서 protocol.md"
+    },
+    {
+      "basename": "@Previewable을 사용하는 이유",
+      "path": "@Previewable을 사용하는 이유.md"
     },
     {
       "basename": "UUID",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20241029162406",
       "path": "Pasted image 20241029162406.png"
-    },
-    {
-      "basename": "AutoWired",
-      "path": "CODING/Spring/AutoWired.md"
-    },
-    {
-      "basename": "equals ignoreCase option",
-      "path": "CODING/Kotlin/equals ignoreCase option.md"
     }
   ],
   "omittedPaths": [],
