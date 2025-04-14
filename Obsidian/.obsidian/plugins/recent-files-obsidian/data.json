@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "UUID",
-      "path": "UUID.md"
+      "basename": "@Previewable 사용하는 이유",
+      "path": "@Previewable 사용하는 이유.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "UUID",
+      "path": "UUID.md"
     },
     {
       "basename": "wireshark 검색",
@@ -195,10 +199,6 @@
     {
       "basename": "equals ignoreCase option",
       "path": "CODING/Kotlin/equals ignoreCase option.md"
-    },
-    {
-      "basename": "원하는 database 변경하기",
-      "path": "CODING/mySQL/원하는 database 변경하기.md"
     }
   ],
   "omittedPaths": [],

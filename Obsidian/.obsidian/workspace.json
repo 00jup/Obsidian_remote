@@ -22,6 +22,48 @@
             }
           },
           {
+            "id": "25179be562fb82f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/Swift DB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swift DB"
+            }
+          },
+          {
+            "id": "6dd87c9d05b4ad1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Previewable 사용하는 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@Previewable 사용하는 이유"
+            }
+          },
+          {
+            "id": "53450ba4881687b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/Swift DB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swift DB"
+            }
+          },
+          {
             "id": "137e72d12297c165",
             "type": "leaf",
             "state": {
@@ -50,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,10 +275,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "137e72d12297c165",
+  "active": "6dd87c9d05b4ad1c",
   "lastOpenFiles": [
-    "UUID.md",
+    "@Previewable 사용하는 이유.md",
     "Swift/Swift DB.md",
+    "UUID.md",
     "컴퓨터 통신/wireshark 검색.md",
     "컴퓨터 통신/wireshark Terminal 실행 명령어.md",
     "MVVM in swift.md",
@@ -260,7 +303,6 @@
     "Diff of @State, @Binding.md",
     "focused state.md",
     "SwiftUI에서 포커스와 키보드 관리하기.md",
-    "CODING/brew.md",
     "Swift",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",
