@@ -15,6 +15,8 @@
 [[deinit in swift]]
 [[python의 repr special function 같은 것들]]
 [[debug in swift]]
+[[enum 가져다 쓰기]]
+
 
 ## Swift UI
 [[LazyStack vs Stack in Swift]]
@@ -27,3 +29,5 @@
 [[@Previewable을 사용하는 이유]]
 [[SwiftUI에서 protocol]]
 [[VStack]]
+
+

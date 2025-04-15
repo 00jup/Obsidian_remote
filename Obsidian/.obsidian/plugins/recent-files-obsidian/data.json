@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "VStack",
-      "path": "VStack.md"
-    },
-    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "enum 가져다 쓰기",
+      "path": "enum 가져다 쓰기.md"
+    },
+    {
+      "basename": "VStack",
+      "path": "VStack.md"
     },
     {
       "basename": "SwiftUI에서 protocol",
@@ -195,10 +199,6 @@
     {
       "basename": "mysql 실행하기",
       "path": "CODING/mySQL/mysql 실행하기.md"
-    },
-    {
-      "basename": "Pasted image 20241029162406",
-      "path": "Pasted image 20241029162406.png"
     }
   ],
   "omittedPaths": [],
