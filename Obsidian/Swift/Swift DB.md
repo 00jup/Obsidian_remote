@@ -18,7 +18,7 @@
 [[enum 가져다 쓰기]]
 [[enum에 대한 설명]]
 
-[[fun, struct, cla]]
+[[fun, struct, class, enum 뒤에 오는 콜론들의 의미]]
 
 ## Swift UI
 [[LazyStack vs Stack in Swift]]

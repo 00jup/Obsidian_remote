@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
+      "path": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "하드웨어 MAC 주소 확인하는 법",
       "path": "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md"
-    },
-    {
-      "basename": "인스턴스 메소드 참조",
-      "path": "인스턴스 메소드 참조.md"
     }
   ],
   "omittedPaths": [],

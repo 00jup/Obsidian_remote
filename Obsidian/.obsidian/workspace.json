@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Swift DB"
             }
+          },
+          {
+            "id": "41fa8e5f742ab808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fun, struct, class, enum 뒤에 오는 콜론들의 의미"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift/Swift DB.md",
+                "file": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swift DB"
+              "title": "Outline of fun, struct, class, enum 뒤에 오는 콜론들의 의미"
             }
           },
           {
@@ -204,10 +219,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25179be562fb82f6",
+  "active": "41fa8e5f742ab808",
   "lastOpenFiles": [
-    "enum 정리 문서.md",
+    "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
     "Swift/Swift DB.md",
+    "enum 정리 문서.md",
     "enum 가져다 쓰기.md",
     "VStack.md",
     "SwiftUI에서 protocol.md",
@@ -231,7 +247,6 @@
     "Swift ? ?? diff.md",
     "Swift Dictionary.md",
     "CODING/Python/Python DB.md",
-    "CODING/Python/import 되지 않을 때.md",
     "Swift",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",
