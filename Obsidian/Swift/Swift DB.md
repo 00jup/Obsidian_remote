@@ -16,7 +16,7 @@
 [[python의 repr special function 같은 것들]]
 [[debug in swift]]
 [[enum 가져다 쓰기]]
-
+[[enum ]]
 
 ## Swift UI
 [[LazyStack vs Stack in Swift]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "enum 정리 문서",
+      "path": "enum 정리 문서.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "인스턴스 메소드 참조",
       "path": "인스턴스 메소드 참조.md"
-    },
-    {
-      "basename": "mysql 실행하기",
-      "path": "CODING/mySQL/mysql 실행하기.md"
     }
   ],
   "omittedPaths": [],
