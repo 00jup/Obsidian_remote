@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
-      "path": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md"
+      "basename": "NavigationPath 사용법",
+      "path": "NavigationPath 사용법.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Pasted image 20241029162406",
+      "path": "Pasted image 20241029162406.png"
+    },
+    {
+      "basename": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
+      "path": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md"
     },
     {
       "basename": "enum 정리 문서",
@@ -191,14 +199,6 @@
     {
       "basename": "terminal ping option",
       "path": "terminal ping option.md"
-    },
-    {
-      "basename": "terminal tracert 명령어 arp -a",
-      "path": "컴퓨터 통신/terminal tracert 명령어 arp -a.md"
-    },
-    {
-      "basename": "하드웨어 MAC 주소 확인하는 법",
-      "path": "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md"
     }
   ],
   "omittedPaths": [],
