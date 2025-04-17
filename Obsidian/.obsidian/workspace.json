@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "fun, struct, class, enum 뒤에 오는 콜론들의 의미"
             }
+          },
+          {
+            "id": "deee72854c2245c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fun, struct, class, enum 뒤에 오는 콜론들의 의미"
+              "title": "Outline"
             }
           },
           {
@@ -219,10 +229,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "41fa8e5f742ab808",
+  "active": "d4483b8277a6b672",
   "lastOpenFiles": [
-    "Swift/Swift DB.md",
     "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
+    "Swift/Swift DB.md",
     "enum 정리 문서.md",
     "enum 가져다 쓰기.md",
     "VStack.md",
