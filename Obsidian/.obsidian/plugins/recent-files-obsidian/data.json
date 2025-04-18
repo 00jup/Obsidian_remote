@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "NavigationPath 사용법",
-      "path": "NavigationPath 사용법.md"
+      "basename": "Swift의 참조 타입과 값 타입",
+      "path": "Swift의 참조 타입과 값 타입.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "NavigationPath 사용법",
+      "path": "NavigationPath 사용법.md"
     },
     {
       "basename": "Pasted image 20241029162406",
@@ -195,10 +199,6 @@
     {
       "basename": "terminal ping 명령어",
       "path": "컴퓨터 통신/terminal ping 명령어.md"
-    },
-    {
-      "basename": "terminal ping option",
-      "path": "terminal ping option.md"
     }
   ],
   "omittedPaths": [],
