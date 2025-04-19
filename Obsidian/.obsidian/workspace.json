@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "2b8a8b83c090c0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binding으로 받은 값 바로 초기화 하는 법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binding으로 받은 값 바로 초기화 하는 법"
+            }
+          },
+          {
             "id": "e1acffadd5aeab4b",
             "type": "leaf",
             "state": {
@@ -179,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift의 참조 타입과 값 타입.md",
+                "file": "Binding으로 받은 값 바로 초기화 하는 법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swift의 참조 타입과 값 타입"
+              "title": "Outline of Binding으로 받은 값 바로 초기화 하는 법"
             }
           },
           {
@@ -223,10 +237,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e1acffadd5aeab4b",
+  "active": "2b8a8b83c090c0f8",
   "lastOpenFiles": [
-    "Swift의 참조 타입과 값 타입.md",
+    "Binding으로 받은 값 바로 초기화 하는 법.md",
     "Swift/Swift DB.md",
+    "Swift의 참조 타입과 값 타입.md",
     "NavigationPath 사용법.md",
     "Pasted image 20241029162406.png",
     "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
@@ -251,7 +266,6 @@
     "Swift for.md",
     "Swift switch.md",
     "Swift nil.md",
-    "Swift ? ?? diff.md",
     "Swift",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",

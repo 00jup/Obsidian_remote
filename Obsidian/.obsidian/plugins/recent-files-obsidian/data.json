@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift의 참조 타입과 값 타입",
-      "path": "Swift의 참조 타입과 값 타입.md"
+      "basename": "Binding으로 받은 값 바로 초기화 하는 법",
+      "path": "Binding으로 받은 값 바로 초기화 하는 법.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Swift의 참조 타입과 값 타입",
+      "path": "Swift의 참조 타입과 값 타입.md"
     },
     {
       "basename": "NavigationPath 사용법",
@@ -195,10 +199,6 @@
     {
       "basename": "MySQL DB",
       "path": "CODING/mySQL/MySQL DB.md"
-    },
-    {
-      "basename": "terminal ping 명령어",
-      "path": "컴퓨터 통신/terminal ping 명령어.md"
     }
   ],
   "omittedPaths": [],
