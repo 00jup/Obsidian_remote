@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Swift에서 프로토콜의 의미",
-      "path": "Swift에서 프로토콜의 의미.md"
+      "basename": "SwiftUI에서 프로토콜의 의미",
+      "path": "SwiftUI에서 프로토콜의 의미.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "Swift에서 프로토콜의 의미",
+      "path": "Swift에서 프로토콜의 의미.md"
     },
     {
       "basename": "Binding으로 받은 값 바로 초기화 하는 법",
@@ -195,10 +199,6 @@
     {
       "basename": "Trigger 실행순서",
       "path": "CODING/mySQL/Trigger 실행순서.md"
-    },
-    {
-      "basename": "DBSolution",
-      "path": "CODING/mySQL/DBSolution.md"
     }
   ],
   "omittedPaths": [],

@@ -22,6 +22,7 @@
 [[Swift의 참조 타입과 값 타입]]
 
 [[Swift에서 프로토콜의 의미]]
+[[SwiftUI에서 프로토콜의 의미]]
 
 ## Swift UI
 [[LazyStack vs Stack in Swift]]
