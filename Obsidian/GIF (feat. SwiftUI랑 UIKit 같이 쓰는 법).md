@@ -3,9 +3,16 @@
 pod init
 ## if 없다면 install
 ## with homebrew..
-## pod ini
+vim Podfile
+## 내부 ios version 바꾸기
+## 그리고 
+pod 'Gifu'
+## 추가 후
+pod install
 ```
 
+
+![[Pasted image 20250422085726.png]]
 ## 코드
 ```swift
 // CustomLoading.swift
@@ -63,4 +70,14 @@ class CustomLoading {
 }
 ```
 
+## 사용법
+싱글톤이라서 그대로 가져다 쓰면 됨
+```swift
+CustomLoading.show()
+CustomLoading.hide()
+
+DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+		CustomLoading.hide()
+	}
+```
 
