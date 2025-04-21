@@ -40,3 +40,6 @@
 [[NavigationPath 사용법]]
 
 [[Binding으로 받은 값 바로 초기화 하는 법]]
+
+
+[[Preview에서 Binding 사용법]]

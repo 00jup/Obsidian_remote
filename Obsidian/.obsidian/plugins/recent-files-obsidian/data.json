@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "SwiftUI에서 프로토콜의 의미",
-      "path": "SwiftUI에서 프로토콜의 의미.md"
+      "basename": "Preview에서 Binding 사용법",
+      "path": "Preview에서 Binding 사용법.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "SwiftUI에서 프로토콜의 의미",
+      "path": "SwiftUI에서 프로토콜의 의미.md"
     },
     {
       "basename": "Swift에서 프로토콜의 의미",
@@ -195,10 +199,6 @@
     {
       "basename": "Old New in INSERT DELETE UPDATE",
       "path": "CODING/mySQL/Old New in INSERT DELETE UPDATE.md"
-    },
-    {
-      "basename": "Trigger 실행순서",
-      "path": "CODING/mySQL/Trigger 실행순서.md"
     }
   ],
   "omittedPaths": [],
