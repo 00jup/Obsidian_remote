@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SwiftUI랑 UIKit 같이 쓰는 법",
+      "path": "SwiftUI랑 UIKit 같이 쓰는 법.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AFTER vs BEFORE TRIGGER",
       "path": "CODING/mySQL/AFTER vs BEFORE TRIGGER.md"
-    },
-    {
-      "basename": "Old New in INSERT DELETE UPDATE",
-      "path": "CODING/mySQL/Old New in INSERT DELETE UPDATE.md"
     }
   ],
   "omittedPaths": [],
