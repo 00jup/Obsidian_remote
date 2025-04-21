@@ -20,121 +20,8 @@
               "icon": "lucide-file",
               "title": "Swift DB"
             }
-          },
-          {
-            "id": "1a24f2f0747506df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/Swift DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift DB"
-            }
-          },
-          {
-            "id": "2b8a8b83c090c0f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/Swift DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift DB"
-            }
-          },
-          {
-            "id": "07f52c800197403f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/Swift DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift DB"
-            }
-          },
-          {
-            "id": "aacc1eaeaa090f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift/Swift DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift DB"
-            }
-          },
-          {
-            "id": "22644f2194a49e70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preview에서 Binding 사용법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preview에서 Binding 사용법"
-            }
-          },
-          {
-            "id": "55464ac164d578f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwiftUI에서 프로토콜의 의미.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SwiftUI에서 프로토콜의 의미"
-            }
-          },
-          {
-            "id": "cda63028ea0e4bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift에서 프로토콜의 의미.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift에서 프로토콜의 의미"
-            }
-          },
-          {
-            "id": "e1acffadd5aeab4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift의 참조 타입과 값 타입.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift의 참조 타입과 값 타입"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preview에서 Binding 사용법.md",
+                "file": "Swift/Swift DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Preview에서 Binding 사용법"
+              "title": "Outline of Swift DB"
             }
           },
           {
@@ -308,7 +195,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c09e60ab9549986b",
+  "active": "96e63ca4b65b8e42",
   "lastOpenFiles": [
     "Preview에서 Binding 사용법.md",
     "Swift/Swift DB.md",
