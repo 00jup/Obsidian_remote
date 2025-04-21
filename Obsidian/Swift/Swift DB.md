@@ -43,4 +43,4 @@
 
 
 [[Preview에서 Binding 사용법]]
-[[SwiftUI랑 UIKit 같이 쓰는 법]]
+[[GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법)]]

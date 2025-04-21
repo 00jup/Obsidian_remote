@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiftUI랑 UIKit 같이 쓰는 법.md",
+                "file": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SwiftUI랑 UIKit 같이 쓰는 법"
+              "title": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법)"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI랑 UIKit 같이 쓰는 법.md",
+                "file": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SwiftUI랑 UIKit 같이 쓰는 법"
+              "title": "Outline of GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법)"
             }
           },
           {
@@ -212,7 +212,8 @@
   },
   "active": "98e26eafbf64e437",
   "lastOpenFiles": [
-    "SwiftUI랑 UIKit 같이 쓰는 법.md",
+    "Asset/Pasted image 20250422085233.png",
+    "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법).md",
     "Swift/Swift DB.md",
     "Preview에서 Binding 사용법.md",
     "SwiftUI에서 프로토콜의 의미.md",
@@ -238,7 +239,6 @@
     "omit in Swift.md",
     "CODING/Kotlin/coroutine으로 비동기 실행.md",
     "CODING/just 지식/Coroutine.md",
-    "Coroutin Example.md",
     "Swift",
     "CODING/mySQL/지식",
     "Asset/Pasted image 20241129223253.png",
