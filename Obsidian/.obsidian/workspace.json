@@ -127,7 +127,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b8a8b83c090c0f8",
+  "active": "c09e60ab9549986b",
   "lastOpenFiles": [
     "Binding으로 받은 값 바로 초기화 하는 법.md",
     "Swift/Swift DB.md",
