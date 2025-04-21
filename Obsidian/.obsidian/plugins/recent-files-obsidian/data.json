@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Swift에서 프로토콜의 의미",
+      "path": "Swift에서 프로토콜의 의미.md"
+    },
+    {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DBSolution",
       "path": "CODING/mySQL/DBSolution.md"
-    },
-    {
-      "basename": "MySQL DB",
-      "path": "CODING/mySQL/MySQL DB.md"
     }
   ],
   "omittedPaths": [],

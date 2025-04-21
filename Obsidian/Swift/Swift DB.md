@@ -20,6 +20,9 @@
 
 [[fun, struct, class, enum 뒤에 오는 콜론들의 의미]]
 [[Swift의 참조 타입과 값 타입]]
+
+[[Swift에서 프로토콜의 의미]]
+
 ## Swift UI
 [[LazyStack vs Stack in Swift]]
 [[Diff of @State, @Binding]]
