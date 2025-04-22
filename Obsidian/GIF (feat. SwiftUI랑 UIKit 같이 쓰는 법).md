@@ -11,7 +11,7 @@ pod 'Gifu'
 pod install
 ```
 
-
+sandbox 오류가 나오면 User Script Sandboxing No로 하면 됨
 ![[Pasted image 20250422085726.png]]
 ## 코드
 ```swift
