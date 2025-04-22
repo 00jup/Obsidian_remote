@@ -1,5 +1,16 @@
 [
   {
+    "fileName": "onChange Warning",
+    "relativePath": "onChange Warning.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "onChange Warning",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "하드웨어 MAC 주소 확인하는 법",
     "relativePath": "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md"
   },
@@ -1034,6 +1045,10 @@
       {
         "link": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법)",
         "relativePath": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법).md"
+      },
+      {
+        "link": "onChange Warning",
+        "relativePath": "onChange Warning.md"
       }
     ]
   },
