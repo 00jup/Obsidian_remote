@@ -11,5 +11,7 @@
   "obsidian-projects",
   "obsidian-icon-folder",
   "obsidian-icons-plugin",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "metadata-extractor",
+  "obsidian-advanced-uri"
 ]
