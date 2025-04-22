@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "onChange Warning",
-      "path": "onChange Warning.md"
+      "basename": "State가 있고 없고의 차이",
+      "path": "State가 있고 없고의 차이.md"
     },
     {
       "basename": "Swift DB",
       "path": "Swift/Swift DB.md"
+    },
+    {
+      "basename": "onChange Warning",
+      "path": "onChange Warning.md"
     },
     {
       "basename": "GIF (feat. SwiftUI랑 UIKit 같이 쓰는 법)",
@@ -195,10 +199,6 @@
     {
       "basename": "Index leading & trailing",
       "path": "CODING/mySQL/지식/Index leading & trailing.md"
-    },
-    {
-      "basename": "불가능한 예시들",
-      "path": "CODING/불가능한 예시들.md"
     }
   ],
   "omittedPaths": [],

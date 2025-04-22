@@ -1,5 +1,16 @@
 [
   {
+    "fileName": "State가 있고 없고의 차이",
+    "relativePath": "State가 있고 없고의 차이.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "State가 있고 없고의 차이",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "onChange Warning",
     "relativePath": "onChange Warning.md",
     "backlinks": [
@@ -1049,6 +1060,10 @@
       {
         "link": "onChange Warning",
         "relativePath": "onChange Warning.md"
+      },
+      {
+        "link": "State가 있고 없고의 차이",
+        "relativePath": "State가 있고 없고의 차이.md"
       }
     ]
   },
