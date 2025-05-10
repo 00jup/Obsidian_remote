@@ -1,29 +1,62 @@
 [
   {
-    "fileName": "State가 있고 없고의 차이",
-    "relativePath": "State가 있고 없고의 차이.md",
+    "fileName": "omit in Swift",
+    "relativePath": "omit in Swift.md",
     "backlinks": [
       {
         "fileName": "Swift DB",
-        "link": "State가 있고 없고의 차이",
+        "link": "omit in Swift",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
   },
   {
-    "fileName": "onChange Warning",
-    "relativePath": "onChange Warning.md",
+    "fileName": "lambda in Swift",
+    "relativePath": "lambda in Swift.md",
+    "headings": [
+      {
+        "heading": "기본 문법과 사용법",
+        "level": 2
+      },
+      {
+        "heading": "함수에 클로저 전달하기",
+        "level": 2
+      },
+      {
+        "heading": "실제 활용 예시",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Swift DB",
-        "link": "onChange Warning",
+        "link": "lambda in Swift",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
+  },
+  {
+    "fileName": "python의 repr special function 같은 것들",
+    "relativePath": "python의 repr special function 같은 것들.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "python의 repr special function 같은 것들",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "terminal tracert 명령어 arp -a",
+    "relativePath": "컴퓨터 통신/terminal tracert 명령어 arp -a.md"
   },
   {
     "fileName": "하드웨어 MAC 주소 확인하는 법",
     "relativePath": "컴퓨터 통신/하드웨어 MAC 주소 확인하는 법.md"
+  },
+  {
+    "fileName": "wireshark Terminal 실행 명령어",
+    "relativePath": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
   },
   {
     "fileName": "wireshark 검색",
@@ -42,14 +75,6 @@
         "level": 2
       }
     ]
-  },
-  {
-    "fileName": "wireshark Terminal 실행 명령어",
-    "relativePath": "컴퓨터 통신/wireshark Terminal 실행 명령어.md"
-  },
-  {
-    "fileName": "terminal tracert 명령어 arp -a",
-    "relativePath": "컴퓨터 통신/terminal tracert 명령어 arp -a.md"
   },
   {
     "fileName": "terminal ping 명령어",
@@ -81,10 +106,6 @@
     "relativePath": "그냥 지식/미세유체개론 단위.md"
   },
   {
-    "fileName": "푸리에 급수 직교집합과 정규집합",
-    "relativePath": "공업수학/푸리에 급수 직교집합과 정규집합.md"
-  },
-  {
     "fileName": "공학에서의 편미분과 일반미분",
     "relativePath": "공업수학/공학에서의 편미분과 일반미분.md",
     "headings": [
@@ -107,6 +128,10 @@
     ]
   },
   {
+    "fileName": "푸리에 급수 직교집합과 정규집합",
+    "relativePath": "공업수학/푸리에 급수 직교집합과 정규집합.md"
+  },
+  {
     "fileName": "terminal ping option",
     "relativePath": "terminal ping option.md",
     "backlinks": [
@@ -118,23 +143,12 @@
     ]
   },
   {
-    "fileName": "python의 repr special function 같은 것들",
-    "relativePath": "python의 repr special function 같은 것들.md",
+    "fileName": "onChange Warning",
+    "relativePath": "onChange Warning.md",
     "backlinks": [
       {
         "fileName": "Swift DB",
-        "link": "python의 repr special function 같은 것들",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "omit in Swift",
-    "relativePath": "omit in Swift.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "omit in Swift",
+        "link": "onChange Warning",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
@@ -158,125 +172,6 @@
         "fileName": "Relationship in SQL",
         "link": "left join에서 특정 table 제외하고 출력하기",
         "relativePath": "Relationship in SQL.md"
-      }
-    ]
-  },
-  {
-    "fileName": "lambda in Swift",
-    "relativePath": "lambda in Swift.md",
-    "headings": [
-      {
-        "heading": "기본 문법과 사용법",
-        "level": 2
-      },
-      {
-        "heading": "함수에 클로저 전달하기",
-        "level": 2
-      },
-      {
-        "heading": "실제 활용 예시",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "lambda in Swift",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "insertion Unique",
-    "relativePath": "insertion Unique.md",
-    "backlinks": [
-      {
-        "fileName": "INSERT(CRUD에서 create 부분)",
-        "link": "insertion Unique",
-        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-      }
-    ]
-  },
-  {
-    "fileName": "insertion CONSTRAINT",
-    "relativePath": "insertion CONSTRAINT.md",
-    "backlinks": [
-      {
-        "fileName": "INSERT(CRUD에서 create 부분)",
-        "link": "insertion CONSTRAINT",
-        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-      }
-    ]
-  },
-  {
-    "fileName": "insertion CHECK",
-    "relativePath": "insertion CHECK.md",
-    "backlinks": [
-      {
-        "fileName": "INSERT(CRUD에서 create 부분)",
-        "link": "insertion CHECK",
-        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
-      }
-    ]
-  },
-  {
-    "fileName": "generic in java",
-    "relativePath": "generic in java.md",
-    "backlinks": [
-      {
-        "fileName": "익명 객체와 함수형 인터페이스 사용",
-        "link": "generic in java",
-        "relativePath": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
-      }
-    ]
-  },
-  {
-    "fileName": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
-    "relativePath": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
-    "headings": [
-      {
-        "heading": "enum 뒤의 콜론",
-        "level": 3
-      },
-      {
-        "heading": "class 뒤의 콜론",
-        "level": 3
-      },
-      {
-        "heading": "struct 뒤의 콜론",
-        "level": 3
-      },
-      {
-        "heading": "func 뒤의 콜론",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "focused state",
-    "relativePath": "focused state.md",
-    "headings": [
-      {
-        "heading": "차이점 설명",
-        "level": 3
-      },
-      {
-        "heading": "주요 변화:",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "focused state",
-        "relativePath": "Swift/Swift DB.md"
       }
     ]
   },
@@ -371,6 +266,100 @@
     ]
   },
   {
+    "fileName": "insertion CHECK",
+    "relativePath": "insertion CHECK.md",
+    "backlinks": [
+      {
+        "fileName": "INSERT(CRUD에서 create 부분)",
+        "link": "insertion CHECK",
+        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+      }
+    ]
+  },
+  {
+    "fileName": "insertion CONSTRAINT",
+    "relativePath": "insertion CONSTRAINT.md",
+    "backlinks": [
+      {
+        "fileName": "INSERT(CRUD에서 create 부분)",
+        "link": "insertion CONSTRAINT",
+        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+      }
+    ]
+  },
+  {
+    "fileName": "insertion Unique",
+    "relativePath": "insertion Unique.md",
+    "backlinks": [
+      {
+        "fileName": "INSERT(CRUD에서 create 부분)",
+        "link": "insertion Unique",
+        "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md"
+      }
+    ]
+  },
+  {
+    "fileName": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
+    "relativePath": "fun, struct, class, enum 뒤에 오는 콜론들의 의미.md",
+    "headings": [
+      {
+        "heading": "enum 뒤의 콜론",
+        "level": 3
+      },
+      {
+        "heading": "class 뒤의 콜론",
+        "level": 3
+      },
+      {
+        "heading": "struct 뒤의 콜론",
+        "level": 3
+      },
+      {
+        "heading": "func 뒤의 콜론",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "fun, struct, class, enum 뒤에 오는 콜론들의 의미",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "generic in java",
+    "relativePath": "generic in java.md",
+    "backlinks": [
+      {
+        "fileName": "익명 객체와 함수형 인터페이스 사용",
+        "link": "generic in java",
+        "relativePath": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+      }
+    ]
+  },
+  {
+    "fileName": "focused state",
+    "relativePath": "focused state.md",
+    "headings": [
+      {
+        "heading": "차이점 설명",
+        "level": 3
+      },
+      {
+        "heading": "주요 변화:",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "focused state",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "enum 가져다 쓰기",
     "relativePath": "enum 가져다 쓰기.md",
     "headings": [
@@ -396,42 +385,6 @@
         "fileName": "Swift DB",
         "link": "enum 가져다 쓰기",
         "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "deinit in swift",
-    "relativePath": "deinit in swift.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "deinit in swift",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "debug in swift",
-    "relativePath": "debug in swift.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "debug in swift",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "dd",
-    "relativePath": "dd.md",
-    "links": [
-      {
-        "link": "Internal link",
-        "displayText": "Wikilinks"
-      },
-      {
-        "link": "Embed files",
-        "displayText": "embeds"
       }
     ]
   },
@@ -577,6 +530,53 @@
     ]
   },
   {
+    "fileName": "UUID",
+    "relativePath": "UUID.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "UUID",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "deinit in swift",
+    "relativePath": "deinit in swift.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "deinit in swift",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "debug in swift",
+    "relativePath": "debug in swift.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "debug in swift",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "dd",
+    "relativePath": "dd.md",
+    "links": [
+      {
+        "link": "Internal link",
+        "displayText": "Wikilinks"
+      },
+      {
+        "link": "Embed files",
+        "displayText": "embeds"
+      }
+    ]
+  },
+  {
     "fileName": "VStack",
     "relativePath": "VStack.md",
     "backlinks": [
@@ -623,46 +623,6 @@
   {
     "fileName": "Untitled",
     "relativePath": "Untitled.md"
-  },
-  {
-    "fileName": "Untitled 1",
-    "relativePath": "Untitled 1.md"
-  },
-  {
-    "fileName": "UUID",
-    "relativePath": "UUID.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "UUID",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Swift의 참조 타입과 값 타입",
-    "relativePath": "Swift의 참조 타입과 값 타입.md",
-    "headings": [
-      {
-        "heading": "Swift의 참조 타입과 값 타입",
-        "level": 1
-      },
-      {
-        "heading": "클래스 (참조 타입)",
-        "level": 2
-      },
-      {
-        "heading": "값 타입 (구조체/열거형)",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "Swift의 참조 타입과 값 타입",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
   },
   {
     "fileName": "Swift에서 프로토콜의 의미",
@@ -717,17 +677,6 @@
       {
         "fileName": "Swift DB",
         "link": "Swift에서 프로토콜의 의미",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "SwiftUI에서 프로토콜의 의미",
-    "relativePath": "SwiftUI에서 프로토콜의 의미.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "SwiftUI에서 프로토콜의 의미",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
@@ -790,23 +739,52 @@
     ]
   },
   {
+    "fileName": "Untitled 1",
+    "relativePath": "Untitled 1.md"
+  },
+  {
+    "fileName": "Swift의 참조 타입과 값 타입",
+    "relativePath": "Swift의 참조 타입과 값 타입.md",
+    "headings": [
+      {
+        "heading": "Swift의 참조 타입과 값 타입",
+        "level": 1
+      },
+      {
+        "heading": "클래스 (참조 타입)",
+        "level": 2
+      },
+      {
+        "heading": "값 타입 (구조체/열거형)",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "Swift의 참조 타입과 값 타입",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SwiftUI에서 프로토콜의 의미",
+    "relativePath": "SwiftUI에서 프로토콜의 의미.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "SwiftUI에서 프로토콜의 의미",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "SwiftUI에서 protocol",
     "relativePath": "SwiftUI에서 protocol.md",
     "backlinks": [
       {
         "fileName": "Swift DB",
         "link": "SwiftUI에서 protocol",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Swift switch",
-    "relativePath": "Swift switch.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "Swift switch",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
@@ -834,23 +812,12 @@
     ]
   },
   {
-    "fileName": "Swift closure scope",
-    "relativePath": "Swift closure scope.md",
+    "fileName": "Swift switch",
+    "relativePath": "Swift switch.md",
     "backlinks": [
       {
         "fileName": "Swift DB",
-        "link": "Swift closure scope",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Swift Dictionary",
-    "relativePath": "Swift Dictionary.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "Swift Dictionary",
+        "link": "Swift switch",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
@@ -904,6 +871,28 @@
       {
         "fileName": "Swift DB",
         "link": "Swift ? ?? diff",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Swift Dictionary",
+    "relativePath": "Swift Dictionary.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "Swift Dictionary",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Swift closure scope",
+    "relativePath": "Swift closure scope.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "Swift closure scope",
         "relativePath": "Swift/Swift DB.md"
       }
     ]
@@ -1068,6 +1057,101 @@
     ]
   },
   {
+    "fileName": "MVVM in swift",
+    "relativePath": "MVVM in swift.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "MVVM in swift",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Preview에서 Binding 사용법",
+    "relativePath": "Preview에서 Binding 사용법.md",
+    "tags": [
+      "preview"
+    ],
+    "headings": [
+      {
+        "heading": "WarmMessageView에서 #Preview",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "Preview에서 Binding 사용법",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "NavigationPath 사용법",
+    "relativePath": "NavigationPath 사용법.md",
+    "headings": [
+      {
+        "heading": "📘 SwiftUI NavigationPath를 이용한 화면 전환 완전 가이드",
+        "level": 1
+      },
+      {
+        "heading": "📂 프로젝트 구조",
+        "level": 2
+      },
+      {
+        "heading": "🔸 Route.swift - 목적지 정의",
+        "level": 2
+      },
+      {
+        "heading": "🔸 ContentView.swift - 메인 화면 + 경로 관리",
+        "level": 2
+      },
+      {
+        "heading": "🔸 FirstView.swift - 메시지를 받는 목적지",
+        "level": 2
+      },
+      {
+        "heading": "🔸 SecondView.swift - 숫자를 받는 목적지",
+        "level": 2
+      },
+      {
+        "heading": "📌 NavigationPath의 핵심 개념 요약",
+        "level": 2
+      },
+      {
+        "heading": "개념\t설명",
+        "level": 3
+      },
+      {
+        "heading": "🤔 왜 데이터를 같이 넘기는가?",
+        "level": 3
+      },
+      {
+        "heading": "✅ 요약",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "NavigationPath 사용법",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "State가 있고 없고의 차이",
+    "relativePath": "State가 있고 없고의 차이.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "State가 있고 없고의 차이",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "SUBQUERY로 빠르게 계산하기",
     "relativePath": "SUBQUERY로 빠르게 계산하기.md",
     "backlinks": [
@@ -1150,111 +1234,6 @@
         "fileName": "MySQL DB",
         "link": "Relationship in SQL",
         "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Preview에서 Binding 사용법",
-    "relativePath": "Preview에서 Binding 사용법.md",
-    "tags": [
-      "preview"
-    ],
-    "headings": [
-      {
-        "heading": "WarmMessageView에서 #Preview",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "Preview에서 Binding 사용법",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "OVER",
-    "relativePath": "OVER.md",
-    "headings": [
-      {
-        "heading": "NTITLE",
-        "level": 2
-      },
-      {
-        "heading": "FIRST_VALUE(emp_no)",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "MySQL DB",
-        "link": "OVER",
-        "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "NavigationPath 사용법",
-    "relativePath": "NavigationPath 사용법.md",
-    "headings": [
-      {
-        "heading": "📘 SwiftUI NavigationPath를 이용한 화면 전환 완전 가이드",
-        "level": 1
-      },
-      {
-        "heading": "📂 프로젝트 구조",
-        "level": 2
-      },
-      {
-        "heading": "🔸 Route.swift - 목적지 정의",
-        "level": 2
-      },
-      {
-        "heading": "🔸 ContentView.swift - 메인 화면 + 경로 관리",
-        "level": 2
-      },
-      {
-        "heading": "🔸 FirstView.swift - 메시지를 받는 목적지",
-        "level": 2
-      },
-      {
-        "heading": "🔸 SecondView.swift - 숫자를 받는 목적지",
-        "level": 2
-      },
-      {
-        "heading": "📌 NavigationPath의 핵심 개념 요약",
-        "level": 2
-      },
-      {
-        "heading": "개념\t설명",
-        "level": 3
-      },
-      {
-        "heading": "🤔 왜 데이터를 같이 넘기는가?",
-        "level": 3
-      },
-      {
-        "heading": "✅ 요약",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "NavigationPath 사용법",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "MVVM in swift",
-    "relativePath": "MVVM in swift.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "MVVM in swift",
-        "relativePath": "Swift/Swift DB.md"
       }
     ]
   },
@@ -1344,13 +1323,23 @@
     ]
   },
   {
-    "fileName": "IFNULL로 NULL을 0으로 바꿔주자",
-    "relativePath": "IFNULL로 NULL을 0으로 바꿔주자.md",
+    "fileName": "OVER",
+    "relativePath": "OVER.md",
+    "headings": [
+      {
+        "heading": "NTITLE",
+        "level": 2
+      },
+      {
+        "heading": "FIRST_VALUE(emp_no)",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Relationship in SQL",
-        "link": "IFNULL로 NULL을 0으로 바꿔주자",
-        "relativePath": "Relationship in SQL.md"
+        "fileName": "MySQL DB",
+        "link": "OVER",
+        "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
   },
@@ -1376,13 +1365,46 @@
     ]
   },
   {
-    "fileName": "Functional Interface Application",
-    "relativePath": "Functional Interface Application.md",
+    "fileName": "@Previewable을 사용하는 이유",
+    "relativePath": "@Previewable을 사용하는 이유.md",
+    "headings": [
+      {
+        "heading": "@Previewable을 사용하는 이유",
+        "level": 1
+      },
+      {
+        "heading": "예시",
+        "level": 2
+      },
+      {
+        "heading": "1. 카운터 앱에서의 사용",
+        "level": 3
+      },
+      {
+        "heading": "2. 폼 입력에서의 사용",
+        "level": 3
+      },
+      {
+        "heading": "3. 할 일 목록 앱에서의 사용",
+        "level": 3
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "익명 객체와 함수형 인터페이스 사용",
-        "link": "Functional Interface Application",
-        "relativePath": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+        "fileName": "Swift DB",
+        "link": "@Previewable을 사용하는 이유",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "IFNULL로 NULL을 0으로 바꿔주자",
+    "relativePath": "IFNULL로 NULL을 0으로 바꿔주자.md",
+    "backlinks": [
+      {
+        "fileName": "Relationship in SQL",
+        "link": "IFNULL로 NULL을 0으로 바꿔주자",
+        "relativePath": "Relationship in SQL.md"
       }
     ]
   },
@@ -1448,8 +1470,35 @@
     ]
   },
   {
+    "fileName": "Functional Interface Application",
+    "relativePath": "Functional Interface Application.md",
+    "backlinks": [
+      {
+        "fileName": "익명 객체와 함수형 인터페이스 사용",
+        "link": "Functional Interface Application",
+        "relativePath": "CODING/Java/신기한 거/익명 객체와 함수형 인터페이스 사용.md"
+      }
+    ]
+  },
+  {
     "fileName": "ㅇㅇㅇㅇ",
     "relativePath": "Excalidraw/ㅇㅇㅇㅇ.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Drawing 2023-10-13 23.59.27.excalidraw",
+    "relativePath": "Excalidraw/Drawing 2023-10-13 23.59.27.excalidraw.md",
     "tags": [
       "excalidraw"
     ],
@@ -1504,22 +1553,6 @@
     "frontmatter": {
       "excalidraw-plugin": "parsed"
     }
-  },
-  {
-    "fileName": "Drawing 2023-10-13 23.59.27.excalidraw",
-    "relativePath": "Excalidraw/Drawing 2023-10-13 23.59.27.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ]
   },
   {
     "fileName": "Drawing 2023-10-13 23.59.26.excalidraw",
@@ -1594,6 +1627,50 @@
     ]
   },
   {
+    "fileName": "ALTER TABLE column 수정하기",
+    "relativePath": "ALTER TABLE column 수정하기.md",
+    "headings": [
+      {
+        "heading": "DROP",
+        "level": 1
+      },
+      {
+        "heading": "Renaming Tables",
+        "level": 1
+      },
+      {
+        "heading": "Renaming Columns",
+        "level": 1
+      },
+      {
+        "heading": "Modify Column",
+        "level": 1
+      },
+      {
+        "heading": "ALTER TABLE에서 constraint 사용하기",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "MySQL DB",
+        "link": "ALTER TABLE column 수정하기",
+        "relativePath": "CODING/mySQL/MySQL DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Binding으로 받은 값 바로 초기화 하는 법",
+    "relativePath": "Binding으로 받은 값 바로 초기화 하는 법.md",
+    "backlinks": [
+      {
+        "fileName": "Swift DB",
+        "link": "Binding으로 받은 값 바로 초기화 하는 법",
+        "relativePath": "Swift/Swift DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "Coroutin Example",
     "relativePath": "Coroutin Example.md",
     "backlinks": [
@@ -1605,15 +1682,8 @@
     ]
   },
   {
-    "fileName": "불가능한 예시들",
-    "relativePath": "CODING/불가능한 예시들.md",
-    "backlinks": [
-      {
-        "fileName": "C switch",
-        "link": "불가능한 예시들",
-        "relativePath": "CODING/C/C switch.md"
-      }
-    ]
+    "fileName": "brew",
+    "relativePath": "CODING/brew.md"
   },
   {
     "fileName": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
@@ -1622,6 +1692,17 @@
       {
         "fileName": "MySQL DB",
         "link": "한 colunm은 오름차순, 다른 column은 내림차순으로 정렬하기",
+        "relativePath": "CODING/mySQL/MySQL DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "처음 발견한 error",
+    "relativePath": "CODING/mySQL/처음 발견한 error.md",
+    "backlinks": [
+      {
+        "fileName": "MySQL DB",
+        "link": "처음 발견한 error",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1644,12 +1725,12 @@
     ]
   },
   {
-    "fileName": "처음 발견한 error",
-    "relativePath": "CODING/mySQL/처음 발견한 error.md",
+    "fileName": "내가 원하는 이름의 데이터 찾기",
+    "relativePath": "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md",
     "backlinks": [
       {
         "fileName": "MySQL DB",
-        "link": "처음 발견한 error",
+        "link": "내가 원하는 이름의 데이터 찾기",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1689,34 +1770,23 @@
     ]
   },
   {
-    "fileName": "만들고 실행",
-    "relativePath": "CODING/mySQL/만들고 실행.md",
-    "backlinks": [
-      {
-        "fileName": "MySQL DB",
-        "link": "만들고 실행",
-        "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "내가 원하는 이름의 데이터 찾기",
-    "relativePath": "CODING/mySQL/내가 원하는 이름의 데이터 찾기.md",
-    "backlinks": [
-      {
-        "fileName": "MySQL DB",
-        "link": "내가 원하는 이름의 데이터 찾기",
-        "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
     "fileName": "warninig",
     "relativePath": "CODING/mySQL/warninig.md",
     "backlinks": [
       {
         "fileName": "MySQL DB",
         "link": "warninig",
+        "relativePath": "CODING/mySQL/MySQL DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "만들고 실행",
+    "relativePath": "CODING/mySQL/만들고 실행.md",
+    "backlinks": [
+      {
+        "fileName": "MySQL DB",
+        "link": "만들고 실행",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1765,12 +1835,26 @@
     ]
   },
   {
-    "fileName": "database 살펴보기",
-    "relativePath": "CODING/mySQL/database 살펴보기.md",
+    "fileName": "INSERT(CRUD에서 create 부분)",
+    "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
+    "links": [
+      {
+        "link": "insertion Unique",
+        "relativePath": "insertion Unique.md"
+      },
+      {
+        "link": "insertion CHECK",
+        "relativePath": "insertion CHECK.md"
+      },
+      {
+        "link": "insertion CONSTRAINT",
+        "relativePath": "insertion CONSTRAINT.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "MySQL DB",
-        "link": "database 살펴보기",
+        "link": "INSERT(CRUD에서 create 부분)",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1833,12 +1917,12 @@
     ]
   },
   {
-    "fileName": "comment in SQL",
-    "relativePath": "CODING/mySQL/comment in SQL.md",
+    "fileName": "database 살펴보기",
+    "relativePath": "CODING/mySQL/database 살펴보기.md",
     "backlinks": [
       {
         "fileName": "MySQL DB",
-        "link": "comment in SQL",
+        "link": "database 살펴보기",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1856,6 +1940,17 @@
       {
         "fileName": "MySQL DB",
         "link": "UPDATE",
+        "relativePath": "CODING/mySQL/MySQL DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "comment in SQL",
+    "relativePath": "CODING/mySQL/comment in SQL.md",
+    "backlinks": [
+      {
+        "fileName": "MySQL DB",
+        "link": "comment in SQL",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -1887,6 +1982,10 @@
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
+  },
+  {
+    "fileName": "MySQL vs OracleSQL",
+    "relativePath": "CODING/mySQL/MySQL vs OracleSQL.md"
   },
   {
     "fileName": "Old New in INSERT DELETE UPDATE",
@@ -1931,8 +2030,62 @@
     ]
   },
   {
-    "fileName": "MySQL vs OracleSQL",
-    "relativePath": "CODING/mySQL/MySQL vs OracleSQL.md"
+    "fileName": "AFTER vs BEFORE TRIGGER",
+    "relativePath": "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
+    "headings": [
+      {
+        "heading": "**1. BEFORE INSERT와 AFTER INSERT의 동작 차이**",
+        "level": 3
+      },
+      {
+        "heading": "**`BEFORE INSERT`**",
+        "level": 4
+      },
+      {
+        "heading": "**`AFTER INSERT`**",
+        "level": 4
+      },
+      {
+        "heading": "**2. 현재 INSERT 문 동작 분석**",
+        "level": 3
+      },
+      {
+        "heading": "**테이블 데이터**",
+        "level": 4
+      },
+      {
+        "heading": "**트리거 로직**",
+        "level": 4
+      },
+      {
+        "heading": "**3. 결과 차이가 발생할 가능성**",
+        "level": 3
+      },
+      {
+        "heading": "(1) **`test3`의 DELETE 연산**",
+        "level": 4
+      },
+      {
+        "heading": "(2) **`test4`의 UPDATE 연산**",
+        "level": 4
+      },
+      {
+        "heading": "(3) **병렬 트랜잭션**",
+        "level": 4
+      },
+      {
+        "heading": "**4. 동일한 결과를 기대할 수 있는 조건**",
+        "level": 3
+      },
+      {
+        "heading": "**5. 결과 확인을 위한 제안**",
+        "level": 3
+      },
+      {
+        "heading": "**결론**",
+        "level": 3
+      }
+    ]
   },
   {
     "fileName": "MySQL DB",
@@ -2160,26 +2313,12 @@
     ]
   },
   {
-    "fileName": "INSERT(CRUD에서 create 부분)",
-    "relativePath": "CODING/mySQL/INSERT(CRUD에서 create 부분).md",
-    "links": [
-      {
-        "link": "insertion Unique",
-        "relativePath": "insertion Unique.md"
-      },
-      {
-        "link": "insertion CHECK",
-        "relativePath": "insertion CHECK.md"
-      },
-      {
-        "link": "insertion CONSTRAINT",
-        "relativePath": "insertion CONSTRAINT.md"
-      }
-    ],
+    "fileName": "Distinct",
+    "relativePath": "CODING/mySQL/Distinct.md",
     "backlinks": [
       {
         "fileName": "MySQL DB",
-        "link": "INSERT(CRUD에서 create 부분)",
+        "link": "Distinct",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -2213,12 +2352,12 @@
     ]
   },
   {
-    "fileName": "Distinct",
-    "relativePath": "CODING/mySQL/Distinct.md",
+    "fileName": "COUNT",
+    "relativePath": "CODING/mySQL/COUNT.md",
     "backlinks": [
       {
         "fileName": "MySQL DB",
-        "link": "Distinct",
+        "link": "COUNT",
         "relativePath": "CODING/mySQL/MySQL DB.md"
       }
     ]
@@ -2239,75 +2378,6 @@
     "relativePath": "CODING/mySQL/DBSolution.md"
   },
   {
-    "fileName": "COUNT",
-    "relativePath": "CODING/mySQL/COUNT.md",
-    "backlinks": [
-      {
-        "fileName": "MySQL DB",
-        "link": "COUNT",
-        "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "AFTER vs BEFORE TRIGGER",
-    "relativePath": "CODING/mySQL/AFTER vs BEFORE TRIGGER.md",
-    "headings": [
-      {
-        "heading": "**1. BEFORE INSERT와 AFTER INSERT의 동작 차이**",
-        "level": 3
-      },
-      {
-        "heading": "**`BEFORE INSERT`**",
-        "level": 4
-      },
-      {
-        "heading": "**`AFTER INSERT`**",
-        "level": 4
-      },
-      {
-        "heading": "**2. 현재 INSERT 문 동작 분석**",
-        "level": 3
-      },
-      {
-        "heading": "**테이블 데이터**",
-        "level": 4
-      },
-      {
-        "heading": "**트리거 로직**",
-        "level": 4
-      },
-      {
-        "heading": "**3. 결과 차이가 발생할 가능성**",
-        "level": 3
-      },
-      {
-        "heading": "(1) **`test3`의 DELETE 연산**",
-        "level": 4
-      },
-      {
-        "heading": "(2) **`test4`의 UPDATE 연산**",
-        "level": 4
-      },
-      {
-        "heading": "(3) **병렬 트랜잭션**",
-        "level": 4
-      },
-      {
-        "heading": "**4. 동일한 결과를 기대할 수 있는 조건**",
-        "level": 3
-      },
-      {
-        "heading": "**5. 결과 확인을 위한 제안**",
-        "level": 3
-      },
-      {
-        "heading": "**결론**",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "1000000 미만만 들어가게 하기 decimal 사용",
     "relativePath": "CODING/mySQL/1000000 미만만 들어가게 하기 decimal 사용.md",
     "backlinks": [
@@ -2319,8 +2389,37 @@
     ]
   },
   {
+    "fileName": "불가능한 예시들",
+    "relativePath": "CODING/불가능한 예시들.md",
+    "backlinks": [
+      {
+        "fileName": "C switch",
+        "link": "불가능한 예시들",
+        "relativePath": "CODING/C/C switch.md"
+      }
+    ]
+  },
+  {
     "fileName": "패러렐즈 Capslock으로 한영 변환",
     "relativePath": "CODING/just 지식/패러렐즈 Capslock으로 한영 변환.md"
+  },
+  {
+    "fileName": "Terminal",
+    "relativePath": "CODING/just 지식/Terminal.md",
+    "links": [
+      {
+        "link": "pipeline vs &&",
+        "relativePath": "CODING/just 지식/pipeline vs &&.md"
+      }
+    ]
+  },
+  {
+    "fileName": "맥에 윈도우 설치하는 법",
+    "relativePath": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
+  },
+  {
+    "fileName": "Singletone case",
+    "relativePath": "CODING/just 지식/Singletone case.md"
   },
   {
     "fileName": "코딩할 때 주석 표기하기",
@@ -2337,10 +2436,6 @@
   {
     "fileName": "BST에서 마지막 null을 가리키게 사용하기",
     "relativePath": "CODING/just 지식/자료구조/BST에서 마지막 null을 가리키게 사용하기.md"
-  },
-  {
-    "fileName": "맥에 윈도우 설치하는 법",
-    "relativePath": "CODING/just 지식/맥에 윈도우 설치하는 법.md"
   },
   {
     "fileName": "pipeline vs &&",
@@ -2360,20 +2455,6 @@
     ]
   },
   {
-    "fileName": "Terminal",
-    "relativePath": "CODING/just 지식/Terminal.md",
-    "links": [
-      {
-        "link": "pipeline vs &&",
-        "relativePath": "CODING/just 지식/pipeline vs &&.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Singletone case",
-    "relativePath": "CODING/just 지식/Singletone case.md"
-  },
-  {
     "fileName": "Coroutine",
     "relativePath": "CODING/just 지식/Coroutine.md",
     "links": [
@@ -2384,12 +2465,19 @@
     ]
   },
   {
-    "fileName": "brew",
-    "relativePath": "CODING/brew.md"
+    "fileName": "numpy에서 copy를 사용하는 이유",
+    "relativePath": "CODING/Python/numpy에서 copy를 사용하는 이유.md",
+    "backlinks": [
+      {
+        "fileName": "Python iloc vs loc",
+        "link": "numpy에서 copy를 사용하는 이유",
+        "relativePath": "CODING/Python/Python iloc vs loc.md"
+      }
+    ]
   },
   {
-    "fileName": "AutoWired",
-    "relativePath": "CODING/Spring/AutoWired.md"
+    "fileName": "is_prime",
+    "relativePath": "CODING/Python/is_prime.md"
   },
   {
     "fileName": "객체와 문자열 비교 시 주의사항",
@@ -2501,17 +2589,6 @@
     ]
   },
   {
-    "fileName": "print_array 함수 const를 쓰는 습관 가지기",
-    "relativePath": "CODING/Python/print_array 함수 const를 쓰는 습관 가지기.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "print_array 함수 const를 쓰는 습관 가지기",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
     "fileName": "print(solve(a, b, c))여기서 a,b,c를 입력받음과 동시에 출력하는 방법",
     "relativePath": "CODING/Python/print(solve(a, b, c))여기서 a,b,c를 입력받음과 동시에 출력하는 방법.md",
     "backlinks": [
@@ -2523,6 +2600,17 @@
     ]
   },
   {
+    "fileName": "print_array 함수 const를 쓰는 습관 가지기",
+    "relativePath": "CODING/Python/print_array 함수 const를 쓰는 습관 가지기.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "print_array 함수 const를 쓰는 습관 가지기",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "numpy에서의 pythonic",
     "relativePath": "CODING/Python/numpy에서의 pythonic.md",
     "backlinks": [
@@ -2530,17 +2618,6 @@
         "fileName": "What is the pythonic code?",
         "link": "numpy에서의 pythonic",
         "relativePath": "CODING/Python/What is the pythonic code?.md"
-      }
-    ]
-  },
-  {
-    "fileName": "numpy에서 copy를 사용하는 이유",
-    "relativePath": "CODING/Python/numpy에서 copy를 사용하는 이유.md",
-    "backlinks": [
-      {
-        "fileName": "Python iloc vs loc",
-        "link": "numpy에서 copy를 사용하는 이유",
-        "relativePath": "CODING/Python/Python iloc vs loc.md"
       }
     ]
   },
@@ -2603,6 +2680,17 @@
     ]
   },
   {
+    "fileName": "isin 사용법",
+    "relativePath": "CODING/Python/isin 사용법.md",
+    "backlinks": [
+      {
+        "fileName": "Python pandas",
+        "link": "isin 사용법",
+        "relativePath": "CODING/Python/Python pandas.md"
+      }
+    ]
+  },
+  {
     "fileName": "nonlocal은 외부에도 영향을 줄 수 있는가?",
     "relativePath": "CODING/Python/nonlocal은 외부에도 영향을 줄 수 있는가?.md",
     "headings": [
@@ -2628,21 +2716,6 @@
     ]
   },
   {
-    "fileName": "isin 사용법",
-    "relativePath": "CODING/Python/isin 사용법.md",
-    "backlinks": [
-      {
-        "fileName": "Python pandas",
-        "link": "isin 사용법",
-        "relativePath": "CODING/Python/Python pandas.md"
-      }
-    ]
-  },
-  {
-    "fileName": "is_prime",
-    "relativePath": "CODING/Python/is_prime.md"
-  },
-  {
     "fileName": "import 되지 않을 때",
     "relativePath": "CODING/Python/import 되지 않을 때.md",
     "backlinks": [
@@ -2663,26 +2736,6 @@
         "relativePath": "CODING/Python/Python dictionary와 list의 공통점.md"
       }
     ]
-  },
-  {
-    "fileName": "groupby 잘 사용하기!",
-    "relativePath": "CODING/Python/groupby 잘 사용하기!.md",
-    "backlinks": [
-      {
-        "fileName": "GROUP BY",
-        "link": "groupby 잘 사용하기!",
-        "relativePath": "CODING/mySQL/GROUP BY.md"
-      },
-      {
-        "fileName": "Python pandas",
-        "link": "groupby 잘 사용하기!",
-        "relativePath": "CODING/Python/Python pandas.md"
-      }
-    ]
-  },
-  {
-    "fileName": "function()",
-    "relativePath": "CODING/Python/function().md"
   },
   {
     "fileName": "df.shape",
@@ -2715,6 +2768,26 @@
         "relativePath": "CODING/Python/Python dictionary 데이터 추가하기.md"
       }
     ]
+  },
+  {
+    "fileName": "groupby 잘 사용하기!",
+    "relativePath": "CODING/Python/groupby 잘 사용하기!.md",
+    "backlinks": [
+      {
+        "fileName": "GROUP BY",
+        "link": "groupby 잘 사용하기!",
+        "relativePath": "CODING/mySQL/GROUP BY.md"
+      },
+      {
+        "fileName": "Python pandas",
+        "link": "groupby 잘 사용하기!",
+        "relativePath": "CODING/Python/Python pandas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "function()",
+    "relativePath": "CODING/Python/function().md"
   },
   {
     "fileName": "What is the pythonic code?",
@@ -2792,20 +2865,6 @@
     "relativePath": "CODING/Python/Untitled.md"
   },
   {
-    "fileName": "C insertino_sort",
-    "relativePath": "CODING/Python/Sort/C insertino_sort.md"
-  },
-  {
-    "fileName": "SHA-1 hash 함수",
-    "relativePath": "CODING/Python/SHA-1 hash 함수.md",
-    "links": [
-      {
-        "link": "Python dictionary",
-        "relativePath": "CODING/Python/Python dictionary.md"
-      }
-    ]
-  },
-  {
     "fileName": "Python에서 정수 나눗셈 결과를 원할 때,",
     "relativePath": "CODING/Python/Python에서 정수 나눗셈 결과를 원할 때,.md"
   },
@@ -2827,15 +2886,18 @@
     ]
   },
   {
-    "fileName": "Python에서 놀라운 사실",
-    "relativePath": "CODING/Python/Python에서 놀라운 사실.md",
-    "backlinks": [
+    "fileName": "SHA-1 hash 함수",
+    "relativePath": "CODING/Python/SHA-1 hash 함수.md",
+    "links": [
       {
-        "fileName": "Python DB",
-        "link": "Python에서 놀라운 사실",
-        "relativePath": "CODING/Python/Python DB.md"
+        "link": "Python dictionary",
+        "relativePath": "CODING/Python/Python dictionary.md"
       }
     ]
+  },
+  {
+    "fileName": "C insertino_sort",
+    "relativePath": "CODING/Python/Sort/C insertino_sort.md"
   },
   {
     "fileName": "Python에서 power",
@@ -2862,6 +2924,17 @@
         "fileName": "Python class",
         "link": "Python에서 imagine number operation",
         "relativePath": "CODING/Python/Python class.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python에서 놀라운 사실",
+    "relativePath": "CODING/Python/Python에서 놀라운 사실.md",
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python에서 놀라운 사실",
+        "relativePath": "CODING/Python/Python DB.md"
       }
     ]
   },
@@ -2965,10 +3038,6 @@
     ]
   },
   {
-    "fileName": "Python 시험 대비 1",
-    "relativePath": "CODING/Python/Python 시험 대비 1.md"
-  },
-  {
     "fileName": "Python 수정본",
     "relativePath": "CODING/Python/Python 수정본.md",
     "backlinks": [
@@ -2980,15 +3049,8 @@
     ]
   },
   {
-    "fileName": "Python 소름돋는 slicing",
-    "relativePath": "CODING/Python/Python 소름돋는 slicing.md",
-    "backlinks": [
-      {
-        "fileName": "Python 리스트 찾기 slicing",
-        "link": "Python 소름돋는 slicing",
-        "relativePath": "CODING/Python/Python 리스트 찾기 slicing.md"
-      }
-    ]
+    "fileName": "Python 시험 대비 1",
+    "relativePath": "CODING/Python/Python 시험 대비 1.md"
   },
   {
     "fileName": "Python 리스트 찾기 slicing",
@@ -3014,6 +3076,17 @@
         "fileName": "Python list",
         "link": "Python 리스트 찾기 slicing",
         "relativePath": "CODING/Python/Python list.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python 소름돋는 slicing",
+    "relativePath": "CODING/Python/Python 소름돋는 slicing.md",
+    "backlinks": [
+      {
+        "fileName": "Python 리스트 찾기 slicing",
+        "link": "Python 소름돋는 slicing",
+        "relativePath": "CODING/Python/Python 리스트 찾기 slicing.md"
       }
     ]
   },
@@ -3051,6 +3124,17 @@
         "fileName": "Python DB",
         "link": "Python 값을 던지기",
         "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python traversal",
+    "relativePath": "CODING/Python/Python traversal.md",
+    "backlinks": [
+      {
+        "fileName": "Python pandas",
+        "link": "Python traversal",
+        "relativePath": "CODING/Python/Python pandas.md"
       }
     ]
   },
@@ -3154,13 +3238,19 @@
     ]
   },
   {
-    "fileName": "Python traversal",
-    "relativePath": "CODING/Python/Python traversal.md",
+    "fileName": "Python sorted lambda",
+    "relativePath": "CODING/Python/Python sorted lambda.md",
+    "headings": [
+      {
+        "heading": "이게 진짜 신기하다",
+        "level": 1
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Python pandas",
-        "link": "Python traversal",
-        "relativePath": "CODING/Python/Python pandas.md"
+        "fileName": "Python lambda",
+        "link": "Python sorted lambda",
+        "relativePath": "CODING/Python/Python lambda.md"
       }
     ]
   },
@@ -3182,19 +3272,13 @@
     ]
   },
   {
-    "fileName": "Python sorted lambda",
-    "relativePath": "CODING/Python/Python sorted lambda.md",
-    "headings": [
-      {
-        "heading": "이게 진짜 신기하다",
-        "level": 1
-      }
-    ],
+    "fileName": "Python repr, str 표현자",
+    "relativePath": "CODING/Python/Python repr, str 표현자.md",
     "backlinks": [
       {
-        "fileName": "Python lambda",
-        "link": "Python sorted lambda",
-        "relativePath": "CODING/Python/Python lambda.md"
+        "fileName": "Python class",
+        "link": "Python repr, str 표현자",
+        "relativePath": "CODING/Python/Python class.md"
       }
     ]
   },
@@ -3216,13 +3300,30 @@
     ]
   },
   {
-    "fileName": "Python repr, str 표현자",
-    "relativePath": "CODING/Python/Python repr, str 표현자.md",
+    "fileName": "Python matplotlib.pyplot",
+    "relativePath": "CODING/Python/Python matplotlib.pyplot.md",
     "backlinks": [
       {
-        "fileName": "Python class",
-        "link": "Python repr, str 표현자",
-        "relativePath": "CODING/Python/Python class.md"
+        "fileName": "Python pandas",
+        "link": "Python matplotlib.pyplot",
+        "relativePath": "CODING/Python/Python pandas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python iloc vs loc",
+    "relativePath": "CODING/Python/Python iloc vs loc.md",
+    "links": [
+      {
+        "link": "numpy에서 copy를 사용하는 이유",
+        "relativePath": "CODING/Python/numpy에서 copy를 사용하는 이유.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python pandas",
+        "link": "Python iloc vs loc",
+        "relativePath": "CODING/Python/Python pandas.md"
       }
     ]
   },
@@ -3299,66 +3400,6 @@
     ]
   },
   {
-    "fileName": "Python matplotlib.pyplot",
-    "relativePath": "CODING/Python/Python matplotlib.pyplot.md",
-    "backlinks": [
-      {
-        "fileName": "Python pandas",
-        "link": "Python matplotlib.pyplot",
-        "relativePath": "CODING/Python/Python pandas.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python match",
-    "relativePath": "CODING/Python/Python match.md",
-    "headings": [
-      {
-        "heading": "Python 3.10의 `match`-`case` 문",
-        "level": 1
-      },
-      {
-        "heading": "기본 사용법",
-        "level": 2
-      },
-      {
-        "heading": "문자열과 소수점 패턴",
-        "level": 2
-      },
-      {
-        "heading": "문자열 패턴 예시",
-        "level": 3
-      },
-      {
-        "heading": "소수점 패턴 예시",
-        "level": 3
-      },
-      {
-        "heading": "변수를 사용하는 경우",
-        "level": 2
-      },
-      {
-        "heading": "변수 사용 예시",
-        "level": 3
-      },
-      {
-        "heading": "와일드카드 변수",
-        "level": 3
-      },
-      {
-        "heading": "사용 예시",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python match",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
     "fileName": "Python list",
     "relativePath": "CODING/Python/Python list.md",
     "headings": [
@@ -3422,6 +3463,55 @@
     ]
   },
   {
+    "fileName": "Python match",
+    "relativePath": "CODING/Python/Python match.md",
+    "headings": [
+      {
+        "heading": "Python 3.10의 `match`-`case` 문",
+        "level": 1
+      },
+      {
+        "heading": "기본 사용법",
+        "level": 2
+      },
+      {
+        "heading": "문자열과 소수점 패턴",
+        "level": 2
+      },
+      {
+        "heading": "문자열 패턴 예시",
+        "level": 3
+      },
+      {
+        "heading": "소수점 패턴 예시",
+        "level": 3
+      },
+      {
+        "heading": "변수를 사용하는 경우",
+        "level": 2
+      },
+      {
+        "heading": "변수 사용 예시",
+        "level": 3
+      },
+      {
+        "heading": "와일드카드 변수",
+        "level": 3
+      },
+      {
+        "heading": "사용 예시",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python match",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "Python lambda",
     "relativePath": "CODING/Python/Python lambda.md",
     "links": [
@@ -3434,6 +3524,23 @@
       {
         "fileName": "Python DB",
         "link": "Python lambda",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python function",
+    "relativePath": "CODING/Python/Python function.md",
+    "headings": [
+      {
+        "heading": "교수님의 설명",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python function",
         "relativePath": "CODING/Python/Python DB.md"
       }
     ]
@@ -3463,72 +3570,6 @@
       {
         "fileName": "Python DB",
         "link": "Python is_alive",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python indexing",
-    "relativePath": "CODING/Python/Python indexing.md",
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python indexing",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python iloc vs loc",
-    "relativePath": "CODING/Python/Python iloc vs loc.md",
-    "links": [
-      {
-        "link": "numpy에서 copy를 사용하는 이유",
-        "relativePath": "CODING/Python/numpy에서 copy를 사용하는 이유.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python pandas",
-        "link": "Python iloc vs loc",
-        "relativePath": "CODING/Python/Python pandas.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python heapSort 만들다가 안 사실",
-    "relativePath": "CODING/Python/Python heapSort 만들다가 안 사실.md",
-    "headings": [
-      {
-        "heading": "append",
-        "level": 1
-      },
-      {
-        "heading": "코드 전문",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python heapSort 만들다가 안 사실",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python function",
-    "relativePath": "CODING/Python/Python function.md",
-    "headings": [
-      {
-        "heading": "교수님의 설명",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python function",
         "relativePath": "CODING/Python/Python DB.md"
       }
     ]
@@ -3577,6 +3618,55 @@
     ]
   },
   {
+    "fileName": "Python indexing",
+    "relativePath": "CODING/Python/Python indexing.md",
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python indexing",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python heapSort 만들다가 안 사실",
+    "relativePath": "CODING/Python/Python heapSort 만들다가 안 사실.md",
+    "headings": [
+      {
+        "heading": "append",
+        "level": 1
+      },
+      {
+        "heading": "코드 전문",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python heapSort 만들다가 안 사실",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python dictionary 실수",
+    "relativePath": "CODING/Python/Python dictionary 실수.md",
+    "headings": [
+      {
+        "heading": "이것도 set 넣은 거임",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python dictionary",
+        "link": "Python dictionary 실수",
+        "relativePath": "CODING/Python/Python dictionary.md"
+      }
+    ]
+  },
+  {
     "fileName": "Python dictionary와 list의 공통점",
     "relativePath": "CODING/Python/Python dictionary와 list의 공통점.md",
     "headings": [
@@ -3602,6 +3692,45 @@
         "relativePath": "CODING/Python/Python dictionary.md"
       }
     ]
+  },
+  {
+    "fileName": "Python dictionary 데이터 추가하기",
+    "relativePath": "CODING/Python/Python dictionary 데이터 추가하기.md",
+    "headings": [
+      {
+        "heading": "defaultdict",
+        "level": 1
+      },
+      {
+        "heading": "get함수 이용",
+        "level": 1
+      },
+      {
+        "heading": "index로 직접 추가하기",
+        "level": 1
+      },
+      {
+        "heading": "index로 직접 추가하기2",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "defaultdict 응용",
+        "relativePath": "CODING/Python/defaultdict 응용.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python dictionary",
+        "link": "Python dictionary 데이터 추가하기",
+        "relativePath": "CODING/Python/Python dictionary.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python dictionary key 추가하는 문제",
+    "relativePath": "CODING/Python/Python dictionary key 추가하는 문제.md"
   },
   {
     "fileName": "Python dictionary",
@@ -3668,62 +3797,6 @@
     ]
   },
   {
-    "fileName": "Python dictionary 실수",
-    "relativePath": "CODING/Python/Python dictionary 실수.md",
-    "headings": [
-      {
-        "heading": "이것도 set 넣은 거임",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python dictionary",
-        "link": "Python dictionary 실수",
-        "relativePath": "CODING/Python/Python dictionary.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python dictionary 데이터 추가하기",
-    "relativePath": "CODING/Python/Python dictionary 데이터 추가하기.md",
-    "headings": [
-      {
-        "heading": "defaultdict",
-        "level": 1
-      },
-      {
-        "heading": "get함수 이용",
-        "level": 1
-      },
-      {
-        "heading": "index로 직접 추가하기",
-        "level": 1
-      },
-      {
-        "heading": "index로 직접 추가하기2",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "defaultdict 응용",
-        "relativePath": "CODING/Python/defaultdict 응용.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python dictionary",
-        "link": "Python dictionary 데이터 추가하기",
-        "relativePath": "CODING/Python/Python dictionary.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python dictionary key 추가하는 문제",
-    "relativePath": "CODING/Python/Python dictionary key 추가하는 문제.md"
-  },
-  {
     "fileName": "Python dictionary indexing in if",
     "relativePath": "CODING/Python/Python dictionary indexing in if.md",
     "headings": [
@@ -3757,6 +3830,70 @@
         "fileName": "Python dictionary",
         "link": "Python dictionary indexing in if",
         "relativePath": "CODING/Python/Python dictionary.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python boolean",
+    "relativePath": "CODING/Python/Python boolean.md",
+    "headings": [
+      {
+        "heading": "if(A)",
+        "level": 2
+      },
+      {
+        "heading": "if(!A)",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python boolean",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python class",
+    "relativePath": "CODING/Python/Python class.md",
+    "headings": [
+      {
+        "heading": "class 변수를 사용하는 법은 2가지인가?",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Python repr, str 표현자",
+        "relativePath": "CODING/Python/Python repr, str 표현자.md"
+      },
+      {
+        "link": "Python에서 imagine number operation",
+        "relativePath": "CODING/Python/Python에서 imagine number operation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python class",
+        "relativePath": "CODING/Python/Python DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python Web",
+    "relativePath": "CODING/Python/Python Web.md",
+    "links": [
+      {
+        "link": "Sugang 신청 데이터 구조"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python DB",
+        "link": "Python Web",
+        "relativePath": "CODING/Python/Python DB.md"
       }
     ]
   },
@@ -3796,66 +3933,13 @@
     ]
   },
   {
-    "fileName": "Python class",
-    "relativePath": "CODING/Python/Python class.md",
-    "headings": [
-      {
-        "heading": "class 변수를 사용하는 법은 2가지인가?",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Python repr, str 표현자",
-        "relativePath": "CODING/Python/Python repr, str 표현자.md"
-      },
-      {
-        "link": "Python에서 imagine number operation",
-        "relativePath": "CODING/Python/Python에서 imagine number operation.md"
-      }
-    ],
+    "fileName": "Python **dic",
+    "relativePath": "CODING/Python/Python **dic.md",
     "backlinks": [
       {
-        "fileName": "Python DB",
-        "link": "Python class",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python boolean",
-    "relativePath": "CODING/Python/Python boolean.md",
-    "headings": [
-      {
-        "heading": "if(A)",
-        "level": 2
-      },
-      {
-        "heading": "if(!A)",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python boolean",
-        "relativePath": "CODING/Python/Python DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Python Web",
-    "relativePath": "CODING/Python/Python Web.md",
-    "links": [
-      {
-        "link": "Sugang 신청 데이터 구조"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Python DB",
-        "link": "Python Web",
-        "relativePath": "CODING/Python/Python DB.md"
+        "fileName": "Python dictionary",
+        "link": "Python **dic",
+        "relativePath": "CODING/Python/Python dictionary.md"
       }
     ]
   },
@@ -3993,6 +4077,27 @@
     ]
   },
   {
+    "fileName": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
+    "relativePath": "CODING/Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
+    "headings": [
+      {
+        "heading": "실수 1",
+        "level": 2
+      },
+      {
+        "heading": "실수 2",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
     "fileName": "Python 2 second wait",
     "relativePath": "CODING/Python/Python 2 second wait.md",
     "backlinks": [
@@ -4004,13 +4109,24 @@
     ]
   },
   {
-    "fileName": "Python **dic",
-    "relativePath": "CODING/Python/Python **dic.md",
+    "fileName": "Pointer로 값을 받으려면 동적할당 해야 함",
+    "relativePath": "CODING/Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
     "backlinks": [
       {
-        "fileName": "Python dictionary",
-        "link": "Python **dic",
-        "relativePath": "CODING/Python/Python dictionary.md"
+        "fileName": "Pointer 할당 및 해제",
+        "link": "Pointer로 값을 받으려면 동적할당 해야 함",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DataFrame type 변경하기",
+    "relativePath": "CODING/Python/DataFrame type 변경하기.md",
+    "backlinks": [
+      {
+        "fileName": "Python pandas",
+        "link": "DataFrame type 변경하기",
+        "relativePath": "CODING/Python/Python pandas.md"
       }
     ]
   },
@@ -4043,38 +4159,6 @@
     ]
   },
   {
-    "fileName": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
-    "relativePath": "CODING/Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md",
-    "headings": [
-      {
-        "heading": "실수 1",
-        "level": 2
-      },
-      {
-        "heading": "실수 2",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer로 값을 받으려면 동적할당 해야 함",
-    "relativePath": "CODING/Python/Pointer로 값을 받으려면 동적할당 해야 함.md",
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "Pointer로 값을 받으려면 동적할당 해야 함",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
     "fileName": "DataFrame 만드는 법",
     "relativePath": "CODING/Python/DataFrame 만드는 법.md",
     "headings": [
@@ -4095,17 +4179,6 @@
       {
         "fileName": "Python pandas",
         "link": "DataFrame 만드는 법",
-        "relativePath": "CODING/Python/Python pandas.md"
-      }
-    ]
-  },
-  {
-    "fileName": "DataFrame type 변경하기",
-    "relativePath": "CODING/Python/DataFrame type 변경하기.md",
-    "backlinks": [
-      {
-        "fileName": "Python pandas",
-        "link": "DataFrame type 변경하기",
         "relativePath": "CODING/Python/Python pandas.md"
       }
     ]
@@ -4132,16 +4205,16 @@
     "relativePath": "CODING/Python/??.md"
   },
   {
+    "fileName": "@Composable 함수",
+    "relativePath": "CODING/Kotlin/@Composable 함수.md"
+  },
+  {
     "fileName": "파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda",
     "relativePath": "CODING/Kotlin/파라미터로 함수를 바로 던지는 것이 아니라 뒤에 중괄호로 사용하는 lamda.md"
   },
   {
     "fileName": "수업 때 사용한 정규 표현식",
     "relativePath": "CODING/Kotlin/수업 때 사용한 정규 표현식.md"
-  },
-  {
-    "fileName": "navigate할 때 주의점",
-    "relativePath": "CODING/Kotlin/navigate할 때 주의점.md"
   },
   {
     "fileName": "equals ignoreCase option",
@@ -4154,16 +4227,16 @@
     ]
   },
   {
+    "fileName": "navigate할 때 주의점",
+    "relativePath": "CODING/Kotlin/navigate할 때 주의점.md"
+  },
+  {
     "fileName": "coroutine으로 비동기 실행",
     "relativePath": "CODING/Kotlin/coroutine으로 비동기 실행.md"
   },
   {
     "fileName": "collectAsState",
     "relativePath": "CODING/Kotlin/collectAsState.md"
-  },
-  {
-    "fileName": "@Composable 함수",
-    "relativePath": "CODING/Kotlin/@Composable 함수.md"
   },
   {
     "fileName": "향상된 for 문",
@@ -4177,35 +4250,8 @@
     ]
   },
   {
-    "fileName": "아니 이걸 틀린다고?? 이걸?!?!",
-    "relativePath": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
-    "headings": [
-      {
-        "heading": "오버라이딩 (Overriding)",
-        "level": 3
-      },
-      {
-        "heading": "오버로딩 (Overloading)",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "아니 이걸 틀린다고?? 이걸?!?!",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
-    "relativePath": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
-    "headings": [
-      {
-        "heading": "Code",
-        "level": 1
-      }
-    ]
+    "fileName": "this를 상속해서 사용하는 법",
+    "relativePath": "CODING/Java/this를 상속해서 사용하는 법.md"
   },
   {
     "fileName": "overloading vs overriding",
@@ -4243,6 +4289,48 @@
     ]
   },
   {
+    "fileName": "로컬 변수를 로컬 클래스에서 사용할 때 Final Value",
+    "relativePath": "CODING/Java/틀린 거../로컬 변수를 로컬 클래스에서 사용할 때 Final Value.md",
+    "headings": [
+      {
+        "heading": "Code",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "아니 이걸 틀린다고?? 이걸?!?!",
+    "relativePath": "CODING/Java/틀린 거../아니 이걸 틀린다고?? 이걸?!?!.md",
+    "headings": [
+      {
+        "heading": "오버라이딩 (Overriding)",
+        "level": 3
+      },
+      {
+        "heading": "오버로딩 (Overloading)",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "아니 이걸 틀린다고?? 이걸?!?!",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "람다식에서 중괄호가 없으면 return 없어야 함!",
+    "relativePath": "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
+    "backlinks": [
+      {
+        "fileName": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
+        "link": "람다식에서 중괄호가 없으면 return 없어야 함!",
+        "relativePath": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
+      }
+    ]
+  },
+  {
     "fileName": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
     "relativePath": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md",
     "headings": [
@@ -4275,6 +4363,14 @@
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "thread 이름을 설정하는 법",
+    "relativePath": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
+  },
+  {
+    "fileName": "wait notify Example",
+    "relativePath": "CODING/Java/신기한 거/wait notify Example.md"
   },
   {
     "fileName": "익명 객체와 함수형 인터페이스 사용",
@@ -4351,25 +4447,6 @@
     ]
   },
   {
-    "fileName": "람다식에서 중괄호가 없으면 return 없어야 함!",
-    "relativePath": "CODING/Java/신기한 거/람다식에서 중괄호가 없으면 return 없어야 함!.md",
-    "backlinks": [
-      {
-        "fileName": "함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우",
-        "link": "람다식에서 중괄호가 없으면 return 없어야 함!",
-        "relativePath": "CODING/Java/신기한 거/함수형 인터페이스에서 람다식을 사용하는데, 생성자를 참조하는 경우.md"
-      }
-    ]
-  },
-  {
-    "fileName": "람다식",
-    "relativePath": "CODING/Java/신기한 거/람다식.md"
-  },
-  {
-    "fileName": "wait notify Example",
-    "relativePath": "CODING/Java/신기한 거/wait notify Example.md"
-  },
-  {
     "fileName": "toString으로 사용자 친화적",
     "relativePath": "CODING/Java/신기한 거/toString으로 사용자 친화적.md",
     "headings": [
@@ -4388,12 +4465,16 @@
     ]
   },
   {
-    "fileName": "thread 이름을 설정하는 법",
-    "relativePath": "CODING/Java/신기한 거/thread 이름을 설정하는 법.md"
+    "fileName": "람다식",
+    "relativePath": "CODING/Java/신기한 거/람다식.md"
   },
   {
     "fileName": "thread 병렬 확인하기",
     "relativePath": "CODING/Java/신기한 거/thread 병렬 확인하기.md"
+  },
+  {
+    "fileName": "java에서 thread가 runnable하다는 것",
+    "relativePath": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
   },
   {
     "fileName": "singleton의 의미",
@@ -4402,10 +4483,6 @@
   {
     "fileName": "local variable to local class는 final",
     "relativePath": "CODING/Java/신기한 거/local variable to local class는 final.md"
-  },
-  {
-    "fileName": "java에서 thread가 runnable하다는 것",
-    "relativePath": "CODING/Java/신기한 거/java에서 thread가 runnable하다는 것.md"
   },
   {
     "fileName": "generic type 사용법",
@@ -4462,6 +4539,10 @@
     ]
   },
   {
+    "fileName": "Daemon Thread",
+    "relativePath": "CODING/Java/신기한 거/Daemon Thread.md"
+  },
+  {
     "fileName": "Int와 Integer가 둘다 있다",
     "relativePath": "CODING/Java/신기한 거/Int와 Integer가 둘다 있다.md",
     "headings": [
@@ -4482,10 +4563,6 @@
         "level": 2
       }
     ]
-  },
-  {
-    "fileName": "Daemon Thread",
-    "relativePath": "CODING/Java/신기한 거/Daemon Thread.md"
   },
   {
     "fileName": "독특한 함수 사용법",
@@ -4510,16 +4587,33 @@
     ]
   },
   {
-    "fileName": "this를 상속해서 사용하는 법",
-    "relativePath": "CODING/Java/this를 상속해서 사용하는 법.md"
-  },
-  {
     "fileName": "this를 상속해서 사용하는 법, overrroading에서 가능함",
     "relativePath": "CODING/Java/this를 상속해서 사용하는 법, overrroading에서 가능함.md",
     "backlinks": [
       {
         "fileName": "Java DB",
         "link": "this를 상속해서 사용하는 법, overrroading에서 가능함",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "static의 의미",
+    "relativePath": "CODING/Java/static의 의미.md",
+    "headings": [
+      {
+        "heading": "ClassExample.java",
+        "level": 2
+      },
+      {
+        "heading": "Calculator.java",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "static의 의미",
         "relativePath": "CODING/Java/Java DB.md"
       }
     ]
@@ -4547,23 +4641,24 @@
     ]
   },
   {
-    "fileName": "static의 의미",
-    "relativePath": "CODING/Java/static의 의미.md",
+    "fileName": "import static",
+    "relativePath": "CODING/Java/import static.md",
     "headings": [
       {
-        "heading": "ClassExample.java",
-        "level": 2
+        "heading": "예시 코드",
+        "level": 3
       },
       {
-        "heading": "Calculator.java",
-        "level": 2
-      }
-    ],
-    "backlinks": [
+        "heading": "`static import`의 장점",
+        "level": 3
+      },
       {
-        "fileName": "Java DB",
-        "link": "static의 의미",
-        "relativePath": "CODING/Java/Java DB.md"
+        "heading": "주의점",
+        "level": 3
+      },
+      {
+        "heading": "주로 사용되는 상황",
+        "level": 3
       }
     ]
   },
@@ -4584,6 +4679,23 @@
     ]
   },
   {
+    "fileName": "java String[] args meanings",
+    "relativePath": "CODING/Java/java String[] args meanings.md",
+    "links": [
+      {
+        "link": "String[] args VS String args[]의 차이점",
+        "relativePath": "CODING/Java/String[] args VS String args[]의 차이점.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "java String[] args meanings",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "refactoring EX",
     "relativePath": "CODING/Java/refactoring EX.md",
     "links": [
@@ -4596,17 +4708,6 @@
       {
         "fileName": "Java DB",
         "link": "refactoring EX",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "public static void main(String[] args)",
-    "relativePath": "CODING/Java/public static void main(String[] args).md",
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "public static void main(String[] args)",
         "relativePath": "CODING/Java/Java DB.md"
       }
     ]
@@ -4641,6 +4742,17 @@
     ]
   },
   {
+    "fileName": "public static void main(String[] args)",
+    "relativePath": "CODING/Java/public static void main(String[] args).md",
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "public static void main(String[] args)",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "java에서 main 함수 내에서는 함수 정의가 되지 않는다.",
     "relativePath": "CODING/Java/java에서 main 함수 내에서는 함수 정의가 되지 않는다..md",
     "backlinks": [
@@ -4658,119 +4770,6 @@
       {
         "fileName": "Java DB",
         "link": "java에서 String을 비교할 때는 equals를 사용해야 함. 객체이기 때문에!",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "java 스럽다",
-    "relativePath": "CODING/Java/java 스럽다.md",
-    "links": [
-      {
-        "link": "가변길이 매개변수",
-        "relativePath": "CODING/Java/가변길이 매개변수.md"
-      },
-      {
-        "link": "향상된 for 문",
-        "relativePath": "CODING/Java/향상된 for 문.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "java 스럽다",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "java String[] args meanings",
-    "relativePath": "CODING/Java/java String[] args meanings.md",
-    "links": [
-      {
-        "link": "String[] args VS String args[]의 차이점",
-        "relativePath": "CODING/Java/String[] args VS String args[]의 차이점.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "java String[] args meanings",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "interface나 inheritance",
-    "relativePath": "CODING/Java/interface나 inheritance.md",
-    "headings": [
-      {
-        "heading": "1 rc에 다른 변수를 넣을 수 있음",
-        "level": 1
-      },
-      {
-        "heading": "2 public Control(RemoteControl rc)",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "interface나 inheritance",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "import static",
-    "relativePath": "CODING/Java/import static.md",
-    "headings": [
-      {
-        "heading": "예시 코드",
-        "level": 3
-      },
-      {
-        "heading": "`static import`의 장점",
-        "level": 3
-      },
-      {
-        "heading": "주의점",
-        "level": 3
-      },
-      {
-        "heading": "주로 사용되는 상황",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "difference of  System.out & System.err",
-    "relativePath": "CODING/Java/difference of  System.out & System.err.md",
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "difference of  System.out & System.err",
-        "relativePath": "CODING/Java/Java DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "buffer 지우기",
-    "relativePath": "CODING/Java/buffer 지우기.md",
-    "headings": [
-      {
-        "heading": "When using `Scanner.nextLine()`",
-        "level": 3
-      },
-      {
-        "heading": "When using `Scanner.next()`, `Scanner.nextInt()`, etc.",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Java DB",
-        "link": "buffer 지우기",
         "relativePath": "CODING/Java/Java DB.md"
       }
     ]
@@ -4809,6 +4808,101 @@
         "fileName": "refactoring EX",
         "link": "account example",
         "relativePath": "CODING/Java/refactoring EX.md"
+      }
+    ]
+  },
+  {
+    "fileName": "java 스럽다",
+    "relativePath": "CODING/Java/java 스럽다.md",
+    "links": [
+      {
+        "link": "가변길이 매개변수",
+        "relativePath": "CODING/Java/가변길이 매개변수.md"
+      },
+      {
+        "link": "향상된 for 문",
+        "relativePath": "CODING/Java/향상된 for 문.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "java 스럽다",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "interface나 inheritance",
+    "relativePath": "CODING/Java/interface나 inheritance.md",
+    "headings": [
+      {
+        "heading": "1 rc에 다른 변수를 넣을 수 있음",
+        "level": 1
+      },
+      {
+        "heading": "2 public Control(RemoteControl rc)",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "interface나 inheritance",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "difference of  System.out & System.err",
+    "relativePath": "CODING/Java/difference of  System.out & System.err.md",
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "difference of  System.out & System.err",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "buffer 지우기",
+    "relativePath": "CODING/Java/buffer 지우기.md",
+    "headings": [
+      {
+        "heading": "When using `Scanner.nextLine()`",
+        "level": 3
+      },
+      {
+        "heading": "When using `Scanner.next()`, `Scanner.nextInt()`, etc.",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "buffer 지우기",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Array에서 Hello World 출력하는 방법",
+    "relativePath": "CODING/Java/Array에서 Hello World 출력하는 방법.md",
+    "headings": [
+      {
+        "heading": "1번 방법",
+        "level": 2
+      },
+      {
+        "heading": "2번 방법",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Array",
+        "link": "Array에서 Hello World 출력하는 방법",
+        "relativePath": "CODING/Java/Array.md"
       }
     ]
   },
@@ -4883,6 +4977,48 @@
         "fileName": "MySQL DB",
         "link": "String",
         "relativePath": "CODING/mySQL/MySQL DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "' & \" in java",
+    "relativePath": "CODING/Java/' & \" in java.md",
+    "headings": [
+      {
+        "heading": "Single Quotes (`'`)",
+        "level": 3
+      },
+      {
+        "heading": "Double Quotes (`\"`)",
+        "level": 3
+      },
+      {
+        "heading": "Summary",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "' & \" in java",
+        "relativePath": "CODING/Java/Java DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Array",
+    "relativePath": "CODING/Java/Array.md",
+    "links": [
+      {
+        "link": "Array에서 Hello World 출력하는 방법",
+        "relativePath": "CODING/Java/Array에서 Hello World 출력하는 방법.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Java DB",
+        "link": "Array",
+        "relativePath": "CODING/Java/Java DB.md"
       }
     ]
   },
@@ -4991,65 +5127,935 @@
     ]
   },
   {
-    "fileName": "Array에서 Hello World 출력하는 방법",
-    "relativePath": "CODING/Java/Array에서 Hello World 출력하는 방법.md",
+    "fileName": "AutoWired",
+    "relativePath": "CODING/Spring/AutoWired.md"
+  },
+  {
+    "fileName": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
+    "relativePath": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
     "headings": [
       {
-        "heading": "1번 방법",
+        "heading": "2차원 배열 만들고 출력하기",
         "level": 2
       },
       {
-        "heading": "2번 방법",
+        "heading": "3차원 배열 만들고 출력하기",
         "level": 2
       }
     ],
     "backlinks": [
       {
-        "fileName": "Array",
-        "link": "Array에서 Hello World 출력하는 방법",
-        "relativePath": "CODING/Java/Array.md"
+        "fileName": "2024-1 자료구조에서 배운 포인터",
+        "link": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
+        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
       }
     ]
   },
   {
-    "fileName": "Array",
-    "relativePath": "CODING/Java/Array.md",
+    "fileName": "증감연산자를 이용한 사악한 문제",
+    "relativePath": "CODING/C/증감연산자를 이용한 사악한 문제.md",
+    "headings": [
+      {
+        "heading": "문제 1:",
+        "level": 3
+      },
+      {
+        "heading": "문제 2:",
+        "level": 3
+      },
+      {
+        "heading": "11 12 틀림",
+        "level": 2
+      },
+      {
+        "heading": "5++ + 6, 12 7",
+        "level": 2
+      },
+      {
+        "heading": "문제 3:",
+        "level": 3
+      },
+      {
+        "heading": "문제 4:",
+        "level": 3
+      },
+      {
+        "heading": "10-- - 9 + 9++ + 10 -> 20 10",
+        "level": 2
+      },
+      {
+        "heading": "10-- - 9 + 10++ + 10  / 21 10",
+        "level": 2
+      },
+      {
+        "heading": "문제 5:",
+        "level": 3
+      },
+      {
+        "heading": "1 + 1++ + 2 + 2-- 6",
+        "level": 2
+      },
+      {
+        "heading": "1 + 1++ + 2 + 2--",
+        "level": 2
+      },
+      {
+        "heading": "문제 1:",
+        "level": 3
+      },
+      {
+        "heading": "문제 2:",
+        "level": 3
+      },
+      {
+        "heading": "7",
+        "level": 2
+      },
+      {
+        "heading": "문제 3:",
+        "level": 3
+      },
+      {
+        "heading": "문제 4:",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "증감연산자를 이용한 사악한 문제",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "최대공약수 구하는 알고리즘",
+    "relativePath": "CODING/C/최대공약수 구하는 알고리즘.md",
+    "headings": [
+      {
+        "heading": "여기서 왜 x를 쓰지?",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "최대공약수 구하는 알고리즘",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "전역변수 지역변수 정리",
+    "relativePath": "CODING/C/전역변수 지역변수 정리.md"
+  },
+  {
+    "fileName": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
+    "relativePath": "CODING/C/살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다..md",
+    "backlinks": [
+      {
+        "fileName": "srand(time(NULL))을 사용하려면?",
+        "link": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
+        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
+      }
+    ]
+  },
+  {
+    "fileName": "배열을 pointer의 주소를 이용해서 표현하는 방법",
+    "relativePath": "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md",
+    "headings": [
+      {
+        "heading": "데이터 구조",
+        "level": 2
+      },
+      {
+        "heading": "사용법",
+        "level": 2
+      },
+      {
+        "heading": "전체 코드",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "배열을 pointer의 주소를 이용해서 표현하는 방법",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "void main()",
+    "relativePath": "CODING/C/void main().md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "void main()",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "string.h",
+    "relativePath": "CODING/C/string.h.md",
     "links": [
       {
-        "link": "Array에서 Hello World 출력하는 방법",
-        "relativePath": "CODING/Java/Array에서 Hello World 출력하는 방법.md"
+        "link": "strcpy",
+        "relativePath": "CODING/C/strcpy.md"
+      },
+      {
+        "link": "tolower",
+        "relativePath": "CODING/C/tolower.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Java DB",
-        "link": "Array",
-        "relativePath": "CODING/Java/Java DB.md"
+        "fileName": "Pointer 할당 및 해제",
+        "link": "string.h",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
       }
     ]
   },
   {
-    "fileName": "' & \" in java",
-    "relativePath": "CODING/Java/' & \" in java.md",
+    "fileName": "tolower",
+    "relativePath": "CODING/C/tolower.md",
+    "backlinks": [
+      {
+        "fileName": "string.h",
+        "link": "tolower",
+        "relativePath": "CODING/C/string.h.md"
+      }
+    ]
+  },
+  {
+    "fileName": "strcpy",
+    "relativePath": "CODING/C/strcpy.md",
+    "backlinks": [
+      {
+        "fileName": "string.h",
+        "link": "strcpy",
+        "relativePath": "CODING/C/string.h.md"
+      }
+    ]
+  },
+  {
+    "fileName": "goto문",
+    "relativePath": "CODING/C/goto문.md"
+  },
+  {
+    "fileName": "goto",
+    "relativePath": "CODING/C/goto.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "goto",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "srand(time(NULL))을 사용하려면?",
+    "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md",
+    "links": [
+      {
+        "link": "rand()함수 사용하기",
+        "relativePath": "CODING/C/rand()함수 사용하기.md"
+      },
+      {
+        "link": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
+        "relativePath": "CODING/C/살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다..md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "srand(time(NULL))을 사용하려면?",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "srand",
+    "relativePath": "CODING/C/srand.md"
+  },
+  {
+    "fileName": "rows and cols",
+    "relativePath": "CODING/C/rows and cols.md",
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "rows and cols",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "rand()함수 사용하기",
+    "relativePath": "CODING/C/rand()함수 사용하기.md",
     "headings": [
       {
-        "heading": "Single Quotes (`'`)",
-        "level": 3
+        "heading": "예시",
+        "level": 2
       },
       {
-        "heading": "Double Quotes (`\"`)",
-        "level": 3
-      },
-      {
-        "heading": "Summary",
+        "heading": "srand(time(NULL))을 해야 하는 이유",
         "level": 3
       }
     ],
     "backlinks": [
       {
-        "fileName": "Java DB",
-        "link": "' & \" in java",
-        "relativePath": "CODING/Java/Java DB.md"
+        "fileName": "srand(time(NULL))을 사용하려면?",
+        "link": "rand()함수 사용하기",
+        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
+      }
+    ]
+  },
+  {
+    "fileName": "연결리스트에서 이중포인터를 사용해야 하는 이유",
+    "relativePath": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
+    "headings": [
+      {
+        "heading": "1. 함수 내에서 head의 값을 변경하기 위해서",
+        "level": 2
+      },
+      {
+        "heading": "2. 연결리스트가 비어있는 경우를 처리하기 위해서",
+        "level": 2
+      },
+      {
+        "heading": "예시",
+        "level": 2
+      },
+      {
+        "heading": "단일포인터로 head를 다루면 안 되는 이유",
+        "level": 2
+      },
+      {
+        "heading": "아래와 같이 사용함",
+        "level": 3
+      },
+      {
+        "heading": "** 포인터",
+        "level": 3
+      },
+      {
+        "heading": "완성 코드",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "이중포인터",
+    "relativePath": "CODING/C/pointer/이중포인터.md",
+    "headings": [
+      {
+        "heading": "아래와 같이 사용함",
+        "level": 3
+      },
+      {
+        "heading": "** 포인터",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
+    "relativePath": "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md",
+    "headings": [
+      {
+        "heading": "문제, 1.23을 입력했을 때 오류 없이 정상적으로 출력되도록 printf를 수정하여라",
+        "level": 1
+      },
+      {
+        "heading": "틀린 답안",
+        "level": 2
+      },
+      {
+        "heading": "정답",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2024-1 자료구조에서 배운 포인터",
+        "link": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
+        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
+      }
+    ]
+  },
+  {
+    "fileName": "(void * )sum의 의미",
+    "relativePath": "CODING/C/pointer/(void * )sum의 의미.md",
+    "backlinks": [
+      {
+        "fileName": "2024-1 자료구조에서 배운 포인터",
+        "link": "(void * )sum의 의미",
+        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2024-1 자료구조에서 배운 포인터",
+    "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
+    "headings": [
+      {
+        "heading": "이번 학기에 아래의 글을 다시 또 읽어보게 되었다..",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
+        "relativePath": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
+      },
+      {
+        "link": "(void * )sum의 의미",
+        "relativePath": "CODING/C/pointer/(void * )sum의 의미.md"
+      },
+      {
+        "link": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
+        "relativePath": "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md"
+      },
+      {
+        "link": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
+        "relativePath": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
+      },
+      {
+        "link": "Pointer에서 주소를 전달한다는 것의 의미",
+        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "2024-1 자료구조에서 배운 포인터",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "(void*) 포인터 형인 것을 알려주기 위함",
+    "relativePath": "CODING/C/pointer/(void*) 포인터 형인 것을 알려주기 위함.md",
+    "headings": [
+      {
+        "heading": "`(void *)`란?",
+        "level": 3
+      },
+      {
+        "heading": "사용 사례",
+        "level": 3
+      },
+      {
+        "heading": "주의점",
+        "level": 3
+      },
+      {
+        "heading": "결론",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "(void*) 포인터 형인 것을 알려주기 위함",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "printf",
+    "relativePath": "CODING/C/printf.md",
+    "links": [
+      {
+        "link": "%를 입력하기",
+        "relativePath": "CODING/C/%를 입력하기.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "printf",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "man command",
+    "relativePath": "CODING/C/man command.md",
+    "headings": [
+      {
+        "heading": "macOS 에서는 man gcc 가 아니라 man clang 임.",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "man command",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "int array의 length 구하기",
+    "relativePath": "CODING/C/int array의 length 구하기.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "int array의 length 구하기",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
+    "relativePath": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
+    "headings": [
+      {
+        "heading": "`int (* ptr)[5] vs int * ptr[5]의 차이`",
+        "level": 1
+      },
+      {
+        "heading": "int (* ptr)[5]",
+        "level": 1
+      },
+      {
+        "heading": "int * ptr[5]",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2024-1 자료구조에서 배운 포인터",
+        "link": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
+        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
+      }
+    ]
+  },
+  {
+    "fileName": "gcc option",
+    "relativePath": "CODING/C/gcc option.md",
+    "backlinks": [
+      {
+        "fileName": "gcc & g++",
+        "link": "gcc option",
+        "relativePath": "CODING/C/gcc & g++.md"
+      }
+    ]
+  },
+  {
+    "fileName": "gcc & g++",
+    "relativePath": "CODING/C/gcc & g++.md",
+    "headings": [
+      {
+        "heading": "mkdir touch로 파일 생성하기",
+        "level": 1
+      },
+      {
+        "heading": "mkdir",
+        "level": 2
+      },
+      {
+        "heading": "touch",
+        "level": 2
+      },
+      {
+        "heading": "1️⃣ gcc && g++",
+        "level": 1
+      },
+      {
+        "heading": "1️⃣-1️⃣ gcc랑 g++로 compile만 하기",
+        "level": 2
+      },
+      {
+        "heading": "1️⃣-2️⃣ gcc랑 g++로 원하는 이름으로 compile하기",
+        "level": 2
+      },
+      {
+        "heading": "1️⃣-3️⃣ warning을 잡으면서 compile하는 방법",
+        "level": 2
+      },
+      {
+        "heading": "참고 1️⃣-4️⃣ gcc -o -c option 같이 사용하기",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "gcc option",
+        "relativePath": "CODING/C/gcc option.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "gcc & g++",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "for을 사용하다가 나온 실수",
+    "relativePath": "CODING/C/for을 사용하다가 나온 실수.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "for을 사용하다가 나온 실수",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "argv (null) MallocNanoZone = 0 설명",
+    "relativePath": "CODING/C/argv (null) MallocNanoZone = 0 설명.md",
+    "backlinks": [
+      {
+        "fileName": "argc argv",
+        "link": "argv (null) MallocNanoZone = 0 설명",
+        "relativePath": "CODING/C/argc argv.md"
+      }
+    ]
+  },
+  {
+    "fileName": "calloc use",
+    "relativePath": "CODING/C/calloc use.md",
+    "headings": [
+      {
+        "heading": "Understanding `calloc` in C",
+        "level": 1
+      },
+      {
+        "heading": "Overview",
+        "level": 2
+      },
+      {
+        "heading": "Details",
+        "level": 2
+      },
+      {
+        "heading": "`(int*)calloc(5, sizeof(int))`",
+        "level": 3
+      },
+      {
+        "heading": "`(int*)calloc(10, sizeof(int))`",
+        "level": 3
+      },
+      {
+        "heading": "Key Points",
+        "level": 2
+      },
+      {
+        "heading": "Example Code",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "calloc use",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "argc argv",
+    "relativePath": "CODING/C/argc argv.md",
+    "links": [
+      {
+        "link": "argv (null) MallocNanoZone = 0 설명",
+        "relativePath": "CODING/C/argv (null) MallocNanoZone = 0 설명.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pointer를 사용한 퀴즈",
+    "relativePath": "CODING/C/Pointer를 사용한 퀴즈.md",
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "Pointer를 사용한 퀴즈",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pointer 주소를 저장하는 2가지 방법",
+    "relativePath": "CODING/C/Pointer 주소를 저장하는 2가지 방법.md",
+    "headings": [
+      {
+        "heading": "1",
+        "level": 1
+      },
+      {
+        "heading": "2",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "Pointer 주소를 저장하는 2가지 방법",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pointer 사용 예제",
+    "relativePath": "CODING/C/Pointer 사용 예제.md",
+    "backlinks": [
+      {
+        "fileName": "Pointer에서 주소를 전달한다는 것의 의미",
+        "link": "Pointer 사용 예제",
+        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pointer 할당 및 해제",
+    "relativePath": "CODING/C/Pointer 할당 및 해제.md",
+    "headings": [
+      {
+        "heading": "할당 및 해제하는 법",
+        "level": 1
+      },
+      {
+        "heading": "Q malloc에서 `(int**)` `(int*)`을 쓰는 이유?",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Pointer 주소를 저장하는 2가지 방법",
+        "relativePath": "CODING/C/Pointer 주소를 저장하는 2가지 방법.md"
+      },
+      {
+        "link": "rows and cols",
+        "relativePath": "CODING/C/rows and cols.md"
+      },
+      {
+        "link": "Pointer 주소 비교",
+        "relativePath": "CODING/C/Pointer 주소 비교.md"
+      },
+      {
+        "link": "(void*) 포인터 형인 것을 알려주기 위함",
+        "relativePath": "CODING/C/pointer/(void*) 포인터 형인 것을 알려주기 위함.md"
+      },
+      {
+        "link": "Pointer로 값을 받으려면 동적할당 해야 함",
+        "relativePath": "CODING/Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
+      },
+      {
+        "link": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
+        "relativePath": "CODING/Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md"
+      },
+      {
+        "link": "배열을 pointer의 주소를 이용해서 표현하는 방법",
+        "relativePath": "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md"
+      },
+      {
+        "link": "calloc use",
+        "relativePath": "CODING/C/calloc use.md"
+      },
+      {
+        "link": "Pointer에서 주소를 전달한다는 것의 의미",
+        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
+      },
+      {
+        "link": "string.h",
+        "relativePath": "CODING/C/string.h.md"
+      },
+      {
+        "link": "Pointer를 사용한 퀴즈",
+        "relativePath": "CODING/C/Pointer를 사용한 퀴즈.md"
+      },
+      {
+        "link": "2024-1 자료구조에서 배운 포인터",
+        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "Pointer 할당 및 해제",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "INT_MAX",
+    "relativePath": "CODING/C/INT_MAX.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "INT_MAX",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "C DB",
+    "relativePath": "CODING/C/C DB.md",
+    "links": [
+      {
+        "link": "INT_MAX",
+        "relativePath": "CODING/C/INT_MAX.md"
+      },
+      {
+        "link": "void main()",
+        "relativePath": "CODING/C/void main().md"
+      },
+      {
+        "link": "Pointer 할당 및 해제",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      },
+      {
+        "link": "LITTLE ENDIAN",
+        "relativePath": "CODING/C/LITTLE ENDIAN.md"
+      },
+      {
+        "link": "gcc & g++",
+        "relativePath": "CODING/C/gcc & g++.md"
+      },
+      {
+        "link": "man command",
+        "relativePath": "CODING/C/man command.md"
+      },
+      {
+        "link": "2의 보수법",
+        "relativePath": "CODING/C/2의 보수법.md"
+      },
+      {
+        "link": "int array의 length 구하기",
+        "relativePath": "CODING/C/int array의 length 구하기.md"
+      },
+      {
+        "link": "최대공약수 구하는 알고리즘",
+        "relativePath": "CODING/C/최대공약수 구하는 알고리즘.md"
+      },
+      {
+        "link": "for을 사용하다가 나온 실수",
+        "relativePath": "CODING/C/for을 사용하다가 나온 실수.md"
+      },
+      {
+        "link": "srand(time(NULL))을 사용하려면?",
+        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
+      },
+      {
+        "link": "printf",
+        "relativePath": "CODING/C/printf.md"
+      },
+      {
+        "link": "print_array 함수 const를 쓰는 습관 가지기",
+        "relativePath": "CODING/Python/print_array 함수 const를 쓰는 습관 가지기.md"
+      },
+      {
+        "link": "goto",
+        "relativePath": "CODING/C/goto.md"
+      },
+      {
+        "link": "증감연산자를 이용한 사악한 문제",
+        "relativePath": "CODING/C/증감연산자를 이용한 사악한 문제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pointer 주소 비교",
+    "relativePath": "CODING/C/Pointer 주소 비교.md",
+    "backlinks": [
+      {
+        "fileName": "Pointer 할당 및 해제",
+        "link": "Pointer 주소 비교",
+        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
+      }
+    ]
+  },
+  {
+    "fileName": "LITTLE ENDIAN",
+    "relativePath": "CODING/C/LITTLE ENDIAN.md",
+    "headings": [
+      {
+        "heading": "pointer의 형변환",
+        "level": 2
+      },
+      {
+        "heading": "배열을 포인터로 사용해 함수로 보내기",
+        "level": 2
+      },
+      {
+        "heading": "char str[]",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "LITTLE ENDIAN",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "%를 입력하기",
+    "relativePath": "CODING/C/%를 입력하기.md",
+    "backlinks": [
+      {
+        "fileName": "printf",
+        "link": "%를 입력하기",
+        "relativePath": "CODING/C/printf.md"
+      }
+    ]
+  },
+  {
+    "fileName": "C switch",
+    "relativePath": "CODING/C/C switch.md",
+    "headings": [
+      {
+        "heading": "기본 사용법",
+        "level": 2
+      },
+      {
+        "heading": "정수형 예시",
+        "level": 2
+      },
+      {
+        "heading": "문자 예시",
+        "level": 2
+      },
+      {
+        "heading": "문자열을 사용한 if-else 예시",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "불가능한 예시들",
+        "relativePath": "CODING/불가능한 예시들.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2의 보수법",
+    "relativePath": "CODING/C/2의 보수법.md",
+    "backlinks": [
+      {
+        "fileName": "C DB",
+        "link": "2의 보수법",
+        "relativePath": "CODING/C/C DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "NULL",
+    "relativePath": "CODING/Flutter/NULL.md"
+  },
+  {
+    "fileName": "List<Map<String, dynamic>>> data 1",
+    "relativePath": "CODING/Flutter/List<Map<String, dynamic>>> data 1.md",
+    "headings": [
+      {
+        "heading": "형식",
+        "level": 2
       }
     ]
   },
@@ -5118,20 +6124,6 @@
     ]
   },
   {
-    "fileName": "NULL",
-    "relativePath": "CODING/Flutter/NULL.md"
-  },
-  {
-    "fileName": "List<Map<String, dynamic>>> data 1",
-    "relativePath": "CODING/Flutter/List<Map<String, dynamic>>> data 1.md",
-    "headings": [
-      {
-        "heading": "형식",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Flutter 출력하는 법",
     "relativePath": "CODING/Flutter/Flutter 출력하는 법.md",
     "links": [
@@ -5160,13 +6152,29 @@
     ]
   },
   {
-    "fileName": "Flutter 시작",
-    "relativePath": "CODING/Flutter/Flutter 시작.md",
+    "fileName": "Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법",
+    "relativePath": "CODING/Flutter/Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법.md",
+    "headings": [
+      {
+        "heading": "setState를 사용한다.",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Flutter state",
+        "relativePath": "CODING/Flutter/Flutter state.md"
+      },
+      {
+        "link": "Flutter async",
+        "relativePath": "CODING/Flutter/Flutter async.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Flutter DB",
-        "link": "Flutter 시작",
-        "relativePath": "CODING/Flutter/Flutter DB.md"
+        "fileName": "Flutter 기본 정리",
+        "link": "Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법",
+        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
       }
     ]
   },
@@ -5182,6 +6190,60 @@
     ]
   },
   {
+    "fileName": "Flutter 시작",
+    "relativePath": "CODING/Flutter/Flutter 시작.md",
+    "backlinks": [
+      {
+        "fileName": "Flutter DB",
+        "link": "Flutter 시작",
+        "relativePath": "CODING/Flutter/Flutter DB.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Flutter Inheritance",
+    "relativePath": "CODING/Flutter/Flutter Inheritance.md",
+    "headings": [
+      {
+        "heading": "1. 기본 생성자",
+        "level": 3
+      },
+      {
+        "heading": "2. Named Constructor",
+        "level": 3
+      },
+      {
+        "heading": "3. 기본값 포함 생성자",
+        "level": 3
+      },
+      {
+        "heading": "4. Factory Constructor",
+        "level": 3
+      },
+      {
+        "heading": "동적인 UI 만드는 법",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Flutter provider",
+        "relativePath": "CODING/Flutter/Flutter provider.md"
+      },
+      {
+        "link": "부모의 상속 함수와 자식의 상속 함수",
+        "relativePath": "CODING/Flutter/부모의 상속 함수와 자식의 상속 함수.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Flutter DB",
+        "link": "Flutter Inheritance",
+        "relativePath": "CODING/Flutter/Flutter DB.md"
+      }
+    ]
+  },
+  {
     "fileName": "Flutter 부모 자식 모두 async를 사용할 수 있다?",
     "relativePath": "CODING/Flutter/Flutter 부모 자식 모두 async를 사용할 수 있다?.md",
     "backlinks": [
@@ -5189,6 +6251,17 @@
         "fileName": "Flutter async",
         "link": "Flutter 부모 자식 모두 async를 사용할 수 있다?",
         "relativePath": "CODING/Flutter/Flutter async.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Flutter try and catch",
+    "relativePath": "CODING/Flutter/Flutter try and catch.md",
+    "backlinks": [
+      {
+        "fileName": "Flutter DB",
+        "link": "Flutter try and catch",
+        "relativePath": "CODING/Flutter/Flutter DB.md"
       }
     ]
   },
@@ -5293,17 +6366,6 @@
     ]
   },
   {
-    "fileName": "Flutter try and catch",
-    "relativePath": "CODING/Flutter/Flutter try and catch.md",
-    "backlinks": [
-      {
-        "fileName": "Flutter DB",
-        "link": "Flutter try and catch",
-        "relativePath": "CODING/Flutter/Flutter DB.md"
-      }
-    ]
-  },
-  {
     "fileName": "Flutter state",
     "relativePath": "CODING/Flutter/Flutter state.md",
     "headings": [
@@ -5336,14 +6398,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Flutter 기본 정리",
-        "link": "Flutter state",
-        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
-      },
-      {
         "fileName": "Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법",
         "link": "Flutter state",
         "relativePath": "CODING/Flutter/Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법.md"
+      },
+      {
+        "fileName": "Flutter 기본 정리",
+        "link": "Flutter state",
+        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
       },
       {
         "fileName": "Flutter ? 정리",
@@ -5524,17 +6586,6 @@
     ]
   },
   {
-    "fileName": "Flutter Providers",
-    "relativePath": "CODING/Flutter/Flutter Providers.md",
-    "backlinks": [
-      {
-        "fileName": "Flutter provider",
-        "link": "Flutter Providers",
-        "relativePath": "CODING/Flutter/Flutter provider.md"
-      }
-    ]
-  },
-  {
     "fileName": "Flutter Navigator",
     "relativePath": "CODING/Flutter/Flutter Navigator.md",
     "headings": [
@@ -5552,72 +6603,13 @@
     ]
   },
   {
-    "fileName": "Flutter Inheritance",
-    "relativePath": "CODING/Flutter/Flutter Inheritance.md",
-    "headings": [
+    "fileName": "Flutter Providers",
+    "relativePath": "CODING/Flutter/Flutter Providers.md",
+    "backlinks": [
       {
-        "heading": "1. 기본 생성자",
-        "level": 3
-      },
-      {
-        "heading": "2. Named Constructor",
-        "level": 3
-      },
-      {
-        "heading": "3. 기본값 포함 생성자",
-        "level": 3
-      },
-      {
-        "heading": "4. Factory Constructor",
-        "level": 3
-      },
-      {
-        "heading": "동적인 UI 만드는 법",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Flutter provider",
+        "fileName": "Flutter provider",
+        "link": "Flutter Providers",
         "relativePath": "CODING/Flutter/Flutter provider.md"
-      },
-      {
-        "link": "부모의 상속 함수와 자식의 상속 함수",
-        "relativePath": "CODING/Flutter/부모의 상속 함수와 자식의 상속 함수.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Flutter DB",
-        "link": "Flutter Inheritance",
-        "relativePath": "CODING/Flutter/Flutter DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법",
-    "relativePath": "CODING/Flutter/Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법.md",
-    "headings": [
-      {
-        "heading": "setState를 사용한다.",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Flutter state",
-        "relativePath": "CODING/Flutter/Flutter state.md"
-      },
-      {
-        "link": "Flutter async",
-        "relativePath": "CODING/Flutter/Flutter async.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Flutter 기본 정리",
-        "link": "Flutter Future state에서 Loading에서 넘어가지 않는 것을 해결하는 방법",
-        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
       }
     ]
   },
@@ -5715,6 +6707,27 @@
     ]
   },
   {
+    "fileName": "Flutter @override",
+    "relativePath": "CODING/Flutter/Flutter @override.md",
+    "headings": [
+      {
+        "heading": "주요 특징 및 사용법:",
+        "level": 3
+      },
+      {
+        "heading": "요약:",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Flutter 기본 정리",
+        "link": "Flutter @override",
+        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
+      }
+    ]
+  },
+  {
     "fileName": "Flutter Align",
     "relativePath": "CODING/Flutter/Flutter Align.md",
     "headings": [
@@ -5733,27 +6746,6 @@
       {
         "fileName": "Flutter 기본 정리",
         "link": "Flutter Align",
-        "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Flutter @override",
-    "relativePath": "CODING/Flutter/Flutter @override.md",
-    "headings": [
-      {
-        "heading": "주요 특징 및 사용법:",
-        "level": 3
-      },
-      {
-        "heading": "요약:",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Flutter 기본 정리",
-        "link": "Flutter @override",
         "relativePath": "CODING/Flutter/Flutter 기본 정리.md"
       }
     ]
@@ -5804,999 +6796,7 @@
     "relativePath": "CODING/Flutter/App Tester.md"
   },
   {
-    "fileName": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
-    "relativePath": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md",
-    "headings": [
-      {
-        "heading": "2차원 배열 만들고 출력하기",
-        "level": 2
-      },
-      {
-        "heading": "3차원 배열 만들고 출력하기",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2024-1 자료구조에서 배운 포인터",
-        "link": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
-        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-      }
-    ]
-  },
-  {
-    "fileName": "최대공약수 구하는 알고리즘",
-    "relativePath": "CODING/C/최대공약수 구하는 알고리즘.md",
-    "headings": [
-      {
-        "heading": "여기서 왜 x를 쓰지?",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "최대공약수 구하는 알고리즘",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "증감연산자를 이용한 사악한 문제",
-    "relativePath": "CODING/C/증감연산자를 이용한 사악한 문제.md",
-    "headings": [
-      {
-        "heading": "문제 1:",
-        "level": 3
-      },
-      {
-        "heading": "문제 2:",
-        "level": 3
-      },
-      {
-        "heading": "11 12 틀림",
-        "level": 2
-      },
-      {
-        "heading": "5++ + 6, 12 7",
-        "level": 2
-      },
-      {
-        "heading": "문제 3:",
-        "level": 3
-      },
-      {
-        "heading": "문제 4:",
-        "level": 3
-      },
-      {
-        "heading": "10-- - 9 + 9++ + 10 -> 20 10",
-        "level": 2
-      },
-      {
-        "heading": "10-- - 9 + 10++ + 10  / 21 10",
-        "level": 2
-      },
-      {
-        "heading": "문제 5:",
-        "level": 3
-      },
-      {
-        "heading": "1 + 1++ + 2 + 2-- 6",
-        "level": 2
-      },
-      {
-        "heading": "1 + 1++ + 2 + 2--",
-        "level": 2
-      },
-      {
-        "heading": "문제 1:",
-        "level": 3
-      },
-      {
-        "heading": "문제 2:",
-        "level": 3
-      },
-      {
-        "heading": "7",
-        "level": 2
-      },
-      {
-        "heading": "문제 3:",
-        "level": 3
-      },
-      {
-        "heading": "문제 4:",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "증감연산자를 이용한 사악한 문제",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "전역변수 지역변수 정리",
-    "relativePath": "CODING/C/전역변수 지역변수 정리.md"
-  },
-  {
-    "fileName": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
-    "relativePath": "CODING/C/살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다..md",
-    "backlinks": [
-      {
-        "fileName": "srand(time(NULL))을 사용하려면?",
-        "link": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
-        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
-      }
-    ]
-  },
-  {
-    "fileName": "배열을 pointer의 주소를 이용해서 표현하는 방법",
-    "relativePath": "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md",
-    "headings": [
-      {
-        "heading": "데이터 구조",
-        "level": 2
-      },
-      {
-        "heading": "사용법",
-        "level": 2
-      },
-      {
-        "heading": "전체 코드",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "배열을 pointer의 주소를 이용해서 표현하는 방법",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "void main()",
-    "relativePath": "CODING/C/void main().md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "void main()",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "tolower",
-    "relativePath": "CODING/C/tolower.md",
-    "backlinks": [
-      {
-        "fileName": "string.h",
-        "link": "tolower",
-        "relativePath": "CODING/C/string.h.md"
-      }
-    ]
-  },
-  {
-    "fileName": "string.h",
-    "relativePath": "CODING/C/string.h.md",
-    "links": [
-      {
-        "link": "strcpy",
-        "relativePath": "CODING/C/strcpy.md"
-      },
-      {
-        "link": "tolower",
-        "relativePath": "CODING/C/tolower.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "string.h",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "strcpy",
-    "relativePath": "CODING/C/strcpy.md",
-    "backlinks": [
-      {
-        "fileName": "string.h",
-        "link": "strcpy",
-        "relativePath": "CODING/C/string.h.md"
-      }
-    ]
-  },
-  {
-    "fileName": "srand",
-    "relativePath": "CODING/C/srand.md"
-  },
-  {
-    "fileName": "srand(time(NULL))을 사용하려면?",
-    "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md",
-    "links": [
-      {
-        "link": "rand()함수 사용하기",
-        "relativePath": "CODING/C/rand()함수 사용하기.md"
-      },
-      {
-        "link": "살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다.",
-        "relativePath": "CODING/C/살펴보다가 알게 된 것 - swift에서는 srand를 쓰지 않는다..md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "srand(time(NULL))을 사용하려면?",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "rows and cols",
-    "relativePath": "CODING/C/rows and cols.md",
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "rows and cols",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "rand()함수 사용하기",
-    "relativePath": "CODING/C/rand()함수 사용하기.md",
-    "headings": [
-      {
-        "heading": "예시",
-        "level": 2
-      },
-      {
-        "heading": "srand(time(NULL))을 해야 하는 이유",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "srand(time(NULL))을 사용하려면?",
-        "link": "rand()함수 사용하기",
-        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
-      }
-    ]
-  },
-  {
-    "fileName": "printf",
-    "relativePath": "CODING/C/printf.md",
-    "links": [
-      {
-        "link": "%를 입력하기",
-        "relativePath": "CODING/C/%를 입력하기.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "printf",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "이중포인터",
-    "relativePath": "CODING/C/pointer/이중포인터.md",
-    "headings": [
-      {
-        "heading": "아래와 같이 사용함",
-        "level": 3
-      },
-      {
-        "heading": "** 포인터",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "연결리스트에서 이중포인터를 사용해야 하는 이유",
-    "relativePath": "CODING/C/pointer/연결리스트에서 이중포인터를 사용해야 하는 이유.md",
-    "headings": [
-      {
-        "heading": "1. 함수 내에서 head의 값을 변경하기 위해서",
-        "level": 2
-      },
-      {
-        "heading": "2. 연결리스트가 비어있는 경우를 처리하기 위해서",
-        "level": 2
-      },
-      {
-        "heading": "예시",
-        "level": 2
-      },
-      {
-        "heading": "단일포인터로 head를 다루면 안 되는 이유",
-        "level": 2
-      },
-      {
-        "heading": "아래와 같이 사용함",
-        "level": 3
-      },
-      {
-        "heading": "** 포인터",
-        "level": 3
-      },
-      {
-        "heading": "완성 코드",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "2024-1 자료구조에서 배운 포인터",
-    "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md",
-    "headings": [
-      {
-        "heading": "이번 학기에 아래의 글을 다시 또 읽어보게 되었다..",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-        "relativePath": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md"
-      },
-      {
-        "link": "(void * )sum의 의미",
-        "relativePath": "CODING/C/pointer/(void * )sum의 의미.md"
-      },
-      {
-        "link": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
-        "relativePath": "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md"
-      },
-      {
-        "link": "포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유",
-        "relativePath": "CODING/C/포인터를 사용할 때 배열처럼 사용하는 게 좋은 이유.md"
-      },
-      {
-        "link": "Pointer에서 주소를 전달한다는 것의 의미",
-        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "2024-1 자료구조에서 배운 포인터",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
-    "relativePath": "CODING/C/pointer/*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가..md",
-    "headings": [
-      {
-        "heading": "문제, 1.23을 입력했을 때 오류 없이 정상적으로 출력되도록 printf를 수정하여라",
-        "level": 1
-      },
-      {
-        "heading": "틀린 답안",
-        "level": 2
-      },
-      {
-        "heading": "정답",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2024-1 자료구조에서 배운 포인터",
-        "link": "*(int*)과 *(float*)을 사용해서 어떻게 값을 바꿀 수 있는가.",
-        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-      }
-    ]
-  },
-  {
-    "fileName": "(void*) 포인터 형인 것을 알려주기 위함",
-    "relativePath": "CODING/C/pointer/(void*) 포인터 형인 것을 알려주기 위함.md",
-    "headings": [
-      {
-        "heading": "`(void *)`란?",
-        "level": 3
-      },
-      {
-        "heading": "사용 사례",
-        "level": 3
-      },
-      {
-        "heading": "주의점",
-        "level": 3
-      },
-      {
-        "heading": "결론",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "(void*) 포인터 형인 것을 알려주기 위함",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "(void * )sum의 의미",
-    "relativePath": "CODING/C/pointer/(void * )sum의 의미.md",
-    "backlinks": [
-      {
-        "fileName": "2024-1 자료구조에서 배운 포인터",
-        "link": "(void * )sum의 의미",
-        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-      }
-    ]
-  },
-  {
-    "fileName": "man command",
-    "relativePath": "CODING/C/man command.md",
-    "headings": [
-      {
-        "heading": "macOS 에서는 man gcc 가 아니라 man clang 임.",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "man command",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "int array의 length 구하기",
-    "relativePath": "CODING/C/int array의 length 구하기.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "int array의 length 구하기",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-    "relativePath": "CODING/C/int (* ptr) vs int * ptr 각각의 포인터 배열의 차이.md",
-    "headings": [
-      {
-        "heading": "`int (* ptr)[5] vs int * ptr[5]의 차이`",
-        "level": 1
-      },
-      {
-        "heading": "int (* ptr)[5]",
-        "level": 1
-      },
-      {
-        "heading": "int * ptr[5]",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2024-1 자료구조에서 배운 포인터",
-        "link": "int (* ptr) vs int * ptr 각각의 포인터 배열의 차이",
-        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-      }
-    ]
-  },
-  {
-    "fileName": "goto문",
-    "relativePath": "CODING/C/goto문.md"
-  },
-  {
-    "fileName": "goto",
-    "relativePath": "CODING/C/goto.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "goto",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "gcc option",
-    "relativePath": "CODING/C/gcc option.md",
-    "backlinks": [
-      {
-        "fileName": "gcc & g++",
-        "link": "gcc option",
-        "relativePath": "CODING/C/gcc & g++.md"
-      }
-    ]
-  },
-  {
-    "fileName": "gcc & g++",
-    "relativePath": "CODING/C/gcc & g++.md",
-    "headings": [
-      {
-        "heading": "mkdir touch로 파일 생성하기",
-        "level": 1
-      },
-      {
-        "heading": "mkdir",
-        "level": 2
-      },
-      {
-        "heading": "touch",
-        "level": 2
-      },
-      {
-        "heading": "1️⃣ gcc && g++",
-        "level": 1
-      },
-      {
-        "heading": "1️⃣-1️⃣ gcc랑 g++로 compile만 하기",
-        "level": 2
-      },
-      {
-        "heading": "1️⃣-2️⃣ gcc랑 g++로 원하는 이름으로 compile하기",
-        "level": 2
-      },
-      {
-        "heading": "1️⃣-3️⃣ warning을 잡으면서 compile하는 방법",
-        "level": 2
-      },
-      {
-        "heading": "참고 1️⃣-4️⃣ gcc -o -c option 같이 사용하기",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "gcc option",
-        "relativePath": "CODING/C/gcc option.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "gcc & g++",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "for을 사용하다가 나온 실수",
-    "relativePath": "CODING/C/for을 사용하다가 나온 실수.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "for을 사용하다가 나온 실수",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "calloc use",
-    "relativePath": "CODING/C/calloc use.md",
-    "headings": [
-      {
-        "heading": "Understanding `calloc` in C",
-        "level": 1
-      },
-      {
-        "heading": "Overview",
-        "level": 2
-      },
-      {
-        "heading": "Details",
-        "level": 2
-      },
-      {
-        "heading": "`(int*)calloc(5, sizeof(int))`",
-        "level": 3
-      },
-      {
-        "heading": "`(int*)calloc(10, sizeof(int))`",
-        "level": 3
-      },
-      {
-        "heading": "Key Points",
-        "level": 2
-      },
-      {
-        "heading": "Example Code",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "calloc use",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "argv (null) MallocNanoZone = 0 설명",
-    "relativePath": "CODING/C/argv (null) MallocNanoZone = 0 설명.md",
-    "backlinks": [
-      {
-        "fileName": "argc argv",
-        "link": "argv (null) MallocNanoZone = 0 설명",
-        "relativePath": "CODING/C/argc argv.md"
-      }
-    ]
-  },
-  {
-    "fileName": "argc argv",
-    "relativePath": "CODING/C/argc argv.md",
-    "links": [
-      {
-        "link": "argv (null) MallocNanoZone = 0 설명",
-        "relativePath": "CODING/C/argv (null) MallocNanoZone = 0 설명.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer를 사용한 퀴즈",
-    "relativePath": "CODING/C/Pointer를 사용한 퀴즈.md",
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "Pointer를 사용한 퀴즈",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer 할당 및 해제",
-    "relativePath": "CODING/C/Pointer 할당 및 해제.md",
-    "headings": [
-      {
-        "heading": "할당 및 해제하는 법",
-        "level": 1
-      },
-      {
-        "heading": "Q malloc에서 `(int**)` `(int*)`을 쓰는 이유?",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Pointer 주소를 저장하는 2가지 방법",
-        "relativePath": "CODING/C/Pointer 주소를 저장하는 2가지 방법.md"
-      },
-      {
-        "link": "rows and cols",
-        "relativePath": "CODING/C/rows and cols.md"
-      },
-      {
-        "link": "Pointer 주소 비교",
-        "relativePath": "CODING/C/Pointer 주소 비교.md"
-      },
-      {
-        "link": "(void*) 포인터 형인 것을 알려주기 위함",
-        "relativePath": "CODING/C/pointer/(void*) 포인터 형인 것을 알려주기 위함.md"
-      },
-      {
-        "link": "Pointer로 값을 받으려면 동적할당 해야 함",
-        "relativePath": "CODING/Python/Pointer로 값을 받으려면 동적할당 해야 함.md"
-      },
-      {
-        "link": "Pointer로 배열을 보낼 때는 size를 따로 보내야 한다.",
-        "relativePath": "CODING/Python/Pointer로 배열을 보낼 때는 size를 따로 보내야 한다..md"
-      },
-      {
-        "link": "배열을 pointer의 주소를 이용해서 표현하는 방법",
-        "relativePath": "CODING/C/배열을 pointer의 주소를 이용해서 표현하는 방법.md"
-      },
-      {
-        "link": "calloc use",
-        "relativePath": "CODING/C/calloc use.md"
-      },
-      {
-        "link": "Pointer에서 주소를 전달한다는 것의 의미",
-        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
-      },
-      {
-        "link": "string.h",
-        "relativePath": "CODING/C/string.h.md"
-      },
-      {
-        "link": "Pointer를 사용한 퀴즈",
-        "relativePath": "CODING/C/Pointer를 사용한 퀴즈.md"
-      },
-      {
-        "link": "2024-1 자료구조에서 배운 포인터",
-        "relativePath": "CODING/C/pointer/2024-1 자료구조에서 배운 포인터.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "Pointer 할당 및 해제",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer 주소를 저장하는 2가지 방법",
-    "relativePath": "CODING/C/Pointer 주소를 저장하는 2가지 방법.md",
-    "headings": [
-      {
-        "heading": "1",
-        "level": 1
-      },
-      {
-        "heading": "2",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "Pointer 주소를 저장하는 2가지 방법",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer 주소 비교",
-    "relativePath": "CODING/C/Pointer 주소 비교.md",
-    "backlinks": [
-      {
-        "fileName": "Pointer 할당 및 해제",
-        "link": "Pointer 주소 비교",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pointer 사용 예제",
-    "relativePath": "CODING/C/Pointer 사용 예제.md",
-    "backlinks": [
-      {
-        "fileName": "Pointer에서 주소를 전달한다는 것의 의미",
-        "link": "Pointer 사용 예제",
-        "relativePath": "CODING/Python/Pointer에서 주소를 전달한다는 것의 의미.md"
-      }
-    ]
-  },
-  {
-    "fileName": "LITTLE ENDIAN",
-    "relativePath": "CODING/C/LITTLE ENDIAN.md",
-    "headings": [
-      {
-        "heading": "pointer의 형변환",
-        "level": 2
-      },
-      {
-        "heading": "배열을 포인터로 사용해 함수로 보내기",
-        "level": 2
-      },
-      {
-        "heading": "char str[]",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "LITTLE ENDIAN",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "INT_MAX",
-    "relativePath": "CODING/C/INT_MAX.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "INT_MAX",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "C switch",
-    "relativePath": "CODING/C/C switch.md",
-    "headings": [
-      {
-        "heading": "기본 사용법",
-        "level": 2
-      },
-      {
-        "heading": "정수형 예시",
-        "level": 2
-      },
-      {
-        "heading": "문자 예시",
-        "level": 2
-      },
-      {
-        "heading": "문자열을 사용한 if-else 예시",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "불가능한 예시들",
-        "relativePath": "CODING/불가능한 예시들.md"
-      }
-    ]
-  },
-  {
-    "fileName": "C DB",
-    "relativePath": "CODING/C/C DB.md",
-    "links": [
-      {
-        "link": "INT_MAX",
-        "relativePath": "CODING/C/INT_MAX.md"
-      },
-      {
-        "link": "void main()",
-        "relativePath": "CODING/C/void main().md"
-      },
-      {
-        "link": "Pointer 할당 및 해제",
-        "relativePath": "CODING/C/Pointer 할당 및 해제.md"
-      },
-      {
-        "link": "LITTLE ENDIAN",
-        "relativePath": "CODING/C/LITTLE ENDIAN.md"
-      },
-      {
-        "link": "gcc & g++",
-        "relativePath": "CODING/C/gcc & g++.md"
-      },
-      {
-        "link": "man command",
-        "relativePath": "CODING/C/man command.md"
-      },
-      {
-        "link": "2의 보수법",
-        "relativePath": "CODING/C/2의 보수법.md"
-      },
-      {
-        "link": "int array의 length 구하기",
-        "relativePath": "CODING/C/int array의 length 구하기.md"
-      },
-      {
-        "link": "최대공약수 구하는 알고리즘",
-        "relativePath": "CODING/C/최대공약수 구하는 알고리즘.md"
-      },
-      {
-        "link": "for을 사용하다가 나온 실수",
-        "relativePath": "CODING/C/for을 사용하다가 나온 실수.md"
-      },
-      {
-        "link": "srand(time(NULL))을 사용하려면?",
-        "relativePath": "CODING/C/srand(time(NULL))을 사용하려면?.md"
-      },
-      {
-        "link": "printf",
-        "relativePath": "CODING/C/printf.md"
-      },
-      {
-        "link": "print_array 함수 const를 쓰는 습관 가지기",
-        "relativePath": "CODING/Python/print_array 함수 const를 쓰는 습관 가지기.md"
-      },
-      {
-        "link": "goto",
-        "relativePath": "CODING/C/goto.md"
-      },
-      {
-        "link": "증감연산자를 이용한 사악한 문제",
-        "relativePath": "CODING/C/증감연산자를 이용한 사악한 문제.md"
-      }
-    ]
-  },
-  {
-    "fileName": "2의 보수법",
-    "relativePath": "CODING/C/2의 보수법.md",
-    "backlinks": [
-      {
-        "fileName": "C DB",
-        "link": "2의 보수법",
-        "relativePath": "CODING/C/C DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "%를 입력하기",
-    "relativePath": "CODING/C/%를 입력하기.md",
-    "backlinks": [
-      {
-        "fileName": "printf",
-        "link": "%를 입력하기",
-        "relativePath": "CODING/C/printf.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Binding으로 받은 값 바로 초기화 하는 법",
-    "relativePath": "Binding으로 받은 값 바로 초기화 하는 법.md",
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "Binding으로 받은 값 바로 초기화 하는 법",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
-  },
-  {
     "fileName": "Android Studio & Intellj console font problem",
     "relativePath": "Android Studio & Intellj console font problem.md"
-  },
-  {
-    "fileName": "ALTER TABLE column 수정하기",
-    "relativePath": "ALTER TABLE column 수정하기.md",
-    "headings": [
-      {
-        "heading": "DROP",
-        "level": 1
-      },
-      {
-        "heading": "Renaming Tables",
-        "level": 1
-      },
-      {
-        "heading": "Renaming Columns",
-        "level": 1
-      },
-      {
-        "heading": "Modify Column",
-        "level": 1
-      },
-      {
-        "heading": "ALTER TABLE에서 constraint 사용하기",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "MySQL DB",
-        "link": "ALTER TABLE column 수정하기",
-        "relativePath": "CODING/mySQL/MySQL DB.md"
-      }
-    ]
-  },
-  {
-    "fileName": "@Previewable을 사용하는 이유",
-    "relativePath": "@Previewable을 사용하는 이유.md",
-    "headings": [
-      {
-        "heading": "@Previewable을 사용하는 이유",
-        "level": 1
-      },
-      {
-        "heading": "예시",
-        "level": 2
-      },
-      {
-        "heading": "1. 카운터 앱에서의 사용",
-        "level": 3
-      },
-      {
-        "heading": "2. 폼 입력에서의 사용",
-        "level": 3
-      },
-      {
-        "heading": "3. 할 일 목록 앱에서의 사용",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swift DB",
-        "link": "@Previewable을 사용하는 이유",
-        "relativePath": "Swift/Swift DB.md"
-      }
-    ]
   }
 ]

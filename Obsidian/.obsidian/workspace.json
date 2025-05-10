@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "4153939cbce3bfe4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
             "id": "9a9a4e7df4e3d2c9",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4153939cbce3bfe4",
+  "active": "078572d8e0a8d7cd",
   "lastOpenFiles": [
     "State가 있고 없고의 차이.md",
     "Swift/Swift DB.md",
